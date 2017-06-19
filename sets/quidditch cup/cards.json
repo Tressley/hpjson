@@ -699,6 +699,290 @@
 			"health": "3",
 			"cardRarity": "Common",
 			"cardArtist": "Doug Chaffee"
+		},
+		{
+			"cardNo": "57",
+			"cardName": "Cunning Fox",
+			"lessonType": "Care of Magical Creatures",
+			"powerCost": "5",
+			"cardType": "Creature",
+			"subType": "Fox",
+			"dmgEachTurn": "3",
+			"health": "1",
+			"cardRarity": "Common",
+			"cardArtist": "Doug Chaffee"
+		},
+		{
+			"cardNo": "58",
+			"cardName": "Desk Into Pig",
+			"lessonType": "Transfiguration",
+			"powerCost": "1",
+			"cardType": "Spell",
+			"cardText": "To play this card, discard 1 of your Lessons from play. Search your deck. You may take up to 3 Creature cards from your deck, show them to your opponent and put them into your hand. Then shuffle your deck.",
+			"flavorText": "'Then she changed her desk into a pig and back again.'",
+			"cardRarity": "Common",
+			"cardArtist": "Melissa Ferreira"
+		},
+		{
+			"cardNo": "59",
+			"cardName": "Drowsiness Draught",
+			"lessonType": "Potions",
+			"powerCost": "8",
+			"cardType": "Spell",
+			"cardText": "Do 3 damage to your opponent. During your opponent's next turn, he or she can't use Actions to play Lesson cards.",
+			"cardRarity": "Common",
+			"cardArtist": "Greg Hildebrandt"
+		},
+		{
+			"cardNo": "60",
+			"cardName": "Fouled!",
+			"lessonType": "Quidditch",
+			"powerCost": "4",
+			"cardType": "Spell",
+			"cardText": "Do 4 damage to your opponent. During your opponent's next turn, he or she gets 1 fewer Action. (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)",
+			"flavorText": "''WHAM!' A roar of rage echoed from the Gryffindors below - Marcus Flint had blocked Harry on purpose and Harry's broom span off course, Harry holding on for dear life.'",
+			"cardRarity": "Common",
+			"cardArtist": "James Bernardin"
+		},
+		{
+			"cardNo": "61",
+			"cardName": "Gone!",
+			"lessonType": "Charms",
+			"powerCost": "1",
+			"cardType": "Spell",
+			"cardText": "Look at your opponent's hand. If there are any Creature cards there, choose 1 of them and discard it.",
+			"cardRarity": "Common",
+			"cardArtist": "Kevin Dobler"
+		},
+		{
+			"cardNo": "62",
+			"cardName": "Mice to Snuffboxes",
+			"lessonType": "Transfiguration",
+			"powerCost": "1",
+			"cardType": "Spell",
+			"cardText": "Choose up to 2 Creatures in play and return them to their owners' hands.",
+			"cardRarity": "Common",
+			"cardArtist": "Monte Michael Moore"
+		},
+		{
+			"cardNo": "63",
+			"cardName": "Mopsus Potion",
+			"lessonType": "Potions",
+			"powerCost": "8",
+			"cardType": "Spell",
+			"cardText": "Do 3 damage to yout opponent or to a Creature of your choice.",
+			"cardRarity": "Common",
+			"cardArtist": "Greg Hildebrandt"
+		},
+		{
+			"cardNo": "64",
+			"cardName": "Ouch!",
+			"lessonType": "Quidditch",
+			"powerCost": "5",
+			"cardType": "Spell",
+			"cardText": "Do 5 damage to your opponent. Then, if your opponent has any cards in his or her hand, he or she chooses 1 of them and discards it.",
+			"cardRarity": "Common",
+			"cardArtist": "Patrick Faricy"
+		},
+		{
+			"cardNo": "65",
+			"cardName": "Practice Match",
+			"lessonType": "Quidditch",
+			"powerCost": "1",
+			"cardType": "Match",
+			"cardText": {
+				"toWin": "Do 5 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
+				"prize": "The winner may draw 4 cards."
+			},
+			"cardRarity": "Common",
+			"cardArtist": "Chris Seaman"
+		},
+		{
+			"cardNo": "66",
+			"cardName": "Pulling Up",
+			"lessonType": "Quidditch",
+			"powerCost": "4",
+			"cardType": "Spell",
+			"cardText": "Do 2 damage to your opponent. Then draw 2 cards.",
+			"cardRarity": "Common",
+			"cardArtist": "James Bernardin"
+		},
+		{
+			"cardNo": "67",
+			"cardName": "Research",
+			"lessonType": "Transfiguration",
+			"powerCost": "5",
+			"cardType": "Spell",
+			"cardText": "To play this card, discard 1 of your Lessons from play. Search your deck. You may put up to 2 Lesson cards from your deck into play. Then shuffle your deck.",
+			"flavorText": "'And then, of course, there was the sheer size of the library; tens of thousands of books, thousands of shelves, hundreds of narrow rows.'",
+			"cardRarity": "Common",
+			"cardArtist": "Mark Romanoski"
+		},
+		{
+			"cardNo": "68",
+			"cardName": "Rope Bind",
+			"lessonType": "Charms",
+			"powerCost": "3",
+			"cardType": "Spell",
+			"cardText": "Do 2 damage to your opponent or to a Creature of your choice. Then draw a card.",
+			"cardRarity": "Common",
+			"cardArtist": [
+				"Kevin McCann",
+				"Michael Collins"
+			]
+		},
+		{
+			"cardNo": "69",
+			"cardName": "Searching for the Snitch",
+			"lessonType": "Quidditch",
+			"powerCost": "2",
+			"cardType": "Spell",
+			"cardText": "Search your deck. You may take a Quidditch Lesson or a card that needs Quidditch Power from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"flavorText": "'Way up above them, Harry was gliding over the game, squinting about for some sign of the Snitch.'",
+			"cardRarity": "Common",
+			"cardArtist": "James Bernardin"
+		},
+		{
+			"cardNo": "70",
+			"cardName": "Smash!",
+			"lessonType": "Quidditch",
+			"powerCost": "2",
+			"cardType": "Spell",
+			"cardText": "Choose 1 of your opponent's Items in play and discard it.",
+			"cardRarity": "Common",
+			"cardArtist": "Patrick Faricy"
+		},
+		{
+			"cardNo": "71",
+			"cardName": "Stream of Flames",
+			"lessonType": "Charms",
+			"powerCost": "5",
+			"cardType": "Spell",
+			"cardText": "Do 3 damage to your opponent. You may also choose a Creature in play and do 3 damage to it.",
+			"cardRarity": "Common",
+			"cardArtist": [
+				"Ken Steacy",
+				"Zina Saunders"
+			]
+		},
+		{
+			"cardNo": "72",
+			"cardName": "Streeler",
+			"lessonType": "Care of Magical Creatures",
+			"powerCost": "4",
+			"cardType": "Creature",
+			"subType": "Snail",
+			"cardText": "When you play this card, you may choose another Creature in play. Do 1 damage to it.",
+			"dmgEachTurn": "1",
+			"health": "2",
+			"cardRarity": "Common",
+			"cardArtist": "Jeff Laubenstein"
+		},
+		{
+			"cardNo": "73",
+			"cardName": "Swarm!",
+			"lessonType": "Care of Magical Creatures",
+			"powerCost": "5",
+			"cardType": "Spell",
+			"cardText": "Count the number or Creatures in play (yours and your opponent's). Do that much damage to your opponent.",
+			"cardRarity": "Common",
+			"cardArtist": "Monte Michael Moore"
+		},
+		{
+			"cardNo": "74",
+			"cardName": "Time Out",
+			"lessonType": "Quidditch",
+			"powerCost": "1",
+			"cardType": "Spell",
+			"cardText": "Look at the top 6 cards of your deck and put them back on top in any order. (If there are fewer than 6, look at all of them.)",
+			"flavorText": "'Shut up, you two,' said Wood. 'This is the best team Gryffindor's had in years. We're going to win. I know it.'",
+			"cardRarity": "Common",
+			"cardArtist": "Michael Koelsch"
+		},
+		{
+			"cardNo": "75",
+			"cardName": "Vanish",
+			"lessonType": "Quidditch",
+			"powerCost": "7",
+			"cardType": "Spell",
+			"cardText": "Choose 1 of your opponent's Creatures or Characters in play (other than his or her starting Character) and put it on the bottom of his or her deck.",
+			"cardRarity": "Common",
+			"cardArtist": "Monte Michael Moore"
+		},
+		{
+			"cardNo": "76",
+			"cardName": "Care of Magical Creatures",
+			"lessonType": "Care of Magical Creatures",
+			"cardType": "Lesson",
+			"provides": [
+				"1",
+				"Care of Magical Creatures"
+			],
+			"cardRarity": "Common",
+			"cardArtist": [
+				"Shanth Enjeti",
+				"Melissa Ferreira"
+			]
+		},
+		{
+			"cardNo": "77",
+			"cardName": "Charms",
+			"lessonType": "Charms",
+			"cardType": "Lesson",
+			"provides": [
+				"1",
+				"Charms"
+			],
+			"cardRarity": "Common",
+			"cardArtist": [
+				"Shanth Enjeti",
+				"Melissa Ferreira"
+			]
+		},
+		{
+			"cardNo": "78",
+			"cardName": "Potions",
+			"lessonType": "Potions",
+			"cardType": "Lesson",
+			"provides": [
+				"1",
+				"Potions"
+			],
+			"cardRarity": "Common",
+			"cardArtist": [
+				"Shanth Enjeti",
+				"Melissa Ferreira"
+			]
+		},
+		{
+			"cardNo": "79",
+			"cardName": "Quidditch",
+			"lessonType": "Quidditch",
+			"cardType": "Lesson",
+			"provides": [
+				"1",
+				"Quidditch"
+			],
+			"cardRarity": "Common",
+			"cardArtist": [
+				"Shanth Enjeti",
+				"Melissa Ferreira"
+			]
+		},
+		{
+			"cardNo": "80",
+			"cardName": "Transfiguration",
+			"lessonType": "Transfiguration",
+			"cardType": "Lesson",
+			"provides": [
+				"1",
+				"Transfiguration"
+			],
+			"cardRarity": "Common",
+			"cardArtist": [
+				"Shanth Enjeti",
+				"Melissa Ferreira"
+			]
 		}
 	]
 }
