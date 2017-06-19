@@ -275,7 +275,7 @@
 				"Transfiguration"
 			],
 			"cardRarity": "Holo Portrait Premium",
-			"cardArtist": "Scott M. Fischer",
+			"cardArtist": "Scott M. Fischer"
 		},
 		{
 			"cardNo": "22",
@@ -430,5 +430,275 @@
 			"cardRarity": "Uncommon",
 			"cardArtist": "Michael Koelsch"
 		},
+		{
+			"cardNo": "34",
+			"cardName": "Devil's Snare",
+			"lessonType": "Care of Magical Creatures",
+			"powerCost": "4",
+			"cardType": "Creature",
+			"subType": "Plant",
+			"cardText": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. At the end of each of your turns, remove all damage counters from Devil's Snare.",
+			"dmgEachTurn": "2",
+			"health": "6",
+			"flavorText": "'As for Harry and Ron, their legs had already been bound tightly in long creepers without their noticing.'",
+			"cardRarity": "Uncommon"
+		},
+		{
+			"cardNo": "35",
+			"cardName": "Diffindo",
+			"lessonType": "Transfiguration",
+			"powerCost": "8",
+			"cardType": "Spell",
+			"cardText": "Choose 1 of your opponent's cards in play (other than his or her starting Character). Your opponent discards that card.",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Tim Hildebrandt"
+		},
+		{
+			"cardNo": "36",
+			"cardName": "Doxy",
+			"lessonType": "Care of Magical Creatures",
+			"powerCost": "6",
+			"cardType": "Creature",
+			"subType": "Fairy",
+			"cardText": "When you play this card, you may choose another Creature in play. Do 2 damage to it.",
+			"dmgEachTurn": "2",
+			"health": "1",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Jeff Laubenstein"
+		},
+		{
+			"cardNo": "37",
+			"cardName": "Hufflepuff Match",
+			"lessonType": "Quidditch",
+			"powerCost": "1",
+			"cardType": "Match",
+			"cardText": {
+				"toWin": "Do 8 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
+				"prize": "The winner may draw 5 cards. The loser takes 5 damage."
+			},
+			"flavorText": "'Up in the air, Snape turned on his broomstick just in time to see something scarlet shoot past him, missing him by inches...'",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Ben Thompson"
+		},
+		{
+			"cardNo": "38",
+			"cardName": "In the Stands",
+			"cardType": "Adventure",
+			"cardText": {
+				"effect": "Your opponent can't play Creature cards.",
+				"toSolve": "Your opponent chooses 4 Creature cards in his or her hand and discards them.",
+				"reward": "Your opponent may draw a card."
+			},
+			"flavorText": "'It took perhaps thirty seconds for Snape to realise that he was on fire.'",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Patrick Faricy"
+		},
+		{
+			"cardNo": "39",
+			"cardName": "Into the Forbidden Forest",
+			"cardType": "Adventure",
+			"cardText": {
+				"effect": "Whenever 1 of your Creatures does damage to your opponent, it does 1 more damage.",
+				"toSolve": "Your opponent skips a total of 5 Actions. (Those Actions don't need to be one right after the other.)",
+				"reward": "Your opponent may draw a card."
+			},
+			"flavorText": "'They walked in silence, their eyes on the ground. Every now and then a ray of moonlight through the branches above lit a spot of silver blue blood on the fallen leaves.'",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Lars Grant-West"
+		},
+		{
+			"cardNo": "40",
+			"cardName": "Jawbind Potion",
+			"lessonType": "Potions",
+			"powerCost": "4",
+			"cardType": "Spell",
+			"cardText": "Do 2 damage to your opponent. During your opponent's next turn, he or she can't play Spell cards.",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Alex Horley"
+		},
+		{
+			"cardNo": "41",
+			"cardName": "Missing Parchment",
+			"lessonType": "Charms",
+			"powerCost": "2",
+			"cardType": "Spell",
+			"cardText": "Look at your opponent's hand. If there are any Spell cards there, choose 1 of them and discard it.",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Kevin Dobler"
+		},
+		{
+			"cardNo": "42",
+			"cardName": "Penalty Shot",
+			"lessonType": "Quidditch",
+			"powerCost": "5",
+			"cardType": "Spell",
+			"cardText": "Draw 3 cards.",
+			"cardRarity": "Uncommon",
+			"cardArtist": "James Bernardin"
+		},
+		{
+			"cardNo": "43",
+			"cardName": "Pep Talk",
+			"cardType": "Adventure",
+			"cardText": {
+				"effect": "The first Action your opponent uses on each of his or her turns must be used to draw a card.",
+				"toSolve": "Your opponent shows you a card from his or her hand with a (printed) Power needed of 8 or more.",
+				"reward": "Your opponent may draw 2 cards."
+			},
+			"flavorText": "'Don't want to pressure you, Potter, but if we ever need an early capture of the Snitch it's now.' - Oliver Wood",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Patrick Faricy"
+		},
+		{
+			"cardNo": "44",
+			"cardName": "Petrificus Totalus",
+			"lessonType": "Transfiguration",
+			"powerCost": "1",
+			"cardType": "Spell",
+			"cardText": "Choose 1 of either player's Creatures in play and a Lesson card in that player's discard pile. Discard that Creature and put that Lesson card into play.",
+			"cardRarity": "Uncommon",
+			"cardArtist": [
+				"Ken Steacy",
+				"Zina Saunders"
+			]
+		},
+		{
+			"cardNo": "45",
+			"cardName": "Power Play",
+			"lessonType": "Quidditch",
+			"powerCost": "6",
+			"cardType": "Spell",
+			"cardText": "Play this card only if a Match is in play. Do 7 damage to your opponent.",
+			"cardRarity": "Uncommon",
+			"cardArtist": "David A. Roach"
+		},
+		{
+			"cardNo": "46",
+			"cardName": "Race for the Snitch",
+			"cardType": "Adventure",
+			"cardText": {
+				"effect": "Your opponent discards the card he or she draws at the start of each of his or her turns.",
+				"toSolve": "Your opponent discards his or her hand.",
+				"reward": "You discard your hand."
+			},
+			"flavorText": "'Harry was faster than Higgs - he could see the little round ball, wings fluttering, darting up ahead..'",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Jon Foster"
+		},
+		{
+			"cardNo": "47",
+			"cardName": "Snape's Bias",
+			"cardType": "Adventure",
+			"cardText": {
+				"effect": "Your opponent can't use Actions to draw cards.",
+				"toSolve": "Your opponent lets you search your deck for up to 2 cards and put them into your hand. Then shuffle your deck.",
+				"reward": "Your opponent may draw a card."
+			},
+			"flavorText": "'Ron didn't answer; Snape had just awarded Hufflepuff a penalty because George Weasley had hit a Bludger at him.'",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Patrick Faricy"
+		},
+		{
+			"cardNo": "48",
+			"cardName": "Sticking Up for Neville",
+			"cardType": "Adventure",
+			"cardText": {
+				"effect": "Before each of your turns, your opponent takes 4 damage.",
+				"toSolve": "Your opponent discards his or her hand.",
+				"reward": "Your opponent may put up to 4 non-Healing cards from his or her discard pile on the bottom of his or her deck (in any order)."
+			},
+			"flavorText": "'He turned his broomstick sharply to face Malfoy in mid-air. Malfoy looked stunned.'",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Patrick Faricy"
+		},
+		{
+			"cardNo": "49",
+			"cardName": "Strategy Session",
+			"lessonType": "Quidditch",
+			"powerCost": "3",
+			"cardType": "Spell",
+			"cardText": "You may put up to 3 Quidditch Lessons from your hand into play.",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Michael Koelsch"
+		},
+		{
+			"cardNo": "50",
+			"cardName": "Weakness Potion",
+			"lessonType": "Potions",
+			"powerCost": "7",
+			"cardType": "Spell",
+			"cardText": "To play this card, discard 1 of your Potions Lessons from play. Do 5 damage to your opponent. During your opponent's next turn, prevent all damage done to you by your opponent's Creatures.",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Keith Garletts"
+		},
+		{
+			"cardNo": "51",
+			"cardName": "Bloodroot Poison",
+			"lessonType": "Potions",
+			"powerCost": "2",
+			"cardType": "Spell",
+			"cardText": "To play this card, discard 1 of your Potions Lessons from play. Do 4 damage to your opponent or to a Creature of your choice.",
+			"cardRarity": "Common",
+			"cardArtist": "Keith Garletts"
+		},
+		{
+			"cardNo": "52",
+			"cardName": "Bravado",
+			"lessonType": "Charms",
+			"powerCost": "3",
+			"cardType": "Spell",
+			"cardText": "For the rest of this turn, your Spell cards need 5 less Power to play. (You still need at least 1 Power that matches.)",
+			"cardRarity": "Common",
+			"cardArtist": "Mark Romanoski"
+		},
+		{
+			"cardNo": "53",
+			"cardName": "Bruisewort Balm",
+			"lessonType": "Potions",
+			"powerCost": "3",
+			"cardType": "Spell",
+			"subType": "Healing",
+			"cardText": "Shuffle up to 5 non-Healing cards from your discard pile into your deck.",
+			"cardRarity": "Common",
+			"cardArtist": "Alex Horley"
+		},
+		{
+			"cardNo": "54",
+			"cardName": "Cleansweep Seven",
+			"lessonType": "Quidditch",
+			"powerCost": "2",
+			"cardType": "Item",
+			"subType": "Broom",
+			"cardText": "When you play this card, look at the top 4 cards of your deck and put them back on top in any order. (If there are fewer than 4, look at all of them.) If you play this card, and you already have a Broom in play, discard the old one.",
+			"provides": [
+				"1",
+				"Quidditch"
+			],
+			"cardRarity": "Common",
+			"cardArtist": "Patrick Faricy"
+		},
+		{
+			"cardNo": "55",
+			"cardName": "Cobbing",
+			"lessonType": "Quidditch",
+			"powerCost": "7",
+			"cardType": "Spell",
+			"cardText": "Do 4 damage to your opponent. Then, if your opponent has any cards in play, he or she chooses 1 of them and discards them.",
+			"cardRarity": "Common",
+			"cardArtist": "Patrick Faricy"
+		},
+		{
+			"cardNo": "56",
+			"cardName": "Cobra Lily",
+			"lessonType": "Care of Magical Creatures",
+			"powerCost": "5",
+			"cardType": "Creature",
+			"subType": "Plant",
+			"cardText": "At the end of each of your turns, remove all damage counters from Cobra Lily.",
+			"dmgEachTurn": "2",
+			"health": "3",
+			"cardRarity": "Common",
+			"cardArtist": "Doug Chaffee"
+		}
 	]
 }
