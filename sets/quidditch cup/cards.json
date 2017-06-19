@@ -1,0 +1,434 @@
+{
+	"setName": "Quidditch Cup",
+	"releaseDate": "11-2001",
+	"totalCards": "80",
+	"cards": [
+		{
+			"cardNo": "1",
+			"cardName": "Bludger",
+			"lessonType": "Quidditch",
+			"powerCost": "4",
+			"cardType": "Item",
+			"cardText": "Before each of your turns, Bludger does 3 damage to your opponent if a match is in play. (If there isn't a Match in play, Bludger does no damage).",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Tim Hildebrandt"
+		},
+		{
+			"cardNo": "2",
+			"cardName": "Catch the Snitch",
+			"lessonType": "Quidditch",
+			"powerCost": "7",
+			"cardType": "Spell",
+			"cardText": "You win the current Match. (You get the prize.)",
+			"flavorText": "'Harry had suddenly gone into a spectacular dive, which drew gasps and cheers from the crowd.'",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "James Bernardin"
+		},
+		{
+			"cardNo": "3",
+			"cardName": "Charms Exam",
+			"lessonType": "Charms",
+			"powerCost": "7",
+			"cardType": "Spell",
+			"cardText": "Your opponent discards his or her hand. Then he or she may draw any number of cards.",
+			"flavorText": "'Professor Flitwick called them one by one into his class to see if they could make a pineapple tap-dance across a desk.'",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Keith Garletts"
+		},
+		{
+			"cardNo": "4",
+			"cardName": "Fluffy",
+			"lessonType": "Care of Magical Creatures",
+			"powerCost": "10",
+			"cardType": "Creature",
+			"subType": [
+				"Dog",
+				"Unique"
+			],
+			"cardText": "To play this card, discard 2 of your Care of Magical Creatures Lessons from play.",
+			"dmgEachTurn": "12",
+			"health": "21",
+			"flavorText": "'As the door creaked, low, rumbling growls met their ears. All three of the dog's noses sniffed madly in their direction...'",
+			"cardRarity": "Uncommon",
+			"cardArtist": [
+				"Kevin McCann",
+				"Michael Collins"
+			]
+		},
+		{
+			"cardNo": "5",
+			"cardName": "Fred & George Weasley",
+			"cardType": "Character",
+			"subType": [
+				"Wizard",
+				"Gryffindor",
+				"Unique"
+			],
+			"cardText": "You may use 1 Action (instead of 2) to put an Adventure card from your hand into play, even if you already have one in play. If you already had one in play, discard the old one. (Nobody gets the reward.)",
+			"cardRarity": "Holo Portrait Premium",
+			"cardArtist": "Jon Foster"
+		},
+		{
+			"cardNo": "6",
+			"cardName": "Gaze Into the Mirror",
+			"cardType": "Adventure",
+			"cardText": {
+				"effect": "During your opponent's turns, prevent all damage done to you by Spell cards.",
+				"toSolve": "Your opponent chooses 5 Spell cards in his or her hand and discards them.",
+				"reward": "Your opponent gets 1 more Action (the turn this Adventure is solved)."
+			},
+			"flavorText": "'Harry was so closed to the mirror now that his nose was nearly touching that of his reflection. 'Mum?' he whispered. 'Dad?''",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Jim Nelson"
+		},
+		{
+			"cardNo": "7",
+			"cardName": "Gold Cauldron",
+			"lessonType": "Potions",
+			"powerCost": "9",
+			"cardType": "Item",
+			"cardText": "Before each of your turns, Bludger does 3 damage to your opponent if a match is in play. (If there isn't a Match in play, Bludger does no damage).",
+			"provides": [
+				"5",
+				"Potions"
+			],
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Bob Petillo"
+		},
+		{
+			"cardNo": "8",
+			"cardName": "Golden Snitch",
+			"lessonType": "Quidditch",
+			"powerCost": "11",
+			"cardType": "Item",
+			"cardText": "At the end of your opponent's turn, you win the game unless your opponent has at least 10 more cards in his or her deck than you do. (If he or she does, your opponent wins the game instead.)",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Keith Garletts"
+		},
+		{
+			"cardNo": "9",
+			"cardName": "Hagrid Needs Help",
+			"cardType": "Adventure",
+			"cardText": {
+				"effect": "Your opponent gets 1 fewer Action on each of his or her turns (even the turn this Adventure is solved). (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)",
+				"toSolve": "Your opponent takes 8 damage.",
+				"reward": "Your opponent may draw 3 cards."
+			},
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Patrick Faricy"
+		},
+		{
+			"cardNo": "10",
+			"cardName": "Halloween Feast",
+			"lessonType": "Charms",
+			"powerCost": "4",
+			"cardType": "Spell",
+			"cardText": "Put up to 4 Creature cards from your discard pile into your hand.",
+			"flavorText": "'A thousand live bats fluttered from the walls and ceilings while a thousand more swooped over the tables in low black clouds, making the candles in the pumpkins stutter.'",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "James Bernardin"
+		},
+		{
+			"cardNo": "11",
+			"cardName": "Harry the Seeker",
+			"cardType": "Character",
+			"subType": [
+				"Wizard",
+				"Gryffindor",
+				"Unique"
+			],
+			"cardText": "Once during each of your turns, when you use an Action to play a Quidditch Lesson card, you may also draw a card.",
+			"flavorText": "'Harry saw it. In a great rush of excitement he dived downwards after the streak of gold.'",
+			"cardRarity": "Holo Portrait Premium",
+			"cardArtist": "Scott M. Fischer"
+		},
+		{
+			"cardNo": "12",
+			"cardName": "Hospital Bed",
+			"lessonType": "Potions",
+			"powerCost": "9",
+			"cardType": "Item",
+			"cardText": "You may use an Action to search your deck. You may take a Healing card, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Patrick Faricy"
+		},
+		{
+			"cardNo": "13",
+			"cardName": "Madam Rolanda Hooch",
+			"cardType": "Character",
+			"subType": [
+				"Witch",
+				"Unique"
+			],
+			"cardText": "Once per game, you may search your deck. When you do, you may take a Broom card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"provides": [
+				"1",
+				"Quidditch"
+			],
+			"flavorText": "'Their teacher, Madam Hooch, arrived. She had short, grey hair and yellow eyes like a hawk.'",
+			"cardRarity": "Holo Portrait Premium",
+			"cardArtist": "Tony Szczudlo"
+		},
+		{
+			"cardNo": "14",
+			"cardName": "Marcus Flint",
+			"cardType": "Character",
+			"subType": [
+				"Wizard",
+				"Slytherin",
+				"Unique"
+			],
+			"cardText": "Once per game, you may make your opponent choose 3 cards in his or her hand and discard them. (If there are fewer than 3 cards in your opponent's hand, he or she discards them all.)",
+			"flavorText": "'... Slytherin captain Marcus Flint gains the Quaffle and off he goes — Flint flying like an eagle up there...' - Lee Jordan, Commentator",
+			"cardRarity": "Holo Portrait Premium",
+			"cardArtist": "David A. Roach"
+		},
+		{
+			"cardNo": "15",
+			"cardName": "Neville Longbottom",
+			"cardType": "Character",
+			"subType": [
+				"Wizard",
+				"Gryffindor",
+				"Unique"
+			],
+			"cardText": "You may prevent all but the first 8 damage done to you each turn.",
+			"flavorText": "'Neville went bright red but turned in his seat to face Malfoy. 'I'm worth twelve of you, Malfoy,' he stammered.'",
+			"cardRarity": "Holo Portrait Premium",
+			"cardArtist": [
+				"Ken Steacy",
+				"Zina Saunders"
+			]
+		},
+		{
+			"cardNo": "16",
+			"cardName": "Nimbus Two Thousand",
+			"cardType": "Item",
+			"subType": "Broom",
+			"cardText": "Once per game, you may search your deck. When you do, you may take a Broom card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"provides": [
+				"1",
+				"Quidditch"
+			],
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Mark Romanoski"
+		},
+		{
+			"cardNo": "17",
+			"cardName": "No Time to Play",
+			"lessonType": "Transfiguration",
+			"powerCost": "4",
+			"cardType": "Spell",
+			"cardText": "Discard all Matches and Items that need Quidditch Power from play (even your own). (If a Match is discarded, no one gets the prize.)",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Michael Koelsch"
+		},
+		{
+			"cardNo": "18",
+			"cardName": "Oliver Wood",
+			"cardType": "Character",
+			"subType": [
+				"Wizard",
+				"Gryffindor",
+				"Unique"
+			],
+			"cardText": "Once per game, when 1 of your Spell cards that needs Quidditch Power does damage, you may have it do 8 more damage.",
+			"flavorText": "'That Quidditch Cup'll have our name on it this year,' said Wood happily as they drudged back up to the castle.'",
+			"cardRarity": "Holo Portrait Premium",
+			"cardArtist": [
+				"Kevin McCann",
+				"Michael Collins"
+			]
+		},
+		{
+			"cardNo": "19",
+			"cardName": "Out of Control",
+			"lessonType": "Quidditch",
+			"powerCost": "10",
+			"cardType": "Spell",
+			"cardText": "Do 6 damage to your opponent. Then your opponent chooses 4 cards in his or her hand and discards them. (If there are fewer than 4 cards in your opponent's hand, he or she discards them all.)",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Jeff Laubenstein"
+		},
+		{
+			"cardNo": "20",
+			"cardName": "Potions Class Disaster",
+			"lessonType": "Potions",
+			"powerCost": "12",
+			"cardType": "Spell",
+			"cardText": "Your opponent chooses 5 of his or her cards and discards them. Those cards can come from his or her hand or from play or from both. (If there are fewer than 5 total cards in your opponent's hand and in play, he or she discards them all.)",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Alex Horley"
+		},
+		{
+			"cardNo": "21",
+			"cardName": "Prof. Minerva McGonagall",
+			"cardType": "Character",
+			"subType": [
+				"Witch",
+				"Gryffindor",
+				"Unique"
+			],
+			"cardText": "Once per game, you may discard the Adventure your opponent has played. (You don't get the reward.)",
+			"provides": [
+				"1",
+				"Transfiguration"
+			],
+			"cardRarity": "Holo Portrait Premium",
+			"cardArtist": "Scott M. Fischer",
+		},
+		{
+			"cardNo": "22",
+			"cardName": "Put-Outer",
+			"lessonType": "Transfiguration",
+			"powerCost": "4",
+			"cardType": "Item",
+			"cardText": "You may use 2 Actions to choose 1 of your opponent's cards in play (other than his or her starting Character) and return it to his or her hand.",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Patrick Faricy"
+		},
+		{
+			"cardNo": "23",
+			"cardName": "Ravenclaw Match",
+			"lessonType": "Quidditch",
+			"powerCost": "1",
+			"cardType": "Match",
+			"cardText": {
+				"toWin": "Do 10 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
+				"prize": "The winner searches his or her deck. He or she may take up to 2 Lesson cards from his or her deck and put them into play. Then that player shuffles his or her deck."
+			},
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Ben Thompson"
+		},
+		{
+			"cardNo": "24",
+			"cardName": "Scabbers",
+			"lessonType": "Care of Magical Creatures",
+			"powerCost": "4",
+			"cardType": "Creature",
+			"subType": [
+				"Rat",
+				"Unique"
+			],
+			"cardText": "If Scabbers is discarded from play during your opponent's turn, put it into your hand.",
+			"dmgEachTurn": "1",
+			"health": "3",
+			"flavorText": "'The rat was still snoozing on Ron's lap. 'He might have died and you wouldn't know the difference,' said Ron in disgust.'",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Patrick Faricy"
+		},
+		{
+			"cardNo": "25",
+			"cardName": "Seamus Finnigan",
+			"cardType": "Character",
+			"subType": [
+				"Wizard",
+				"Gryffindor",
+				"Unique"
+			],
+			"cardText": "Once during each of your turns, you may discard 2 cards from your hand to get 1 more Action.",
+			"flavorText": "''Finnigan, Seamus', the sandy-haired boy next to Harry in the line, sat on the stool for almost a whole minute before the hat declared him a Gryffindor.'",
+			"cardRarity": "Holo Portrait Premium",
+			"cardArtist": [
+				"Ken Steacy",
+				"Zina Saunders"
+			]
+		},
+		{
+			"cardNo": "26",
+			"cardName": "Slytherin Match",
+			"lessonType": "Quidditch",
+			"powerCost": "1",
+			"cardType": "Match",
+			"subType": "Healing",
+			"cardText": {
+				"toWin": "Do 15 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
+				"prize": "The winner may shuffle up to 15 non-Healing cards from his or her discard pile into his or her deck."
+			},
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Ben Thompson"
+		},
+		{
+			"cardNo": "27",
+			"cardName": "Start-of-Term Feast",
+			"lessonType": "Charms",
+			"powerCost": "4",
+			"cardType": "Spell",
+			"cardText": "Put up to 4 Lesson cards from your discard pile into your hand.",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "James Bernardin"
+		},
+		{
+			"cardNo": "28",
+			"cardName": "Support Banner",
+			"lessonType": "Quidditch",
+			"powerCost": "5",
+			"cardType": "Item",
+			"cardText": "At the end of your turn, draw a card if you played at least 1 Spell card that needs Quidditch Power that turn.",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Michael Koelsch"
+		},
+		{
+			"cardNo": "29",
+			"cardName": "The Sorting Hat",
+			"lessonType": "Transfiguration",
+			"powerCost": "8",
+			"cardType": "Item",
+			"cardText": "You may use 2 Actions to search your deck. You may take a Character card of a Character that isn't already in play and put it in play. Then shuffle your deck.",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Kevin Dobler"
+		},
+		{
+			"cardNo": "30",
+			"cardName": "Trevor",
+			"lessonType": "Care of Magical Creatures",
+			"powerCost": "3",
+			"cardType": "Creature",
+			"subType": [
+				"Toad",
+				"Unique"
+			],
+			"cardText": "When you play this card, you may put a Lesson card from your discard pile into your hand. Whenever a Spell card damages you, you may let Trevor take that damage instead.",
+			"health": "1",
+			"flavorText": "'When they shook their heads, he wailed, 'I've lost him! He keeps getting away from me!'' - Neville Longbottom",
+			"cardRarity": "Foil Premium",
+			"cardArtist": "Zina Saunders"
+		},
+		{
+			"cardNo": "31",
+			"cardName": "Chocolate Frogs",
+			"lessonType": "Charms",
+			"powerCost": "1",
+			"cardType": "Spell",
+			"cardText": "Search your deck. You may take a Wizard or a Witch card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"flavorText": "''What are those?' Harry asked Ron, holding up a pack of Chocolate Frogs. 'They're not really frogs, are they?''",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Monte Michael Moore"
+		},
+		{
+			"cardNo": "32",
+			"cardName": "Comet Two Sixty",
+			"lessonType": "Quidditch",
+			"powerCost": "3",
+			"cardType": "Item",
+			"subType": "Broom",
+			"cardText": "Once during each of your opponent's turns, you may prevent 1 damage done to you. If you play this card, and you already have a Broom in play, discard the old one.",
+			"provides": [
+				"1",
+				"Quidditch"
+			],
+			"cardRarity": "Uncommon",
+			"cardArtist": "James Bernardin"
+		},
+		{
+			"cardNo": "33",
+			"cardName": "Defence!",
+			"lessonType": "Quidditch",
+			"powerCost": "10",
+			"cardType": "Spell",
+			"cardText": "During your opponent's next turn, prevent all damage done to you.",
+			"cardRarity": "Uncommon",
+			"cardArtist": "Michael Koelsch"
+		},
+	]
+}
