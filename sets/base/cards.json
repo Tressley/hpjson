@@ -1138,8 +1138,8 @@
 		{
 			"number": "93",
 			"name": "Incarcifors",
-			"lesson": "Charms",
-			"cost": "5",
+			"lesson": "Transfiguration",
+			"cost": "6",
 			"type": "Spell",
 			"description": "Choose 1 of your opponent's Creatures in play and discard it.",
 			"flavorText": "''I'm glad we didnt have to fight that one,' Harry whispered, as they stepped carefully over one of it's massive legs.'",
@@ -1149,7 +1149,7 @@
 		{
 			"number": "94",
 			"name": "Lost Notes",
-			"lesson": "Charms",
+			"lesson": "Transfiguration",
 			"cost": "5",
 			"type": "Spell",
 			"description": "Choose 1 of your opponent's Items or Lessons in play and discard it.",
