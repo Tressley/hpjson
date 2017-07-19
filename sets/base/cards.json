@@ -1243,7 +1243,7 @@
 			"name": "Restricted Section",
 			"lesson": "Transfiguration",
 			"cost": "2",
-			"type": "Item",
+			"type": "Spell",
 			"description": "During your turn, you may use an Action to put a Lesson card from your discard pile into play.",
 			"flavorText": "'These were the books containing powerful Dark Magic never taught at Hogwarts...'",
 			"rarity": "Common",
