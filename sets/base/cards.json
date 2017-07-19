@@ -846,7 +846,7 @@
 		{
 			"number": "67",
 			"name": "Stupefy",
-			"lesson": "Potions",
+			"lesson": "Charms",
 			"cost": "6",
 			"type": "Spell",
 			"description": "Do 5 damage to your opponent.",
@@ -1014,7 +1014,7 @@
 		{
 			"number": "82",
 			"name": "Epoximise",
-			"lesson": "Potions",
+			"lesson": "Transfiguration",
 			"cost": "2",
 			"type": "Spell",
 			"description": "Choose 1 of your opponent's Charms Lessons in play and discard it.",
@@ -1205,7 +1205,7 @@
 		{
 			"number": "99",
 			"name": "Pewter Cauldron",
-			"lesson": "Charms",
+			"lesson": "Potions",
 			"cost": "5",
 			"type": "Item",
 			"subType": "Cauldron",
