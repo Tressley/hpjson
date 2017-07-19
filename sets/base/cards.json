@@ -1180,8 +1180,8 @@
 		{
 			"number": "97",
 			"name": "Out of the Woods",
-			"lesson": "Potions",
-			"cost": "3",
+			"lesson": "Charms",
+			"cost": "5",
 			"type": "Spell",
 			"description": "Look at your opponent's hand. Discard all Creature cards from it.",
 			"flavorText": "'In a matter of seconds, though, he was wide-eyed as Harry began to tell him and Hermione what had happened in the Forest.'",
