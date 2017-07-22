@@ -41,7 +41,7 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "10",
 			"type": "Creature",
-			"subType": [
+			"subTypes": [
 				"Dog",
 				"Unique"
 			],
@@ -59,7 +59,7 @@
 			"number": "5",
 			"name": "Fred & George Weasley",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
@@ -132,7 +132,7 @@
 			"number": "11",
 			"name": "Harry the Seeker",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
@@ -156,7 +156,7 @@
 			"number": "13",
 			"name": "Madam Rolanda Hooch",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Witch",
 				"Unique"
 			],
@@ -173,7 +173,7 @@
 			"number": "14",
 			"name": "Marcus Flint",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Slytherin",
 				"Unique"
@@ -187,7 +187,7 @@
 			"number": "15",
 			"name": "Neville Longbottom",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
@@ -204,7 +204,9 @@
 			"number": "16",
 			"name": "Nimbus Two Thousand",
 			"type": "Item",
-			"subType": "Broom",
+			"subTypes": [
+                "Broom"
+            ],
 			"description": "Once per game, you may search your deck. When you do, you may take a Broom card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
 			"provides": [
 				"1",
@@ -227,7 +229,7 @@
 			"number": "18",
 			"name": "Oliver Wood",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
@@ -264,7 +266,7 @@
 			"number": "21",
 			"name": "Prof. Minerva McGonagall",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Witch",
 				"Gryffindor",
 				"Unique"
@@ -306,7 +308,7 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "4",
 			"type": "Creature",
-			"subType": [
+			"subTypes": [
 				"Rat",
 				"Unique"
 			],
@@ -321,7 +323,7 @@
 			"number": "25",
 			"name": "Seamus Finnigan",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
@@ -340,7 +342,9 @@
 			"lesson": "Quidditch",
 			"cost": "1",
 			"type": "Match",
-			"subType": "Healing",
+			"subTypes": [
+                "Healing"
+            ],
 			"description": {
 				"toWin": "Do 15 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
 				"prize": "The winner may shuffle up to 15 non-Healing cards from his or her discard pile into his or her deck."
@@ -384,7 +388,7 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "3",
 			"type": "Creature",
-			"subType": [
+			"subTypes": [
 				"Toad",
 				"Unique"
 			],
@@ -411,7 +415,9 @@
 			"lesson": "Quidditch",
 			"cost": "3",
 			"type": "Item",
-			"subType": "Broom",
+			"subTypes": [
+                "Broom"
+            ],
 			"description": "Once during each of your opponent's turns, you may prevent 1 damage done to you. If you play this card, and you already have a Broom in play, discard the old one.",
 			"provides": [
 				"1",
@@ -436,7 +442,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "4",
 			"type": "Creature",
-			"subType": "Plant",
+			"subTypes": [
+                "Plant"
+            ],
 			"description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. At the end of each of your turns, remove all damage counters from Devil's Snare.",
 			"dmgEachTurn": "2",
 			"health": "6",
@@ -459,7 +467,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "6",
 			"type": "Creature",
-			"subType": "Fairy",
+			"subTypes": [
+                "Fairy"
+            ],
 			"description": "When you play this card, you may choose another Creature in play. Do 2 damage to it.",
 			"dmgEachTurn": "2",
 			"health": "1",
@@ -657,7 +667,9 @@
 			"lesson": "Potions",
 			"cost": "3",
 			"type": "Spell",
-			"subType": "Healing",
+			"subTypes": [
+                "Healing"
+            ],
 			"description": "Shuffle up to 5 non-Healing cards from your discard pile into your deck.",
 			"rarity": "Common",
 			"artist": "Alex Horley"
@@ -668,7 +680,9 @@
 			"lesson": "Quidditch",
 			"cost": "2",
 			"type": "Item",
-			"subType": "Broom",
+			"subTypes": [
+                "Broom"
+            ],
 			"description": "When you play this card, look at the top 4 cards of your deck and put them back on top in any order. (If there are fewer than 4, look at all of them.) If you play this card, and you already have a Broom in play, discard the old one.",
 			"provides": [
 				"1",
@@ -693,7 +707,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "5",
 			"type": "Creature",
-			"subType": "Plant",
+			"subTypes": [
+                "Plant"
+            ],
 			"description": "At the end of each of your turns, remove all damage counters from Cobra Lily.",
 			"dmgEachTurn": "2",
 			"health": "3",
@@ -706,7 +722,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "5",
 			"type": "Creature",
-			"subType": "Fox",
+			"subTypes": [
+                "Fox"
+            ],
 			"dmgEachTurn": "3",
 			"health": "1",
 			"rarity": "Common",
@@ -871,7 +889,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "4",
 			"type": "Creature",
-			"subType": "Snail",
+			"subTypes": [
+                "Snail"
+            ],
 			"description": "When you play this card, you may choose another Creature in play. Do 1 damage to it.",
 			"dmgEachTurn": "1",
 			"health": "2",
