@@ -846,7 +846,7 @@
 		{
 			"number": "67",
 			"name": "Stupefy",
-			"lesson": "Potions",
+			"lesson": "Charms",
 			"cost": "6",
 			"type": "Spell",
 			"description": "Do 5 damage to your opponent.",
@@ -1014,7 +1014,7 @@
 		{
 			"number": "82",
 			"name": "Epoximise",
-			"lesson": "Potions",
+			"lesson": "Transfiguration",
 			"cost": "2",
 			"type": "Spell",
 			"description": "Choose 1 of your opponent's Charms Lessons in play and discard it.",
@@ -1138,8 +1138,8 @@
 		{
 			"number": "93",
 			"name": "Incarcifors",
-			"lesson": "Charms",
-			"cost": "5",
+			"lesson": "Transfiguration",
+			"cost": "6",
 			"type": "Spell",
 			"description": "Choose 1 of your opponent's Creatures in play and discard it.",
 			"flavorText": "''I'm glad we didnt have to fight that one,' Harry whispered, as they stepped carefully over one of it's massive legs.'",
@@ -1149,7 +1149,7 @@
 		{
 			"number": "94",
 			"name": "Lost Notes",
-			"lesson": "Charms",
+			"lesson": "Transfiguration",
 			"cost": "5",
 			"type": "Spell",
 			"description": "Choose 1 of your opponent's Items or Lessons in play and discard it.",
@@ -1180,8 +1180,8 @@
 		{
 			"number": "97",
 			"name": "Out of the Woods",
-			"lesson": "Potions",
-			"cost": "3",
+			"lesson": "Charms",
+			"cost": "5",
 			"type": "Spell",
 			"description": "Look at your opponent's hand. Discard all Creature cards from it.",
 			"flavorText": "'In a matter of seconds, though, he was wide-eyed as Harry began to tell him and Hermione what had happened in the Forest.'",
@@ -1205,7 +1205,7 @@
 		{
 			"number": "99",
 			"name": "Pewter Cauldron",
-			"lesson": "Charms",
+			"lesson": "Potions",
 			"cost": "5",
 			"type": "Item",
 			"subType": "Cauldron",
@@ -1243,7 +1243,7 @@
 			"name": "Restricted Section",
 			"lesson": "Transfiguration",
 			"cost": "2",
-			"type": "Item",
+			"type": "Spell",
 			"description": "During your turn, you may use an Action to put a Lesson card from your discard pile into play.",
 			"flavorText": "'These were the books containing powerful Dark Magic never taught at Hogwarts...'",
 			"rarity": "Common",
