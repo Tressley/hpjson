@@ -207,7 +207,7 @@
 			"subTypes": [
                 "Broom"
             ],
-			"description": "Once per game, you may search your deck. When you do, you may take a Broom card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"description": "Whenever 1 of your Item or Spell cards that needs Quidditch Power does damage, it does 2 more damage. If you play this card and already have a Broom in play, discard the old one.",
 			"provides": [
 				"1",
 				"Quidditch"
