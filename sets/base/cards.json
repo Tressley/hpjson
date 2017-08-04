@@ -7,7 +7,7 @@
 			"number": "1",
 			"name": "Dean Thomas",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
@@ -21,7 +21,7 @@
 			"number": "2",
 			"name": "Draco Malfoy",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Slytherin",
 				"Unique"
@@ -35,7 +35,7 @@
 			"number": "3a",
 			"name": "Draco Malfoy",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Slytherin",
 				"Unique"
@@ -49,7 +49,7 @@
 			"number": "3b",
 			"name": "Draco Malfoy",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Slytherin",
 				"Unique"
@@ -77,7 +77,9 @@
 			"lesson": "Potions",
 			"cost": "10",
 			"type": "Spell",
-			"subType": "Healing",
+			"subTypes": [
+                "Healing"
+            ],
 			"description": "To play this card, discard 2 of your Potions Lessons from play. Shuffle up to 16 non-Healing cards from your discard pile into your deck.",
 			"flavorText": "'The Stone... produces the Elixir of Life, which will make the drinker immortal.'",
 			"rarity": "Foil Premium",
@@ -100,7 +102,7 @@
 			"number": "7",
 			"name": "Hannah Abbott",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Witch",
 				"Hufflepuff",
 				"Unique"
@@ -114,7 +116,7 @@
 			"number": "8",
 			"name": "Harry Potter",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
@@ -128,7 +130,7 @@
 			"number": "9",
 			"name": "Hermione Granger",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Witch",
 				"Gryffindor",
 				"Unique"
@@ -142,7 +144,7 @@
 			"number": "10a",
 			"name": "Hermione Granger",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Witch",
 				"Gryffindor",
 				"Unique"
@@ -156,7 +158,7 @@
 			"number": "10b",
 			"name": "Hermione Granger",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Witch",
 				"Gryffindor",
 				"Unique"
@@ -184,7 +186,7 @@
 			"lesson": "Transfiguration",
 			"cost": "13",
 			"type": "Item",
-			"subType": [
+			"subTypes": [
 				"Gryffindor",
 				"Unique"
 			],
@@ -196,7 +198,7 @@
 			"number": "13",
 			"name": "Nearly Headless Nick",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Gryffindor",
 				"Unique"
 			],
@@ -220,7 +222,7 @@
 			"number": "15",
 			"name": "Professor Filius Flitwick",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Ravenclaw",
 				"Unique"
@@ -238,7 +240,7 @@
 			"number": "16",
 			"name": "Professor Severus Snape",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Slytherin",
 				"Unique"
@@ -256,7 +258,7 @@
 			"number": "17",
 			"name": "Ron Weasley",
 			"type": "Character",
-			"subType": [
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
@@ -270,7 +272,9 @@
 			"number": "18",
 			"name": "Rubeus Hagrid",
 			"type": "Character",
-			"subType": "Unique",
+			"subTypes": [
+                "Unique"
+            ],
 			"description": "Whenever 1 of your Creatures does 3 or more damage to your opponent, it does 2 more damage than it usually would.",
 			"flavorText": "'Hagrid's beard twitched and they could tell he was smiling.'",
 			"rarity": "Holo-Portrait Premium",
@@ -295,7 +299,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "6",
 			"type": "Creature",
-			"subType": "Unicorn",
+			"subTypes": [
+                "Unicorn"
+            ],
 			"description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. You get 1 more Action on each of your turns (including the turn you play Unicorn).",
 			"health": "6",
 			"flavorText": "''That is because it is a monstrous thing, to slay a unicorn,' said Firenze.'",
@@ -308,7 +314,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "2",
 			"type": "Creature",
-			"subType": "Owl",
+			"subTypes": [
+                "Owl"
+            ],
 			"description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. Before each of your turns, draw a card.",
 			"health": "1",
 			"flavorText": "'...and there was an owl rapping its claw on the window, a newspaper held in its beak.'",
@@ -388,7 +396,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "8",
 			"type": "Creature",
-			"subType": "Troll",
+			"subTypes": [
+                "Troll"
+            ],
 			"dmgEachTurn": "4",
 			"health": "4",
 			"flavorText": "'And then they heard it - a low grunting and the shuffling footfalls of gigantic feet.'",
@@ -401,7 +411,7 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "2",
 			"type": "Creature",
-			"subType": [
+			"subTypes": [
 				"Cat",
 				"Unique"
 			],
@@ -416,7 +426,7 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "4",
 			"type": "Creature",
-			"subType": [
+			"subTypes": [
 				"Dragon",
 				"Unique"
 			],
@@ -433,7 +443,9 @@
 			"lesson": "Charms",
 			"cost": "7",
 			"type": "Item",
-			"subType": "Wand",
+			"subTypes": [
+                "Wand"
+            ],
 			"description": "Play this card only is you have cards in play that provide at least 3 Charms Power. If you play this card, and you already have a Wand in play, discard the old one.",
 			"provides": [
 				"4",
@@ -562,7 +574,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "3",
 			"type": "Creature",
-			"subType": "Dragon",
+			"subTypes": [
+                "Dragon"
+            ],
 			"description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
 			"dmgEachTurn": "3",
 			"health": "2",
@@ -587,7 +601,9 @@
 			"lesson": "Potions",
 			"cost": "6",
 			"type": "Spell",
-			"subType": "Healing",
+			"subTypes": [
+                "Healing"
+            ],
 			"description": "To play this card, discard 1 of your Potions Lessons from play. Shuffle up to 10 non-Healing cards from your discard pile into your deck.",
 			"rarity": "Uncommon",
 			"artist": "Monte Michael Moore"
@@ -655,7 +671,9 @@
 			"lesson": "Charms",
 			"cost": "5",
 			"type": "Item",
-			"subType": "Wand",
+			"subTypes": [
+                "Wand"
+            ],
 			"description": "Play this card only if you have cards in play that provide at least 2 Charms Power. If you play this card, and you already have a Wand in play, discard the old one.",
 			"provides": [
 				"3",
@@ -680,7 +698,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "7",
 			"type": "Creature",
-			"subType": "Dog",
+			"subTypes": [
+                "Dog"
+            ],
 			"dmgEachTurn": "3",
 			"health": "5",
 			"flavorText": "'He let them in, struggling to keep a hold on the collar of an enourmous black boarhound.'",
@@ -705,7 +725,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "3",
 			"type": "Creature",
-			"subType": "Kelpie",
+			"subTypes": [
+                "Kelpie"
+            ],
 			"description": "To play this card, discard 1 of your Care of Magical Creature Lessons from play. Whenever a Spell card damages you, you may let Kelpie take that damage instead.",
 			"dmgEachTurn": "1",
 			"health": "5",
@@ -776,7 +798,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "2",
 			"type": "Creature",
-			"subType": "Toad",
+			"subTypes": [
+                "Toad"
+            ],
 			"description": "Whenever a Spell card damages you, you may let Pet Toad take that damage instead.",
 			"health": "1",
 			"flavorText": "''Don't know why he's so bothered,' said Ron. 'If I'd brought a toad I'd lose it as quick as I could.''",
@@ -789,7 +813,9 @@
 			"lesson": "Potions",
 			"cost": "3",
 			"type": "Spell",
-			"subType": "Healing",
+			"subTypes": [
+                "Healing"
+            ],
 			"description": "Put up to 3 non-Healing cards from your discard pile on the bottom of your deck (in any order). Then draw a card.",
 			"flavorText": "'Madam Pomfrey came over at that moment...'",
 			"rarity": "Uncommon",
@@ -824,7 +850,9 @@
 			"lesson": "Potions",
 			"cost": "8",
 			"type": "Item",
-			"subType": "Cauldron",
+			"subTypes": [
+                "Cauldron"
+            ],
 			"description": "To play this card, discard 2 of your Potions Lessons from play.",
 			"provides": [
 				"5",
@@ -945,7 +973,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "4",
 			"type": "Creature",
-			"subType": "Snake",
+			"subTypes": [
+                "Snake"
+            ],
 			"dmgEachTurn": "2",
 			"health": "2",
 			"flavorText": "'Brazil, here I come... Thanks, amigo.' - The Snake",
@@ -958,7 +988,9 @@
 			"lesson": "Potions",
 			"cost": "1",
 			"type": "Spell",
-			"subType": "Healing",
+			"subTypes": [
+                "Healing"
+            ],
 			"description": "Put up to 4 non-Healing cards from your discard pile on the bottom of your deck (in any order).",
 			"rarity": "Common",
 			"artist": "Jason Bernardin"
@@ -969,7 +1001,9 @@
 			"lesson": "Charms",
 			"cost": "3",
 			"type": "Item",
-			"subType": "Wand",
+			"subTypes": [
+                "Wand"
+            ],
 			"description": "Once during each of your turns, you may choose 1 of your opponent's Creatures in play. Prevent all damage done by that creature until the end of your opponent's next turn.",
 			"provides": [
 				"2",
@@ -994,7 +1028,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "2",
 			"type": "Creature",
-			"subType": "Bird",
+			"subTypes": [
+                "Bird"
+            ],
 			"dmgEachTurn": "1",
 			"health": "1",
 			"rarity": "Common",
@@ -1048,7 +1084,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "2",
 			"type": "Creature",
-			"subType": "Troll",
+			"subTypes": [
+                "Troll"
+            ],
 			"description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
 			"dmgEachTurn": "2",
 			"health": "3",
@@ -1084,7 +1122,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "2",
 			"type": "Creature",
-			"subType": "Troll",
+			"subTypes": [
+                "Troll"
+            ],
 			"description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
 			"dmgEachTurn": "2",
 			"health": "1",
@@ -1120,7 +1160,9 @@
 			"lesson": "Potions",
 			"cost": "4",
 			"type": "Spell",
-			"subType": "Healing",
+			"subTypes": [
+                "Healing"
+            ],
 			"description": "To play this card, discard 1 of your Potions Lessons from play. Shuffle up to 8 non-Healing cards from your discard pile into your deck.",
 			"rarity": "Common",
 			"artist": "Jason Bernardin"
@@ -1194,7 +1236,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "1",
 			"type": "Creature",
-			"subType": "Rat",
+			"subTypes": [
+                "Rat"
+            ],
 			"description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
 			"dmgEachTurn": "1",
 			"health": "4",
@@ -1208,7 +1252,9 @@
 			"lesson": "Potions",
 			"cost": "5",
 			"type": "Item",
-			"subType": "Cauldron",
+			"subTypes": [
+                "Cauldron"
+            ],
 			"description": "To play this card, discard 1 of your Potions Lessons from play.",
 			"provides": [
 				"3",
@@ -1255,7 +1301,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "4",
 			"type": "Creature",
-			"subType": "Deer",
+			"subTypes": [
+                "Deer"
+            ],
 			"dmgEachTurn": "1",
 			"health": "5",
 			"flavorText": "'... the path became almost impossible to follow because the trees were so thick.'",
@@ -1299,7 +1347,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "3",
 			"type": "Creature",
-			"subType": "Dog",
+			"subTypes": [
+                "Dog"
+            ],
 			"dmgEachTurn": "1",
 			"health": "3",
 			"flavorText": "'When Harry knocked they heard a frantic scrabbling from inside and several booming barks.'",
@@ -1332,7 +1382,9 @@
 			"lesson": "Care of Magical Creatures",
 			"cost": "6",
 			"type": "Creature",
-			"subType": "Wolf",
+			"subTypes": [
+                "Wolf"
+            ],
 			"dmgEachTurn": "3",
 			"health": "3",
 			"rarity": "Common",

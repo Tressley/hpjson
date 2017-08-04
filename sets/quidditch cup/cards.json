@@ -4,982 +4,1002 @@
 	"totalCards": "80",
 	"cards": [
 		{
-			"cardNo": "1",
-			"cardName": "Bludger",
-			"lessonType": "Quidditch",
-			"powerCost": "4",
-			"cardType": "Item",
-			"cardText": "Before each of your turns, Bludger does 3 damage to your opponent if a match is in play. (If there isn't a Match in play, Bludger does no damage).",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Tim Hildebrandt"
+			"number": "1",
+			"name": "Bludger",
+			"lesson": "Quidditch",
+			"cost": "4",
+			"type": "Item",
+			"description": "Before each of your turns, Bludger does 3 damage to your opponent if a match is in play. (If there isn't a Match in play, Bludger does no damage).",
+			"rarity": "Foil Premium",
+			"artist": "Tim Hildebrandt"
 		},
 		{
-			"cardNo": "2",
-			"cardName": "Catch the Snitch",
-			"lessonType": "Quidditch",
-			"powerCost": "7",
-			"cardType": "Spell",
-			"cardText": "You win the current Match. (You get the prize.)",
+			"number": "2",
+			"name": "Catch the Snitch",
+			"lesson": "Quidditch",
+			"cost": "7",
+			"type": "Spell",
+			"description": "You win the current Match. (You get the prize.)",
 			"flavorText": "'Harry had suddenly gone into a spectacular dive, which drew gasps and cheers from the crowd.'",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "James Bernardin"
+			"rarity": "Foil Premium",
+			"artist": "James Bernardin"
 		},
 		{
-			"cardNo": "3",
-			"cardName": "Charms Exam",
-			"lessonType": "Charms",
-			"powerCost": "7",
-			"cardType": "Spell",
-			"cardText": "Your opponent discards his or her hand. Then he or she may draw any number of cards.",
+			"number": "3",
+			"name": "Charms Exam",
+			"lesson": "Charms",
+			"cost": "7",
+			"type": "Spell",
+			"description": "Your opponent discards his or her hand. Then he or she may draw any number of cards.",
 			"flavorText": "'Professor Flitwick called them one by one into his class to see if they could make a pineapple tap-dance across a desk.'",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Keith Garletts"
+			"rarity": "Foil Premium",
+			"artist": "Keith Garletts"
 		},
 		{
-			"cardNo": "4",
-			"cardName": "Fluffy",
-			"lessonType": "Care of Magical Creatures",
-			"powerCost": "10",
-			"cardType": "Creature",
-			"subType": [
+			"number": "4",
+			"name": "Fluffy",
+			"lesson": "Care of Magical Creatures",
+			"cost": "10",
+			"type": "Creature",
+			"subTypes": [
 				"Dog",
 				"Unique"
 			],
-			"cardText": "To play this card, discard 2 of your Care of Magical Creatures Lessons from play.",
+			"description": "To play this card, discard 2 of your Care of Magical Creatures Lessons from play.",
 			"dmgEachTurn": "12",
 			"health": "21",
 			"flavorText": "'As the door creaked, low, rumbling growls met their ears. All three of the dog's noses sniffed madly in their direction...'",
-			"cardRarity": "Uncommon",
-			"cardArtist": [
+			"rarity": "Uncommon",
+			"artist": [
 				"Kevin McCann",
 				"Michael Collins"
 			]
 		},
 		{
-			"cardNo": "5",
-			"cardName": "Fred & George Weasley",
-			"cardType": "Character",
-			"subType": [
+			"number": "5",
+			"name": "Fred & George Weasley",
+			"type": "Character",
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
 			],
-			"cardText": "You may use 1 Action (instead of 2) to put an Adventure card from your hand into play, even if you already have one in play. If you already had one in play, discard the old one. (Nobody gets the reward.)",
-			"cardRarity": "Holo Portrait Premium",
-			"cardArtist": "Jon Foster"
+			"description": "You may use 1 Action (instead of 2) to put an Adventure card from your hand into play, even if you already have one in play. If you already had one in play, discard the old one. (Nobody gets the reward.)",
+			"rarity": "Holo Portrait Premium",
+			"artist": "Jon Foster"
 		},
 		{
-			"cardNo": "6",
-			"cardName": "Gaze Into the Mirror",
-			"cardType": "Adventure",
-			"cardText": {
+			"number": "6",
+			"name": "Gaze Into the Mirror",
+			"type": "Adventure",
+			"description": {
 				"effect": "During your opponent's turns, prevent all damage done to you by Spell cards.",
 				"toSolve": "Your opponent chooses 5 Spell cards in his or her hand and discards them.",
 				"reward": "Your opponent gets 1 more Action (the turn this Adventure is solved)."
 			},
 			"flavorText": "'Harry was so closed to the mirror now that his nose was nearly touching that of his reflection. 'Mum?' he whispered. 'Dad?''",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Jim Nelson"
+			"rarity": "Foil Premium",
+			"artist": "Jim Nelson"
 		},
 		{
-			"cardNo": "7",
-			"cardName": "Gold Cauldron",
-			"lessonType": "Potions",
-			"powerCost": "9",
-			"cardType": "Item",
-			"cardText": "Before each of your turns, Bludger does 3 damage to your opponent if a match is in play. (If there isn't a Match in play, Bludger does no damage).",
+			"number": "7",
+			"name": "Gold Cauldron",
+			"lesson": "Potions",
+			"cost": "9",
+			"type": "Item",
+			"description": "Before each of your turns, Bludger does 3 damage to your opponent if a match is in play. (If there isn't a Match in play, Bludger does no damage).",
 			"provides": [
 				"5",
 				"Potions"
 			],
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Bob Petillo"
+			"rarity": "Foil Premium",
+			"artist": "Bob Petillo"
 		},
 		{
-			"cardNo": "8",
-			"cardName": "Golden Snitch",
-			"lessonType": "Quidditch",
-			"powerCost": "11",
-			"cardType": "Item",
-			"cardText": "At the end of your opponent's turn, you win the game unless your opponent has at least 10 more cards in his or her deck than you do. (If he or she does, your opponent wins the game instead.)",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Keith Garletts"
+			"number": "8",
+			"name": "Golden Snitch",
+			"lesson": "Quidditch",
+			"cost": "11",
+			"type": "Item",
+			"description": "At the end of your opponent's turn, you win the game unless your opponent has at least 10 more cards in his or her deck than you do. (If he or she does, your opponent wins the game instead.)",
+			"rarity": "Foil Premium",
+			"artist": "Keith Garletts"
 		},
 		{
-			"cardNo": "9",
-			"cardName": "Hagrid Needs Help",
-			"cardType": "Adventure",
-			"cardText": {
+			"number": "9",
+			"name": "Hagrid Needs Help",
+			"type": "Adventure",
+			"description": {
 				"effect": "Your opponent gets 1 fewer Action on each of his or her turns (even the turn this Adventure is solved). (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)",
 				"toSolve": "Your opponent takes 8 damage.",
 				"reward": "Your opponent may draw 3 cards."
 			},
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Patrick Faricy"
+			"rarity": "Foil Premium",
+			"artist": "Patrick Faricy"
 		},
 		{
-			"cardNo": "10",
-			"cardName": "Halloween Feast",
-			"lessonType": "Charms",
-			"powerCost": "4",
-			"cardType": "Spell",
-			"cardText": "Put up to 4 Creature cards from your discard pile into your hand.",
+			"number": "10",
+			"name": "Halloween Feast",
+			"lesson": "Charms",
+			"cost": "4",
+			"type": "Spell",
+			"description": "Put up to 4 Creature cards from your discard pile into your hand.",
 			"flavorText": "'A thousand live bats fluttered from the walls and ceilings while a thousand more swooped over the tables in low black clouds, making the candles in the pumpkins stutter.'",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "James Bernardin"
+			"rarity": "Foil Premium",
+			"artist": "James Bernardin"
 		},
 		{
-			"cardNo": "11",
-			"cardName": "Harry the Seeker",
-			"cardType": "Character",
-			"subType": [
+			"number": "11",
+			"name": "Harry the Seeker",
+			"type": "Character",
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
 			],
-			"cardText": "Once during each of your turns, when you use an Action to play a Quidditch Lesson card, you may also draw a card.",
+			"description": "Once during each of your turns, when you use an Action to play a Quidditch Lesson card, you may also draw a card.",
 			"flavorText": "'Harry saw it. In a great rush of excitement he dived downwards after the streak of gold.'",
-			"cardRarity": "Holo Portrait Premium",
-			"cardArtist": "Scott M. Fischer"
+			"rarity": "Holo Portrait Premium",
+			"artist": "Scott M. Fischer"
 		},
 		{
-			"cardNo": "12",
-			"cardName": "Hospital Bed",
-			"lessonType": "Potions",
-			"powerCost": "9",
-			"cardType": "Item",
-			"cardText": "You may use an Action to search your deck. You may take a Healing card, show it to your opponent and put it into your hand. Then shuffle your deck.",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Patrick Faricy"
+			"number": "12",
+			"name": "Hospital Bed",
+			"lesson": "Potions",
+			"cost": "9",
+			"type": "Item",
+			"description": "You may use an Action to search your deck. You may take a Healing card, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"rarity": "Foil Premium",
+			"artist": "Patrick Faricy"
 		},
 		{
-			"cardNo": "13",
-			"cardName": "Madam Rolanda Hooch",
-			"cardType": "Character",
-			"subType": [
+			"number": "13",
+			"name": "Madam Rolanda Hooch",
+			"type": "Character",
+			"subTypes": [
 				"Witch",
 				"Unique"
 			],
-			"cardText": "Once per game, you may search your deck. When you do, you may take a Broom card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"description": "Once per game, you may search your deck. When you do, you may take a Broom card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
 			"provides": [
 				"1",
 				"Quidditch"
 			],
 			"flavorText": "'Their teacher, Madam Hooch, arrived. She had short, grey hair and yellow eyes like a hawk.'",
-			"cardRarity": "Holo Portrait Premium",
-			"cardArtist": "Tony Szczudlo"
+			"rarity": "Holo Portrait Premium",
+			"artist": "Tony Szczudlo"
 		},
 		{
-			"cardNo": "14",
-			"cardName": "Marcus Flint",
-			"cardType": "Character",
-			"subType": [
+			"number": "14",
+			"name": "Marcus Flint",
+			"type": "Character",
+			"subTypes": [
 				"Wizard",
 				"Slytherin",
 				"Unique"
 			],
-			"cardText": "Once per game, you may make your opponent choose 3 cards in his or her hand and discard them. (If there are fewer than 3 cards in your opponent's hand, he or she discards them all.)",
+			"description": "Once per game, you may make your opponent choose 3 cards in his or her hand and discard them. (If there are fewer than 3 cards in your opponent's hand, he or she discards them all.)",
 			"flavorText": "'... Slytherin captain Marcus Flint gains the Quaffle and off he goes — Flint flying like an eagle up there...' - Lee Jordan, Commentator",
-			"cardRarity": "Holo Portrait Premium",
-			"cardArtist": "David A. Roach"
+			"rarity": "Holo Portrait Premium",
+			"artist": "David A. Roach"
 		},
 		{
-			"cardNo": "15",
-			"cardName": "Neville Longbottom",
-			"cardType": "Character",
-			"subType": [
+			"number": "15",
+			"name": "Neville Longbottom",
+			"type": "Character",
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
 			],
-			"cardText": "You may prevent all but the first 8 damage done to you each turn.",
+			"description": "You may prevent all but the first 8 damage done to you each turn.",
 			"flavorText": "'Neville went bright red but turned in his seat to face Malfoy. 'I'm worth twelve of you, Malfoy,' he stammered.'",
-			"cardRarity": "Holo Portrait Premium",
-			"cardArtist": [
+			"rarity": "Holo Portrait Premium",
+			"artist": [
 				"Ken Steacy",
 				"Zina Saunders"
 			]
 		},
 		{
-			"cardNo": "16",
-			"cardName": "Nimbus Two Thousand",
-			"cardType": "Item",
-			"subType": "Broom",
-			"cardText": "Once per game, you may search your deck. When you do, you may take a Broom card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"number": "16",
+			"name": "Nimbus Two Thousand",
+			"type": "Item",
+			"subTypes": [
+                "Broom"
+            ],
+			"description": "Whenever 1 of your Item or Spell cards that needs Quidditch Power does damage, it does 2 more damage. If you play this card and already have a Broom in play, discard the old one.",
 			"provides": [
 				"1",
 				"Quidditch"
 			],
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Mark Romanoski"
+			"rarity": "Foil Premium",
+			"artist": "Mark Romanoski"
 		},
 		{
-			"cardNo": "17",
-			"cardName": "No Time to Play",
-			"lessonType": "Transfiguration",
-			"powerCost": "4",
-			"cardType": "Spell",
-			"cardText": "Discard all Matches and Items that need Quidditch Power from play (even your own). (If a Match is discarded, no one gets the prize.)",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Michael Koelsch"
+			"number": "17",
+			"name": "No Time to Play",
+			"lesson": "Transfiguration",
+			"cost": "4",
+			"type": "Spell",
+			"description": "Discard all Matches and Items that need Quidditch Power from play (even your own). (If a Match is discarded, no one gets the prize.)",
+			"rarity": "Foil Premium",
+			"artist": "Michael Koelsch"
 		},
 		{
-			"cardNo": "18",
-			"cardName": "Oliver Wood",
-			"cardType": "Character",
-			"subType": [
+			"number": "18",
+			"name": "Oliver Wood",
+			"type": "Character",
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
 			],
-			"cardText": "Once per game, when 1 of your Spell cards that needs Quidditch Power does damage, you may have it do 8 more damage.",
+			"description": "Once per game, when 1 of your Spell cards that needs Quidditch Power does damage, you may have it do 8 more damage.",
 			"flavorText": "'That Quidditch Cup'll have our name on it this year,' said Wood happily as they drudged back up to the castle.'",
-			"cardRarity": "Holo Portrait Premium",
-			"cardArtist": [
+			"rarity": "Holo Portrait Premium",
+			"artist": [
 				"Kevin McCann",
 				"Michael Collins"
 			]
 		},
 		{
-			"cardNo": "19",
-			"cardName": "Out of Control",
-			"lessonType": "Quidditch",
-			"powerCost": "10",
-			"cardType": "Spell",
-			"cardText": "Do 6 damage to your opponent. Then your opponent chooses 4 cards in his or her hand and discards them. (If there are fewer than 4 cards in your opponent's hand, he or she discards them all.)",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Jeff Laubenstein"
+			"number": "19",
+			"name": "Out of Control",
+			"lesson": "Quidditch",
+			"cost": "10",
+			"type": "Spell",
+			"description": "Do 6 damage to your opponent. Then your opponent chooses 4 cards in his or her hand and discards them. (If there are fewer than 4 cards in your opponent's hand, he or she discards them all.)",
+			"rarity": "Foil Premium",
+			"artist": "Jeff Laubenstein"
 		},
 		{
-			"cardNo": "20",
-			"cardName": "Potions Class Disaster",
-			"lessonType": "Potions",
-			"powerCost": "12",
-			"cardType": "Spell",
-			"cardText": "Your opponent chooses 5 of his or her cards and discards them. Those cards can come from his or her hand or from play or from both. (If there are fewer than 5 total cards in your opponent's hand and in play, he or she discards them all.)",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Alex Horley"
+			"number": "20",
+			"name": "Potions Class Disaster",
+			"lesson": "Potions",
+			"cost": "12",
+			"type": "Spell",
+			"description": "Your opponent chooses 5 of his or her cards and discards them. Those cards can come from his or her hand or from play or from both. (If there are fewer than 5 total cards in your opponent's hand and in play, he or she discards them all.)",
+			"rarity": "Foil Premium",
+			"artist": "Alex Horley"
 		},
 		{
-			"cardNo": "21",
-			"cardName": "Prof. Minerva McGonagall",
-			"cardType": "Character",
-			"subType": [
+			"number": "21",
+			"name": "Prof. Minerva McGonagall",
+			"type": "Character",
+			"subTypes": [
 				"Witch",
 				"Gryffindor",
 				"Unique"
 			],
-			"cardText": "Once per game, you may discard the Adventure your opponent has played. (You don't get the reward.)",
+			"description": "Once per game, you may discard the Adventure your opponent has played. (You don't get the reward.)",
 			"provides": [
 				"1",
 				"Transfiguration"
 			],
-			"cardRarity": "Holo Portrait Premium",
-			"cardArtist": "Scott M. Fischer"
+			"rarity": "Holo Portrait Premium",
+			"artist": "Scott M. Fischer"
 		},
 		{
-			"cardNo": "22",
-			"cardName": "Put-Outer",
-			"lessonType": "Transfiguration",
-			"powerCost": "4",
-			"cardType": "Item",
-			"cardText": "You may use 2 Actions to choose 1 of your opponent's cards in play (other than his or her starting Character) and return it to his or her hand.",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Patrick Faricy"
+			"number": "22",
+			"name": "Put-Outer",
+			"lesson": "Transfiguration",
+			"cost": "4",
+			"type": "Item",
+			"description": "You may use 2 Actions to choose 1 of your opponent's cards in play (other than his or her starting Character) and return it to his or her hand.",
+			"rarity": "Foil Premium",
+			"artist": "Patrick Faricy"
 		},
 		{
-			"cardNo": "23",
-			"cardName": "Ravenclaw Match",
-			"lessonType": "Quidditch",
-			"powerCost": "1",
-			"cardType": "Match",
-			"cardText": {
+			"number": "23",
+			"name": "Ravenclaw Match",
+			"lesson": "Quidditch",
+			"cost": "1",
+			"type": "Match",
+			"description": {
 				"toWin": "Do 10 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
 				"prize": "The winner searches his or her deck. He or she may take up to 2 Lesson cards from his or her deck and put them into play. Then that player shuffles his or her deck."
 			},
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Ben Thompson"
+			"rarity": "Foil Premium",
+			"artist": "Ben Thompson"
 		},
 		{
-			"cardNo": "24",
-			"cardName": "Scabbers",
-			"lessonType": "Care of Magical Creatures",
-			"powerCost": "4",
-			"cardType": "Creature",
-			"subType": [
+			"number": "24",
+			"name": "Scabbers",
+			"lesson": "Care of Magical Creatures",
+			"cost": "4",
+			"type": "Creature",
+			"subTypes": [
 				"Rat",
 				"Unique"
 			],
-			"cardText": "If Scabbers is discarded from play during your opponent's turn, put it into your hand.",
+			"description": "If Scabbers is discarded from play during your opponent's turn, put it into your hand.",
 			"dmgEachTurn": "1",
 			"health": "3",
 			"flavorText": "'The rat was still snoozing on Ron's lap. 'He might have died and you wouldn't know the difference,' said Ron in disgust.'",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Patrick Faricy"
+			"rarity": "Foil Premium",
+			"artist": "Patrick Faricy"
 		},
 		{
-			"cardNo": "25",
-			"cardName": "Seamus Finnigan",
-			"cardType": "Character",
-			"subType": [
+			"number": "25",
+			"name": "Seamus Finnigan",
+			"type": "Character",
+			"subTypes": [
 				"Wizard",
 				"Gryffindor",
 				"Unique"
 			],
-			"cardText": "Once during each of your turns, you may discard 2 cards from your hand to get 1 more Action.",
+			"description": "Once during each of your turns, you may discard 2 cards from your hand to get 1 more Action.",
 			"flavorText": "''Finnigan, Seamus', the sandy-haired boy next to Harry in the line, sat on the stool for almost a whole minute before the hat declared him a Gryffindor.'",
-			"cardRarity": "Holo Portrait Premium",
-			"cardArtist": [
+			"rarity": "Holo Portrait Premium",
+			"artist": [
 				"Ken Steacy",
 				"Zina Saunders"
 			]
 		},
 		{
-			"cardNo": "26",
-			"cardName": "Slytherin Match",
-			"lessonType": "Quidditch",
-			"powerCost": "1",
-			"cardType": "Match",
-			"subType": "Healing",
-			"cardText": {
+			"number": "26",
+			"name": "Slytherin Match",
+			"lesson": "Quidditch",
+			"cost": "1",
+			"type": "Match",
+			"subTypes": [
+                "Healing"
+            ],
+			"description": {
 				"toWin": "Do 15 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
 				"prize": "The winner may shuffle up to 15 non-Healing cards from his or her discard pile into his or her deck."
 			},
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Ben Thompson"
+			"rarity": "Foil Premium",
+			"artist": "Ben Thompson"
 		},
 		{
-			"cardNo": "27",
-			"cardName": "Start-of-Term Feast",
-			"lessonType": "Charms",
-			"powerCost": "4",
-			"cardType": "Spell",
-			"cardText": "Put up to 4 Lesson cards from your discard pile into your hand.",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "James Bernardin"
+			"number": "27",
+			"name": "Start-of-Term Feast",
+			"lesson": "Charms",
+			"cost": "4",
+			"type": "Spell",
+			"description": "Put up to 4 Lesson cards from your discard pile into your hand.",
+			"rarity": "Foil Premium",
+			"artist": "James Bernardin"
 		},
 		{
-			"cardNo": "28",
-			"cardName": "Support Banner",
-			"lessonType": "Quidditch",
-			"powerCost": "5",
-			"cardType": "Item",
-			"cardText": "At the end of your turn, draw a card if you played at least 1 Spell card that needs Quidditch Power that turn.",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Michael Koelsch"
+			"number": "28",
+			"name": "Support Banner",
+			"lesson": "Quidditch",
+			"cost": "5",
+			"type": "Item",
+			"description": "At the end of your turn, draw a card if you played at least 1 Spell card that needs Quidditch Power that turn.",
+			"rarity": "Foil Premium",
+			"artist": "Michael Koelsch"
 		},
 		{
-			"cardNo": "29",
-			"cardName": "The Sorting Hat",
-			"lessonType": "Transfiguration",
-			"powerCost": "8",
-			"cardType": "Item",
-			"cardText": "You may use 2 Actions to search your deck. You may take a Character card of a Character that isn't already in play and put it in play. Then shuffle your deck.",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Kevin Dobler"
+			"number": "29",
+			"name": "The Sorting Hat",
+			"lesson": "Transfiguration",
+			"cost": "8",
+			"type": "Item",
+			"description": "You may use 2 Actions to search your deck. You may take a Character card of a Character that isn't already in play and put it in play. Then shuffle your deck.",
+			"rarity": "Foil Premium",
+			"artist": "Kevin Dobler"
 		},
 		{
-			"cardNo": "30",
-			"cardName": "Trevor",
-			"lessonType": "Care of Magical Creatures",
-			"powerCost": "3",
-			"cardType": "Creature",
-			"subType": [
+			"number": "30",
+			"name": "Trevor",
+			"lesson": "Care of Magical Creatures",
+			"cost": "3",
+			"type": "Creature",
+			"subTypes": [
 				"Toad",
 				"Unique"
 			],
-			"cardText": "When you play this card, you may put a Lesson card from your discard pile into your hand. Whenever a Spell card damages you, you may let Trevor take that damage instead.",
+			"description": "When you play this card, you may put a Lesson card from your discard pile into your hand. Whenever a Spell card damages you, you may let Trevor take that damage instead.",
 			"health": "1",
 			"flavorText": "'When they shook their heads, he wailed, 'I've lost him! He keeps getting away from me!'' - Neville Longbottom",
-			"cardRarity": "Foil Premium",
-			"cardArtist": "Zina Saunders"
+			"rarity": "Foil Premium",
+			"artist": "Zina Saunders"
 		},
 		{
-			"cardNo": "31",
-			"cardName": "Chocolate Frogs",
-			"lessonType": "Charms",
-			"powerCost": "1",
-			"cardType": "Spell",
-			"cardText": "Search your deck. You may take a Wizard or a Witch card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"number": "31",
+			"name": "Chocolate Frogs",
+			"lesson": "Charms",
+			"cost": "1",
+			"type": "Spell",
+			"description": "Search your deck. You may take a Wizard or a Witch card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
 			"flavorText": "''What are those?' Harry asked Ron, holding up a pack of Chocolate Frogs. 'They're not really frogs, are they?''",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Monte Michael Moore"
+			"rarity": "Uncommon",
+			"artist": "Monte Michael Moore"
 		},
 		{
-			"cardNo": "32",
-			"cardName": "Comet Two Sixty",
-			"lessonType": "Quidditch",
-			"powerCost": "3",
-			"cardType": "Item",
-			"subType": "Broom",
-			"cardText": "Once during each of your opponent's turns, you may prevent 1 damage done to you. If you play this card, and you already have a Broom in play, discard the old one.",
+			"number": "32",
+			"name": "Comet Two Sixty",
+			"lesson": "Quidditch",
+			"cost": "3",
+			"type": "Item",
+			"subTypes": [
+                "Broom"
+            ],
+			"description": "Once during each of your opponent's turns, you may prevent 1 damage done to you. If you play this card, and you already have a Broom in play, discard the old one.",
 			"provides": [
 				"1",
 				"Quidditch"
 			],
-			"cardRarity": "Uncommon",
-			"cardArtist": "James Bernardin"
+			"rarity": "Uncommon",
+			"artist": "James Bernardin"
 		},
 		{
-			"cardNo": "33",
-			"cardName": "Defence!",
-			"lessonType": "Quidditch",
-			"powerCost": "10",
-			"cardType": "Spell",
-			"cardText": "During your opponent's next turn, prevent all damage done to you.",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Michael Koelsch"
+			"number": "33",
+			"name": "Defence!",
+			"lesson": "Quidditch",
+			"cost": "10",
+			"type": "Spell",
+			"description": "During your opponent's next turn, prevent all damage done to you.",
+			"rarity": "Uncommon",
+			"artist": "Michael Koelsch"
 		},
 		{
-			"cardNo": "34",
-			"cardName": "Devil's Snare",
-			"lessonType": "Care of Magical Creatures",
-			"powerCost": "4",
-			"cardType": "Creature",
-			"subType": "Plant",
-			"cardText": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. At the end of each of your turns, remove all damage counters from Devil's Snare.",
+			"number": "34",
+			"name": "Devil's Snare",
+			"lesson": "Care of Magical Creatures",
+			"cost": "4",
+			"type": "Creature",
+			"subTypes": [
+                "Plant"
+            ],
+			"description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. At the end of each of your turns, remove all damage counters from Devil's Snare.",
 			"dmgEachTurn": "2",
 			"health": "6",
 			"flavorText": "'As for Harry and Ron, their legs had already been bound tightly in long creepers without their noticing.'",
-			"cardRarity": "Uncommon"
+			"rarity": "Uncommon"
 		},
 		{
-			"cardNo": "35",
-			"cardName": "Diffindo",
-			"lessonType": "Transfiguration",
-			"powerCost": "8",
-			"cardType": "Spell",
-			"cardText": "Choose 1 of your opponent's cards in play (other than his or her starting Character). Your opponent discards that card.",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Tim Hildebrandt"
+			"number": "35",
+			"name": "Diffindo",
+			"lesson": "Transfiguration",
+			"cost": "8",
+			"type": "Spell",
+			"description": "Choose 1 of your opponent's cards in play (other than his or her starting Character). Your opponent discards that card.",
+			"rarity": "Uncommon",
+			"artist": "Tim Hildebrandt"
 		},
 		{
-			"cardNo": "36",
-			"cardName": "Doxy",
-			"lessonType": "Care of Magical Creatures",
-			"powerCost": "6",
-			"cardType": "Creature",
-			"subType": "Fairy",
-			"cardText": "When you play this card, you may choose another Creature in play. Do 2 damage to it.",
+			"number": "36",
+			"name": "Doxy",
+			"lesson": "Care of Magical Creatures",
+			"cost": "6",
+			"type": "Creature",
+			"subTypes": [
+                "Fairy"
+            ],
+			"description": "When you play this card, you may choose another Creature in play. Do 2 damage to it.",
 			"dmgEachTurn": "2",
 			"health": "1",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Jeff Laubenstein"
+			"rarity": "Uncommon",
+			"artist": "Jeff Laubenstein"
 		},
 		{
-			"cardNo": "37",
-			"cardName": "Hufflepuff Match",
-			"lessonType": "Quidditch",
-			"powerCost": "1",
-			"cardType": "Match",
-			"cardText": {
+			"number": "37",
+			"name": "Hufflepuff Match",
+			"lesson": "Quidditch",
+			"cost": "1",
+			"type": "Match",
+			"description": {
 				"toWin": "Do 8 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
 				"prize": "The winner may draw 5 cards. The loser takes 5 damage."
 			},
 			"flavorText": "'Up in the air, Snape turned on his broomstick just in time to see something scarlet shoot past him, missing him by inches...'",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Ben Thompson"
+			"rarity": "Uncommon",
+			"artist": "Ben Thompson"
 		},
 		{
-			"cardNo": "38",
-			"cardName": "In the Stands",
-			"cardType": "Adventure",
-			"cardText": {
+			"number": "38",
+			"name": "In the Stands",
+			"type": "Adventure",
+			"description": {
 				"effect": "Your opponent can't play Creature cards.",
 				"toSolve": "Your opponent chooses 4 Creature cards in his or her hand and discards them.",
 				"reward": "Your opponent may draw a card."
 			},
 			"flavorText": "'It took perhaps thirty seconds for Snape to realise that he was on fire.'",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Patrick Faricy"
+			"rarity": "Uncommon",
+			"artist": "Patrick Faricy"
 		},
 		{
-			"cardNo": "39",
-			"cardName": "Into the Forbidden Forest",
-			"cardType": "Adventure",
-			"cardText": {
+			"number": "39",
+			"name": "Into the Forbidden Forest",
+			"type": "Adventure",
+			"description": {
 				"effect": "Whenever 1 of your Creatures does damage to your opponent, it does 1 more damage.",
 				"toSolve": "Your opponent skips a total of 5 Actions. (Those Actions don't need to be one right after the other.)",
 				"reward": "Your opponent may draw a card."
 			},
 			"flavorText": "'They walked in silence, their eyes on the ground. Every now and then a ray of moonlight through the branches above lit a spot of silver blue blood on the fallen leaves.'",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Lars Grant-West"
+			"rarity": "Uncommon",
+			"artist": "Lars Grant-West"
 		},
 		{
-			"cardNo": "40",
-			"cardName": "Jawbind Potion",
-			"lessonType": "Potions",
-			"powerCost": "4",
-			"cardType": "Spell",
-			"cardText": "Do 2 damage to your opponent. During your opponent's next turn, he or she can't play Spell cards.",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Alex Horley"
+			"number": "40",
+			"name": "Jawbind Potion",
+			"lesson": "Potions",
+			"cost": "4",
+			"type": "Spell",
+			"description": "Do 2 damage to your opponent. During your opponent's next turn, he or she can't play Spell cards.",
+			"rarity": "Uncommon",
+			"artist": "Alex Horley"
 		},
 		{
-			"cardNo": "41",
-			"cardName": "Missing Parchment",
-			"lessonType": "Charms",
-			"powerCost": "2",
-			"cardType": "Spell",
-			"cardText": "Look at your opponent's hand. If there are any Spell cards there, choose 1 of them and discard it.",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Kevin Dobler"
+			"number": "41",
+			"name": "Missing Parchment",
+			"lesson": "Charms",
+			"cost": "2",
+			"type": "Spell",
+			"description": "Look at your opponent's hand. If there are any Spell cards there, choose 1 of them and discard it.",
+			"rarity": "Uncommon",
+			"artist": "Kevin Dobler"
 		},
 		{
-			"cardNo": "42",
-			"cardName": "Penalty Shot",
-			"lessonType": "Quidditch",
-			"powerCost": "5",
-			"cardType": "Spell",
-			"cardText": "Draw 3 cards.",
-			"cardRarity": "Uncommon",
-			"cardArtist": "James Bernardin"
+			"number": "42",
+			"name": "Penalty Shot",
+			"lesson": "Quidditch",
+			"cost": "5",
+			"type": "Spell",
+			"description": "Draw 3 cards.",
+			"rarity": "Uncommon",
+			"artist": "James Bernardin"
 		},
 		{
-			"cardNo": "43",
-			"cardName": "Pep Talk",
-			"cardType": "Adventure",
-			"cardText": {
+			"number": "43",
+			"name": "Pep Talk",
+			"type": "Adventure",
+			"description": {
 				"effect": "The first Action your opponent uses on each of his or her turns must be used to draw a card.",
 				"toSolve": "Your opponent shows you a card from his or her hand with a (printed) Power needed of 8 or more.",
 				"reward": "Your opponent may draw 2 cards."
 			},
 			"flavorText": "'Don't want to pressure you, Potter, but if we ever need an early capture of the Snitch it's now.' - Oliver Wood",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Patrick Faricy"
+			"rarity": "Uncommon",
+			"artist": "Patrick Faricy"
 		},
 		{
-			"cardNo": "44",
-			"cardName": "Petrificus Totalus",
-			"lessonType": "Transfiguration",
-			"powerCost": "1",
-			"cardType": "Spell",
-			"cardText": "Choose 1 of either player's Creatures in play and a Lesson card in that player's discard pile. Discard that Creature and put that Lesson card into play.",
-			"cardRarity": "Uncommon",
-			"cardArtist": [
+			"number": "44",
+			"name": "Petrificus Totalus",
+			"lesson": "Transfiguration",
+			"cost": "1",
+			"type": "Spell",
+			"description": "Choose 1 of either player's Creatures in play and a Lesson card in that player's discard pile. Discard that Creature and put that Lesson card into play.",
+			"rarity": "Uncommon",
+			"artist": [
 				"Ken Steacy",
 				"Zina Saunders"
 			]
 		},
 		{
-			"cardNo": "45",
-			"cardName": "Power Play",
-			"lessonType": "Quidditch",
-			"powerCost": "6",
-			"cardType": "Spell",
-			"cardText": "Play this card only if a Match is in play. Do 7 damage to your opponent.",
-			"cardRarity": "Uncommon",
-			"cardArtist": "David A. Roach"
+			"number": "45",
+			"name": "Power Play",
+			"lesson": "Quidditch",
+			"cost": "6",
+			"type": "Spell",
+			"description": "Play this card only if a Match is in play. Do 7 damage to your opponent.",
+			"rarity": "Uncommon",
+			"artist": "David A. Roach"
 		},
 		{
-			"cardNo": "46",
-			"cardName": "Race for the Snitch",
-			"cardType": "Adventure",
-			"cardText": {
+			"number": "46",
+			"name": "Race for the Snitch",
+			"type": "Adventure",
+			"description": {
 				"effect": "Your opponent discards the card he or she draws at the start of each of his or her turns.",
 				"toSolve": "Your opponent discards his or her hand.",
 				"reward": "You discard your hand."
 			},
 			"flavorText": "'Harry was faster than Higgs - he could see the little round ball, wings fluttering, darting up ahead..'",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Jon Foster"
+			"rarity": "Uncommon",
+			"artist": "Jon Foster"
 		},
 		{
-			"cardNo": "47",
-			"cardName": "Snape's Bias",
-			"cardType": "Adventure",
-			"cardText": {
+			"number": "47",
+			"name": "Snape's Bias",
+			"type": "Adventure",
+			"description": {
 				"effect": "Your opponent can't use Actions to draw cards.",
 				"toSolve": "Your opponent lets you search your deck for up to 2 cards and put them into your hand. Then shuffle your deck.",
 				"reward": "Your opponent may draw a card."
 			},
 			"flavorText": "'Ron didn't answer; Snape had just awarded Hufflepuff a penalty because George Weasley had hit a Bludger at him.'",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Patrick Faricy"
+			"rarity": "Uncommon",
+			"artist": "Patrick Faricy"
 		},
 		{
-			"cardNo": "48",
-			"cardName": "Sticking Up for Neville",
-			"cardType": "Adventure",
-			"cardText": {
+			"number": "48",
+			"name": "Sticking Up for Neville",
+			"type": "Adventure",
+			"description": {
 				"effect": "Before each of your turns, your opponent takes 4 damage.",
 				"toSolve": "Your opponent discards his or her hand.",
 				"reward": "Your opponent may put up to 4 non-Healing cards from his or her discard pile on the bottom of his or her deck (in any order)."
 			},
 			"flavorText": "'He turned his broomstick sharply to face Malfoy in mid-air. Malfoy looked stunned.'",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Patrick Faricy"
+			"rarity": "Uncommon",
+			"artist": "Patrick Faricy"
 		},
 		{
-			"cardNo": "49",
-			"cardName": "Strategy Session",
-			"lessonType": "Quidditch",
-			"powerCost": "3",
-			"cardType": "Spell",
-			"cardText": "You may put up to 3 Quidditch Lessons from your hand into play.",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Michael Koelsch"
+			"number": "49",
+			"name": "Strategy Session",
+			"lesson": "Quidditch",
+			"cost": "3",
+			"type": "Spell",
+			"description": "You may put up to 3 Quidditch Lessons from your hand into play.",
+			"rarity": "Uncommon",
+			"artist": "Michael Koelsch"
 		},
 		{
-			"cardNo": "50",
-			"cardName": "Weakness Potion",
-			"lessonType": "Potions",
-			"powerCost": "7",
-			"cardType": "Spell",
-			"cardText": "To play this card, discard 1 of your Potions Lessons from play. Do 5 damage to your opponent. During your opponent's next turn, prevent all damage done to you by your opponent's Creatures.",
-			"cardRarity": "Uncommon",
-			"cardArtist": "Keith Garletts"
+			"number": "50",
+			"name": "Weakness Potion",
+			"lesson": "Potions",
+			"cost": "7",
+			"type": "Spell",
+			"description": "To play this card, discard 1 of your Potions Lessons from play. Do 5 damage to your opponent. During your opponent's next turn, prevent all damage done to you by your opponent's Creatures.",
+			"rarity": "Uncommon",
+			"artist": "Keith Garletts"
 		},
 		{
-			"cardNo": "51",
-			"cardName": "Bloodroot Poison",
-			"lessonType": "Potions",
-			"powerCost": "2",
-			"cardType": "Spell",
-			"cardText": "To play this card, discard 1 of your Potions Lessons from play. Do 4 damage to your opponent or to a Creature of your choice.",
-			"cardRarity": "Common",
-			"cardArtist": "Keith Garletts"
+			"number": "51",
+			"name": "Bloodroot Poison",
+			"lesson": "Potions",
+			"cost": "2",
+			"type": "Spell",
+			"description": "To play this card, discard 1 of your Potions Lessons from play. Do 4 damage to your opponent or to a Creature of your choice.",
+			"rarity": "Common",
+			"artist": "Keith Garletts"
 		},
 		{
-			"cardNo": "52",
-			"cardName": "Bravado",
-			"lessonType": "Charms",
-			"powerCost": "3",
-			"cardType": "Spell",
-			"cardText": "For the rest of this turn, your Spell cards need 5 less Power to play. (You still need at least 1 Power that matches.)",
-			"cardRarity": "Common",
-			"cardArtist": "Mark Romanoski"
+			"number": "52",
+			"name": "Bravado",
+			"lesson": "Charms",
+			"cost": "3",
+			"type": "Spell",
+			"description": "For the rest of this turn, your Spell cards need 5 less Power to play. (You still need at least 1 Power that matches.)",
+			"rarity": "Common",
+			"artist": "Mark Romanoski"
 		},
 		{
-			"cardNo": "53",
-			"cardName": "Bruisewort Balm",
-			"lessonType": "Potions",
-			"powerCost": "3",
-			"cardType": "Spell",
-			"subType": "Healing",
-			"cardText": "Shuffle up to 5 non-Healing cards from your discard pile into your deck.",
-			"cardRarity": "Common",
-			"cardArtist": "Alex Horley"
+			"number": "53",
+			"name": "Bruisewort Balm",
+			"lesson": "Potions",
+			"cost": "3",
+			"type": "Spell",
+			"subTypes": [
+                "Healing"
+            ],
+			"description": "Shuffle up to 5 non-Healing cards from your discard pile into your deck.",
+			"rarity": "Common",
+			"artist": "Alex Horley"
 		},
 		{
-			"cardNo": "54",
-			"cardName": "Cleansweep Seven",
-			"lessonType": "Quidditch",
-			"powerCost": "2",
-			"cardType": "Item",
-			"subType": "Broom",
-			"cardText": "When you play this card, look at the top 4 cards of your deck and put them back on top in any order. (If there are fewer than 4, look at all of them.) If you play this card, and you already have a Broom in play, discard the old one.",
+			"number": "54",
+			"name": "Cleansweep Seven",
+			"lesson": "Quidditch",
+			"cost": "2",
+			"type": "Item",
+			"subTypes": [
+                "Broom"
+            ],
+			"description": "When you play this card, look at the top 4 cards of your deck and put them back on top in any order. (If there are fewer than 4, look at all of them.) If you play this card, and you already have a Broom in play, discard the old one.",
 			"provides": [
 				"1",
 				"Quidditch"
 			],
-			"cardRarity": "Common",
-			"cardArtist": "Patrick Faricy"
+			"rarity": "Common",
+			"artist": "Patrick Faricy"
 		},
 		{
-			"cardNo": "55",
-			"cardName": "Cobbing",
-			"lessonType": "Quidditch",
-			"powerCost": "7",
-			"cardType": "Spell",
-			"cardText": "Do 4 damage to your opponent. Then, if your opponent has any cards in play, he or she chooses 1 of them and discards them.",
-			"cardRarity": "Common",
-			"cardArtist": "Patrick Faricy"
+			"number": "55",
+			"name": "Cobbing",
+			"lesson": "Quidditch",
+			"cost": "7",
+			"type": "Spell",
+			"description": "Do 4 damage to your opponent. Then, if your opponent has any cards in play, he or she chooses 1 of them and discards them.",
+			"rarity": "Common",
+			"artist": "Patrick Faricy"
 		},
 		{
-			"cardNo": "56",
-			"cardName": "Cobra Lily",
-			"lessonType": "Care of Magical Creatures",
-			"powerCost": "5",
-			"cardType": "Creature",
-			"subType": "Plant",
-			"cardText": "At the end of each of your turns, remove all damage counters from Cobra Lily.",
+			"number": "56",
+			"name": "Cobra Lily",
+			"lesson": "Care of Magical Creatures",
+			"cost": "5",
+			"type": "Creature",
+			"subTypes": [
+                "Plant"
+            ],
+			"description": "At the end of each of your turns, remove all damage counters from Cobra Lily.",
 			"dmgEachTurn": "2",
 			"health": "3",
-			"cardRarity": "Common",
-			"cardArtist": "Doug Chaffee"
+			"rarity": "Common",
+			"artist": "Doug Chaffee"
 		},
 		{
-			"cardNo": "57",
-			"cardName": "Cunning Fox",
-			"lessonType": "Care of Magical Creatures",
-			"powerCost": "5",
-			"cardType": "Creature",
-			"subType": "Fox",
+			"number": "57",
+			"name": "Cunning Fox",
+			"lesson": "Care of Magical Creatures",
+			"cost": "5",
+			"type": "Creature",
+			"subTypes": [
+                "Fox"
+            ],
 			"dmgEachTurn": "3",
 			"health": "1",
-			"cardRarity": "Common",
-			"cardArtist": "Doug Chaffee"
+			"rarity": "Common",
+			"artist": "Doug Chaffee"
 		},
 		{
-			"cardNo": "58",
-			"cardName": "Desk Into Pig",
-			"lessonType": "Transfiguration",
-			"powerCost": "1",
-			"cardType": "Spell",
-			"cardText": "To play this card, discard 1 of your Lessons from play. Search your deck. You may take up to 3 Creature cards from your deck, show them to your opponent and put them into your hand. Then shuffle your deck.",
+			"number": "58",
+			"name": "Desk Into Pig",
+			"lesson": "Transfiguration",
+			"cost": "1",
+			"type": "Spell",
+			"description": "To play this card, discard 1 of your Lessons from play. Search your deck. You may take up to 3 Creature cards from your deck, show them to your opponent and put them into your hand. Then shuffle your deck.",
 			"flavorText": "'Then she changed her desk into a pig and back again.'",
-			"cardRarity": "Common",
-			"cardArtist": "Melissa Ferreira"
+			"rarity": "Common",
+			"artist": "Melissa Ferreira"
 		},
 		{
-			"cardNo": "59",
-			"cardName": "Drowsiness Draught",
-			"lessonType": "Potions",
-			"powerCost": "8",
-			"cardType": "Spell",
-			"cardText": "Do 3 damage to your opponent. During your opponent's next turn, he or she can't use Actions to play Lesson cards.",
-			"cardRarity": "Common",
-			"cardArtist": "Greg Hildebrandt"
+			"number": "59",
+			"name": "Drowsiness Draught",
+			"lesson": "Potions",
+			"cost": "8",
+			"type": "Spell",
+			"description": "Do 3 damage to your opponent. During your opponent's next turn, he or she can't use Actions to play Lesson cards.",
+			"rarity": "Common",
+			"artist": "Greg Hildebrandt"
 		},
 		{
-			"cardNo": "60",
-			"cardName": "Fouled!",
-			"lessonType": "Quidditch",
-			"powerCost": "4",
-			"cardType": "Spell",
-			"cardText": "Do 4 damage to your opponent. During your opponent's next turn, he or she gets 1 fewer Action. (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)",
+			"number": "60",
+			"name": "Fouled!",
+			"lesson": "Quidditch",
+			"cost": "4",
+			"type": "Spell",
+			"description": "Do 4 damage to your opponent. During your opponent's next turn, he or she gets 1 fewer Action. (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)",
 			"flavorText": "''WHAM!' A roar of rage echoed from the Gryffindors below - Marcus Flint had blocked Harry on purpose and Harry's broom span off course, Harry holding on for dear life.'",
-			"cardRarity": "Common",
-			"cardArtist": "James Bernardin"
+			"rarity": "Common",
+			"artist": "James Bernardin"
 		},
 		{
-			"cardNo": "61",
-			"cardName": "Gone!",
-			"lessonType": "Charms",
-			"powerCost": "1",
-			"cardType": "Spell",
-			"cardText": "Look at your opponent's hand. If there are any Creature cards there, choose 1 of them and discard it.",
-			"cardRarity": "Common",
-			"cardArtist": "Kevin Dobler"
+			"number": "61",
+			"name": "Gone!",
+			"lesson": "Charms",
+			"cost": "1",
+			"type": "Spell",
+			"description": "Look at your opponent's hand. If there are any Creature cards there, choose 1 of them and discard it.",
+			"rarity": "Common",
+			"artist": "Kevin Dobler"
 		},
 		{
-			"cardNo": "62",
-			"cardName": "Mice to Snuffboxes",
-			"lessonType": "Transfiguration",
-			"powerCost": "1",
-			"cardType": "Spell",
-			"cardText": "Choose up to 2 Creatures in play and return them to their owners' hands.",
-			"cardRarity": "Common",
-			"cardArtist": "Monte Michael Moore"
+			"number": "62",
+			"name": "Mice to Snuffboxes",
+			"lesson": "Transfiguration",
+			"cost": "1",
+			"type": "Spell",
+			"description": "Choose up to 2 Creatures in play and return them to their owners' hands.",
+			"rarity": "Common",
+			"artist": "Monte Michael Moore"
 		},
 		{
-			"cardNo": "63",
-			"cardName": "Mopsus Potion",
-			"lessonType": "Potions",
-			"powerCost": "8",
-			"cardType": "Spell",
-			"cardText": "Do 3 damage to yout opponent or to a Creature of your choice.",
-			"cardRarity": "Common",
-			"cardArtist": "Greg Hildebrandt"
+			"number": "63",
+			"name": "Mopsus Potion",
+			"lesson": "Potions",
+			"cost": "8",
+			"type": "Spell",
+			"description": "Do 3 damage to yout opponent or to a Creature of your choice.",
+			"rarity": "Common",
+			"artist": "Greg Hildebrandt"
 		},
 		{
-			"cardNo": "64",
-			"cardName": "Ouch!",
-			"lessonType": "Quidditch",
-			"powerCost": "5",
-			"cardType": "Spell",
-			"cardText": "Do 5 damage to your opponent. Then, if your opponent has any cards in his or her hand, he or she chooses 1 of them and discards it.",
-			"cardRarity": "Common",
-			"cardArtist": "Patrick Faricy"
+			"number": "64",
+			"name": "Ouch!",
+			"lesson": "Quidditch",
+			"cost": "5",
+			"type": "Spell",
+			"description": "Do 5 damage to your opponent. Then, if your opponent has any cards in his or her hand, he or she chooses 1 of them and discards it.",
+			"rarity": "Common",
+			"artist": "Patrick Faricy"
 		},
 		{
-			"cardNo": "65",
-			"cardName": "Practice Match",
-			"lessonType": "Quidditch",
-			"powerCost": "1",
-			"cardType": "Match",
-			"cardText": {
+			"number": "65",
+			"name": "Practice Match",
+			"lesson": "Quidditch",
+			"cost": "1",
+			"type": "Match",
+			"description": {
 				"toWin": "Do 5 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
 				"prize": "The winner may draw 4 cards."
 			},
-			"cardRarity": "Common",
-			"cardArtist": "Chris Seaman"
+			"rarity": "Common",
+			"artist": "Chris Seaman"
 		},
 		{
-			"cardNo": "66",
-			"cardName": "Pulling Up",
-			"lessonType": "Quidditch",
-			"powerCost": "4",
-			"cardType": "Spell",
-			"cardText": "Do 2 damage to your opponent. Then draw 2 cards.",
-			"cardRarity": "Common",
-			"cardArtist": "James Bernardin"
+			"number": "66",
+			"name": "Pulling Up",
+			"lesson": "Quidditch",
+			"cost": "4",
+			"type": "Spell",
+			"description": "Do 2 damage to your opponent. Then draw 2 cards.",
+			"rarity": "Common",
+			"artist": "James Bernardin"
 		},
 		{
-			"cardNo": "67",
-			"cardName": "Research",
-			"lessonType": "Transfiguration",
-			"powerCost": "5",
-			"cardType": "Spell",
-			"cardText": "To play this card, discard 1 of your Lessons from play. Search your deck. You may put up to 2 Lesson cards from your deck into play. Then shuffle your deck.",
+			"number": "67",
+			"name": "Research",
+			"lesson": "Transfiguration",
+			"cost": "5",
+			"type": "Spell",
+			"description": "To play this card, discard 1 of your Lessons from play. Search your deck. You may put up to 2 Lesson cards from your deck into play. Then shuffle your deck.",
 			"flavorText": "'And then, of course, there was the sheer size of the library; tens of thousands of books, thousands of shelves, hundreds of narrow rows.'",
-			"cardRarity": "Common",
-			"cardArtist": "Mark Romanoski"
+			"rarity": "Common",
+			"artist": "Mark Romanoski"
 		},
 		{
-			"cardNo": "68",
-			"cardName": "Rope Bind",
-			"lessonType": "Charms",
-			"powerCost": "3",
-			"cardType": "Spell",
-			"cardText": "Do 2 damage to your opponent or to a Creature of your choice. Then draw a card.",
-			"cardRarity": "Common",
-			"cardArtist": [
+			"number": "68",
+			"name": "Rope Bind",
+			"lesson": "Charms",
+			"cost": "3",
+			"type": "Spell",
+			"description": "Do 2 damage to your opponent or to a Creature of your choice. Then draw a card.",
+			"rarity": "Common",
+			"artist": [
 				"Kevin McCann",
 				"Michael Collins"
 			]
 		},
 		{
-			"cardNo": "69",
-			"cardName": "Searching for the Snitch",
-			"lessonType": "Quidditch",
-			"powerCost": "2",
-			"cardType": "Spell",
-			"cardText": "Search your deck. You may take a Quidditch Lesson or a card that needs Quidditch Power from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"number": "69",
+			"name": "Searching for the Snitch",
+			"lesson": "Quidditch",
+			"cost": "2",
+			"type": "Spell",
+			"description": "Search your deck. You may take a Quidditch Lesson or a card that needs Quidditch Power from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
 			"flavorText": "'Way up above them, Harry was gliding over the game, squinting about for some sign of the Snitch.'",
-			"cardRarity": "Common",
-			"cardArtist": "James Bernardin"
+			"rarity": "Common",
+			"artist": "James Bernardin"
 		},
 		{
-			"cardNo": "70",
-			"cardName": "Smash!",
-			"lessonType": "Quidditch",
-			"powerCost": "2",
-			"cardType": "Spell",
-			"cardText": "Choose 1 of your opponent's Items in play and discard it.",
-			"cardRarity": "Common",
-			"cardArtist": "Patrick Faricy"
+			"number": "70",
+			"name": "Smash!",
+			"lesson": "Quidditch",
+			"cost": "2",
+			"type": "Spell",
+			"description": "Choose 1 of your opponent's Items in play and discard it.",
+			"rarity": "Common",
+			"artist": "Patrick Faricy"
 		},
 		{
-			"cardNo": "71",
-			"cardName": "Stream of Flames",
-			"lessonType": "Charms",
-			"powerCost": "5",
-			"cardType": "Spell",
-			"cardText": "Do 3 damage to your opponent. You may also choose a Creature in play and do 3 damage to it.",
-			"cardRarity": "Common",
-			"cardArtist": [
+			"number": "71",
+			"name": "Stream of Flames",
+			"lesson": "Charms",
+			"cost": "5",
+			"type": "Spell",
+			"description": "Do 3 damage to your opponent. You may also choose a Creature in play and do 3 damage to it.",
+			"rarity": "Common",
+			"artist": [
 				"Ken Steacy",
 				"Zina Saunders"
 			]
 		},
 		{
-			"cardNo": "72",
-			"cardName": "Streeler",
-			"lessonType": "Care of Magical Creatures",
-			"powerCost": "4",
-			"cardType": "Creature",
-			"subType": "Snail",
-			"cardText": "When you play this card, you may choose another Creature in play. Do 1 damage to it.",
+			"number": "72",
+			"name": "Streeler",
+			"lesson": "Care of Magical Creatures",
+			"cost": "4",
+			"type": "Creature",
+			"subTypes": [
+                "Snail"
+            ],
+			"description": "When you play this card, you may choose another Creature in play. Do 1 damage to it.",
 			"dmgEachTurn": "1",
 			"health": "2",
-			"cardRarity": "Common",
-			"cardArtist": "Jeff Laubenstein"
+			"rarity": "Common",
+			"artist": "Jeff Laubenstein"
 		},
 		{
-			"cardNo": "73",
-			"cardName": "Swarm!",
-			"lessonType": "Care of Magical Creatures",
-			"powerCost": "5",
-			"cardType": "Spell",
-			"cardText": "Count the number or Creatures in play (yours and your opponent's). Do that much damage to your opponent.",
-			"cardRarity": "Common",
-			"cardArtist": "Monte Michael Moore"
+			"number": "73",
+			"name": "Swarm!",
+			"lesson": "Care of Magical Creatures",
+			"cost": "5",
+			"type": "Spell",
+			"description": "Count the number or Creatures in play (yours and your opponent's). Do that much damage to your opponent.",
+			"rarity": "Common",
+			"artist": "Monte Michael Moore"
 		},
 		{
-			"cardNo": "74",
-			"cardName": "Time Out",
-			"lessonType": "Quidditch",
-			"powerCost": "1",
-			"cardType": "Spell",
-			"cardText": "Look at the top 6 cards of your deck and put them back on top in any order. (If there are fewer than 6, look at all of them.)",
+			"number": "74",
+			"name": "Time Out",
+			"lesson": "Quidditch",
+			"cost": "1",
+			"type": "Spell",
+			"description": "Look at the top 6 cards of your deck and put them back on top in any order. (If there are fewer than 6, look at all of them.)",
 			"flavorText": "'Shut up, you two,' said Wood. 'This is the best team Gryffindor's had in years. We're going to win. I know it.'",
-			"cardRarity": "Common",
-			"cardArtist": "Michael Koelsch"
+			"rarity": "Common",
+			"artist": "Michael Koelsch"
 		},
 		{
-			"cardNo": "75",
-			"cardName": "Vanish",
-			"lessonType": "Quidditch",
-			"powerCost": "7",
-			"cardType": "Spell",
-			"cardText": "Choose 1 of your opponent's Creatures or Characters in play (other than his or her starting Character) and put it on the bottom of his or her deck.",
-			"cardRarity": "Common",
-			"cardArtist": "Monte Michael Moore"
+			"number": "75",
+			"name": "Vanish",
+			"lesson": "Quidditch",
+			"cost": "7",
+			"type": "Spell",
+			"description": "Choose 1 of your opponent's Creatures or Characters in play (other than his or her starting Character) and put it on the bottom of his or her deck.",
+			"rarity": "Common",
+			"artist": "Monte Michael Moore"
 		},
 		{
-			"cardNo": "76",
-			"cardName": "Care of Magical Creatures",
-			"lessonType": "Care of Magical Creatures",
-			"cardType": "Lesson",
+			"number": "76",
+			"name": "Care of Magical Creatures",
+			"lesson": "Care of Magical Creatures",
+			"type": "Lesson",
 			"provides": [
 				"1",
 				"Care of Magical Creatures"
 			],
-			"cardRarity": "Common",
-			"cardArtist": [
+			"rarity": "Common",
+			"artist": [
 				"Shanth Enjeti",
 				"Melissa Ferreira"
 			]
 		},
 		{
-			"cardNo": "77",
-			"cardName": "Charms",
-			"lessonType": "Charms",
-			"cardType": "Lesson",
+			"number": "77",
+			"name": "Charms",
+			"lesson": "Charms",
+			"type": "Lesson",
 			"provides": [
 				"1",
 				"Charms"
 			],
-			"cardRarity": "Common",
-			"cardArtist": [
+			"rarity": "Common",
+			"artist": [
 				"Shanth Enjeti",
 				"Melissa Ferreira"
 			]
 		},
 		{
-			"cardNo": "78",
-			"cardName": "Potions",
-			"lessonType": "Potions",
-			"cardType": "Lesson",
+			"number": "78",
+			"name": "Potions",
+			"lesson": "Potions",
+			"type": "Lesson",
 			"provides": [
 				"1",
 				"Potions"
 			],
-			"cardRarity": "Common",
-			"cardArtist": [
+			"rarity": "Common",
+			"artist": [
 				"Shanth Enjeti",
 				"Melissa Ferreira"
 			]
 		},
 		{
-			"cardNo": "79",
-			"cardName": "Quidditch",
-			"lessonType": "Quidditch",
-			"cardType": "Lesson",
+			"number": "79",
+			"name": "Quidditch",
+			"lesson": "Quidditch",
+			"type": "Lesson",
 			"provides": [
 				"1",
 				"Quidditch"
 			],
-			"cardRarity": "Common",
-			"cardArtist": [
+			"rarity": "Common",
+			"artist": [
 				"Shanth Enjeti",
 				"Melissa Ferreira"
 			]
 		},
 		{
-			"cardNo": "80",
-			"cardName": "Transfiguration",
-			"lessonType": "Transfiguration",
-			"cardType": "Lesson",
+			"number": "80",
+			"name": "Transfiguration",
+			"lesson": "Transfiguration",
+			"type": "Lesson",
 			"provides": [
 				"1",
 				"Transfiguration"
 			],
-			"cardRarity": "Common",
-			"cardArtist": [
+			"rarity": "Common",
+			"artist": [
 				"Shanth Enjeti",
 				"Melissa Ferreira"
 			]
