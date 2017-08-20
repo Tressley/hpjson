@@ -4,16 +4,6 @@
 	"totalCards": "80",
 	"cards": [
         {
-			"number": "",
-			"name": "",
-			"lesson": "",
-			"cost": "",
-			"type": "",
-			"description": "",
-			"rarity": "",
-			"artist": ""
-        },
-        {
 			"number": "1",
 			"name": "Beater Grabs the Snitch",
 			"lesson": "quidditch",
