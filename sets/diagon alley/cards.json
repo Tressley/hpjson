@@ -598,6 +598,369 @@
             "health": "5",
 			"rarity": "Uncommon",
 			"artist": ""
-        }
+        },
+        {
+			"number": "51",
+			"name": "A Beginner's Guide to Transfiguration",
+			"lesson": "Transfiguration",
+			"cost": "2",
+            "type": "Item",
+            "subTypes": [
+                "Book"
+            ],
+            "provides": [
+                "1",
+                "Transfiguration"
+            ],
+            "description": " You may use an action and discard this card from play to draw 3 cards.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "52",
+			"name": "Bludger in the Stands",
+			"lesson": "Quidditch",
+			"cost": "6",
+            "type": "Spell",
+            "description": "Do 4 damage to your opponent. Then, if your opponent has any items in play, he or she chooses 1 of them and discards it.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "53",
+			"name": "Blue Wig",
+			"lesson": "Charms",
+			"cost": "6",
+            "type": "Spell",
+            "description": "Do 4 damage to your opponent. Then draw a card.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "54",
+			"name": "Butterfly Weed Balm",
+			"lesson": "Potions",
+			"cost": "5",
+            "type": "Spell",
+            "subTypes": [
+                "Healing"
+            ],
+            "description": "To play this card, discard 1 of your Potions Lessons from play. Shuffle up to 9 non-Healing cards from your discard pile into your deck.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "55",
+			"name": "Cancelled Practice",
+			"lesson": "Transfiguration",
+			"cost": "2",
+            "type": "Spell",
+            "description": "Choose 1 of your opponent's Quidditch Lessons in play and discard it.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "56",
+			"name": "Dogbane Potion",
+			"lesson": "Potions",
+			"cost": "5",
+            "type": "Spell",
+            "description": "Choose 1 of your opponent's creatures in play and do 3 damage to it.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "57",
+			"name": "Dog Biscuits",
+			"lesson": "Care of Magical Creatures",
+			"cost": "1",
+            "type": "Spell",
+            "description": "Remove all damage counters (if any) from 1 of your creatures in play. Then draw a card.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "58",
+			"name": "Fantastic Beasts & Where to Find Them",
+			"lesson": "Care of Magical Creatures",
+			"cost": "2",
+            "type": "Item",
+            "subTypes": [
+                "Book"
+            ],
+            "provides": [
+                "1",
+                "Care of Magical Creatures"
+            ],
+            "description": "You may use an action and discard this card from play to draw 3 cards.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "59",
+			"name": "Flipendo",
+			"lesson": "Charms",
+			"cost": "2",
+            "type": "Spell",
+            "description": "Do 2 damage to your opponent or to a creature of your choice.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "60",
+			"name": "Freeze!",
+			"lesson": "Charms",
+			"cost": "3",
+            "type": "Spell",
+            "description": "Choose 1 of your opponent's creatures in play and do 4 damage to it.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "61",
+			"name": "Magical Drafts and Potions",
+			"lesson": "Potions",
+			"cost": "2",
+            "type": "Item",
+            "subTypes": [
+                "Book"
+            ],
+            "provides": [
+                "1",
+                "Potions"
+            ],
+            "description": "",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "62",
+			"name": "Mid-air Collision",
+			"lesson": "Quidditch",
+			"cost": "10",
+            "type": "Spell",
+            "description": "Do 10 damage to your opponent. Then choose 1 of your cards in play (other than your starting character) and discard it.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "63",
+			"name": "Moonseed Poison",
+			"lesson": "Potions",
+			"cost": "8",
+            "type": "Item",
+            "description": "When you play this card, do 3 damage to your opponent. You may use an action and discard this card from play to do 6 damage to your opponent.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "64",
+			"name": "Picking on Neville",
+			"lesson": "Transfiguration",
+			"cost": "4",
+            "type": "Spell",
+            "description": "Choose 1 of your opponent's cards in play (other than his or her starting character) and discard it. Your opponent may prevent this by choosing 2 of his or her cards in play (other than his or her starting character) and discarding them.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "65",
+			"name": "Pigley Dudley",
+			"lesson": "Transfiguration",
+			"cost": "5",
+            "type": "Spell",
+            "description": "Choose 1 of your opponent's creatures or characters in play (other than his or her starting character) and put it on top of his or her deck.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "66",
+			"name": "Quick Thinking",
+			"lesson": "Quidditch",
+			"cost": "6",
+            "type": "Spell",
+            "description": "Do 3 damage to your opponent or draw 3 cards.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "67",
+			"name": "Quidditch Through the Ages",
+			"lesson": "Quidditch",
+			"cost": "2",
+            "type": "Item",
+            "subTypes": [
+                "Book"
+            ],
+            "provides": [
+                "1",
+                "Quidditch"
+            ],
+            "description": "You may use an action and discard this card from play to draw 3 cards.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "68",
+			"name": "River Troll",
+			"lesson": "Care of Magical Creatures",
+			"cost": "5",
+            "type": "Creature",
+            "subTypes": [
+                "Troll"
+            ],
+            "description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
+            "dmgEachTurn": "4",
+            "health": "3",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "69",
+			"name": "Screech Owl",
+			"lesson": "Care of Magical Creatures",
+			"cost": "3",
+            "type": "Creature",
+            "subTypes": [
+                "Owl"
+            ],
+            "description": "When you play this card, you may put a lesson card from your discard pile into your hand.",
+            "dmgEachTurn": "1",
+            "health": "1",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "70",
+			"name": "Sloth Grip",
+			"lesson": "Quidditch",
+			"cost": "5",
+            "type": "Spell",
+            "description": "During your opponent's next turn, you may prevent all but the first 3 damage done to you.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "71",
+			"name": "Spongify",
+			"lesson": "Charms",
+			"cost": "2",
+            "type": "Spell",
+            "description": "Choose a non-Healing item in play and return it to its owner's hand. Then draw a card.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "72",
+			"name": "Swelling Potion",
+			"lesson": "Potions",
+			"cost": "7",
+            "type": "Spell",
+            "description": "Do 5 damage to your opponent. During your opponent's next turn, he or she can't use actions to play item cards.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "73",
+			"name": "Tawny Owl",
+			"lesson": "Care of Magical Creatures",
+			"cost": "3",
+            "type": "Creature",
+            "subTypes": [
+                "Owl"
+            ],
+            "description": "When you play this card, you may put a non-Healing item card from your discard pile into your hand.",
+            "dmgEachTurn": "1",
+            "health": "1",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "74",
+			"name": "Teacup to Rat",
+			"lesson": "Transfiguration",
+			"cost": "3",
+            "type": "Spell",
+            "description": "Choose 1 of your opponent's items in play and discard it. Then draw a card.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "75",
+			"name": "The Standard Book of Spells (Grade 1)",
+			"lesson": "Charms",
+			"cost": "2",
+            "type": "Item",
+            "subTypes": [
+                "Book"
+            ],
+            "provides": [
+                "2",
+                "Charms"
+            ],
+            "description": "You may use an action and discard this card from play to draw 3 cards.",
+			"rarity": "Common",
+			"artist": ""
+        },
+        {
+			"number": "76",
+			"name": "Care of Magical Creatures",
+			"lesson": "Care of Magical Creatures",
+			"type": "Lesson",
+			"provides": [
+				"1",
+				"Care of Magical Creatures"
+			],
+			"rarity": "Common",
+			"artist": ""
+		},
+		{
+			"number": "77",
+			"name": "Charms",
+			"lesson": "Charms",
+			"type": "Lesson",
+			"provides": [
+				"1",
+				"Charms"
+			],
+			"rarity": "Common",
+			"artist": ""
+		},
+		{
+			"number": "78",
+			"name": "Potions",
+			"lesson": "Potions",
+			"type": "Lesson",
+			"provides": [
+				"1",
+				"Potions"
+			],
+			"rarity": "Common",
+			"artist": ""
+		},
+		{
+			"number": "79",
+			"name": "Quidditch",
+			"lesson": "Quidditch",
+			"type": "Lesson",
+			"provides": [
+				"1",
+				"Quidditch"
+			],
+			"rarity": "Common",
+			"artist": ""
+		},
+		{
+			"number": "80",
+			"name": "Transfiguration",
+			"lesson": "Transfiguration",
+			"type": "Lesson",
+			"provides": [
+				"1",
+				"Transfiguration"
+			],
+			"rarity": "Common",
+			"artist": ""
+		}
     ]
 }
