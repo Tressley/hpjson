@@ -35,11 +35,11 @@
         },
         {
 			"number": "4",
-			"name": "",
-			"lesson": "",
-			"cost": "",
-			"type": "",
-			"description": "",
+			"name": "Colour-Changing Ink",
+			"lesson": "Transfiguration",
+			"cost": "4",
+			"type": "Item",
+			"description": "You may use an action to count the cards in your hand. Put them all on the bottom of your deck (in any order), and then draw that many cards.",
 			"rarity": "Foil Premium",
 			"artist": ""
         },
@@ -369,6 +369,234 @@
 			"type": "Spell",
 			"description": "Choose a non-Healing character in play (other than a starting character) and shuffle it into its owner's deck.",
 			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "31",
+			"name": "Alihotsy Draught",
+			"lesson": "Potions",
+			"cost": "7",
+			"type": "Spell",
+			"description": "Do 6 damage to your opponent or choose 1 of his or her items in play and discard it.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "32",
+			"name": "Barn Owl",
+			"lesson": "Care of Magical Creatures",
+			"cost": "3",
+            "type": "Creature",
+            "subTypes": [
+                "Owl"
+            ],
+            "description": "When you play this card, you may discard 1 of your Care of Magical Creatures Lessons from play to put a creature card from your discard pile into your hand.",
+            "dmgEachTurn": "1",
+            "health": "1",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "33",
+			"name": "Beetle Eyes",
+			"lesson": "Potions",
+			"cost": "5",
+			"type": "Item",
+			"description": "When you play this card, do 4 damage to your opponent. You may use an action to discard this and Eel Eyes from play to search your deck. You may take a Bulgeye Potion card from your deck and put it into play. Then shuffle your deck.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "34",
+			"name": "Biased Commentary",
+			"lesson": "Quidditch",
+			"cost": "3",
+			"type": "Spell",
+			"description": "The next time this turn you play a spell card that needs Quidditch Power, if that card does damage to your opponent, it does 5 more damage.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "35",
+			"name": "Bluebottle Broom",
+			"lesson": "Quidditch",
+			"cost": "4",
+            "type": "Item",
+            "subTypes": [
+                "Broom",
+                "Healing"
+            ],
+            "description": "You may use an action to put a non-Healing card from your discard pile on the bottom of your deck. If you play this card, and you already have a broom in play, discard the old one.",
+            "provides": [
+                "1",
+                "Quidditch"
+            ]
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "36",
+			"name": "Cauldron Shop",
+			"lesson": "Potions",
+			"cost": "3",
+			"type": "Location",
+			"description": "When you play this card, discard any other location from play (yours or your opponent's). Either player may use an action to search his or her deck. That player may take an item card from his or her deck that needs Potions Power, show it to his or her opponent and put it into his or her hand. Then the player shuffles his or her deck.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "37",
+			"name": "Colloshoo",
+			"lesson": "Charms",
+			"cost": "3",
+			"type": "Spell",
+			"description": "Look at your opponent's hand. If there are any item cards there, choose 1 of them and discard it.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "38",
+			"name": "Eel Eyes",
+			"lesson": "Potions",
+			"cost": "1",
+			"type": "Item",
+			"description": "When you play this card, look at your opponent's hand. You may use an action to discard this and Beetle Eyes from play to search your deck. You may take a Bulgeye Potion card from your deck and put it into play. Then shuffle your deck.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "39",
+			"name": "Frog-Spawn",
+			"lesson": "Care of Magical Creatures",
+			"cost": "2",
+			"type": "Spell",
+			"description": "During your opponent's next turn, prevent all damage done to your creatures.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "40",
+			"name": "Injured",
+			"lesson": "Charms",
+			"cost": "5",
+			"type": "Spell",
+			"description": "Look at your opponent's hand. Discard all cards from it that need Quidditch Power.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "41",
+			"name": "Lapifors",
+			"lesson": "Transfiguration",
+			"cost": "7",
+			"type": "Spell",
+			"description": "Choose 1 of your opponent's creatures in play and discard it. Then search your deck. You may take a creature card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "42",
+			"name": "Madam Malkin's Robes",
+			"lesson": "Transfiguration",
+			"cost": "4",
+            "type": "Location",
+            "subTypes": [
+                "Unique"
+            ],
+			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Whenever a card (yours or your opponent's) does damage, it does 1 less damage",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "43",
+			"name": "Porcupine Robe",
+			"lesson": "Transfiguration",
+			"cost": "7",
+			"type": "Item",
+			"description": "At the end of each of your opponent's turns, do 1 damage to each creature that did damage to you that turn.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "44",
+			"name": "Practical Joke",
+			"lesson": "Transfiguration",
+			"cost": "3",
+			"type": "Spell",
+			"description": "Count the number of items in play (yours and your opponent's). Do that much damage to your opponent.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "45",
+			"name": "Quality Quidditch Supplies",
+			"lesson": "Quidditch",
+			"cost": "3",
+            "type": "Location",
+            "subTypes": [
+                "Unique"
+            ],
+			"description": "When you play this card, discard any other location from play (yours or your opponent's). Either player may use an action to search his or her deck. That player may take an item card from his or her deck that needs Quidditch Power, show it to his or her opponent and put it into his or her hand. Then the player shuffles his or her deck.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "46",
+			"name": "Quintaped",
+			"lesson": "Care of Magical Creatures",
+			"cost": "5",
+            "type": "Creature",
+            "subType": [
+                "Quintaped"
+            ],
+            "dmgEachTurn": "2",
+            "health": "5",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "47",
+			"name": "Spiral Dive",
+			"lesson": "Quidditch",
+			"cost": "5",
+			"type": "Spell",
+			"description": "Discard any number of cards from your hand. Do that much damage to your opponent",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "48",
+			"name": "Verdillious",
+			"lesson": "Charms",
+			"cost": "9",
+			"type": "Spell",
+			"description": "Do 5 damage to your opponent or to a creature of your choice.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "49",
+			"name": "Wand Shop",
+			"lesson": "Charms",
+			"cost": "4",
+			"type": "Location",
+			"description": "When you play this card, discard any other location from play (yours or your opponent's). All Charms Lessons (yours and your opponent's) provide 2 Charms Lessons instead of 1.",
+			"rarity": "Uncommon",
+			"artist": ""
+        },
+        {
+			"number": "50",
+			"name": "Wild Boar",
+			"lesson": "Care of Magical Creatures",
+			"cost": "2",
+            "type": "Creature",
+            "subTypes": [
+                "Boar"
+            ],
+            "description": "To play this card, discard 2 of your Care of Magical Creatures Lessons from play.",
+            "dmgEachTurn": "3",
+            "health": "5",
+			"rarity": "Uncommon",
 			"artist": ""
         }
     ]
