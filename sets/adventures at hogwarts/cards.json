@@ -5,16 +5,6 @@
 	"cards": [
         {
 			"number": "1",
-			"name": "",
-			"lesson": "",
-			"cost": "",
-			"type": "",
-			"description": "",
-			"rarity": "",
-			"artist": ""
-        },
-        {
-			"number": "1",
 			"name": "Albus Dumbledore",
             "type": "Character",
             "subTypes": [
@@ -104,7 +94,7 @@
                 "Dog",
                 "Unique"
             ],
-            "description": "To play this card, discard 1 of your F Lessons from play. When you play this card, do 4 damage to your opponent.",
+            "description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. When you play this card, do 4 damage to your opponent.",
             "dmgEachTurn": "4",
             "health": "7",
 			"rarity": "Foil Premium",
@@ -157,7 +147,7 @@
             "subTypes": [
 				"Unique"
 			],
-			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Whenever a F Lesson (yours or your opponent's) is discarded from play, put it into its owner's hand.",
+			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Whenever a Care of Magical Creatures Lesson (yours or your opponent's) is discarded from play, put it into its owner's hand.",
 			"rarity": "Foil Premium",
 			"artist": ""
         },
@@ -254,11 +244,137 @@
 			"name": "Peeves",
             "type": "Character",
             "subTypes": [
-                "Unique",
+                "Unique"
 			],
 			"description": "Once per game, you may discard your hands and draw 7 cards to make your opponent discard his or her hand and then draw 7 cards.",
 			"rarity": "Foil Premium",
 			"artist": ""
         },
+        {
+			"number": "21",
+			"name": "Philosopher's Stone",
+			"lesson": "Transfiguration",
+			"cost": "15",
+            "type": "Item",
+            "subTypes": [
+                "Healing",
+                "Unique"
+            ],
+			"description": "You may use 2 Actions to discard this card from play to put all Lesson cards from your discard pile into play. Then shuffle all non-Healing cards from your discard pile into your deck. When you build your deck, you can only put 1 Philosopher's Stone in it.",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "22",
+			"name": "Potions Dungeon",
+			"lesson": "Potions",
+			"cost": "3",
+            "type": "Location",
+            "subTypes": [
+				"Unique"
+			],
+			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Whenever a Potions Lesson (yours or your opponent's) is discarded from play, put it into its owner's hand.",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "23",
+			"name": "Quidditch Cup",
+			"lesson": "Quidditch",
+			"cost": "9",
+            "type": "Item",
+            "subTypes": [
+                "Unique"
+            ],
+			"description": "Once during each of your turns, when you use an Action to play a card that requires Q Power, you get 1 more Action that turn.",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "42",
+			"name": "Quidditch Pitch",
+			"lesson": "Quidditch",
+			"cost": "2",
+            "type": "Location",
+			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Spell cards that need Q Power (yours and your opponent's) need 2 less Power to play (you still need at least 1 Power that matches).",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "25",
+			"name": "Riding the Centaur",
+			"type": "Adventure",
+			"description": {
+				"effect": "Prevent all damage done to you by your opponent's Creatures.",
+				"toSolve": "Your opponent chooses 4 of his or her cards in play (other than his or her starting Character) and returns them to his or her hand.",
+				"reward": "Your opponent may draw a card."
+			},
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "26",
+			"name": "Ron the Brave",
+            "type": "Character",
+            "subTypes": [
+                "Unique",
+                "Wizard",
+                "Gryffindor"
+			],
+			"description": "At the end of each of your turns, if you played an Adventure card that turn, your may search your deck. You may take a Character card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "27",
+			"name": "Stoat Sandwiches",
+			"type": "Adventure",
+			"description": {
+				"effect": "Your opponent can't use Actions to play Healing cards.",
+				"toSolve": "Your opponent chooses 5 of his or her cards in play (other than his or her starting Character) and discards them.",
+				"reward": "Your opponent may shuffle up to 5 non-Healing cards from his or her discard pile into his or her deck."
+			},
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "28",
+			"name": "The Fat Lady",
+            "type": "Character",
+            "subTypes": [
+                "Unique",
+                "Gryffindor"
+			],
+			"description": "You may use an Action to search your deck. You may take a Gryffindor card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "29",
+			"name": "Voldemort Revealed",
+			"type": "Adventure",
+			"description": {
+				"effect": "Your opponent can't use Actions to play Spell cards.",
+				"toSolve": "Your opponent takes 7 damage.",
+				"reward": "Your opponent may put up to 2 non-Healing cards from his or her discard pile and put them on the bottom of his deck (in any order)."
+			},
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "30",
+			"name": "Welsh Green Dragon",
+			"lesson": "Care of Magical Creatures",
+			"cost": "7",
+            "type": "Creature",
+            "subTypes": [
+                "Dragon"
+            ],
+            "description": "To play this card, discard 2 of your Care of Magical Creatures Lessons from play. When you play this card, do 6 damage to your opponent.",
+            "dmgEachTurn": "4",
+            "health": "7",
+			"rarity": "Foil Premium",
+			"artist": ""
+        }
     ]
 }
