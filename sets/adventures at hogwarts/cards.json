@@ -135,5 +135,130 @@
 			"rarity": "Foil Premium",
 			"artist": ""
         },
+        {
+			"number": "11",
+			"name": "Great Hall",
+			"lesson": "Charms",
+			"cost": "2",
+            "type": "Location",
+            "subTypes": [
+				"Unique"
+			],
+			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, he or she draws a card.",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "12",
+			"name": "Hagrid's House",
+			"lesson": "Care of Magical Creatures",
+			"cost": "3",
+            "type": "Location",
+            "subTypes": [
+				"Unique"
+			],
+			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Whenever a F Lesson (yours or your opponent's) is discarded from play, put it into its owner's hand.",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "13",
+			"name": "Harry Triumphant",
+            "type": "Character",
+            "subTypes": [
+                "Unique",
+                "Wizard",
+                "Gryffindor"
+			],
+			"description": "At the end of each of your turns, if you played an Adventure card that turn, draw up to 4 cards.",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "14",
+			"name": "Hospital Dormitory",
+			"lesson": "Potions",
+			"cost": "7",
+            "type": "Location",
+			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Each turn, each player may prevent 4 damage done to him or her. (The damage may be prevented from one or more cards.)",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "15",
+			"name": "Hut on the Rock",
+			"type": "Adventure",
+			"description": {
+                "note": "Play this card only if you have at least 5 Lessons in play.",
+				"effect": "Before each of your opponent's turns, if he or she has any cards in play (other than his or her starting Character), he or she chooses 1 of them and discards it.",
+				"toSolve": "Your opponent discards his or her hand.",
+				"reward": "You take 5 damage."
+			},
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "16",
+			"name": "Madam Pomfrey",
+            "type": "Character",
+            "subTypes": [
+                "Unique",
+                "Witch",
+                "Healing"
+			],
+			"description": "Once per game, you may shuffle up to 12 non-Healing cards from your discard pile into your deck.",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "17",
+			"name": "Meeting Fluffy",
+			"type": "Adventure",
+			"description": {
+                "note": "Play this card only if you have at least 9 Lessons in play.",
+				"effect": "Before each of your turns, your opponent takes 12 damage.",
+				"toSolve": "Your opponent lets you choose 3 of his or her cards in play (other than his or her starting Character) and discard them.",
+				"reward": "Your opponent gets 1 more Action the turn he or she solves this Adventure."
+			},
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "18",
+			"name": "Midnight Duel",
+			"type": "Adventure",
+			"description": {
+                "note": "Play this card only if you have at least 5 Lessons in play.",
+				"effect": "To use an Action to play a Creature or a Spell card from his or her hand, your opponent must discard another card from his or her hand.",
+				"toSolve": "Your opponent chooses 4 of his or her cards in play (other than his or her starting Character) and discards them.",
+				"reward": "Your opponent may draw 4 cards."
+			},
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "19",
+			"name": "Mirror of Erised",
+			"lesson": "Transfiguration",
+			"cost": "10",
+            "type": "Item",
+            "subTypes": [
+                "Unique"
+            ],
+			"description": "You may use an Action to discard this card from play. If you do, count the number of cards in your hand and discard them. Then search your deck. You may take up to that number of cards from your deck and put them into your hand. Then shuffle your deck.",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
+        {
+			"number": "20",
+			"name": "Peeves",
+            "type": "Character",
+            "subTypes": [
+                "Unique",
+			],
+			"description": "Once per game, you may discard your hands and draw 7 cards to make your opponent discard his or her hand and then draw 7 cards.",
+			"rarity": "Foil Premium",
+			"artist": ""
+        },
     ]
 }
