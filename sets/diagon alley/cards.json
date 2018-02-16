@@ -1,966 +1,966 @@
-{
-	"setName": "Diagon Alley",
-	"releaseDate": "03-2002",
-	"totalCards": "80",
-	"cards": [
-        {
-			"number": "1",
-			"name": "Beater Grabs the Snitch",
-			"lesson": "Quidditch",
-			"cost": "4",
-			"type": "Spell",
-			"description": "Return a Match in play to its owner's hand",
-			"rarity": "Foil Premium",
-			"artist": ""
+{  
+    "setName":"Diagon Alley",
+    "releaseDate":"03-2002",
+    "totalCards":"80",
+    "cards":[  
+        {  
+            "number":"1",
+            "name":"Beater Grabs the Snitch",
+            "lesson":"Quidditch",
+            "cost":"4",
+            "type":"Spell",
+            "description":"Return a Match in play to its owner's hand",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "2",
-			"name": "Bulgeye Potion",
-			"lesson": "Potions",
-			"cost": "10",
-			"type": "Item",
-			"description": "You may use an Action and discard this card from play to do 13 damage to your opponent.",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"2",
+            "name":"Bulgeye Potion",
+            "lesson":"Potions",
+            "cost":"10",
+            "type":"Item",
+            "description":"You may use an Action and discard this card from play to do 13 damage to your opponent.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "3",
-			"name": "Christmas Feast",
-			"lesson": "Charms",
-			"cost": "4",
-			"type": "Spell",
-			"description": "Put up to 4 non-Healing Item cards from your discard pile into your hand.",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"3",
+            "name":"Christmas Feast",
+            "lesson":"Charms",
+            "cost":"4",
+            "type":"Spell",
+            "description":"Put up to 4 non-Healing Item cards from your discard pile into your hand.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "4",
-			"name": "Colour-Changing Ink",
-			"lesson": "Transfiguration",
-			"cost": "4",
-			"type": "Item",
-			"description": "You may use an Action to count the cards in your hand. Put them all on the bottom of your deck (in any order), and then draw that many cards.",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"4",
+            "name":"Colour-Changing Ink",
+            "lesson":"Transfiguration",
+            "cost":"4",
+            "type":"Item",
+            "description":"You may use an Action to count the cards in your hand. Put them all on the bottom of your deck (in any order), and then draw that many cards.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "5",
-			"name": "Draco Malfoy, Slytherin",
-            "type": "Character",
-            "subTypes": [
-				"Wizard",
-				"Slytherin",
-				"Unique"
-			],
-			"description": "Once during each of your turns, when you use an Action to play an Item card, you get 1 more Action that turn.",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"5",
+            "name":"Draco Malfoy, Slytherin",
+            "type":"Character",
+            "subTypes":[  
+                "Wizard",
+                "Slytherin",
+                "Unique"
+            ],
+            "description":"Once during each of your turns, when you use an Action to play an Item card, you get 1 more Action that turn.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "6",
-			"name": "Dragon-Hide Gloves",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "8",
-			"type": "Item",
-			"description": "Whenever a Creature does damage to you, prevent 1 of that damage.",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"6",
+            "name":"Dragon-Hide Gloves",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"8",
+            "type":"Item",
+            "description":"Whenever a Creature does damage to you, prevent 1 of that damage.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "7",
-			"name": "Eeylops Owl Emporium",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "4",
-            "type": "Location",
-            "subTypes": [
-				"Unique"
-			],
-			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Each Owl has 1 more health. Whenever an Owl does damage, it does 1 more damage.",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"7",
+            "name":"Eeylops Owl Emporium",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"4",
+            "type":"Location",
+            "subTypes":[  
+                "Unique"
+            ],
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Each Owl has 1 more health. Whenever an Owl does damage, it does 1 more damage.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "8",
-			"name": "Flourish and Blotts",
-			"Lesson": "Transfiguration",
-			"cost": "3",
-            "type": "Location",
-            "subTypes": [
-				"Unique"
-			],
-			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Either player may use an Action and discard 2 of his or her Lessons from play to draw 5 cards.",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"8",
+            "name":"Flourish and Blotts",
+            "Lesson":"Transfiguration",
+            "cost":"3",
+            "type":"Location",
+            "subTypes":[  
+                "Unique"
+            ],
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Either player may use an Action and discard 2 of his or her Lessons from play to draw 5 cards.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "9",
-			"name": "Good Night's Sleep",
-			"Lesson": "Transfiguration",
-			"cost": "10",
-            "type": "Spell",
-            "subTypes": [
-				"Healing"
-			],
-			"description": "Choose 1 of your Characters in play that has a 'once per game' ability you have already used. Use that ability.",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"9",
+            "name":"Good Night's Sleep",
+            "Lesson":"Transfiguration",
+            "cost":"10",
+            "type":"Spell",
+            "subTypes":[  
+                "Healing"
+            ],
+            "description":"Choose 1 of your Characters in play that has a 'once per game' ability you have already used. Use that ability.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "10",
-			"name": "Gringotts",
-			"Lesson": "Charms",
-			"cost": "4",
-            "type": "Location",
-            "subTypes": [
-				"Unique"
-			],
-			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Each player gets 1 more Action on each of his or her turns (including the turn you play this card).",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"10",
+            "name":"Gringotts",
+            "Lesson":"Charms",
+            "cost":"4",
+            "type":"Location",
+            "subTypes":[  
+                "Unique"
+            ],
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Each player gets 1 more Action on each of his or her turns (including the turn you play this card).",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "11",
-			"name": "Gringotts Vault Key",
-			"Lesson": "Charms",
-			"cost": "6",
-			"type": "Spell",
-			"description": "Search your deck. You may take any card from your deck and put it into your hand. Then shuffle your deck",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"11",
+            "name":"Gringotts Vault Key",
+            "Lesson":"Charms",
+            "cost":"6",
+            "type":"Spell",
+            "description":"Search your deck. You may take any card from your deck and put it into your hand. Then shuffle your deck",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "12",
-			"name": "Griphook",
-			"type": "Character",
-            "subTypes": [
-				"Goblin",
-				"Unique"
-			],
-			"description": "Once per game, you may make your opponent discard his or her hand. Then your opponent draws as many cards as he or she discarded in this way.",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"12",
+            "name":"Griphook",
+            "type":"Character",
+            "subTypes":[  
+                "Goblin",
+                "Unique"
+            ],
+            "description":"Once per game, you may make your opponent discard his or her hand. Then your opponent draws as many cards as he or she discarded in this way.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "13",
-			"name": "Gryffindor Match",
-			"Lesson": "Quidditch",
-			"cost": "1",
-			"type": "Match",
-			"description": {
-				"toWin": "Do 12 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
-				"prize": "The winner gets 2 more Actions during his or her next turn."
-			},
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"13",
+            "name":"Gryffindor Match",
+            "Lesson":"Quidditch",
+            "cost":"1",
+            "type":"Match",
+            "description":{  
+                "toWin":"Do 12 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
+                "prize":"The winner gets 2 more Actions during his or her next turn."
+            },
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "14",
-			"name": "Hagrid, Keeper of Keys",
-			"type": "Character",
-            "subTypes": [
-				"Unique"
-			],
-			"description": "You may use an Action to search your deck. You may take a Location card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"14",
+            "name":"Hagrid, Keeper of Keys",
+            "type":"Character",
+            "subTypes":[  
+                "Unique"
+            ],
+            "description":"You may use an Action to search your deck. You may take a Location card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "15",
-			"name": "Hagrid's Umbrella",
-			"Lesson": "Charms",
-			"cost": "3",
-			"subTypes": [
+        {  
+            "number":"15",
+            "name":"Hagrid's Umbrella",
+            "Lesson":"Charms",
+            "cost":"3",
+            "subTypes":[  
                 "Wand",
                 "Unique"
             ],
-            "provides": [
-				"1",
-				"Charms"
-			],
-			"description": "You may use an Action and discard this card from play to search your deck. You make take a Location card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck. If you play this card, and you already have a Wand in play, discard the old one.",
-			"rarity": "Foil Premium",
-			"artist": ""
+            "provides":[  
+                "1",
+                "Charms"
+            ],
+            "description":"You may use an Action and discard this card from play to search your deck. You make take a Location card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck. If you play this card, and you already have a Wand in play, discard the old one.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "16",
-			"name": "Hebridean Black Dragon",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "8",
-			"type": "Creature",
-            "description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
-            "dmgEachTurn": "7",
-			"health": "5",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"16",
+            "name":"Hebridean Black Dragon",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"8",
+            "type":"Creature",
+            "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
+            "dmgEachTurn":"7",
+            "health":"5",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "17",
-			"name": "Hedwig",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "6",
-            "type": "Creature",
-            "subTypes": [
+        {  
+            "number":"17",
+            "name":"Hedwig",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"6",
+            "type":"Creature",
+            "subTypes":[  
                 "Owl",
                 "Gryffindor",
                 "Unique"
             ],
-			"description": "When you play this card, you may put a non-Healing card from your discard pile into your hand. Damage: 1; Health: 2",
-			"rarity": "Foil Premium",
-			"artist": ""
+            "description":"When you play this card, you may put a non-Healing card from your discard pile into your hand. Damage: 1; Health: 2",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "18",
-			"name": "Hermione, Top Student",
-            "type": "Character",
-            "subTypes": [
+        {  
+            "number":"18",
+            "name":"Hermione, Top Student",
+            "type":"Character",
+            "subTypes":[  
                 "Witch",
                 "Gryffindor",
                 "Unique"
             ],
-			"description": "Once per game, you may search your deck. You may take up to 2 Lesson cards from your deck, show them to your opponent and put them into your hand. Then shuffle your deck.",
-			"rarity": "Foil Premium",
-			"artist": ""
+            "description":"Once per game, you may search your deck. You may take up to 2 Lesson cards from your deck, show them to your opponent and put them into your hand. Then shuffle your deck.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "19",
-			"name": "Lee Jordan",
-			"type": "Character",
-            "subTypes": [
+        {  
+            "number":"19",
+            "name":"Lee Jordan",
+            "type":"Character",
+            "subTypes":[  
                 "Wizard",
                 "Gryffindor",
                 "Unique"
             ],
-			"description": "You may use an Action to reveal the top 3 cards of your deck. Put all of those cards that need Quidditch Power into your hand. Put the rest on the bottom of your deck (in any order).",
-			"rarity": "Foil Premium",
-			"artist": ""
+            "description":"You may use an Action to reveal the top 3 cards of your deck. Put all of those cards that need Quidditch Power into your hand. Put the rest on the bottom of your deck (in any order).",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "20",
-			"name": "Letters From No One",
-			"type": "Adventure",
-			"description": {
-				"effect": "Your opponent may only use Actions to draw cards.",
-				"toSolve": "Your opponent discards 5 cards from his or her hand.",
-				"reward": "Your opponent may draw two cards."
-			},
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"20",
+            "name":"Letters From No One",
+            "type":"Adventure",
+            "description":{  
+                "effect":"Your opponent may only use Actions to draw cards.",
+                "toSolve":"Your opponent discards 5 cards from his or her hand.",
+                "reward":"Your opponent may draw two cards."
+            },
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "21",
-			"name": "Madam Irma Pince",
-			"type": "Character",
-            "subTypes": [
+        {  
+            "number":"21",
+            "name":"Madam Irma Pince",
+            "type":"Character",
+            "subTypes":[  
                 "Witch",
                 "Unique"
             ],
-			"description": "You may use an Action to put a book card from your discard pile into your hand. (Lesson cards aren't books.)",
-			"rarity": "Foil Premium",
-			"artist": ""
+            "description":"You may use an Action to put a book card from your discard pile into your hand. (Lesson cards aren't books.)",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "22",
-			"name": "Professor Quirinus Quirrell",
-            "type": "Character",
-            "subTypes": [
+        {  
+            "number":"22",
+            "name":"Professor Quirinus Quirrell",
+            "type":"Character",
+            "subTypes":[  
                 "Wizard",
                 "Unique"
             ],
-			"description": "Once per game, you may return all Creatures and Items to their owners' hands.",
-			"rarity": "Foil Premium",
-			"artist": ""
+            "description":"Once per game, you may return all Creatures and Items to their owners' hands.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "23",
-			"name": "Self-Stirring Cauldron",
-			"Lesson": "Potions",
-			"cost": "4",
-            "type": "Item",
-            "subTypes": [
+        {  
+            "number":"23",
+            "name":"Self-Stirring Cauldron",
+            "Lesson":"Potions",
+            "cost":"4",
+            "type":"Item",
+            "subTypes":[  
                 "Cauldron"
             ],
-            "provides": [
-				"4",
-				"Potions"
-			],
-			"description": "To play this card, discard 2 of your Potions Lessons from play. You get 1 more Action the turn you play this card.",
-			"rarity": "Foil Premium",
-			"artist": ""
+            "provides":[  
+                "4",
+                "Potions"
+            ],
+            "description":"To play this card, discard 2 of your Potions Lessons from play. You get 1 more Action the turn you play this card.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "24",
-			"name": "Silver Unicorn Horn",
-			"Lesson": "Potions",
-			"cost": "6",
-            "type": "Item",
-            "subTypes": [
+        {  
+            "number":"24",
+            "name":"Silver Unicorn Horn",
+            "Lesson":"Potions",
+            "cost":"6",
+            "type":"Item",
+            "subTypes":[  
                 "Healing"
             ],
-			"description": "When you play this card, put up to 2 non-Healing cards from your discard pile on the bottom of your deck (in any order). You may use an Action and discard this card from play to shuffle up to 6 non-Healing cards from your discard pile into your deck.",
-			"rarity": "Foil Premium",
-			"artist": ""
+            "description":"When you play this card, put up to 2 non-Healing cards from your discard pile on the bottom of your deck (in any order). You may use an Action and discard this card from play to shuffle up to 6 non-Healing cards from your discard pile into your deck.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "25",
-			"name": "Table Trouble",
-			"Lesson": "Transfiguration",
-			"cost": "5",
-			"type": "Spell",
-			"description": "Discard all Items from play (yours and your opponent's).",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"25",
+            "name":"Table Trouble",
+            "Lesson":"Transfiguration",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Discard all Items from play (yours and your opponent's).",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "26",
-			"name": "The Famous Harry Potter",
-			"type": "Character",
-            "subTypes": [
+        {  
+            "number":"26",
+            "name":"The Famous Harry Potter",
+            "type":"Character",
+            "subTypes":[  
                 "Wizard",
                 "Gryffindor",
                 "Unique"
             ],
-			"description": "Before each of your turns, if there are 4 or fewer cards in your hand, you may draw a card.",
-			"rarity": "Foil Premium",
-			"artist": ""
+            "description":"Before each of your turns, if there are 4 or fewer cards in your hand, you may draw a card.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "27",
-			"name": "The Leaky Cauldron",
-			"Lesson": "Potions",
-			"cost": "2",
-            "type": "Location",
-            "subTypes": [
+        {  
+            "number":"27",
+            "name":"The Leaky Cauldron",
+            "Lesson":"Potions",
+            "cost":"2",
+            "type":"Location",
+            "subTypes":[  
                 "Unique"
             ],
-			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Whenever either player plays a character card, he or she uses up 1 Action to play it instead of 2.",
-			"rarity": "Foil Premium",
-			"artist": ""
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Whenever either player plays a character card, he or she uses up 1 Action to play it instead of 2.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "28",
-			"name": "Three-Month-Long Match",
-			"Lesson": "Quidditch",
-			"cost": "1",
-			"type": "Match",
-			"description": {
-				"toWin": "Do 30 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
-				"prize": "The winner does 15 damage to his or her opponent."
-			},
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"28",
+            "name":"Three-Month-Long Match",
+            "Lesson":"Quidditch",
+            "cost":"1",
+            "type":"Match",
+            "description":{  
+                "toWin":"Do 30 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
+                "prize":"The winner does 15 damage to his or her opponent."
+            },
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "29",
-			"name": "Through the Arch",
-			"type": "Adventure",
-			"description": {
-				"effect": "Your opponent can't play spell cards.",
-				"toSolve": "Your opponent skips a total of 4 Actions. (Those Action don't need to be one right after the other.)",
-				"reward": "Your opponent may put an Item card from his or her discard pile into his or her hand."
-			},
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"29",
+            "name":"Through the Arch",
+            "type":"Adventure",
+            "description":{  
+                "effect":"Your opponent can't play spell cards.",
+                "toSolve":"Your opponent skips a total of 4 Actions. (Those Action don't need to be one right after the other.)",
+                "reward":"Your opponent may put an Item card from his or her discard pile into his or her hand."
+            },
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "30",
-			"name": "Vanishing Referee",
-			"Lesson": "Quidditch",
-			"cost": "4",
-			"type": "Spell",
-			"description": "Choose a non-Healing character in play (other than a starting character) and shuffle it into its owner's deck.",
-			"rarity": "Foil Premium",
-			"artist": ""
+        {  
+            "number":"30",
+            "name":"Vanishing Referee",
+            "Lesson":"Quidditch",
+            "cost":"4",
+            "type":"Spell",
+            "description":"Choose a non-Healing character in play (other than a starting character) and shuffle it into its owner's deck.",
+            "rarity":"Foil Premium",
+            "artist":""
         },
-        {
-			"number": "31",
-			"name": "Alihotsy Draught",
-			"Lesson": "Potions",
-			"cost": "7",
-			"type": "Spell",
-			"description": "Do 6 damage to your opponent or choose 1 of his or her Items in play and discard it.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"31",
+            "name":"Alihotsy Draught",
+            "Lesson":"Potions",
+            "cost":"7",
+            "type":"Spell",
+            "description":"Do 6 damage to your opponent or choose 1 of his or her Items in play and discard it.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "32",
-			"name": "Barn Owl",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "3",
-            "type": "Creature",
-            "subTypes": [
+        {  
+            "number":"32",
+            "name":"Barn Owl",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"3",
+            "type":"Creature",
+            "subTypes":[  
                 "Owl"
             ],
-            "description": "When you play this card, you may discard 1 of your Care of Magical Creatures Lessons from play to put a Creature card from your discard pile into your hand.",
-            "dmgEachTurn": "1",
-            "health": "1",
-			"rarity": "Uncommon",
-			"artist": ""
+            "description":"When you play this card, you may discard 1 of your Care of Magical Creatures Lessons from play to put a Creature card from your discard pile into your hand.",
+            "dmgEachTurn":"1",
+            "health":"1",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "33",
-			"name": "Beetle Eyes",
-			"Lesson": "Potions",
-			"cost": "5",
-			"type": "Item",
-			"description": "When you play this card, do 4 damage to your opponent. You may use an Action to discard this and Eel Eyes from play to search your deck. You may take a Bulgeye Potion card from your deck and put it into play. Then shuffle your deck.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"33",
+            "name":"Beetle Eyes",
+            "Lesson":"Potions",
+            "cost":"5",
+            "type":"Item",
+            "description":"When you play this card, do 4 damage to your opponent. You may use an Action to discard this and Eel Eyes from play to search your deck. You may take a Bulgeye Potion card from your deck and put it into play. Then shuffle your deck.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "34",
-			"name": "Biased Commentary",
-			"Lesson": "Quidditch",
-			"cost": "3",
-			"type": "Spell",
-			"description": "The next time this turn you play a spell card that needs Quidditch Power, if that card does damage to your opponent, it does 5 more damage.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"34",
+            "name":"Biased Commentary",
+            "Lesson":"Quidditch",
+            "cost":"3",
+            "type":"Spell",
+            "description":"The next time this turn you play a spell card that needs Quidditch Power, if that card does damage to your opponent, it does 5 more damage.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "35",
-			"name": "Bluebottle Broom",
-			"Lesson": "Quidditch",
-			"cost": "4",
-            "type": "Item",
-            "subTypes": [
+        {  
+            "number":"35",
+            "name":"Bluebottle Broom",
+            "Lesson":"Quidditch",
+            "cost":"4",
+            "type":"Item",
+            "subTypes":[  
                 "Broom",
                 "Healing"
             ],
-            "description": "You may use an Action to put a non-Healing card from your discard pile on the bottom of your deck. If you play this card, and you already have a broom in play, discard the old one.",
-            "provides": [
+            "description":"You may use an Action to put a non-Healing card from your discard pile on the bottom of your deck. If you play this card, and you already have a broom in play, discard the old one.",
+            "provides":[  
                 "1",
                 "Quidditch"
             ],
-			"rarity": "Uncommon",
-			"artist": ""
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "36",
-			"name": "Cauldron Shop",
-			"Lesson": "Potions",
-			"cost": "3",
-			"type": "Location",
-			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Either player may use an Action to search his or her deck. That player may take an Item card from his or her deck that needs Potions Power, show it to his or her opponent and put it into his or her hand. Then the player shuffles his or her deck.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"36",
+            "name":"Cauldron Shop",
+            "Lesson":"Potions",
+            "cost":"3",
+            "type":"Location",
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Either player may use an Action to search his or her deck. That player may take an Item card from his or her deck that needs Potions Power, show it to his or her opponent and put it into his or her hand. Then the player shuffles his or her deck.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "37",
-			"name": "Colloshoo",
-			"Lesson": "Charms",
-			"cost": "3",
-			"type": "Spell",
-			"description": "Look at your opponent's hand. If there are any Item cards there, choose 1 of them and discard it.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"37",
+            "name":"Colloshoo",
+            "Lesson":"Charms",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Look at your opponent's hand. If there are any Item cards there, choose 1 of them and discard it.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "38",
-			"name": "Eel Eyes",
-			"Lesson": "Potions",
-			"cost": "1",
-			"type": "Item",
-			"description": "When you play this card, look at your opponent's hand. You may use an Action to discard this and Beetle Eyes from play to search your deck. You may take a Bulgeye Potion card from your deck and put it into play. Then shuffle your deck.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"38",
+            "name":"Eel Eyes",
+            "Lesson":"Potions",
+            "cost":"1",
+            "type":"Item",
+            "description":"When you play this card, look at your opponent's hand. You may use an Action to discard this and Beetle Eyes from play to search your deck. You may take a Bulgeye Potion card from your deck and put it into play. Then shuffle your deck.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "39",
-			"name": "Frog-Spawn",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "2",
-			"type": "Spell",
-			"description": "During your opponent's next turn, prevent all damage done to your Creatures.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"39",
+            "name":"Frog-Spawn",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"2",
+            "type":"Spell",
+            "description":"During your opponent's next turn, prevent all damage done to your Creatures.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "40",
-			"name": "Injured",
-			"Lesson": "Charms",
-			"cost": "5",
-			"type": "Spell",
-			"description": "Look at your opponent's hand. Discard all cards from it that need Quidditch Power.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"40",
+            "name":"Injured",
+            "Lesson":"Charms",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Look at your opponent's hand. Discard all cards from it that need Quidditch Power.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "41",
-			"name": "Lapifors",
-			"Lesson": "Transfiguration",
-			"cost": "7",
-			"type": "Spell",
-			"description": "Choose 1 of your opponent's Creatures in play and discard it. Then search your deck. You may take a Creature card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"41",
+            "name":"Lapifors",
+            "Lesson":"Transfiguration",
+            "cost":"7",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's Creatures in play and discard it. Then search your deck. You may take a Creature card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "42",
-			"name": "Madam Malkin's Robes",
-			"Lesson": "Transfiguration",
-			"cost": "4",
-            "type": "Location",
-            "subTypes": [
+        {  
+            "number":"42",
+            "name":"Madam Malkin's Robes",
+            "Lesson":"Transfiguration",
+            "cost":"4",
+            "type":"Location",
+            "subTypes":[  
                 "Unique"
             ],
-			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Whenever a card (yours or your opponent's) does damage, it does 1 less damage",
-			"rarity": "Uncommon",
-			"artist": ""
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Whenever a card (yours or your opponent's) does damage, it does 1 less damage",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "43",
-			"name": "Porcupine Robe",
-			"Lesson": "Transfiguration",
-			"cost": "7",
-			"type": "Item",
-			"description": "At the end of each of your opponent's turns, do 1 damage to each Creature that did damage to you that turn.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"43",
+            "name":"Porcupine Robe",
+            "Lesson":"Transfiguration",
+            "cost":"7",
+            "type":"Item",
+            "description":"At the end of each of your opponent's turns, do 1 damage to each Creature that did damage to you that turn.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "44",
-			"name": "Practical Joke",
-			"Lesson": "Transfiguration",
-			"cost": "3",
-			"type": "Spell",
-			"description": "Count the number of Items in play (yours and your opponent's). Do that much damage to your opponent.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"44",
+            "name":"Practical Joke",
+            "Lesson":"Transfiguration",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Count the number of Items in play (yours and your opponent's). Do that much damage to your opponent.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "45",
-			"name": "Quality Quidditch Supplies",
-			"Lesson": "Quidditch",
-			"cost": "3",
-            "type": "Location",
-            "subTypes": [
+        {  
+            "number":"45",
+            "name":"Quality Quidditch Supplies",
+            "Lesson":"Quidditch",
+            "cost":"3",
+            "type":"Location",
+            "subTypes":[  
                 "Unique"
             ],
-			"description": "When you play this card, discard any other Location from play (yours or your opponent's). Either player may use an Action to search his or her deck. That player may take an Item card from his or her deck that needs Quidditch Power, show it to his or her opponent and put it into his or her hand. Then the player shuffles his or her deck.",
-			"rarity": "Uncommon",
-			"artist": ""
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Either player may use an Action to search his or her deck. That player may take an Item card from his or her deck that needs Quidditch Power, show it to his or her opponent and put it into his or her hand. Then the player shuffles his or her deck.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "46",
-			"name": "Quintaped",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "5",
-            "type": "Creature",
-            "subType": [
+        {  
+            "number":"46",
+            "name":"Quintaped",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"5",
+            "type":"Creature",
+            "subType":[  
                 "Quintaped"
             ],
-            "dmgEachTurn": "2",
-            "health": "5",
-			"rarity": "Uncommon",
-			"artist": ""
+            "dmgEachTurn":"2",
+            "health":"5",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "47",
-			"name": "Spiral Dive",
-			"Lesson": "Quidditch",
-			"cost": "5",
-			"type": "Spell",
-			"description": "Discard any number of cards from your hand. Do that much damage to your opponent",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"47",
+            "name":"Spiral Dive",
+            "Lesson":"Quidditch",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Discard any number of cards from your hand. Do that much damage to your opponent",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "48",
-			"name": "Verdillious",
-			"Lesson": "Charms",
-			"cost": "9",
-			"type": "Spell",
-			"description": "Do 5 damage to your opponent or to a Creature of your choice.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"48",
+            "name":"Verdillious",
+            "Lesson":"Charms",
+            "cost":"9",
+            "type":"Spell",
+            "description":"Do 5 damage to your opponent or to a Creature of your choice.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "49",
-			"name": "Wand Shop",
-			"Lesson": "Charms",
-			"cost": "4",
-			"type": "Location",
-			"description": "When you play this card, discard any other Location from play (yours or your opponent's). All Charms Lessons (yours and your opponent's) provide 2 Charms Lessons instead of 1.",
-			"rarity": "Uncommon",
-			"artist": ""
+        {  
+            "number":"49",
+            "name":"Wand Shop",
+            "Lesson":"Charms",
+            "cost":"4",
+            "type":"Location",
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). All Charms Lessons (yours and your opponent's) provide 2 Charms Lessons instead of 1.",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "50",
-			"name": "Wild Boar",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "2",
-            "type": "Creature",
-            "subTypes": [
+        {  
+            "number":"50",
+            "name":"Wild Boar",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"2",
+            "type":"Creature",
+            "subTypes":[  
                 "Boar"
             ],
-            "description": "To play this card, discard 2 of your Care of Magical Creatures Lessons from play.",
-            "dmgEachTurn": "3",
-            "health": "5",
-			"rarity": "Uncommon",
-			"artist": ""
+            "description":"To play this card, discard 2 of your Care of Magical Creatures Lessons from play.",
+            "dmgEachTurn":"3",
+            "health":"5",
+            "rarity":"Uncommon",
+            "artist":""
         },
-        {
-			"number": "51",
-			"name": "A Beginner's Guide to Transfiguration",
-			"Lesson": "Transfiguration",
-			"cost": "2",
-            "type": "Item",
-            "subTypes": [
+        {  
+            "number":"51",
+            "name":"A Beginner's Guide to Transfiguration",
+            "Lesson":"Transfiguration",
+            "cost":"2",
+            "type":"Item",
+            "subTypes":[  
                 "Book"
             ],
-            "provides": [
+            "provides":[  
                 "1",
                 "Transfiguration"
             ],
-            "description": " You may use an Action and discard this card from play to draw 3 cards.",
-			"rarity": "Common",
-			"artist": ""
+            "description":" You may use an Action and discard this card from play to draw 3 cards.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "52",
-			"name": "Bludger in the Stands",
-			"Lesson": "Quidditch",
-			"cost": "6",
-            "type": "Spell",
-            "description": "Do 4 damage to your opponent. Then, if your opponent has any Items in play, he or she chooses 1 of them and discards it.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"52",
+            "name":"Bludger in the Stands",
+            "Lesson":"Quidditch",
+            "cost":"6",
+            "type":"Spell",
+            "description":"Do 4 damage to your opponent. Then, if your opponent has any Items in play, he or she chooses 1 of them and discards it.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "53",
-			"name": "Blue Wig",
-			"Lesson": "Charms",
-			"cost": "6",
-            "type": "Spell",
-            "description": "Do 4 damage to your opponent. Then draw a card.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"53",
+            "name":"Blue Wig",
+            "Lesson":"Charms",
+            "cost":"6",
+            "type":"Spell",
+            "description":"Do 4 damage to your opponent. Then draw a card.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "54",
-			"name": "Butterfly Weed Balm",
-			"Lesson": "Potions",
-			"cost": "5",
-            "type": "Spell",
-            "subTypes": [
+        {  
+            "number":"54",
+            "name":"Butterfly Weed Balm",
+            "Lesson":"Potions",
+            "cost":"5",
+            "type":"Spell",
+            "subTypes":[  
                 "Healing"
             ],
-            "description": "To play this card, discard 1 of your Potions Lessons from play. Shuffle up to 9 non-Healing cards from your discard pile into your deck.",
-			"rarity": "Common",
-			"artist": ""
+            "description":"To play this card, discard 1 of your Potions Lessons from play. Shuffle up to 9 non-Healing cards from your discard pile into your deck.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "55",
-			"name": "Cancelled Practice",
-			"Lesson": "Transfiguration",
-			"cost": "2",
-            "type": "Spell",
-            "description": "Choose 1 of your opponent's Quidditch Lessons in play and discard it.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"55",
+            "name":"Cancelled Practice",
+            "Lesson":"Transfiguration",
+            "cost":"2",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's Quidditch Lessons in play and discard it.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "56",
-			"name": "Dogbane Potion",
-			"Lesson": "Potions",
-			"cost": "5",
-            "type": "Spell",
-            "description": "Choose 1 of your opponent's Creatures in play and do 3 damage to it.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"56",
+            "name":"Dogbane Potion",
+            "Lesson":"Potions",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's Creatures in play and do 3 damage to it.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "57",
-			"name": "Dog Biscuits",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "1",
-            "type": "Spell",
-            "description": "Remove all damage counters (if any) from 1 of your Creatures in play. Then draw a card.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"57",
+            "name":"Dog Biscuits",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"1",
+            "type":"Spell",
+            "description":"Remove all damage counters (if any) from 1 of your Creatures in play. Then draw a card.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "58",
-			"name": "Fantastic Beasts & Where to Find Them",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "2",
-            "type": "Item",
-            "subTypes": [
+        {  
+            "number":"58",
+            "name":"Fantastic Beasts & Where to Find Them",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"2",
+            "type":"Item",
+            "subTypes":[  
                 "Book"
             ],
-            "provides": [
+            "provides":[  
                 "1",
                 "Care of Magical Creatures"
             ],
-            "description": "You may use an Action and discard this card from play to draw 3 cards.",
-			"rarity": "Common",
-			"artist": ""
+            "description":"You may use an Action and discard this card from play to draw 3 cards.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "59",
-			"name": "Flipendo",
-			"Lesson": "Charms",
-			"cost": "2",
-            "type": "Spell",
-            "description": "Do 2 damage to your opponent or to a Creature of your choice.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"59",
+            "name":"Flipendo",
+            "Lesson":"Charms",
+            "cost":"2",
+            "type":"Spell",
+            "description":"Do 2 damage to your opponent or to a Creature of your choice.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "60",
-			"name": "Freeze!",
-			"Lesson": "Charms",
-			"cost": "3",
-            "type": "Spell",
-            "description": "Choose 1 of your opponent's Creatures in play and do 4 damage to it.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"60",
+            "name":"Freeze!",
+            "Lesson":"Charms",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's Creatures in play and do 4 damage to it.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "61",
-			"name": "Magical Drafts and Potions",
-			"Lesson": "Potions",
-			"cost": "2",
-            "type": "Item",
-            "subTypes": [
+        {  
+            "number":"61",
+            "name":"Magical Drafts and Potions",
+            "Lesson":"Potions",
+            "cost":"2",
+            "type":"Item",
+            "subTypes":[  
                 "Book"
             ],
-            "provides": [
+            "provides":[  
                 "1",
                 "Potions"
             ],
-            "description": "You may use an Action and discard this card from play to draw 3 cards.",
-			"rarity": "Common",
-			"artist": ""
+            "description":"You may use an Action and discard this card from play to draw 3 cards.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "62",
-			"name": "Mid-air Collision",
-			"Lesson": "Quidditch",
-			"cost": "10",
-            "type": "Spell",
-            "description": "Do 10 damage to your opponent. Then choose 1 of your cards in play (other than your starting character) and discard it.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"62",
+            "name":"Mid-air Collision",
+            "Lesson":"Quidditch",
+            "cost":"10",
+            "type":"Spell",
+            "description":"Do 10 damage to your opponent. Then choose 1 of your cards in play (other than your starting character) and discard it.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "63",
-			"name": "Moonseed Poison",
-			"Lesson": "Potions",
-			"cost": "8",
-            "type": "Item",
-            "description": "When you play this card, do 3 damage to your opponent. You may use an Action and discard this card from play to do 6 damage to your opponent.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"63",
+            "name":"Moonseed Poison",
+            "Lesson":"Potions",
+            "cost":"8",
+            "type":"Item",
+            "description":"When you play this card, do 3 damage to your opponent. You may use an Action and discard this card from play to do 6 damage to your opponent.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "64",
-			"name": "Picking on Neville",
-			"Lesson": "Transfiguration",
-			"cost": "4",
-            "type": "Spell",
-            "description": "Choose 1 of your opponent's cards in play (other than his or her starting character) and discard it. Your opponent may prevent this by choosing 2 of his or her cards in play (other than his or her starting character) and discarding them.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"64",
+            "name":"Picking on Neville",
+            "Lesson":"Transfiguration",
+            "cost":"4",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's cards in play (other than his or her starting character) and discard it. Your opponent may prevent this by choosing 2 of his or her cards in play (other than his or her starting character) and discarding them.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "65",
-			"name": "Pigley Dudley",
-			"Lesson": "Transfiguration",
-			"cost": "5",
-            "type": "Spell",
-            "description": "Choose 1 of your opponent's Creatures or Characters in play (other than his or her starting character) and put it on top of his or her deck.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"65",
+            "name":"Pigley Dudley",
+            "Lesson":"Transfiguration",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's Creatures or Characters in play (other than his or her starting character) and put it on top of his or her deck.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "66",
-			"name": "Quick Thinking",
-			"Lesson": "Quidditch",
-			"cost": "6",
-            "type": "Spell",
-            "description": "Do 3 damage to your opponent or draw 3 cards.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"66",
+            "name":"Quick Thinking",
+            "Lesson":"Quidditch",
+            "cost":"6",
+            "type":"Spell",
+            "description":"Do 3 damage to your opponent or draw 3 cards.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "67",
-			"name": "Quidditch Through the Ages",
-			"Lesson": "Quidditch",
-			"cost": "2",
-            "type": "Item",
-            "subTypes": [
+        {  
+            "number":"67",
+            "name":"Quidditch Through the Ages",
+            "Lesson":"Quidditch",
+            "cost":"2",
+            "type":"Item",
+            "subTypes":[  
                 "Book"
             ],
-            "provides": [
+            "provides":[  
                 "1",
                 "Quidditch"
             ],
-            "description": "You may use an Action and discard this card from play to draw 3 cards.",
-			"rarity": "Common",
-			"artist": ""
+            "description":"You may use an Action and discard this card from play to draw 3 cards.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "68",
-			"name": "River Troll",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "5",
-            "type": "Creature",
-            "subTypes": [
+        {  
+            "number":"68",
+            "name":"River Troll",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"5",
+            "type":"Creature",
+            "subTypes":[  
                 "Troll"
             ],
-            "description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
-            "dmgEachTurn": "4",
-            "health": "3",
-			"rarity": "Common",
-			"artist": ""
+            "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
+            "dmgEachTurn":"4",
+            "health":"3",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "69",
-			"name": "Screech Owl",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "3",
-            "type": "Creature",
-            "subTypes": [
+        {  
+            "number":"69",
+            "name":"Screech Owl",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"3",
+            "type":"Creature",
+            "subTypes":[  
                 "Owl"
             ],
-            "description": "When you play this card, you may put a Lesson card from your discard pile into your hand.",
-            "dmgEachTurn": "1",
-            "health": "1",
-			"rarity": "Common",
-			"artist": ""
+            "description":"When you play this card, you may put a Lesson card from your discard pile into your hand.",
+            "dmgEachTurn":"1",
+            "health":"1",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "70",
-			"name": "Sloth Grip",
-			"Lesson": "Quidditch",
-			"cost": "5",
-            "type": "Spell",
-            "description": "During your opponent's next turn, you may prevent all but the first 3 damage done to you.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"70",
+            "name":"Sloth Grip",
+            "Lesson":"Quidditch",
+            "cost":"5",
+            "type":"Spell",
+            "description":"During your opponent's next turn, you may prevent all but the first 3 damage done to you.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "71",
-			"name": "Spongify",
-			"Lesson": "Charms",
-			"cost": "2",
-            "type": "Spell",
-            "description": "Choose a non-Healing Item in play and return it to its owner's hand. Then draw a card.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"71",
+            "name":"Spongify",
+            "Lesson":"Charms",
+            "cost":"2",
+            "type":"Spell",
+            "description":"Choose a non-Healing Item in play and return it to its owner's hand. Then draw a card.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "72",
-			"name": "Swelling Potion",
-			"Lesson": "Potions",
-			"cost": "7",
-            "type": "Spell",
-            "description": "Do 5 damage to your opponent. During your opponent's next turn, he or she can't use Actions to play Item cards.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"72",
+            "name":"Swelling Potion",
+            "Lesson":"Potions",
+            "cost":"7",
+            "type":"Spell",
+            "description":"Do 5 damage to your opponent. During your opponent's next turn, he or she can't use Actions to play Item cards.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "73",
-			"name": "Tawny Owl",
-			"Lesson": "Care of Magical Creatures",
-			"cost": "3",
-            "type": "Creature",
-            "subTypes": [
+        {  
+            "number":"73",
+            "name":"Tawny Owl",
+            "Lesson":"Care of Magical Creatures",
+            "cost":"3",
+            "type":"Creature",
+            "subTypes":[  
                 "Owl"
             ],
-            "description": "When you play this card, you may put a non-Healing Item card from your discard pile into your hand.",
-            "dmgEachTurn": "1",
-            "health": "1",
-			"rarity": "Common",
-			"artist": ""
+            "description":"When you play this card, you may put a non-Healing Item card from your discard pile into your hand.",
+            "dmgEachTurn":"1",
+            "health":"1",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "74",
-			"name": "Teacup to Rat",
-			"Lesson": "Transfiguration",
-			"cost": "3",
-            "type": "Spell",
-            "description": "Choose 1 of your opponent's Items in play and discard it. Then draw a card.",
-			"rarity": "Common",
-			"artist": ""
+        {  
+            "number":"74",
+            "name":"Teacup to Rat",
+            "Lesson":"Transfiguration",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's Items in play and discard it. Then draw a card.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "75",
-			"name": "The Standard Book of Spells (Grade 1)",
-			"Lesson": "Charms",
-			"cost": "2",
-            "type": "Item",
-            "subTypes": [
+        {  
+            "number":"75",
+            "name":"The Standard Book of Spells (Grade 1)",
+            "Lesson":"Charms",
+            "cost":"2",
+            "type":"Item",
+            "subTypes":[  
                 "Book"
             ],
-            "provides": [
+            "provides":[  
                 "2",
                 "Charms"
             ],
-            "description": "You may use an Action and discard this card from play to draw 3 cards.",
-			"rarity": "Common",
-			"artist": ""
+            "description":"You may use an Action and discard this card from play to draw 3 cards.",
+            "rarity":"Common",
+            "artist":""
         },
-        {
-			"number": "76",
-			"name": "Care of Magical Creatures",
-			"Lesson": "Care of Magical Creatures",
-			"type": "Lesson",
-			"provides": [
-				"1",
-				"Care of Magical Creatures"
-			],
-			"rarity": "Common",
-			"artist": ""
-		},
-		{
-			"number": "77",
-			"name": "Charms",
-			"Lesson": "Charms",
-			"type": "Lesson",
-			"provides": [
-				"1",
-				"Charms"
-			],
-			"rarity": "Common",
-			"artist": ""
-		},
-		{
-			"number": "78",
-			"name": "Potions",
-			"Lesson": "Potions",
-			"type": "Lesson",
-			"provides": [
-				"1",
-				"Potions"
-			],
-			"rarity": "Common",
-			"artist": ""
-		},
-		{
-			"number": "79",
-			"name": "Quidditch",
-			"Lesson": "Quidditch",
-			"type": "Lesson",
-			"provides": [
-				"1",
-				"Quidditch"
-			],
-			"rarity": "Common",
-			"artist": ""
-		},
-		{
-			"number": "80",
-			"name": "Transfiguration",
-			"Lesson": "Transfiguration",
-			"type": "Lesson",
-			"provides": [
-				"1",
-				"Transfiguration"
-			],
-			"rarity": "Common",
-			"artist": ""
-		}
+        {  
+            "number":"76",
+            "name":"Care of Magical Creatures",
+            "Lesson":"Care of Magical Creatures",
+            "type":"Lesson",
+            "provides":[  
+                "1",
+                "Care of Magical Creatures"
+            ],
+            "rarity":"Common",
+            "artist":""
+        },
+        {  
+            "number":"77",
+            "name":"Charms",
+            "Lesson":"Charms",
+            "type":"Lesson",
+            "provides":[  
+                "1",
+                "Charms"
+            ],
+            "rarity":"Common",
+            "artist":""
+        },
+        {  
+            "number":"78",
+            "name":"Potions",
+            "Lesson":"Potions",
+            "type":"Lesson",
+            "provides":[  
+                "1",
+                "Potions"
+            ],
+            "rarity":"Common",
+            "artist":""
+        },
+        {  
+            "number":"79",
+            "name":"Quidditch",
+            "Lesson":"Quidditch",
+            "type":"Lesson",
+            "provides":[  
+                "1",
+                "Quidditch"
+            ],
+            "rarity":"Common",
+            "artist":""
+        },
+        {  
+            "number":"80",
+            "name":"Transfiguration",
+            "Lesson":"Transfiguration",
+            "type":"Lesson",
+            "provides":[  
+                "1",
+                "Transfiguration"
+            ],
+            "rarity":"Common",
+            "artist":""
+        }
     ]
 }
