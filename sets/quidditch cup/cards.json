@@ -87,7 +87,7 @@
 			"lesson": "Potions",
 			"cost": "9",
 			"type": "Item",
-			"description": "Before each of your turns, Bludger does 3 damage to your opponent if a Match is in play. (If there isn't a Match in play, Bludger does no damage).",
+			"description": "To play this card, return 2 of your Potions Lessons from play to your hand.",
 			"provides": [
 				"5",
 				"Potions"
@@ -776,7 +776,7 @@
 			"number": "62",
 			"name": "Mice to Snuffboxes",
 			"lesson": "Transfiguration",
-			"cost": "1",
+			"cost": "5",
 			"type": "Spell",
 			"description": "Choose up to 2 Creatures in play and return them to their owners' hands.",
 			"rarity": "Common",
