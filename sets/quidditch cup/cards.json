@@ -9,7 +9,7 @@
 			"lesson": "Quidditch",
 			"cost": "4",
 			"type": "Item",
-			"description": "Before each of your turns, Bludger does 3 damage to your opponent if a match is in play. (If there isn't a Match in play, Bludger does no damage).",
+			"description": "Before each of your turns, Bludger does 3 damage to your opponent if a Match is in play. (If there isn't a Match in play, Bludger does no damage).",
 			"rarity": "Foil Premium",
 			"artist": "Tim Hildebrandt"
 		},
@@ -77,7 +77,7 @@
 				"toSolve": "Your opponent chooses 5 Spell cards in his or her hand and discards them.",
 				"reward": "Your opponent gets 1 more Action (the turn this Adventure is solved)."
 			},
-			"flavorText": "'Harry was so closed to the mirror now that his nose was nearly touching that of his reflection. 'Mum?' he whispered. 'Dad?''",
+			"flavorText": "'Harry was so close to the mirror now that his nose was nearly touching that of his reflection. 'Mum?' he whispered. 'Dad?''",
 			"rarity": "Foil Premium",
 			"artist": "Jim Nelson"
 		},
@@ -87,7 +87,7 @@
 			"lesson": "Potions",
 			"cost": "9",
 			"type": "Item",
-			"description": "Before each of your turns, Bludger does 3 damage to your opponent if a match is in play. (If there isn't a Match in play, Bludger does no damage).",
+			"description": "Before each of your turns, Bludger does 3 damage to your opponent if a Match is in play. (If there isn't a Match in play, Bludger does no damage).",
 			"provides": [
 				"5",
 				"Potions"
@@ -657,7 +657,7 @@
 			"lesson": "Charms",
 			"cost": "3",
 			"type": "Spell",
-			"description": "For the rest of this turn, your Spell cards need 5 less Power to play. (You still need at least 1 Power that matches.)",
+			"description": "For the rest of this turn, your Spell cards need 5 less Power to play. (You still need at least 1 Power that Matches.)",
 			"rarity": "Common",
 			"artist": "Mark Romanoski"
 		},
