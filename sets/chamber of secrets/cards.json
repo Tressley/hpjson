@@ -1,0 +1,268 @@
+{
+    "setName":"Chamber of Secrets",
+    "releaseDate":"10-2002",
+    "totalCards":"140",
+    "cards":[
+        {
+            "number":"1",
+            "name":"Angelina Johnson",
+            "type":"Character",
+            "subTypes":[
+                "Witch",
+                "Gryffindor",
+                "Unique"
+            ],
+            "description":"Before each of your turns, if there is a Match in play, you get 1 more Action that turn.",
+            "flavorText":"'... what an excellent Chaser that girl is, and rather attractive, too — ' — Lee Jordan, commentator",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"2",
+            "name":"Arthur Weasley",
+            "type":"Character",
+            "subTypes":[
+                "Wizard",
+                "Unique"
+            ],
+            "description":"Once per turn, you may use an Action to choose 1 of your Items in play and do damage to your opponent equal to its printed Power cost.",
+            "flavorText":"'He was a thin man, going bald, but the little hair he had was as red as any of his children's.'",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"3",
+            "name":"Blagging",
+            "lesson":"Quidditch",
+            "cost":"11",
+            "type":"Spell",
+            "description":"Do 8 damage to your opponent. Then, if your opponent has any cards in play (other than his or her starting Character), he or she chooses 1 of them and discards it.",
+            "flavorText":"''Will you stop messing around!' he yelled. 'That's exactly the sort of thing that'll lose us the match!'' — Oliver Wood",
+            "rarity":"Rare",
+            "artist":"Chris Seaman"
+        },
+        {
+            "number":"4",
+            "name":"Body Blow",
+            "lesson":"Quidditch",
+            "cost":"7",
+            "type":"Spell",
+            "description":"Do 8 damage to your opponent. Then your opponent may choose a Lesson card from his or her hand and discard it. If he or she does, you take 8 damage.",
+            "rarity":"Rare",
+            "artist":"Mark Brill"
+        },
+        {
+            "number":"5",
+            "name":"Broken Wand",
+            "lesson":"Charms",
+            "cost":"2",
+            "type":"Item",
+            "description":"You may use an Action to reveal the top card of your deck. If it's a Lesson card, put it into play. If it isn't a Lesson card, discard it. If you play this card, and you already have a Wand in play, discard the old one. ",
+            "provides":[
+                "1",
+                "Charms"
+            ],
+            "rarity":"Rare",
+            "artist":"Kevin Dobler"
+        },
+        {
+            "number":"6",
+            "name":"The Burrow",
+            "lesson":"Charms",
+            "cost":"5",
+            "type":"Location",
+            "subTypes":[
+                "Unique"
+            ],
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, if that player has fewer than 4 cards in his or her hand, that player draws cards until he or she has 4.",
+            "flavorText":"'... Harry, grinning widely, said, 'This is the best house I've ever been in.''",
+            "rarity":"Rare",
+            "artist":"Dennis Calero"
+        },
+        {
+            "number":"7",
+            "name":"Colin Creevey",
+            "type":"Character",
+            "subTypes":[
+                "Wizard",
+                "Gryffindor",
+                "Unique"
+            ],
+            "description":"Once per turn, you may use an Action to draw 3 cards and then make your opponent draw 3 cards.",
+            "flavorText":"'I never knew all the odd stuff I could do was magic till I got the letter from Hogwarts. My dad's a milkman, he couldn't believe it either.'",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"8",
+            "name":"Crazed Capybara",
+            "lesson":"Care of Magical Creatures",
+            "cost":"7",
+            "type":"Creature",
+            "subTypes":[
+                "Capybara"
+            ],
+            "description":"When you play this card, draw a card.",
+            "dmgEachTurn":"3",
+            "health":"3",
+            "rarity":"Rare",
+            "artist":"Tim Hildebrandt"
+        },
+        {
+            "number":"9",
+            "name":"De-Gnoming the Garden",
+            "type":"Adventure",
+            "description":{
+                "note":"Play this card only if you have at least 5 Lessons in play.",
+                "effect":"At the end of each of your opponent's turns, if he or she has any cards in his or her hand, he or she chooses 1 of them and discards it.",
+                "toSolve":"Your opponent discards 5 cards in this way.",
+                "reward":"Your opponent may draw a card."
+            },
+            "rarity":"Rare",
+            "artist":"Larry MacDougall"
+        },
+        {
+            "number":"10",
+            "name":"Dobby's Disappearance",
+            "lesson":"Transfiguration",
+            "cost":"4",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's cards in play (other than his or her starting Character) and return it to his or her hand. You get 1 more Action this turn.",
+            "flavorText":"''Dobby must go!' breathed the elf, terrified; there was a loud crack, and Harry's fist was suddenly clenched on thin air.'",
+            "rarity":"Rare",
+            "artist":"Keith Garletts"
+        },
+        {
+            "number":"11",
+            "name":"Dobby's Help",
+            "lesson":"Charms",
+            "cost":"10",
+            "type":"Spell",
+            "description":"Your opponent draws 10 cards.",
+            "flavorText":"'You know what, Harry? If he doesn't stop trying to save your life he's going to kill you.' — Ron Weasley",
+            "rarity":"Rare",
+            "artist":"Kevin Dobler"
+        },
+        {
+            "number":"12",
+            "name":"Double-Beater Defence",
+            "lesson":"Quidditch",
+            "cost":"8",
+            "type":"Spell",
+            "description":"To play this card, discard 2 other cards from your hand. Do 5 damage to your opponent. Then, if your opponent has any cards in his or her hand, he or she chooses 2 of them and discards them (1 if he or she has only 1).",
+            "flavorText":"'Fred and George Weasley are the Gryffindor Beaters.' — Harry Potter",
+            "rarity":"Rare",
+            "artist":"Ken Steacy"
+        },
+        {
+            "number":"13",
+            "name":"Draco the Seeker",
+            "type":"Character",
+            "subTypes":[
+                "Wizard",
+                "Slytherin",
+                "Unique"
+            ],
+            "description":"If your opponent has any cards in his or her hand, you may use an Action to make him or her choose 1 of them and discard it.",
+            "flavorText":"'... we're going to make them rue the day they let that little bit of slime, Malfoy, buy his way onto their team.' — Oliver Wood",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"14",
+            "name":"Dragon Poison",
+            "cost":"7",
+            "type":"Spell",
+            "description":"To play this card, return 2 of your Potions Lessons from play to your hand. Do 10 damage to your opponent or to a Creature of your choice.",
+            "rarity":"Rare",
+            "artist":"Thomas Gianni"
+        },
+        {
+            "number":"15",
+            "name":"Dumbledore's Office",
+            "lesson":"Transfiguration",
+            "cost":"5",
+            "type":"Location",
+            "subTypes":[
+                "Unique"
+            ],
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). All Item cards (yours and your opponent's) need 3 less Power to play. (You still need at least 1 Power that matches.)",
+            "flavorText":"'It was a large and beautiful circular room, full of funny little noises.'",
+            "rarity":"Rare",
+            "artist":"Tim Hildebrandt"
+        },
+        {
+            "number":"16",
+            "name":"Entrancing Enchantments",
+            "cost":"2",
+            "type":"Spell",
+            "description":"Search your deck. You may take a Character card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "flavorText":"'... Professor Flitwick knows more about Entrancing Enchantments than any wizard I've ever met, the sly old dog!' — Professor Gilderoy Lockhart",
+            "rarity":"Rare",
+            "artist":"Greg Hildebrandt"
+        },
+        {
+            "number":"17",
+            "name":"Errol",
+            "lesson":"Care of Magical Creatures",
+            "cost":"3",
+            "type":"Creature",
+            "subTypes":[
+                "Owl",
+                "Unique"
+            ],
+            "description":"When you play this card, reveal the top card of your deck. If it's a Lesson card, put it into play. If it isn't, put it back on top of your deck.",
+            "dmgEachTurn":"1",
+            "health":"1",
+            "flavorText":"'He's ancient. It wouldn't be the first time he'd collapsed on a delivery.' — Ron Weasley",
+            "rarity":"Rare",
+            "artist":"Ron Spencer"
+        },
+        {
+            "number":"18",
+            "name":"Escaping the Dursleys",
+            "type":"Adventure",
+            "description":{
+                "effect":"Your opponent can't use Actions to play non-Lesson cards.",
+                "toSolve":"Your opponent discards his or her hand.",
+                "reward":"Your opponent searches his or her deck for any card, puts it into his or her hand and then shuffles his or her deck."
+            },
+            "rarity":"Rare",
+            "artist":[
+                "Kevin McCann",
+                "Michael Collins"
+            ]
+        },
+        {
+            "number":"19",
+            "name":"Fat Friar",
+            "type":"Character",
+            "subTypes":[
+                "Ghost",
+                "Hufflepuff",
+                "Unique",
+                "Healing"
+            ],
+            "description":"Once per game, you may draw 2 cards, then do 2 damage to your opponent and then put up to 2 non-Healing cards from your discard pile on the bottom of your deck.",
+            "flavorText":"''Hope to see you in Hufflepuff!' said the Friar.'",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"20",
+            "name":"Fawkes",
+            "lesson":"Care of Magical Creatures",
+            "cost":"12",
+            "type":"Creature",
+            "subTypes":[
+                "Phoenix",
+                "Unique"
+            ],
+            "description":"Each turn, you may prevent 4 damage done to you. If Fawkes is discarded from play, put it into your hand.",
+            "health":"4",
+            "flavorText":"'Fawkes,' said Harry, isn't an ordinary bird.'",
+            "rarity":"Rare",
+            "artist":"Alex Horley"
+        }
+    ]
+}
