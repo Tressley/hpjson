@@ -12,8 +12,9 @@
                 "Unique"
             ],
             "description":"If you have at least 4 Lessons in play, your Spell cards with a printed Power cost of 6 or more need 2 less Power to play. (You still need at least 1 Power that matches.)",
+            "flavorText":"'(Order of Merlin, First Class, Grand Sorc., Chf. Warlock, Supreme Mugwump, International Confed. of Wizards)' — Hogwarts letterhead",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Kim Graham"
         },
         {  
             "number":"2",
@@ -23,8 +24,9 @@
                 "Unique"
             ],
             "description":"You may use an Action to discard an Adventure from play (yours or your opponent's). (You don't get the reward.)",
+            "flavorText":"'Filch knew the secret passageways of the school better than anyone... and could pop up as suddenly as any of the ghosts.'",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Kim Graham"
         },
         {  
             "number":"3",
@@ -36,8 +38,9 @@
                 "Unique"
             ],
             "description":"You may use an Action and discard 2 cards from your hand to do 3 damage to your opponent.",
+            "flavorText":"'Both of them were thickest and looked extremely mean.'",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Kim Graham"
         },
         {  
             "number":"4",
@@ -49,7 +52,7 @@
                 "reward":"Your opponent may draw a card."
             },
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Scott M. Fischer"
         },
         {  
             "number":"5",
@@ -58,8 +61,9 @@
             "cost":"7",
             "type":"Spell",
             "description":"To play this card, discard 2 of your Potions Lessons from play. Do 11 damage to your opponent or to a Creature of your choice.",
+            "flavorText":"'... Professor Dumbledore is particularly famous for... the discovery of the twelve uses of dragon's blood...' — Chocolate Frog card",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Tim Hildebrandt"
         },
         {  
             "number":"6",
@@ -72,7 +76,7 @@
             ],
             "description":"If this card is in play before your turn, discard all cards (other than each player's starting Character) from play (including this card).",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Jeff Laubenstein"
         },
         {  
             "number":"7",
@@ -81,8 +85,9 @@
             "cost":"4",
             "type":"Spell",
             "description":"Put up to 4 Adventure cards from your discard pile into your hand.",
+            "flavorText":"'... the huge Slytherin serpent vanished and a towering Gryffindor lion took its place.'",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"James Bernardin"
         },
         {  
             "number":"8",
@@ -97,8 +102,9 @@
             "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play. When you play this card, do 4 damage to your opponent.",
             "dmgEachTurn":"4",
             "health":"7",
+            "flavorText":"'Like Hagrid, Fang was clearly not as fierce as he looked.'",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Monte Michael Moore"
         },
         {  
             "number":"9",
@@ -110,7 +116,7 @@
                 "reward":"Your opponent may put a Lesson card from his or her hand into play."
             },
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Jeff Laubenstein"
         },
         {  
             "number":"10",
@@ -123,7 +129,7 @@
             ],
             "description":"You can play only 1 Money card each turn. Before your turn, if this card is in play, discard it and your get 3 more Actions this turn.",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Romas"
         },
         {  
             "number":"11",
@@ -135,8 +141,9 @@
                 "Unique"
             ],
             "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, he or she draws a card.",
+            "flavorText":"'It was lit by thousands and thousands of candles which were floating in midair over four long tables, ...'",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"James Bernardin"
         },
         {  
             "number":"12",
@@ -148,8 +155,9 @@
                 "Unique"
             ],
             "description":"When you play this card, discard any other Location from play (yours or your opponent's). Whenever a Care of Magical Creatures Lesson (yours or your opponent's) is discarded from play, put it into its owner's hand.",
+            "flavorText":"'Hagrid lived in a small wooden house on the edge of the Forbidden Forest.'",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Jim Nelson"
         },
         {  
             "number":"13",
@@ -161,8 +169,9 @@
                 "Gryffindor"
             ],
             "description":"At the end of each of your turns, if you played an Adventure card that turn, draw up to 4 cards.",
+            "flavorText":"'... to Mr Harry Potter ...' ... '... for pure nerve and outstanding courage, I award Gryffindor house sixty points.' — Albus Dumbledore",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Kim Graham"
         },
         {  
             "number":"14",
@@ -171,8 +180,9 @@
             "cost":"7",
             "type":"Location",
             "description":"When you play this card, discard any other Location from play (yours or your opponent's). Each turn, each player may prevent 4 damage done to him or her. (The damage may be prevented from one or more cards.)",
+            "flavorText":"'He realised he must be in the hospital wing.'",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Kevin Dobler"
         },
         {  
             "number":"15",
@@ -185,7 +195,7 @@
                 "reward":"You take 5 damage."
             },
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Ron Spencer"
         },
         {  
             "number":"16",
@@ -197,8 +207,9 @@
                 "Healing"
             ],
             "description":"Once per game, you may shuffle up to 12 non-Healing cards from your discard pile into your deck.",
+            "flavorText":"'Madam Pomfrey, the matron, was a nice woman, but very strict.'",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Kim Graham"
         },
         {  
             "number":"17",
@@ -211,7 +222,7 @@
                 "reward":"Your opponent gets 1 more Action the turn he or she solves this Adventure."
             },
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Kevin Dobler"
         },
         {  
             "number":"18",
@@ -224,7 +235,7 @@
                 "reward":"Your opponent may draw 4 cards."
             },
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Ken Steacy"
         },
         {  
             "number":"19",
@@ -237,7 +248,7 @@
             ],
             "description":"You may use an Action to discard this card from play. If you do, count the number of cards in your hand and discard them. Then search your deck. You may take up to that number of cards from your deck and put them into your hand. Then shuffle your deck.",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Scott M. Fischer"
         },
         {  
             "number":"20",
@@ -247,8 +258,9 @@
                 "Unique"
             ],
             "description":"Once per game, you may discard your hands and draw 7 cards to make your opponent discard his or her hand and then draw 7 cards.",
+            "flavorText":"'... Peeves the poltergeist was worth two locked doors and a trick staircase if you met him when you were late for class.'",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Kim Graham"
         },
         {  
             "number":"21",
@@ -262,7 +274,7 @@
             ],
             "description":"You may use 2 Actions to discard this card from play to put all Lesson cards from your discard pile into play. Then shuffle all non-Healing cards from your discard pile into your deck. When you build your deck, you can only put 1 Philosopher's Stone in it.",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Monte Michael Moore"
         },
         {  
             "number":"22",
@@ -274,8 +286,9 @@
                 "Unique"
             ],
             "description":"When you play this card, discard any other Location from play (yours or your opponent's). Whenever a Potions Lesson (yours or your opponent's) is discarded from play, put it into its owner's hand.",
+            "flavorText":"'It... would have been quite creepy enough without the pickled animals floating in glass jars all around the walls.'",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Tim Hildebrandt"
         },
         {  
             "number":"23",
@@ -286,9 +299,9 @@
             "subTypes":[  
                 "Unique"
             ],
-            "description":"Once during each of your turns, when you use an Action to play a card that requires Q Power, you get 1 more Action that turn.",
+            "description":"Once during each of your turns, when you use an Action to play a card that requires Quidditch Power, you get 1 more Action that turn.",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Darrell Riche"
         },
         {  
             "number":"24",
@@ -296,9 +309,10 @@
             "lesson":"Quidditch",
             "cost":"2",
             "type":"Location",
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Spell cards that need Q Power (yours and your opponent's) need 2 less Power to play (you still need at least 1 Power that matches).",
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Spell cards that need Quidditch Power (yours and your opponent's) need 2 less Power to play (you still need at least 1 Power that matches).",
+            "flavorText":"'At either end of the pitch were three golden poles with hoops at the end.'",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Darrell Riche"
         },
         {  
             "number":"25",
@@ -310,7 +324,7 @@
                 "reward":"Your opponent may draw a card."
             },
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Ken Steacy"
         },
         {  
             "number":"26",
@@ -322,8 +336,9 @@
                 "Gryffindor"
             ],
             "description":"At the end of each of your turns, if you played an Adventure card that turn, your may search your deck. You may take a Character card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "flavorText":"'... you don't think we'd let you go alone?' - Ron Weasley",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Kim Graham"
         },
         {  
             "number":"27",
@@ -335,7 +350,7 @@
                 "reward":"Your opponent may shuffle up to 5 non-Healing cards from his or her discard pile into his or her deck."
             },
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Ken Steacy"
         },
         {  
             "number":"28",
@@ -346,8 +361,9 @@
                 "Gryffindor"
             ],
             "description":"You may use an Action to search your deck. You may take a Gryffindor card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "flavorText":"'At the very end of the corridor hung a portrait of a very fat woman in a pink silk dress. 'Password?', she said.'",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Kim Graham"
         },
         {  
             "number":"29",
@@ -359,7 +375,7 @@
                 "reward":"Your opponent may put up to 2 non-Healing cards from his or her discard pile and put them on the bottom of his deck (in any order)."
             },
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Scott M. Fischer"
         },
         {  
             "number":"30",
@@ -371,10 +387,11 @@
                 "Dragon"
             ],
             "description":"To play this card, discard 2 of your Care of Magical Creatures Lessons from play. When you play this card, do 6 damage to your opponent.",
-            "dmgEachTurn":"4",
-            "health":"7",
+            "flavorText":"'... you can't tame dragons, it's dangerous.' - Ron Weasley",
+            "dmgEachTurn":"6",
+            "health":"4",
             "rarity":"Foil Premium",
-            "artist":""
+            "artist":"Lars Grant-West"
         },
         {  
             "number":"31",
@@ -387,7 +404,7 @@
                 "reward":"You take 5 damage."
             },
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Scott M. Fischer"
         },
         {  
             "number":"32",
@@ -396,8 +413,9 @@
             "cost":"4",
             "type":"Spell",
             "description":"Search your deck. You may take a Location of Adventure card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "flavorText":"'She grabbed Harry's wand, tapped the lock and whispered, 'Alohomora!''",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Bob Petillo"
         },
         {  
             "number":"33",
@@ -407,7 +425,7 @@
             "type":"Spell",
             "description":"To play this card, discard 2 of your Potions Lessons from play. Do 8 damage to your opponent or to a Creature of your choice.",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Thomas Gianni"
         },
         {  
             "number":"34",
@@ -416,8 +434,12 @@
             "cost":"6",
             "type":"Spell",
             "description":"Your opponent chooses 1 of his or her cards in play (other than his or her starting Character) and discards it. Then, if he or she has any cards in his or her hand, he or she chooses 1 of them and discards it.",
+            "flavorText":"'... OUCH - that must have hurt, hit in the back of the head by a Bludger  - ...'  - Lee Jordan, commentator",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":[
+                "Kevin McCann",
+                "Michael Collins"
+            ]
         },
         {  
             "number":"35",
@@ -430,7 +452,7 @@
                 "reward":"Your opponent may draw a card."
             },
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Michael Koelsch"
         },
         {  
             "number":"36",
@@ -447,7 +469,7 @@
             ],
             "description":"To play this card, discard 1 of your Potions Lessons from play. If this card is discarded from play, put it into your hand.",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"George Davis"
         },
         {  
             "number":"37",
@@ -456,8 +478,9 @@
             "cost":"3",
             "type":"Spell",
             "description":"Choose an Adventure or Location in play and discard it. (If you discard an Adventure, you don't get the reward.)",
+            "flavorText":"'... with a roar it rose into the air and off into the night.'",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Scott M. Fischer"
         },
         {  
             "number":"38",
@@ -469,20 +492,21 @@
                 "reward":"You take 2 damage."
             },
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Darrell Riche"
         },
         {  
             "number":"39",
             "name":"Forbidden Corridor",
             "lesson":"Transfiguration",
-            "cost":"3",
+            "cost":"6",
             "type":"Location",
             "subTypes":[  
                 "Unique"
             ],
             "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, he or she chooses 1 of his or her cards in play (other than his or her starting Character) and discards it. At the end of each player's turn, if he or she has no Lessons in play, discard this card.",
+            "flavorText":"'And now they know why it was forbidden.'",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Doug Chaffee"
         },
         {  
             "number":"40",
@@ -493,11 +517,10 @@
             "subTypes":[  
                 "Squid"
             ],
-            "description":"",
             "dmgEachTurn":"5",
             "health":"10",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Jeff Laubenstein"
         },
         {  
             "number":"41",
@@ -509,7 +532,7 @@
                 "reward":"Your opponent may search his or her deck. He or she may take a Creature card, show it to you, and put it into his or her hand. Then your opponent shuffles his or her deck."
             },
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"David Day"
         },
         {  
             "number":"42",
@@ -523,8 +546,9 @@
             "description":"When Marble Gargoyle does damage to your opponent, if he or she doesn't have any Creatures in play, it does 3 more damage to him or her.",
             "dmgEachTurn":"2",
             "health":"3",
+            "flavorText":"'Gulpin' gargoyles ...' - Rubeus Hagrid",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Tony Szczudlo"
         },
         {  
             "number":"43",
@@ -538,7 +562,7 @@
                 "prize":"The winner does 10 damage to his or her opponent."
             },
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Ken Steacy"
         },
         {  
             "number":"44",
@@ -547,8 +571,9 @@
             "cost":"6",
             "type":"Spell",
             "description":"Your opponent chooses 3 cards in his or her hand and discards them. (If he or she has fewer than 3 cards in his or her hand, he or she discards them all.)",
+            "flavorText":"'It took several purple firecrackers exploding from the end of Professor Dumbledore's wand to bring silence.'",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Greg Hildebrandt"
         },
         {  
             "number":"45",
@@ -561,7 +586,7 @@
                 "reward":"Your opponent may draw 3 cards."
             },
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Monte Michael Moore"
         },
         {  
             "number":"46",
@@ -574,7 +599,7 @@
             ],
             "description":"You can play only 1 Money card each turn. Before your turn, if this card is in play, discard it and your get 2 more Actions this turn.",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Thomas Gianni"
         },
         {  
             "number":"47",
@@ -587,7 +612,7 @@
             ],
             "description":"To play this card, discard one of your Potions Lessons from play. Shuffle up to 11 non-Healing cards from your discard pile into your deck.",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Bob Petillo"
         },
         {  
             "number":"48",
@@ -599,7 +624,7 @@
                 "reward":"You take 1 damage."
             },
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Ken Steacy"
         },
         {  
             "number":"49",
@@ -608,8 +633,9 @@
             "cost":"9",
             "type":"Spell",
             "description":"Your opponent chooses 3 of his or her Lessons in play and discards them. Then you choose 3 of your Lessons in play and discard them. (If either of you has fewer than 3 Lessons in play, that player discards them all.)",
+            "flavorText":"'... Hogwarts woke to find itself covered in several feet of snow.'",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Doug Chaffee"
         },
         {  
             "number":"50",
@@ -618,8 +644,9 @@
             "cost":"8",
             "type":"Spell",
             "description":"Choose up to 3 Creatures in play and return them to their owner's hands.",
+            "flavorText":"'... it sounded a bit like an owl.'",
             "rarity":"Uncommon",
-            "artist":""
+            "artist":"Tony Szczudlo"
         },
         {  
             "number":"51",
@@ -628,8 +655,9 @@
             "cost":"3",
             "type":"Spell",
             "description":"Look at your opponent's hand. If there are any Lessons there, choose 1 of them and discard it.",
+            "flavorText":"'They had been given special, new quills for the exams, which had been bewitched with an Anti-Cheating spell.'",
             "rarity":"Common",
-            "artist":""
+            "artist":"Greg Hildebrandt"
         },
         {  
             "number":"52",
@@ -638,8 +666,9 @@
             "cost":"5",
             "type":"Spell",
             "description":"Do 3 damage to your opponent or to a Creature of your choice. Then draw a card.",
+            "flavorText":"'... the Weasley twins were punished for bewitching several snowballs so that they followed Quirrell around, bouncing off the back of his turban.'",
             "rarity":"Common",
-            "artist":""
+            "artist":"Alex Horley"
         },
         {  
             "number":"53",
@@ -654,7 +683,7 @@
             "dmgEachTurn":"2",
             "health":"1",
             "rarity":"Common",
-            "artist":""
+            "artist":"George Davis"
         },
         {  
             "number":"54",
@@ -663,8 +692,9 @@
             "cost":"7",
             "type":"Spell",
             "description":"Do 3 damage to your opponent. Then, if your opponent has any cards in his or her hand, he or she chooses 2 of them and discards them (1 if he or she only has 1).",
+            "flavorText":"'It was as though the broom was trying to buck him off.'",
             "rarity":"Common",
-            "artist":""
+            "artist":"Darrell Riche"
         },
         {  
             "number":"55",
@@ -676,19 +706,21 @@
                 "Healing",
                 "Candy"
             ],
-            "description":"Choose up to 2 non-Healing cards from your discard pile and put them on the bottom of your deck (in any order). When draw a card. (Cauldron Cakes isn't really a Cauldron.)",
+            "description":"Choose up to 2 non-Healing cards from your discard pile and put them on the bottom of your deck (in any order). Then draw a card. (Cauldron Cakes isn't really a Cauldron.)",
+            "flavorText":"'He had never had any money for sweets with the Dursleys ...'",
             "rarity":"Common",
-            "artist":""
+            "artist":"Monte Michael Moore"
         },
         {  
             "number":"56",
             "name":"Charms Accident",
             "lesson":"Charms",
-            "cost":"1",
+            "cost":"2",
             "type":"Spell",
             "description":"Do 2 damage to your opponent. You may also choose a non-Healing Item in play and return it to its owner's hand.",
+            "flavorText":"'Seamus got so impatient that he prodded it with his wand and set fire to it - ...'",
             "rarity":"Common",
-            "artist":""
+            "artist":"Keith Garletts"
         },
         {  
             "number":"57",
@@ -699,11 +731,10 @@
             "subTypes":[  
                 "Chimaera"
             ],
-            "description":"When you play this card, do 2 damage to your opponent.",
             "dmgEachTurn":"4",
             "health":"2",
             "rarity":"Common",
-            "artist":""
+            "artist":"Jim Nelson"
         },
         {  
             "number":"58",
@@ -712,8 +743,9 @@
             "cost":"4",
             "type":"Spell",
             "description":"Choose a Creature in play. That Creature does damage to your opponent equal to that Creature's printed 'Damage each turn.'",
+            "flavorText":"''Blasted thing,' Snape was saying. 'How are you supposed to keep your eyes on all three heads at once?''",
             "rarity":"Common",
-            "artist":""
+            "artist":"Scott M. Fischer"
         },
         {  
             "number":"59",
@@ -725,8 +757,9 @@
                 "Candy"
             ],
             "description":"Reveal the top 2 card of your deck. Put into play any Lesson cards you revealed. Put into your discard pile any non-Lesson cards you revealed. Then draw a card.",
+            "flavorText":"'When they say every flavour, they mean every flavour - ...'  - Ron Weasley",
             "rarity":"Common",
-            "artist":""
+            "artist":"Cindy Salans Rosenheim"
         },
         {  
             "number":"60",
@@ -735,8 +768,9 @@
             "cost":"3",
             "type":"Spell",
             "description":"Do 3 damage to your opponent. During your opponent's next turn, prevent all damage done to you by Spell cards.",
+            "flavorText":"'He ... saw the black flames licking his body but couldn't feel them - ...'",
             "rarity":"Common",
-            "artist":""
+            "artist":"Scott M. Fischer"
         },
         {  
             "number":"61",
@@ -744,9 +778,9 @@
             "lesson":"Potions",
             "cost":"4",
             "type":"Spell",
-            "description":"To play this card, discard 1 of your P Lessons from play. Do 6 damage to your opponent or to a Creature of your choice.",
+            "description":"To play this card, discard 1 of your Potions Lessons from play. Do 6 damage to your opponent or to a Creature of your choice.",
             "rarity":"Common",
-            "artist":""
+            "artist":"Alex Horley"
         },
         {  
             "number":"62",
@@ -759,7 +793,7 @@
             ],
             "description":"You can play only 1 Money card each turn. Before your turn, if this card is in play, discard it and you get 1 more Action this turn.",
             "rarity":"Common",
-            "artist":""
+            "artist":"Tony Szczudlo"
         },
         {  
             "number":"63",
@@ -772,7 +806,7 @@
             ],
             "description":"Do 2 damage to your opponent. Then draw a card. (Liquorice Wand isn't really a Wand.)",
             "rarity":"Common",
-            "artist":""
+            "artist":"Bob Petillo"
         },
         {  
             "number":"64",
@@ -781,8 +815,9 @@
             "cost":"8",
             "type":"Spell",
             "description":"Do 4 damage to your opponent. Then draw 4 cards.",
+            "flavorText":"'When Angelina had scored, Harry had done a couple loop-the-loops to let out his feelings.'",
             "rarity":"Common",
-            "artist":""
+            "artist":"Ken Steacy"
         },
         {  
             "number":"65",
@@ -790,9 +825,9 @@
             "lesson":"Potions",
             "cost":"6",
             "type":"Spell",
-            "description":"Count the number of P Lessons you have in play. Do that much damage to your opponent. Then choose 1 of your P Lessons in play and discard it.",
+            "description":"Count the number of Potions Lessons you have in play. Do that much damage to your opponent. Then choose 1 of your Potions Lessons in play and discard it.",
             "rarity":"Common",
-            "artist":""
+            "artist":"Kevin Dobler"
         },
         {  
             "number":"66",
@@ -802,7 +837,7 @@
             "type":"Spell",
             "description":"During your opponent's next turn, he or she can't use Actions to play Spell cards.",
             "rarity":"Common",
-            "artist":""
+            "artist":"James Bernardin"
         },
         {  
             "number":"67",
@@ -811,8 +846,9 @@
             "cost":"6",
             "type":"Spell",
             "description":"Draw 3 cards.",
+            "flavorText":"'... about a hundred owls had suddenly streamed into the Great Hall ...'",
             "rarity":"Common",
-            "artist":""
+            "artist":"James Bernardin"
         },
         {  
             "number":"68",
@@ -821,8 +857,9 @@
             "cost":"5",
             "type":"Spell",
             "description":"Before each of your turns, draw a card.",
+            "flavorText":"'Smiling and waving at him from every page were his mother and father.'",
             "rarity":"Common",
-            "artist":""
+            "artist":"Romas"
         },
         {  
             "number":"69",
@@ -836,8 +873,9 @@
             "description":"When Sandstone Gargoyle does damage to your opponent, if he or she doesn't have any Creatures in play, it does 2 more damage to him or her.",
             "dmgEachTurn":"1",
             "health":"2",
+            "flavorText":"'It was sitting as still as a statue...'",
             "rarity":"Common",
-            "artist":""
+            "artist":"Tony Szczudlo"
         },
         {  
             "number":"70",
@@ -850,7 +888,7 @@
             ],
             "description":"When you play this card, draw a card. If you play this card, and you already have a Broom in play, discard the old one.",
             "rarity":"Common",
-            "artist":""
+            "artist":"Thomas Gianni"
         },
         {  
             "number":"71",
@@ -860,7 +898,7 @@
             "type":"Spell",
             "description":"Choose 2 of your opponent's cards in play (other than his or her starting Character). Your opponent discards one of them and returns the other to his or her hand.",
             "rarity":"Common",
-            "artist":""
+            "artist":"Mark Romanoski"
         },
         {  
             "number":"72",
@@ -870,7 +908,7 @@
             "type":"Spell",
             "description":"Do 4 damage to your opponent. During your opponent's next turn, he or she can't use Actions to play Adventure cards.",
             "rarity":"Common",
-            "artist":""
+            "artist":"Kevin Dobler"
         },
         {  
             "number":"73",
@@ -879,8 +917,9 @@
             "cost":"4",
             "type":"Spell",
             "description":"Choose an Item in play (yours or your opponent's) and discard it. Then search your deck. You may take an Item card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "flavorText":"'... you'll lose all the points I got from Professor McGonagall for knowing about Switching Spells.' - Hermione Granger",
             "rarity":"Common",
-            "artist":""
+            "artist":"Ken Steacy"
         },
         {  
             "number":"74",
@@ -889,8 +928,9 @@
             "cost":"3",
             "type":"Spell",
             "description":"Choose a non-Healing Item in play and return it to its owner's hand.",
+            "flavorText":"'He bent down and pulled his wand out of the troll's nose. It was covered in what looked like lumpy grey glue. 'Urgh - troll bogies.''",
             "rarity":"Common",
-            "artist":""
+            "artist":"Greg Hildebrandt"
         },
         {  
             "number":"75",
@@ -899,8 +939,9 @@
             "cost":"1",
             "type":"Spell",
             "description":"During your opponent's next turn, he or she gets 1 fewer Action. (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)",
+            "flavorText":"'There were ... some with a vanishing step halfway up that you had to remember to jump.'",
             "rarity":"Common",
-            "artist":""
+            "artist":"Alex Horley"
         },
         {  
             "number":"76",
@@ -912,7 +953,10 @@
                 "Care of Magical Creatures"
             ],
             "rarity":"Common",
-            "artist":""
+            "artist":[  
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
         },
         {  
             "number":"77",
@@ -924,7 +968,10 @@
                 "Charms"
             ],
             "rarity":"Common",
-            "artist":""
+            "artist":[  
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
         },
         {  
             "number":"78",
@@ -936,7 +983,10 @@
                 "Potions"
             ],
             "rarity":"Common",
-            "artist":""
+            "artist":[  
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
         },
         {  
             "number":"79",
@@ -948,7 +998,10 @@
                 "Quidditch"
             ],
             "rarity":"Common",
-            "artist":""
+            "artist":[  
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
         },
         {  
             "number":"80",
@@ -960,7 +1013,10 @@
                 "Transfiguration"
             ],
             "rarity":"Common",
-            "artist":""
+            "artist":[  
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
         }
     ]
 }
