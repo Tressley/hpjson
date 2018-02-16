@@ -1,13 +1,13 @@
-{  
+{
     "setName":"Adventures at Hogwarts",
     "releaseDate":"06-2002",
     "totalCards":"80",
-    "cards":[  
-        {  
+    "cards":[
+        {
             "number":"1",
             "name":"Albus Dumbledore",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Wizard",
                 "Unique"
             ],
@@ -16,11 +16,11 @@
             "rarity":"Foil Premium",
             "artist":"Kim Graham"
         },
-        {  
+        {
             "number":"2",
             "name":"Argus Filch",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Unique"
             ],
             "description":"You may use an Action to discard an Adventure from play (yours or your opponent's). (You don't get the reward.)",
@@ -28,11 +28,11 @@
             "rarity":"Foil Premium",
             "artist":"Kim Graham"
         },
-        {  
+        {
             "number":"3",
             "name":"Crabbe & Goyle",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Wizard",
                 "Slytherin",
                 "Unique"
@@ -42,11 +42,11 @@
             "rarity":"Foil Premium",
             "artist":"Kim Graham"
         },
-        {  
+        {
             "number":"4",
             "name":"Detention!",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Your opponent can't use Actions to play Adventure cards.",
                 "toSolve":"Your opponent chooses 2 Adventure cards in his or her hand and discards them.",
                 "reward":"Your opponent may draw a card."
@@ -54,7 +54,7 @@
             "rarity":"Foil Premium",
             "artist":"Scott M. Fischer"
         },
-        {  
+        {
             "number":"5",
             "name":"Dragon's Blood",
             "lesson":"Potions",
@@ -65,20 +65,20 @@
             "rarity":"Foil Premium",
             "artist":"Tim Hildebrandt"
         },
-        {  
+        {
             "number":"6",
             "name":"Dumbledore's Watch",
             "lesson":"Transfiguration",
             "cost":"9",
             "type":"Item",
-            "subTypes":[  
+            "subTypes":[
                 "Unique"
             ],
             "description":"If this card is in play before your turn, discard all cards (other than each player's starting Character) from play (including this card).",
             "rarity":"Foil Premium",
             "artist":"Jeff Laubenstein"
         },
-        {  
+        {
             "number":"7",
             "name":"End-of-Year Feast",
             "lesson":"Charms",
@@ -89,13 +89,13 @@
             "rarity":"Foil Premium",
             "artist":"James Bernardin"
         },
-        {  
+        {
             "number":"8",
             "name":"Fang",
             "lesson":"Care of Magical Creatures",
             "cost":"8",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Dog",
                 "Unique"
             ],
@@ -106,11 +106,11 @@
             "rarity":"Foil Premium",
             "artist":"Monte Michael Moore"
         },
-        {  
+        {
             "number":"9",
             "name":"Finding the Platform",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Your opponent can't use Actions to play Location cards.",
                 "toSolve":"Your opponent lets you search your deck. You may take up to 2 Location cards from your deck, show them to your opponent and put them into your hand. Then shuffle your deck.",
                 "reward":"Your opponent may put a Lesson card from his or her hand into play."
@@ -118,26 +118,26 @@
             "rarity":"Foil Premium",
             "artist":"Jeff Laubenstein"
         },
-        {  
+        {
             "number":"10",
             "name":"Galleon",
             "lesson":"Charms",
             "cost":"10",
             "type":"Item",
-            "subTypes":[  
+            "subTypes":[
                 "Money"
             ],
             "description":"You can play only 1 Money card each turn. Before your turn, if this card is in play, discard it and your get 3 more Actions this turn.",
             "rarity":"Foil Premium",
             "artist":"Romas"
         },
-        {  
+        {
             "number":"11",
             "name":"Great Hall",
             "lesson":"Charms",
             "cost":"2",
             "type":"Location",
-            "subTypes":[  
+            "subTypes":[
                 "Unique"
             ],
             "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, he or she draws a card.",
@@ -145,13 +145,13 @@
             "rarity":"Foil Premium",
             "artist":"James Bernardin"
         },
-        {  
+        {
             "number":"12",
             "name":"Hagrid's House",
             "lesson":"Care of Magical Creatures",
             "cost":"3",
             "type":"Location",
-            "subTypes":[  
+            "subTypes":[
                 "Unique"
             ],
             "description":"When you play this card, discard any other Location from play (yours or your opponent's). Whenever a Care of Magical Creatures Lesson (yours or your opponent's) is discarded from play, put it into its owner's hand.",
@@ -159,11 +159,11 @@
             "rarity":"Foil Premium",
             "artist":"Jim Nelson"
         },
-        {  
+        {
             "number":"13",
             "name":"Harry Triumphant",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Unique",
                 "Wizard",
                 "Gryffindor"
@@ -173,7 +173,7 @@
             "rarity":"Foil Premium",
             "artist":"Kim Graham"
         },
-        {  
+        {
             "number":"14",
             "name":"Hospital Dormitory",
             "lesson":"Potions",
@@ -184,11 +184,11 @@
             "rarity":"Foil Premium",
             "artist":"Kevin Dobler"
         },
-        {  
+        {
             "number":"15",
             "name":"Hut on the Rock",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "note":"Play this card only if you have at least 5 Lessons in play.",
                 "effect":"Before each of your opponent's turns, if he or she has any cards in play (other than his or her starting Character), he or she chooses 1 of them and discards it.",
                 "toSolve":"Your opponent discards his or her hand.",
@@ -197,11 +197,11 @@
             "rarity":"Foil Premium",
             "artist":"Ron Spencer"
         },
-        {  
+        {
             "number":"16",
             "name":"Madam Pomfrey",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Unique",
                 "Witch",
                 "Healing"
@@ -211,11 +211,11 @@
             "rarity":"Foil Premium",
             "artist":"Kim Graham"
         },
-        {  
+        {
             "number":"17",
             "name":"Meeting Fluffy",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "note":"Play this card only if you have at least 9 Lessons in play.",
                 "effect":"Before each of your turns, your opponent takes 12 damage.",
                 "toSolve":"Your opponent lets you choose 3 of his or her cards in play (other than his or her starting Character) and discard them.",
@@ -224,11 +224,11 @@
             "rarity":"Foil Premium",
             "artist":"Kevin Dobler"
         },
-        {  
+        {
             "number":"18",
             "name":"Midnight Duel",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "note":"Play this card only if you have at least 5 Lessons in play.",
                 "effect":"To use an Action to play a Creature or a Spell card from his or her hand, your opponent must discard another card from his or her hand.",
                 "toSolve":"Your opponent chooses 4 of his or her cards in play (other than his or her starting Character) and discards them.",
@@ -237,24 +237,24 @@
             "rarity":"Foil Premium",
             "artist":"Ken Steacy"
         },
-        {  
+        {
             "number":"19",
             "name":"Mirror of Erised",
             "lesson":"Transfiguration",
             "cost":"10",
             "type":"Item",
-            "subTypes":[  
+            "subTypes":[
                 "Unique"
             ],
             "description":"You may use an Action to discard this card from play. If you do, count the number of cards in your hand and discard them. Then search your deck. You may take up to that number of cards from your deck and put them into your hand. Then shuffle your deck.",
             "rarity":"Foil Premium",
             "artist":"Scott M. Fischer"
         },
-        {  
+        {
             "number":"20",
             "name":"Peeves",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Unique"
             ],
             "description":"Once per game, you may discard your hands and draw 7 cards to make your opponent discard his or her hand and then draw 7 cards.",
@@ -262,13 +262,13 @@
             "rarity":"Foil Premium",
             "artist":"Kim Graham"
         },
-        {  
+        {
             "number":"21",
             "name":"Philosopher's Stone",
             "lesson":"Transfiguration",
             "cost":"15",
             "type":"Item",
-            "subTypes":[  
+            "subTypes":[
                 "Healing",
                 "Unique"
             ],
@@ -276,13 +276,13 @@
             "rarity":"Foil Premium",
             "artist":"Monte Michael Moore"
         },
-        {  
+        {
             "number":"22",
             "name":"Potions Dungeon",
             "lesson":"Potions",
             "cost":"3",
             "type":"Location",
-            "subTypes":[  
+            "subTypes":[
                 "Unique"
             ],
             "description":"When you play this card, discard any other Location from play (yours or your opponent's). Whenever a Potions Lesson (yours or your opponent's) is discarded from play, put it into its owner's hand.",
@@ -290,20 +290,20 @@
             "rarity":"Foil Premium",
             "artist":"Tim Hildebrandt"
         },
-        {  
+        {
             "number":"23",
             "name":"Quidditch Cup",
             "lesson":"Quidditch",
             "cost":"9",
             "type":"Item",
-            "subTypes":[  
+            "subTypes":[
                 "Unique"
             ],
             "description":"Once during each of your turns, when you use an Action to play a card that requires Quidditch Power, you get 1 more Action that turn.",
             "rarity":"Foil Premium",
             "artist":"Darrell Riche"
         },
-        {  
+        {
             "number":"24",
             "name":"Quidditch Pitch",
             "lesson":"Quidditch",
@@ -314,11 +314,11 @@
             "rarity":"Foil Premium",
             "artist":"Darrell Riche"
         },
-        {  
+        {
             "number":"25",
             "name":"Riding the Centaur",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Prevent all damage done to you by your opponent's Creatures.",
                 "toSolve":"Your opponent chooses 4 of his or her cards in play (other than his or her starting Character) and returns them to his or her hand.",
                 "reward":"Your opponent may draw a card."
@@ -326,11 +326,11 @@
             "rarity":"Foil Premium",
             "artist":"Ken Steacy"
         },
-        {  
+        {
             "number":"26",
             "name":"Ron the Brave",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Unique",
                 "Wizard",
                 "Gryffindor"
@@ -340,11 +340,11 @@
             "rarity":"Foil Premium",
             "artist":"Kim Graham"
         },
-        {  
+        {
             "number":"27",
             "name":"Stoat Sandwiches",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Your opponent can't use Actions to play Healing cards.",
                 "toSolve":"Your opponent chooses 5 of his or her cards in play (other than his or her starting Character) and discards them.",
                 "reward":"Your opponent may shuffle up to 5 non-Healing cards from his or her discard pile into his or her deck."
@@ -352,11 +352,11 @@
             "rarity":"Foil Premium",
             "artist":"Ken Steacy"
         },
-        {  
+        {
             "number":"28",
             "name":"The Fat Lady",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Unique",
                 "Gryffindor"
             ],
@@ -365,11 +365,11 @@
             "rarity":"Foil Premium",
             "artist":"Kim Graham"
         },
-        {  
+        {
             "number":"29",
             "name":"Voldemort Revealed",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Your opponent can't use Actions to play Spell cards.",
                 "toSolve":"Your opponent takes 7 damage.",
                 "reward":"Your opponent may put up to 2 non-Healing cards from his or her discard pile and put them on the bottom of his deck (in any order)."
@@ -377,13 +377,13 @@
             "rarity":"Foil Premium",
             "artist":"Scott M. Fischer"
         },
-        {  
+        {
             "number":"30",
             "name":"Welsh Green Dragon",
             "lesson":"Care of Magical Creatures",
             "cost":"7",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Dragon"
             ],
             "description":"To play this card, discard 2 of your Care of Magical Creatures Lessons from play. When you play this card, do 6 damage to your opponent.",
@@ -393,11 +393,11 @@
             "rarity":"Foil Premium",
             "artist":"Lars Grant-West"
         },
-        {  
+        {
             "number":"31",
             "name":"5 Points from Gryffindor",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "note":"Play this card only if you have at least 5 Lessons in play.",
                 "effect":"Your opponent gets 1 fewer Action on each of his or her turns (even the turn this Adventure is solved). (If this would mean your opponent would have fewer than 1 Action, he or she still gets 1 Action.)",
                 "toSolve":"Your opponent chooses 5 cards from his or her hand and discards them.",
@@ -406,7 +406,7 @@
             "rarity":"Uncommon",
             "artist":"Scott M. Fischer"
         },
-        {  
+        {
             "number":"32",
             "name":"Alohomora",
             "lesson":"Charms",
@@ -417,7 +417,7 @@
             "rarity":"Uncommon",
             "artist":"Bob Petillo"
         },
-        {  
+        {
             "number":"33",
             "name":"Baneberry Potion",
             "lesson":"Potions",
@@ -427,7 +427,7 @@
             "rarity":"Uncommon",
             "artist":"Thomas Gianni"
         },
-        {  
+        {
             "number":"34",
             "name":"Bludger Bop",
             "lesson":"Quidditch",
@@ -441,11 +441,11 @@
                 "Michael Collins"
             ]
         },
-        {  
+        {
             "number":"35",
             "name":"Candy Cart",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "note":"Play this card only if you have at least 3 Lessons in play.",
                 "effect":"Before each of your opponent's turns, he or she draws 3 cards and then chooses 3 cards in his or her hand and discards them.",
                 "toSolve":"Your opponent takes 10 damage.",
@@ -454,16 +454,16 @@
             "rarity":"Uncommon",
             "artist":"Michael Koelsch"
         },
-        {  
+        {
             "number":"36",
             "name":"Collapsible Cauldron",
             "lesson":"Potions",
             "cost":"6",
             "type":"Item",
-            "subTypes":[  
+            "subTypes":[
                 "Cauldron"
             ],
-            "provides":[  
+            "provides":[
                 "3",
                 "Potions"
             ],
@@ -471,7 +471,7 @@
             "rarity":"Uncommon",
             "artist":"George Davis"
         },
-        {  
+        {
             "number":"37",
             "name":"Flying Motorbike",
             "lesson":"Transfiguration",
@@ -482,11 +482,11 @@
             "rarity":"Uncommon",
             "artist":"Scott M. Fischer"
         },
-        {  
+        {
             "number":"38",
             "name":"Flying Practice",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Spell cards that need Quidditch Power use up 2 of your opponent's Actions instead of 1.",
                 "toSolve":"Your opponent discards 4 cards that need Quidditch Power from his or her hand.",
                 "reward":"You take 2 damage."
@@ -494,13 +494,13 @@
             "rarity":"Uncommon",
             "artist":"Darrell Riche"
         },
-        {  
+        {
             "number":"39",
             "name":"Forbidden Corridor",
             "lesson":"Transfiguration",
             "cost":"6",
             "type":"Location",
-            "subTypes":[  
+            "subTypes":[
                 "Unique"
             ],
             "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, he or she chooses 1 of his or her cards in play (other than his or her starting Character) and discards it. At the end of each player's turn, if he or she has no Lessons in play, discard this card.",
@@ -508,13 +508,13 @@
             "rarity":"Uncommon",
             "artist":"Doug Chaffee"
         },
-        {  
+        {
             "number":"40",
             "name":"Giant Squid",
             "lesson":"Care of Magical Creatures",
             "cost":"10",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Squid"
             ],
             "dmgEachTurn":"5",
@@ -522,11 +522,11 @@
             "rarity":"Uncommon",
             "artist":"Jeff Laubenstein"
         },
-        {  
+        {
             "number":"41",
             "name":"Looking for Trevor",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Your opponent can't use Actions to play Creature cards.",
                 "toSolve":"Your opponent chooses 2 of his or her Lessons in play and discards them.",
                 "reward":"Your opponent may search his or her deck. He or she may take a Creature card, show it to you, and put it into his or her hand. Then your opponent shuffles his or her deck."
@@ -534,13 +534,13 @@
             "rarity":"Uncommon",
             "artist":"David Day"
         },
-        {  
+        {
             "number":"42",
             "name":"Marble Gargoyle",
             "lesson":"Care of Magical Creatures",
             "cost":"5",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Gargoyle"
             ],
             "description":"When Marble Gargoyle does damage to your opponent, if he or she doesn't have any Creatures in play, it does 3 more damage to him or her.",
@@ -550,13 +550,13 @@
             "rarity":"Uncommon",
             "artist":"Tony Szczudlo"
         },
-        {  
+        {
             "number":"43",
             "name":"Muddy Practice",
             "lesson":"Quidditch",
             "cost":"1",
             "type":"Match",
-            "description":{  
+            "description":{
                 "note":"Either player may use an Action to discard a card from his or her hand.",
                 "toWin":"Discard 5 cards from your hand in this way.",
                 "prize":"The winner does 10 damage to his or her opponent."
@@ -564,7 +564,7 @@
             "rarity":"Uncommon",
             "artist":"Ken Steacy"
         },
-        {  
+        {
             "number":"44",
             "name":"Purple Firecrackers",
             "lesson":"Transfiguration",
@@ -575,11 +575,11 @@
             "rarity":"Uncommon",
             "artist":"Greg Hildebrandt"
         },
-        {  
+        {
             "number":"45",
             "name":"Running from Filch",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "note":"Play this card only if you have at least 6 Lessons in play.",
                 "effect":"Your opponent can't use Actions to play Lesson cards.",
                 "toSolve":"Your opponent discards his or her hand.",
@@ -588,37 +588,37 @@
             "rarity":"Uncommon",
             "artist":"Monte Michael Moore"
         },
-        {  
+        {
             "number":"46",
             "name":"Sickle",
             "lesson":"Charms",
             "cost":"7",
             "type":"Item",
-            "subTypes":[  
+            "subTypes":[
                 "Money"
             ],
             "description":"You can play only 1 Money card each turn. Before your turn, if this card is in play, discard it and your get 2 more Actions this turn.",
             "rarity":"Uncommon",
             "artist":"Thomas Gianni"
         },
-        {  
+        {
             "number":"47",
             "name":"Star Grass Salve",
             "lesson":"Potions",
             "cost":"8",
             "type":"Spell",
-            "subTypes":[  
+            "subTypes":[
                 "Healing"
             ],
             "description":"To play this card, discard one of your Potions Lessons from play. Shuffle up to 11 non-Healing cards from your discard pile into your deck.",
             "rarity":"Uncommon",
             "artist":"Bob Petillo"
         },
-        {  
+        {
             "number":"48",
             "name":"Through the Trapdoor",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Your opponent discards the card drawn at the start of each of his or her turns.",
                 "toSolve":"The card drawn and discarded at the start of your opponent's turn is a Lesson card.",
                 "reward":"You take 1 damage."
@@ -626,7 +626,7 @@
             "rarity":"Uncommon",
             "artist":"Ken Steacy"
         },
-        {  
+        {
             "number":"49",
             "name":"Winter Holiday",
             "lesson":"Transfiguration",
@@ -637,7 +637,7 @@
             "rarity":"Uncommon",
             "artist":"Doug Chaffee"
         },
-        {  
+        {
             "number":"50",
             "name":"Wooden Flute",
             "lesson":"Care of Magical Creatures",
@@ -648,7 +648,7 @@
             "rarity":"Uncommon",
             "artist":"Tony Szczudlo"
         },
-        {  
+        {
             "number":"51",
             "name":"Anti-Cheating Spell",
             "lesson":"Charms",
@@ -659,7 +659,7 @@
             "rarity":"Common",
             "artist":"Greg Hildebrandt"
         },
-        {  
+        {
             "number":"52",
             "name":"Bewitched Snowballs",
             "lesson":"Charms",
@@ -670,13 +670,13 @@
             "rarity":"Common",
             "artist":"Alex Horley"
         },
-        {  
+        {
             "number":"53",
             "name":"Black Bat",
             "lesson":"Care of Magical Creatures",
             "cost":"4",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Bat"
             ],
             "description":"When you play this card, do 2 damage to your opponent.",
@@ -685,7 +685,7 @@
             "rarity":"Common",
             "artist":"George Davis"
         },
-        {  
+        {
             "number":"54",
             "name":"Bucking Broomstick",
             "lesson":"Quidditch",
@@ -696,13 +696,13 @@
             "rarity":"Common",
             "artist":"Darrell Riche"
         },
-        {  
+        {
             "number":"55",
             "name":"Cauldron Cakes",
             "lesson":"Potions",
             "cost":"1",
             "type":"Spell",
-            "subTypes":[  
+            "subTypes":[
                 "Healing",
                 "Candy"
             ],
@@ -711,7 +711,7 @@
             "rarity":"Common",
             "artist":"Monte Michael Moore"
         },
-        {  
+        {
             "number":"56",
             "name":"Charms Accident",
             "lesson":"Charms",
@@ -722,13 +722,13 @@
             "rarity":"Common",
             "artist":"Keith Garletts"
         },
-        {  
+        {
             "number":"57",
             "name":"Chimaera",
             "lesson":"Care of Magical Creatures",
             "cost":"7",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Chimaera"
             ],
             "dmgEachTurn":"4",
@@ -736,7 +736,7 @@
             "rarity":"Common",
             "artist":"Jim Nelson"
         },
-        {  
+        {
             "number":"58",
             "name":"Dog Bite",
             "lesson":"Care of Magical Creatures",
@@ -747,13 +747,13 @@
             "rarity":"Common",
             "artist":"Scott M. Fischer"
         },
-        {  
+        {
             "number":"59",
             "name":"Every-Flavour Beans",
             "lesson":"Transfiguration",
             "cost":"1",
             "type":"Spell",
-            "subTypes":[  
+            "subTypes":[
                 "Candy"
             ],
             "description":"Reveal the top 2 card of your deck. Put into play any Lesson cards you revealed. Put into your discard pile any non-Lesson cards you revealed. Then draw a card.",
@@ -761,7 +761,7 @@
             "rarity":"Common",
             "artist":"Cindy Salans Rosenheim"
         },
-        {  
+        {
             "number":"60",
             "name":"Fire Protection Potion",
             "lesson":"Potions",
@@ -772,7 +772,7 @@
             "rarity":"Common",
             "artist":"Scott M. Fischer"
         },
-        {  
+        {
             "number":"61",
             "name":"Fungiface Potion",
             "lesson":"Potions",
@@ -782,33 +782,33 @@
             "rarity":"Common",
             "artist":"Alex Horley"
         },
-        {  
+        {
             "number":"62",
             "name":"Knut",
             "lesson":"Charms",
             "cost":"1",
             "type":"Item",
-            "subTypes":[  
+            "subTypes":[
                 "Money"
             ],
             "description":"You can play only 1 Money card each turn. Before your turn, if this card is in play, discard it and you get 1 more Action this turn.",
             "rarity":"Common",
             "artist":"Tony Szczudlo"
         },
-        {  
+        {
             "number":"63",
             "name":"Liquorice Wand",
             "lesson":"Charms",
             "cost":"1",
             "type":"Spell",
-            "subTypes":[  
+            "subTypes":[
                 "Candy"
             ],
             "description":"Do 2 damage to your opponent. Then draw a card. (Liquorice Wand isn't really a Wand.)",
             "rarity":"Common",
             "artist":"Bob Petillo"
         },
-        {  
+        {
             "number":"64",
             "name":"Loop-the-Loops",
             "lesson":"Quidditch",
@@ -819,7 +819,7 @@
             "rarity":"Common",
             "artist":"Ken Steacy"
         },
-        {  
+        {
             "number":"65",
             "name":"Manegro Potion",
             "lesson":"Potions",
@@ -829,7 +829,7 @@
             "rarity":"Common",
             "artist":"Kevin Dobler"
         },
-        {  
+        {
             "number":"66",
             "name":"Muffling Draught",
             "lesson":"Potions",
@@ -839,7 +839,7 @@
             "rarity":"Common",
             "artist":"James Bernardin"
         },
-        {  
+        {
             "number":"67",
             "name":"Owl Post",
             "lesson":"Care of Magical Creatures",
@@ -850,7 +850,7 @@
             "rarity":"Common",
             "artist":"James Bernardin"
         },
-        {  
+        {
             "number":"68",
             "name":"Photo Album",
             "lesson":"Charms",
@@ -861,13 +861,13 @@
             "rarity":"Common",
             "artist":"Romas"
         },
-        {  
+        {
             "number":"69",
             "name":"Sandstone Gargoyle",
             "lesson":"Care of Magical Creatures",
             "cost":"3",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Gargoyle"
             ],
             "description":"When Sandstone Gargoyle does damage to your opponent, if he or she doesn't have any Creatures in play, it does 2 more damage to him or her.",
@@ -877,20 +877,20 @@
             "rarity":"Common",
             "artist":"Tony Szczudlo"
         },
-        {  
+        {
             "number":"70",
             "name":"School Broom",
             "lesson":"Quidditch",
             "cost":"4",
             "type":"Item",
-            "subTypes":[  
+            "subTypes":[
                 "Broom"
             ],
             "description":"When you play this card, draw a card. If you play this card, and you already have a Broom in play, discard the old one.",
             "rarity":"Common",
             "artist":"Thomas Gianni"
         },
-        {  
+        {
             "number":"71",
             "name":"Scribblifors",
             "lesson":"Transfiguration",
@@ -900,7 +900,7 @@
             "rarity":"Common",
             "artist":"Mark Romanoski"
         },
-        {  
+        {
             "number":"72",
             "name":"Sleeping Potion",
             "lesson":"Potions",
@@ -910,7 +910,7 @@
             "rarity":"Common",
             "artist":"Kevin Dobler"
         },
-        {  
+        {
             "number":"73",
             "name":"Switching Spell",
             "lesson":"Transfiguration",
@@ -921,7 +921,7 @@
             "rarity":"Common",
             "artist":"Ken Steacy"
         },
-        {  
+        {
             "number":"74",
             "name":"Troll Bogies",
             "lesson":"Care of Magical Creatures",
@@ -932,7 +932,7 @@
             "rarity":"Common",
             "artist":"Greg Hildebrandt"
         },
-        {  
+        {
             "number":"75",
             "name":"Vanishing Step",
             "lesson":"Transfiguration",
@@ -943,77 +943,77 @@
             "rarity":"Common",
             "artist":"Alex Horley"
         },
-        {  
+        {
             "number":"76",
             "name":"Care of Magical Creatures",
             "lesson":"Care of Magical Creatures",
             "type":"Lesson",
-            "provides":[  
+            "provides":[
                 "1",
                 "Care of Magical Creatures"
             ],
             "rarity":"Common",
-            "artist":[  
+            "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
             ]
         },
-        {  
+        {
             "number":"77",
             "name":"Charms",
             "lesson":"Charms",
             "type":"Lesson",
-            "provides":[  
+            "provides":[
                 "1",
                 "Charms"
             ],
             "rarity":"Common",
-            "artist":[  
+            "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
             ]
         },
-        {  
+        {
             "number":"78",
             "name":"Potions",
             "lesson":"Potions",
             "type":"Lesson",
-            "provides":[  
+            "provides":[
                 "1",
                 "Potions"
             ],
             "rarity":"Common",
-            "artist":[  
+            "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
             ]
         },
-        {  
+        {
             "number":"79",
             "name":"Quidditch",
             "lesson":"Quidditch",
             "type":"Lesson",
-            "provides":[  
+            "provides":[
                 "1",
                 "Quidditch"
             ],
             "rarity":"Common",
-            "artist":[  
+            "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
             ]
         },
-        {  
+        {
             "number":"80",
             "name":"Transfiguration",
             "lesson":"Transfiguration",
             "type":"Lesson",
-            "provides":[  
+            "provides":[
                 "1",
                 "Transfiguration"
             ],
             "rarity":"Common",
-            "artist":[  
+            "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
             ]

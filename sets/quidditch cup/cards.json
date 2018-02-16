@@ -1,9 +1,9 @@
-{  
+{
     "setName":"Quidditch Cup",
     "releaseDate":"11-2001",
     "totalCards":"80",
-    "cards":[  
-        {  
+    "cards":[
+        {
             "number":"1",
             "name":"Bludger",
             "lesson":"Quidditch",
@@ -13,7 +13,7 @@
             "rarity":"Foil Premium",
             "artist":"Tim Hildebrandt"
         },
-        {  
+        {
             "number":"2",
             "name":"Catch the Snitch",
             "lesson":"Quidditch",
@@ -24,7 +24,7 @@
             "rarity":"Foil Premium",
             "artist":"James Bernardin"
         },
-        {  
+        {
             "number":"3",
             "name":"Charms Exam",
             "lesson":"Charms",
@@ -35,13 +35,13 @@
             "rarity":"Foil Premium",
             "artist":"Keith Garletts"
         },
-        {  
+        {
             "number":"4",
             "name":"Fluffy",
             "lesson":"Care of Magical Creatures",
             "cost":"10",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Dog",
                 "Unique"
             ],
@@ -50,16 +50,16 @@
             "health":"21",
             "flavorText":"'As the door creaked, low, rumbling growls met their ears. All three of the dog's noses sniffed madly in their direction...'",
             "rarity":"Uncommon",
-            "artist":[  
+            "artist":[
                 "Kevin McCann",
                 "Michael Collins"
             ]
         },
-        {  
+        {
             "number":"5",
             "name":"Fred & George Weasley",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Wizard",
                 "Gryffindor",
                 "Unique"
@@ -68,11 +68,11 @@
             "rarity":"Holo Portrait Premium",
             "artist":"Jon Foster"
         },
-        {  
+        {
             "number":"6",
             "name":"Gaze Into the Mirror",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"During your opponent's turns, prevent all damage done to you by Spell cards.",
                 "toSolve":"Your opponent chooses 5 Spell cards in his or her hand and discards them.",
                 "reward":"Your opponent gets 1 more Action (the turn this Adventure is solved)."
@@ -81,21 +81,21 @@
             "rarity":"Foil Premium",
             "artist":"Jim Nelson"
         },
-        {  
+        {
             "number":"7",
             "name":"Gold Cauldron",
             "lesson":"Potions",
             "cost":"9",
             "type":"Item",
             "description":"To play this card, return 2 of your Potions Lessons from play to your hand.",
-            "provides":[  
+            "provides":[
                 "5",
                 "Potions"
             ],
             "rarity":"Foil Premium",
             "artist":"Bob Petillo"
         },
-        {  
+        {
             "number":"8",
             "name":"Golden Snitch",
             "lesson":"Quidditch",
@@ -105,11 +105,11 @@
             "rarity":"Foil Premium",
             "artist":"Keith Garletts"
         },
-        {  
+        {
             "number":"9",
             "name":"Hagrid Needs Help",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Your opponent gets 1 fewer Action on each of his or her turns (even the turn this Adventure is solved). (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)",
                 "toSolve":"Your opponent takes 8 damage.",
                 "reward":"Your opponent may draw 3 cards."
@@ -117,7 +117,7 @@
             "rarity":"Foil Premium",
             "artist":"Patrick Faricy"
         },
-        {  
+        {
             "number":"10",
             "name":"Halloween Feast",
             "lesson":"Charms",
@@ -128,11 +128,11 @@
             "rarity":"Foil Premium",
             "artist":"James Bernardin"
         },
-        {  
+        {
             "number":"11",
             "name":"Harry the Seeker",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Wizard",
                 "Gryffindor",
                 "Unique"
@@ -142,7 +142,7 @@
             "rarity":"Holo Portrait Premium",
             "artist":"Scott M. Fischer"
         },
-        {  
+        {
             "number":"12",
             "name":"Hospital Bed",
             "lesson":"Potions",
@@ -152,16 +152,16 @@
             "rarity":"Foil Premium",
             "artist":"Patrick Faricy"
         },
-        {  
+        {
             "number":"13",
             "name":"Madam Rolanda Hooch",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Witch",
                 "Unique"
             ],
             "description":"Once per game, you may search your deck. When you do, you may take a Broom card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
-            "provides":[  
+            "provides":[
                 "1",
                 "Quidditch"
             ],
@@ -169,11 +169,11 @@
             "rarity":"Holo Portrait Premium",
             "artist":"Tony Szczudlo"
         },
-        {  
+        {
             "number":"14",
             "name":"Marcus Flint",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Wizard",
                 "Slytherin",
                 "Unique"
@@ -183,11 +183,11 @@
             "rarity":"Holo Portrait Premium",
             "artist":"David A. Roach"
         },
-        {  
+        {
             "number":"15",
             "name":"Neville Longbottom",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Wizard",
                 "Gryffindor",
                 "Unique"
@@ -195,27 +195,27 @@
             "description":"You may prevent all but the first 8 damage done to you each turn.",
             "flavorText":"'Neville went bright red but turned in his seat to face Malfoy. 'I'm worth twelve of you, Malfoy,' he stammered.'",
             "rarity":"Holo Portrait Premium",
-            "artist":[  
+            "artist":[
                 "Ken Steacy",
                 "Zina Saunders"
             ]
         },
-        {  
+        {
             "number":"16",
             "name":"Nimbus Two Thousand",
             "type":"Item",
-            "subTypes":[  
+            "subTypes":[
                 "Broom"
             ],
             "description":"Whenever 1 of your Item or Spell cards that needs Quidditch Power does damage, it does 2 more damage. If you play this card and already have a Broom in play, discard the old one.",
-            "provides":[  
+            "provides":[
                 "1",
                 "Quidditch"
             ],
             "rarity":"Foil Premium",
             "artist":"Mark Romanoski"
         },
-        {  
+        {
             "number":"17",
             "name":"No Time to Play",
             "lesson":"Transfiguration",
@@ -225,11 +225,11 @@
             "rarity":"Foil Premium",
             "artist":"Michael Koelsch"
         },
-        {  
+        {
             "number":"18",
             "name":"Oliver Wood",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Wizard",
                 "Gryffindor",
                 "Unique"
@@ -237,12 +237,12 @@
             "description":"Once per game, when 1 of your Spell cards that needs Quidditch Power does damage, you may have it do 8 more damage.",
             "flavorText":"'That Quidditch Cup'll have our name on it this year,' said Wood happily as they drudged back up to the castle.'",
             "rarity":"Holo Portrait Premium",
-            "artist":[  
+            "artist":[
                 "Kevin McCann",
                 "Michael Collins"
             ]
         },
-        {  
+        {
             "number":"19",
             "name":"Out of Control",
             "lesson":"Quidditch",
@@ -252,7 +252,7 @@
             "rarity":"Foil Premium",
             "artist":"Jeff Laubenstein"
         },
-        {  
+        {
             "number":"20",
             "name":"Potions Class Disaster",
             "lesson":"Potions",
@@ -262,24 +262,24 @@
             "rarity":"Foil Premium",
             "artist":"Alex Horley"
         },
-        {  
+        {
             "number":"21",
             "name":"Prof. Minerva McGonagall",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Witch",
                 "Gryffindor",
                 "Unique"
             ],
             "description":"Once per game, you may discard the Adventure your opponent has played. (You don't get the reward.)",
-            "provides":[  
+            "provides":[
                 "1",
                 "Transfiguration"
             ],
             "rarity":"Holo Portrait Premium",
             "artist":"Scott M. Fischer"
         },
-        {  
+        {
             "number":"22",
             "name":"Put-Outer",
             "lesson":"Transfiguration",
@@ -289,26 +289,26 @@
             "rarity":"Foil Premium",
             "artist":"Patrick Faricy"
         },
-        {  
+        {
             "number":"23",
             "name":"Ravenclaw Match",
             "lesson":"Quidditch",
             "cost":"1",
             "type":"Match",
-            "description":{  
+            "description":{
                 "toWin":"Do 10 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
                 "prize":"The winner searches his or her deck. He or she may take up to 2 Lesson cards from his or her deck and put them into play. Then that player shuffles his or her deck."
             },
             "rarity":"Foil Premium",
             "artist":"Ben Thompson"
         },
-        {  
+        {
             "number":"24",
             "name":"Scabbers",
             "lesson":"Care of Magical Creatures",
             "cost":"4",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Rat",
                 "Unique"
             ],
@@ -319,11 +319,11 @@
             "rarity":"Foil Premium",
             "artist":"Patrick Faricy"
         },
-        {  
+        {
             "number":"25",
             "name":"Seamus Finnigan",
             "type":"Character",
-            "subTypes":[  
+            "subTypes":[
                 "Wizard",
                 "Gryffindor",
                 "Unique"
@@ -331,28 +331,28 @@
             "description":"Once during each of your turns, you may discard 2 cards from your hand to get 1 more Action.",
             "flavorText":"''Finnigan, Seamus', the sandy-haired boy next to Harry in the line, sat on the stool for almost a whole minute before the hat declared him a Gryffindor.'",
             "rarity":"Holo Portrait Premium",
-            "artist":[  
+            "artist":[
                 "Ken Steacy",
                 "Zina Saunders"
             ]
         },
-        {  
+        {
             "number":"26",
             "name":"Slytherin Match",
             "lesson":"Quidditch",
             "cost":"1",
             "type":"Match",
-            "subTypes":[  
+            "subTypes":[
                 "Healing"
             ],
-            "description":{  
+            "description":{
                 "toWin":"Do 15 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
                 "prize":"The winner may shuffle up to 15 non-Healing cards from his or her discard pile into his or her deck."
             },
             "rarity":"Foil Premium",
             "artist":"Ben Thompson"
         },
-        {  
+        {
             "number":"27",
             "name":"Start-of-Term Feast",
             "lesson":"Charms",
@@ -362,7 +362,7 @@
             "rarity":"Foil Premium",
             "artist":"James Bernardin"
         },
-        {  
+        {
             "number":"28",
             "name":"Support Banner",
             "lesson":"Quidditch",
@@ -372,7 +372,7 @@
             "rarity":"Foil Premium",
             "artist":"Michael Koelsch"
         },
-        {  
+        {
             "number":"29",
             "name":"The Sorting Hat",
             "lesson":"Transfiguration",
@@ -382,13 +382,13 @@
             "rarity":"Foil Premium",
             "artist":"Kevin Dobler"
         },
-        {  
+        {
             "number":"30",
             "name":"Trevor",
             "lesson":"Care of Magical Creatures",
             "cost":"3",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Toad",
                 "Unique"
             ],
@@ -398,7 +398,7 @@
             "rarity":"Foil Premium",
             "artist":"Zina Saunders"
         },
-        {  
+        {
             "number":"31",
             "name":"Chocolate Frogs",
             "lesson":"Charms",
@@ -409,24 +409,24 @@
             "rarity":"Uncommon",
             "artist":"Monte Michael Moore"
         },
-        {  
+        {
             "number":"32",
             "name":"Comet Two Sixty",
             "lesson":"Quidditch",
             "cost":"3",
             "type":"Item",
-            "subTypes":[  
+            "subTypes":[
                 "Broom"
             ],
             "description":"Once during each of your opponent's turns, you may prevent 1 damage done to you. If you play this card, and you already have a Broom in play, discard the old one.",
-            "provides":[  
+            "provides":[
                 "1",
                 "Quidditch"
             ],
             "rarity":"Uncommon",
             "artist":"James Bernardin"
         },
-        {  
+        {
             "number":"33",
             "name":"Defence!",
             "lesson":"Quidditch",
@@ -436,13 +436,13 @@
             "rarity":"Uncommon",
             "artist":"Michael Koelsch"
         },
-        {  
+        {
             "number":"34",
             "name":"Devil's Snare",
             "lesson":"Care of Magical Creatures",
             "cost":"4",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Plant"
             ],
             "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play. At the end of each of your turns, remove all damage counters from Devil's Snare.",
@@ -451,7 +451,7 @@
             "flavorText":"'As for Harry and Ron, their legs had already been bound tightly in long creepers without their noticing.'",
             "rarity":"Uncommon"
         },
-        {  
+        {
             "number":"35",
             "name":"Diffindo",
             "lesson":"Transfiguration",
@@ -461,13 +461,13 @@
             "rarity":"Uncommon",
             "artist":"Tim Hildebrandt"
         },
-        {  
+        {
             "number":"36",
             "name":"Doxy",
             "lesson":"Care of Magical Creatures",
             "cost":"6",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Fairy"
             ],
             "description":"When you play this card, you may choose another Creature in play. Do 2 damage to it.",
@@ -476,13 +476,13 @@
             "rarity":"Uncommon",
             "artist":"Jeff Laubenstein"
         },
-        {  
+        {
             "number":"37",
             "name":"Hufflepuff Match",
             "lesson":"Quidditch",
             "cost":"1",
             "type":"Match",
-            "description":{  
+            "description":{
                 "toWin":"Do 8 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
                 "prize":"The winner may draw 5 cards. The loser takes 5 damage."
             },
@@ -490,11 +490,11 @@
             "rarity":"Uncommon",
             "artist":"Ben Thompson"
         },
-        {  
+        {
             "number":"38",
             "name":"In the Stands",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Your opponent can't play Creature cards.",
                 "toSolve":"Your opponent chooses 4 Creature cards in his or her hand and discards them.",
                 "reward":"Your opponent may draw a card."
@@ -503,11 +503,11 @@
             "rarity":"Uncommon",
             "artist":"Patrick Faricy"
         },
-        {  
+        {
             "number":"39",
             "name":"Into the Forbidden Forest",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Whenever 1 of your Creatures does damage to your opponent, it does 1 more damage.",
                 "toSolve":"Your opponent skips a total of 5 Actions. (Those Actions don't need to be one right after the other.)",
                 "reward":"Your opponent may draw a card."
@@ -516,7 +516,7 @@
             "rarity":"Uncommon",
             "artist":"Lars Grant-West"
         },
-        {  
+        {
             "number":"40",
             "name":"Jawbind Potion",
             "lesson":"Potions",
@@ -526,7 +526,7 @@
             "rarity":"Uncommon",
             "artist":"Alex Horley"
         },
-        {  
+        {
             "number":"41",
             "name":"Missing Parchment",
             "lesson":"Charms",
@@ -536,7 +536,7 @@
             "rarity":"Uncommon",
             "artist":"Kevin Dobler"
         },
-        {  
+        {
             "number":"42",
             "name":"Penalty Shot",
             "lesson":"Quidditch",
@@ -546,11 +546,11 @@
             "rarity":"Uncommon",
             "artist":"James Bernardin"
         },
-        {  
+        {
             "number":"43",
             "name":"Pep Talk",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"The first Action your opponent uses on each of his or her turns must be used to draw a card.",
                 "toSolve":"Your opponent shows you a card from his or her hand with a (printed) Power needed of 8 or more.",
                 "reward":"Your opponent may draw 2 cards."
@@ -559,7 +559,7 @@
             "rarity":"Uncommon",
             "artist":"Patrick Faricy"
         },
-        {  
+        {
             "number":"44",
             "name":"Petrificus Totalus",
             "lesson":"Transfiguration",
@@ -567,12 +567,12 @@
             "type":"Spell",
             "description":"Choose 1 of either player's Creatures in play and a Lesson card in that player's discard pile. Discard that Creature and put that Lesson card into play.",
             "rarity":"Uncommon",
-            "artist":[  
+            "artist":[
                 "Ken Steacy",
                 "Zina Saunders"
             ]
         },
-        {  
+        {
             "number":"45",
             "name":"Power Play",
             "lesson":"Quidditch",
@@ -582,11 +582,11 @@
             "rarity":"Uncommon",
             "artist":"David A. Roach"
         },
-        {  
+        {
             "number":"46",
             "name":"Race for the Snitch",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Your opponent discards the card he or she draws at the start of each of his or her turns.",
                 "toSolve":"Your opponent discards his or her hand.",
                 "reward":"You discard your hand."
@@ -595,11 +595,11 @@
             "rarity":"Uncommon",
             "artist":"Jon Foster"
         },
-        {  
+        {
             "number":"47",
             "name":"Snape's Bias",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Your opponent can't use Actions to draw cards.",
                 "toSolve":"Your opponent lets you search your deck for up to 2 cards and put them into your hand. Then shuffle your deck.",
                 "reward":"Your opponent may draw a card."
@@ -608,11 +608,11 @@
             "rarity":"Uncommon",
             "artist":"Patrick Faricy"
         },
-        {  
+        {
             "number":"48",
             "name":"Sticking Up for Neville",
             "type":"Adventure",
-            "description":{  
+            "description":{
                 "effect":"Before each of your turns, your opponent takes 4 damage.",
                 "toSolve":"Your opponent discards his or her hand.",
                 "reward":"Your opponent may put up to 4 non-Healing cards from his or her discard pile on the bottom of his or her deck (in any order)."
@@ -621,7 +621,7 @@
             "rarity":"Uncommon",
             "artist":"Patrick Faricy"
         },
-        {  
+        {
             "number":"49",
             "name":"Strategy Session",
             "lesson":"Quidditch",
@@ -631,7 +631,7 @@
             "rarity":"Uncommon",
             "artist":"Michael Koelsch"
         },
-        {  
+        {
             "number":"50",
             "name":"Weakness Potion",
             "lesson":"Potions",
@@ -641,7 +641,7 @@
             "rarity":"Uncommon",
             "artist":"Keith Garletts"
         },
-        {  
+        {
             "number":"51",
             "name":"Bloodroot Poison",
             "lesson":"Potions",
@@ -651,7 +651,7 @@
             "rarity":"Common",
             "artist":"Keith Garletts"
         },
-        {  
+        {
             "number":"52",
             "name":"Bravado",
             "lesson":"Charms",
@@ -661,37 +661,37 @@
             "rarity":"Common",
             "artist":"Mark Romanoski"
         },
-        {  
+        {
             "number":"53",
             "name":"Bruisewort Balm",
             "lesson":"Potions",
             "cost":"3",
             "type":"Spell",
-            "subTypes":[  
+            "subTypes":[
                 "Healing"
             ],
             "description":"Shuffle up to 5 non-Healing cards from your discard pile into your deck.",
             "rarity":"Common",
             "artist":"Alex Horley"
         },
-        {  
+        {
             "number":"54",
             "name":"Cleansweep Seven",
             "lesson":"Quidditch",
             "cost":"2",
             "type":"Item",
-            "subTypes":[  
+            "subTypes":[
                 "Broom"
             ],
             "description":"When you play this card, look at the top 4 cards of your deck and put them back on top in any order. (If there are fewer than 4, look at all of them.) If you play this card, and you already have a Broom in play, discard the old one.",
-            "provides":[  
+            "provides":[
                 "1",
                 "Quidditch"
             ],
             "rarity":"Common",
             "artist":"Patrick Faricy"
         },
-        {  
+        {
             "number":"55",
             "name":"Cobbing",
             "lesson":"Quidditch",
@@ -701,13 +701,13 @@
             "rarity":"Common",
             "artist":"Patrick Faricy"
         },
-        {  
+        {
             "number":"56",
             "name":"Cobra Lily",
             "lesson":"Care of Magical Creatures",
             "cost":"5",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Plant"
             ],
             "description":"At the end of each of your turns, remove all damage counters from Cobra Lily.",
@@ -716,13 +716,13 @@
             "rarity":"Common",
             "artist":"Doug Chaffee"
         },
-        {  
+        {
             "number":"57",
             "name":"Cunning Fox",
             "lesson":"Care of Magical Creatures",
             "cost":"5",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Fox"
             ],
             "dmgEachTurn":"3",
@@ -730,7 +730,7 @@
             "rarity":"Common",
             "artist":"Doug Chaffee"
         },
-        {  
+        {
             "number":"58",
             "name":"Desk Into Pig",
             "lesson":"Transfiguration",
@@ -741,7 +741,7 @@
             "rarity":"Common",
             "artist":"Melissa Ferreira"
         },
-        {  
+        {
             "number":"59",
             "name":"Drowsiness Draught",
             "lesson":"Potions",
@@ -751,7 +751,7 @@
             "rarity":"Common",
             "artist":"Greg Hildebrandt"
         },
-        {  
+        {
             "number":"60",
             "name":"Fouled!",
             "lesson":"Quidditch",
@@ -762,7 +762,7 @@
             "rarity":"Common",
             "artist":"James Bernardin"
         },
-        {  
+        {
             "number":"61",
             "name":"Gone!",
             "lesson":"Charms",
@@ -772,7 +772,7 @@
             "rarity":"Common",
             "artist":"Kevin Dobler"
         },
-        {  
+        {
             "number":"62",
             "name":"Mice to Snuffboxes",
             "lesson":"Transfiguration",
@@ -782,7 +782,7 @@
             "rarity":"Common",
             "artist":"Monte Michael Moore"
         },
-        {  
+        {
             "number":"63",
             "name":"Mopsus Potion",
             "lesson":"Potions",
@@ -792,7 +792,7 @@
             "rarity":"Common",
             "artist":"Greg Hildebrandt"
         },
-        {  
+        {
             "number":"64",
             "name":"Ouch!",
             "lesson":"Quidditch",
@@ -802,20 +802,20 @@
             "rarity":"Common",
             "artist":"Patrick Faricy"
         },
-        {  
+        {
             "number":"65",
             "name":"Practice Match",
             "lesson":"Quidditch",
             "cost":"1",
             "type":"Match",
-            "description":{  
+            "description":{
                 "toWin":"Do 5 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
                 "prize":"The winner may draw 4 cards."
             },
             "rarity":"Common",
             "artist":"Chris Seaman"
         },
-        {  
+        {
             "number":"66",
             "name":"Pulling Up",
             "lesson":"Quidditch",
@@ -825,7 +825,7 @@
             "rarity":"Common",
             "artist":"James Bernardin"
         },
-        {  
+        {
             "number":"67",
             "name":"Research",
             "lesson":"Transfiguration",
@@ -836,7 +836,7 @@
             "rarity":"Common",
             "artist":"Mark Romanoski"
         },
-        {  
+        {
             "number":"68",
             "name":"Rope Bind",
             "lesson":"Charms",
@@ -844,12 +844,12 @@
             "type":"Spell",
             "description":"Do 2 damage to your opponent or to a Creature of your choice. Then draw a card.",
             "rarity":"Common",
-            "artist":[  
+            "artist":[
                 "Kevin McCann",
                 "Michael Collins"
             ]
         },
-        {  
+        {
             "number":"69",
             "name":"Searching for the Snitch",
             "lesson":"Quidditch",
@@ -860,7 +860,7 @@
             "rarity":"Common",
             "artist":"James Bernardin"
         },
-        {  
+        {
             "number":"70",
             "name":"Smash!",
             "lesson":"Quidditch",
@@ -870,7 +870,7 @@
             "rarity":"Common",
             "artist":"Patrick Faricy"
         },
-        {  
+        {
             "number":"71",
             "name":"Stream of Flames",
             "lesson":"Charms",
@@ -878,18 +878,18 @@
             "type":"Spell",
             "description":"Do 3 damage to your opponent. You may also choose a Creature in play and do 3 damage to it.",
             "rarity":"Common",
-            "artist":[  
+            "artist":[
                 "Ken Steacy",
                 "Zina Saunders"
             ]
         },
-        {  
+        {
             "number":"72",
             "name":"Streeler",
             "lesson":"Care of Magical Creatures",
             "cost":"4",
             "type":"Creature",
-            "subTypes":[  
+            "subTypes":[
                 "Snail"
             ],
             "description":"When you play this card, you may choose another Creature in play. Do 1 damage to it.",
@@ -898,7 +898,7 @@
             "rarity":"Common",
             "artist":"Jeff Laubenstein"
         },
-        {  
+        {
             "number":"73",
             "name":"Swarm!",
             "lesson":"Care of Magical Creatures",
@@ -908,7 +908,7 @@
             "rarity":"Common",
             "artist":"Monte Michael Moore"
         },
-        {  
+        {
             "number":"74",
             "name":"Time Out",
             "lesson":"Quidditch",
@@ -919,7 +919,7 @@
             "rarity":"Common",
             "artist":"Michael Koelsch"
         },
-        {  
+        {
             "number":"75",
             "name":"Vanish",
             "lesson":"Quidditch",
@@ -929,77 +929,77 @@
             "rarity":"Common",
             "artist":"Monte Michael Moore"
         },
-        {  
+        {
             "number":"76",
             "name":"Care of Magical Creatures",
             "lesson":"Care of Magical Creatures",
             "type":"Lesson",
-            "provides":[  
+            "provides":[
                 "1",
                 "Care of Magical Creatures"
             ],
             "rarity":"Common",
-            "artist":[  
+            "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
             ]
         },
-        {  
+        {
             "number":"77",
             "name":"Charms",
             "lesson":"Charms",
             "type":"Lesson",
-            "provides":[  
+            "provides":[
                 "1",
                 "Charms"
             ],
             "rarity":"Common",
-            "artist":[  
+            "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
             ]
         },
-        {  
+        {
             "number":"78",
             "name":"Potions",
             "lesson":"Potions",
             "type":"Lesson",
-            "provides":[  
+            "provides":[
                 "1",
                 "Potions"
             ],
             "rarity":"Common",
-            "artist":[  
+            "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
             ]
         },
-        {  
+        {
             "number":"79",
             "name":"Quidditch",
             "lesson":"Quidditch",
             "type":"Lesson",
-            "provides":[  
+            "provides":[
                 "1",
                 "Quidditch"
             ],
             "rarity":"Common",
-            "artist":[  
+            "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
             ]
         },
-        {  
+        {
             "number":"80",
             "name":"Transfiguration",
             "lesson":"Transfiguration",
             "type":"Lesson",
-            "provides":[  
+            "provides":[
                 "1",
                 "Transfiguration"
             ],
             "rarity":"Common",
-            "artist":[  
+            "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
             ]
