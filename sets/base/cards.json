@@ -94,7 +94,7 @@
 				"toSolve": "Your opponent skips a total of 5 Actions. (Those Actions don't have to be one right after the other.)",
 				"reward": "Your opponent may draw 5 cards."
 			},
-			"flavorText": "'The ratting cart seemed to know its own way, because Griphook wasn't steering.'",
+			"flavorText": "'The rattling cart seemed to know its own way, because Griphook wasn't steering.'",
 			"rarity": "Foil Premium",
 			"artist": "Warner Bros."
 		},
@@ -417,6 +417,7 @@
 			],
 			"description": "Your opponent plays with his or her hand face up.",
 			"health": "1",
+			"flavorText": "'Filch owned a cat called Mrs Norris, a scrawny, dust-coloured creature with bulging, lamp-like eyes...'",
 			"rarity": "Rare",
 			"artist": "Scott Lewis"
 		},
@@ -545,6 +546,7 @@
 			"cost": "2",
 			"type": "Spell",
 			"description": "Search your deck. You may take up to 2 Lesson cards from your deck, show them to your opponent, and put them in your hand. Then shuffle your deck.",
+			"flavorText": "'The Stone will transform any metal into pure gold.'",
 			"rarity": "Rare",
 			"artist": "Ron Spencer"
 		},
@@ -775,7 +777,7 @@
 			"cost": "1",
 			"type": "Spell",
 			"description": "Put an Item card from your discard pile into your hand.",
-			"flavorText": "'...it's really the wand that chooses the wizard,...' - Mr Ollivander",
+			"flavorText": "'The pile of tried wands was mounting higher and higher on the spindly chair, but the more wands Mr Ollivander pulled from the shelves, the happier he seemed to become.'",
 			"rarity": "Uncommon",
 			"artist": "Jon Foster"
 		},
@@ -953,7 +955,7 @@
 			"lesson": "Transfiguration",
 			"cost": "2",
 			"type": "Spell",
-			"description": "Do 1 damage to your opponent or to a Creature of your choice. Then draw a card.",
+			"description": "Choose 1 of your opponent's Transfiguration Lessons in play and discard it.",
 			"rarity": "Common",
 			"artist": "Kevin Dobler"
 		},
@@ -963,7 +965,7 @@
 			"lesson": "Charms",
 			"cost": "2",
 			"type": "Spell",
-			"description": "Choose 1 of your opponent's Transfiguration Lessons in play and discard it.",
+			"description": "Do 1 damage to your opponent or to a Creature of your choice. Then draw a card.",
 			"rarity": "Common",
 			"artist": "George Davis"
 		},
@@ -992,6 +994,7 @@
                 "Healing"
             ],
 			"description": "Put up to 4 non-Healing cards from your discard pile on the bottom of your deck (in any order).",
+			"flavorText": "Neville whimpered as boils started to pop up all over his nose.'",
 			"rarity": "Common",
 			"artist": "Jason Bernardin"
 		},
@@ -1123,7 +1126,7 @@
 			"cost": "2",
 			"type": "Creature",
 			"subTypes": [
-                "Troll"
+                "Spider"
             ],
 			"description": "To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
 			"dmgEachTurn": "2",
@@ -1205,6 +1208,7 @@
 			"cost": "2",
 			"type": "Spell",
 			"description": "Do 3 damage to your opponent.",
+			"flavorText": "'Harry would have screamed, but he couldn't make a sound.'",
 			"rarity": "Common",
 			"artist": "Michael T. Collins"
 		},
