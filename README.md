@@ -17,7 +17,8 @@ Example Card
     "flavorText":"'There will be books written about Harry — every child in our world will know his name!' - Professor McGonagall",
     "rarity":"Holo-Portrait Premium",
     "artist":"M. Fischer"
-}```
+}
+```
 
 Contributors
 ----
