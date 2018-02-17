@@ -4,7 +4,8 @@ This project provides Harry Potter Trading Card Game card data in JSON format fo
 
 Example Card
 ----
-```{
+```
+{
     "number":"8",
     "name":"Harry Potter",
     "type":"Character",
