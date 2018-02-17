@@ -1,10 +1,121 @@
-Harry Potter Trading Card Game JSON
-----
-This project provides Harry Potter Trading Card Game card data in JSON format for developers to easily use in their projects.
+# Harry Potter Trading Card Game JSON
 
-Example Card
-----
-`
+This project provides Harry Potter Trading Card Game card data in JSON format for developers to easily use in their projects.
+#### Contributors
+* Tressley Cahill
+* Mateusz Koteja
+
+
+### Example Cards
+##### Lesson
+#
+```
+{
+    "number":"113",
+    "name":"Care of Magical Creatures",
+    "lesson":"Care of Magical Creatures",
+    "type":"Lesson",
+    "provides":[
+        "1",
+        "Care of Magical Creatures"
+    ],
+    "rarity":"Common",
+    "artist":[
+        "Shanth Enjeti",
+        "Melissa Ferreira"
+    ]
+}
+```
+##### Creature
+#
+```
+{
+    "number":"30",
+    "name":"Norbert",
+    "lesson":"Care of Magical Creatures",
+    "cost":"4",
+    "type":"Creature",
+    "subTypes":[
+        "Dragon",
+        "Unique"
+    ],
+    "description":"To play this card, discard 2 of your Care of Magical Creatures Lessons from play.",
+    "dmgEachTurn":"5",
+    "health":"3",
+    "flavorText":"'They slipped back down the spiral staircase, their hearts as light as their hands, now that Norbert was of was off them.'",
+    "rarity":"Rare",
+    "artist":"Scott Lewis"
+}
+```
+##### Spell
+#
+```
+{
+    "number":"111",
+    "name":"Wingardium Leviosa!",
+    "lesson":"Charms",
+    "cost":"1",
+    "type":"Spell",
+    "description":"During your opponent's next turn, prevent all damage done to you by your opponent's Creatures.",
+    "flavorText":"'The club flew suddenly out of the troll's hand, rose high, high up into the air...'",
+    "rarity":"Common",
+    "artist":"Ron Spencer"
+}
+```
+##### Item
+#
+```
+{
+    "number":"101",
+    "name":"Rememberall",
+    "lesson":"Transfiguration",
+    "cost":"8",
+    "type":"Item",
+    "description":"During your turn, you may use an Action to put a Lesson card from your discard pile into play.",
+    "rarity":"Common",
+    "artist":"Marcelo Vignali"
+}
+```
+##### Match
+#
+```
+{
+    "number":"26",
+    "name":"Slytherin Match",
+    "lesson":"Quidditch",
+    "cost":"1",
+    "type":"Match",
+    "subTypes":[
+        "Healing"
+    ],
+    "description":{
+        "toWin":"Do 15 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
+        "prize":"The winner may shuffle up to 15 non-Healing cards from his or her discard pile into his or her deck."
+    },
+    "rarity":"Foil Premium",
+    "artist":"Ben Thompson"
+}
+```
+##### Adventure
+#
+```
+{
+    "number":"39",
+    "name":"4 Privet Drive",
+    "type":"Adventure",
+    "description":{
+        "effect":"Your opponent can't play Spell cards.",
+        "toSolve":"Your opponent chooses 6 cards in his or her hand and discards them.",
+        "reward":"Your opponent may draw a card."
+    },
+    "flavorText":"'Harry was used to spiders, because the cupboard under the stairs was full of them, and that was where he slept.'",
+    "rarity":"Uncommon",
+    "artist":"Michael Koelsch"
+}
+```
+##### Character
+#
+```
 {
     "number":"8",
     "name":"Harry Potter",
@@ -19,15 +130,8 @@ Example Card
     "rarity":"Holo-Portrait Premium",
     "artist":"M. Fischer"
 }
-`
-
-Contributors
+```
 ----
-- Tressley Cahill
-- Mateusz Koteja
-
-----
-
 The JSON files contain Harry Potter characters, names and related indicia that are © & ™ Warner Bros. Entertainment - All Rights Reserved.
 
 This project is not affiliated with Warner Bros. Entertainment in any way.
