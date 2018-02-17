@@ -57,7 +57,7 @@
             "lesson":"Charms",
             "cost":"2",
             "type":"Item",
-            "description":"You may use an Action to reveal the top card of your deck. If it's a Lesson card, put it into play. If it isn't a Lesson card, discard it. If you play this card, and you already have a Wand in play, discard the old one. ",
+            "description":"You may use an Action to reveal the top card of your deck. If it's a Lesson card, put it into play. If it isn't a Lesson card, discard it. If you play this card, and you already have a Wand in play, discard the old one.",
             "provides":[
                 "1",
                 "Charms"
@@ -171,6 +171,7 @@
         {
             "number":"14",
             "name":"Dragon Poison",
+            "lesson":"Potions",
             "cost":"7",
             "type":"Spell",
             "description":"To play this card, return 2 of your Potions Lessons from play to your hand. Do 10 damage to your opponent or to a Creature of your choice.",
@@ -194,6 +195,7 @@
         {
             "number":"16",
             "name":"Entrancing Enchantments",
+            "lesson":"Charms",
             "cost":"2",
             "type":"Spell",
             "description":"Search your deck. You may take a Character card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
@@ -263,6 +265,464 @@
             "flavorText":"'Fawkes,' said Harry, isn't an ordinary bird.'",
             "rarity":"Rare",
             "artist":"Alex Horley"
+        },
+        {
+            "number":"21",
+            "name":"Fighting the Basilisk",
+            "type":"Adventure",
+            "description":{
+                "note":"Play this card only if you have at least 7 Lessons in play.",
+                "effect":"Before each of your turns, your opponent takes 5 damage.",
+                "toSolve":"Your opponent chooses 4 of his or her cards in play (other than his or her starting Character) and discards them.",
+                "reward":"You take 5 damage."
+            },
+            "rarity":"Rare",
+            "artist":"Ken Steacy"
+        },
+        {
+            "number":"22",
+            "name":"Flying Car",
+            "lesson":"Charms",
+            "cost":"8",
+            "type":"Item",
+            "description":"You may use an Action to choose an Adventure or a Location in play and discard it. (If you discard an Adventure, you don't get the reward.)",
+            "rarity":"Rare",
+            "artist":"Greg Hildebrandt"
+        },
+        {
+            "number":"23",
+            "name":"Flying Laps",
+            "lesson":"Quidditch",
+            "cost":"10",
+            "type":"Spell",
+            "description":"Count the number of Lessons you have in play. Do that much damage to your opponent. Then draw that many cards.",
+            "flavorText":"'He soared right around the stadium at full speed, racing Fred and George.'",
+            "rarity":"Rare",
+            "artist":"George Davis"
+        },
+        {
+            "number":"24",
+            "name":"Flying to Hogwarts",
+            "type":"Adventure",
+            "description":{
+                "effect":"Before each of your turns, your opponent takes 2 damage.",
+                "toSolve":"Your opponent skips a total of 5 Actions. (They don't need to be one right after the other.)",
+                "reward":"Your opponent may look at your hand, choose 1 of those cards and discard it."
+            },
+            "rarity":"Rare",
+            "artist":"Greg Hildebrandt"
+        },
+        {
+            "number":"25",
+            "name":"Ginny Weasley",
+            "type":"Character",
+            "subTypes":[
+                "Witch",
+                "Gryffindor",
+                "Unique"
+            ],
+            "description":"Before each of your turns, count the number of other Characters you have in play. You may draw that many cards.",
+            "flavorText":"'You don't know how weird it is for her to be this shy, she never shuts up normally — ' — Ron Weasley",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"26",
+            "name":"Greenhouse Three",
+            "lesson":"Care of Magical Creatures",
+            "cost":"5",
+            "type":"Location",
+            "subTypes":[
+                "Unique"
+            ],
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Once during each player's turn, when he or she uses an Action to play a Plant card, he or she gets 1 more Action that turn.",
+            "flavorText":"'They had only ever worked in Greenhouse One before — Greenhouse Three housed far more interesting and dangerous plants.'",
+            "rarity":"Rare",
+            "artist":"Cindy Salans Rosenheim"
+        },
+        {
+            "number":"27",
+            "name":"Gryffindor Common Room",
+            "lesson":"Transfiguration",
+            "cost":"5",
+            "type":"Location",
+            "subTypes":[
+                "Gryffindor",
+                "Unique"
+            ],
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, he or she counts the number of Gryffindor cards he or she has in play and may draw that many cards.",
+            "flavorText":"'They ... found themselves in the Gryffindor common room, a cosy, round room full of squashy armchairs.'",
+            "rarity":"Rare",
+            "artist":"Thomas Gianni"
+        },
+        {
+            "number":"28",
+            "name":"Harry, Second Year",
+            "type":"Character",
+            "subTypes":[
+                "Wizard",
+                "Gryffindor",
+                "Unique"
+            ],
+            "description":"At the start of the game, if Harry, Second Year is your starting Character, secretly write down the name of a Creature, Item or Spell card. If your opponent plays that card, you may reveal what you wrote down. If you do, at the end of that turn, you may shuffle up to 20 non-Healing cards from your discard pile into your deck.",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"29",
+            "name":"Hermione, Potion Maker",
+            "type":"Character",
+            "subTypes":[
+                "Witch",
+                "Gryffindor",
+                "Unique"
+            ],
+            "description":"You may use an Action to put up to 2 Lesson cards of different types from your hand into play.",
+            "flavorText":"'I'm sure I've done everything right,' said Hermione, nervously re-reading the splotched page of Moste Potente Potions.'",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"30",
+            "name":"Impersonating Goyle",
+            "lesson":"Potions",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Choose a Character in play (other than a starting Character) and discard it. Then search your deck. You may take a Character card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "flavorText":"'Ron, who had been gazing at Harry, said, 'You don't know how bizarre it is to see Goyle thinking.''",
+            "rarity":"Rare",
+            "artist":"Daren Bader"
+        },
+        {
+            "number":"31",
+            "name":"In the Spider's Lair",
+            "type":"Adventure",
+            "description":{
+                "effect":"Before each of your turns, you may show your opponent any number of Creature cards from your hand. Your opponent takes that much damage.",
+                "toSolve":"Your opponent takes 10 damage.",
+                "reward":"If you have any cards in your hand, you choose 1 of them and discard it."
+            },
+            "rarity":"Rare",
+            "artist":"Ken Steacy"
+        },
+        {
+            "number":"32",
+            "name":"Justin Finch-Fletchley",
+            "type":"Character",
+            "subTypes":[
+                "Wizard",
+                "Hufflepuff",
+                "Unique"
+            ],
+            "description":"You may use an Action to draw 2 cards and then put 2 cards from your hand on the bottom of your deck (in any order).",
+            "flavorText":"'My name was down for Eton, you know, I can't tell you how glad I am I came here instead.'",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"33",
+            "name":"Lockhart's Lecture",
+            "type":"Adventure",
+            "description":{
+                "effect":"Whenever you use an Action to play a Spell, your opponent says 'Brilliant!' If your opponent forgets, he or she takes 3 damage at the end of that turn.",
+                "toSolve":"Your opponent lets you have 4 more Actions on your next turn.",
+                "reward":"You take 3 damage."
+            },
+            "rarity":"Rare",
+            "artist":[
+                "Kevin McCann",
+                "Michael Collins"
+            ]
+        },
+        {
+            "number":"34",
+            "name":"Mandrake",
+            "lesson":"Care of Magical Creatures",
+            "cost":"5",
+            "type":"Creature",
+            "subTypes":[
+                "Plant"
+            ],
+            "description":"You may use an Action and discard Mandrake from play to put a non-Healing Character card from your discard pile into your hand.",
+            "dmgEachTurn":"3",
+            "health":"1",
+            "flavorText":"'Instead of roots, a small, muddy and extremely ugly baby popped out of the earth.'",
+            "rarity":"Rare",
+            "artist":"Cindy Salans Rosenheim"
+        },
+        {
+            "number":"35",
+            "name":"Memory Charm",
+            "lesson":"Charms",
+            "cost":"9",
+            "type":"Spell",
+            "description":"Your opponent chooses 1 card in his or her hand and discards the rest.",
+            "flavorText":"'If there's one thing I pride myself on, it's my Memory Charms.' — Professor Gilderoy Lockhart",
+            "rarity":"Rare",
+            "artist":"Ron Spencer"
+        },
+        {
+            "number":"36",
+            "name":"Moaning Myrtle's Bathroom",
+            "lesson":"Potions",
+            "cost":"5",
+            "type":"Location",
+            "subTypes":[
+                "Unique"
+            ],
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, if he or she has at least 2 Characters in play (including his or her starting Character), he or she gets 1 more Action that turn.",
+            "flavorText":"'It was the gloomiest, most depressing bathroom Harry had ever set foot in.'",
+            "rarity":"Rare",
+            "artist":"Ron Spencer"
+        },
+        {
+            "number":"37",
+            "name":"Molly Weasley",
+            "type":"Character",
+            "subTypes":[
+                "Witch",
+                "Unique"
+            ],
+            "description":"You may use an Action to draw 2 cards and then put 2 cards from your hand on the bottom of your deck (in any order).",
+            "flavorText":"'Mrs Weasley fussed over the state of his socks and tried to force him to eat fourth helpings at every meal.'",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"38",
+            "name":"Nimbus Two Thousand and One",
+            "lesson":"Quidditch",
+            "cost":"9",
+            "type":"Item",
+            "subTypes":[
+                "Broom"
+            ],
+            "description":"Whenever one of your Quidditch Spells does damage to your opponent, it does 3 more damage. If you play this card, and you already have a Broom in play, discard the old one.",
+            "provides":[
+                "2",
+                "Quidditch"
+            ],
+            "rarity":"Rare",
+            "artist":"Ron Spears"
+        },
+        {
+            "number":"39",
+            "name":"No Hands",
+            "lesson":"Quidditch",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Play this card only if there is a Match in play. Discard the top card of your deck. If that card is a Lesson card, you win the current Match (you get the prize). Otherwise, you take 3 damage.",
+            "flavorText":"'Harry took his remaining hand off his broom and made a wild snatch; ...'",
+            "rarity":"Rare",
+            "artist":"Doug Chaffee"
+        },
+        {
+            "number":"40",
+            "name":"Norwegian Ridgeback",
+            "lesson":"Care of Magical Creatures",
+            "cost":"8",
+            "type":"Creature",
+            "subTypes":[
+                "Dragon"
+            ],
+            "description":"To play this card, return 2 of your Care of Magical Creatures Lessons from play to your hand.",
+            "dmgEachTurn":"7",
+            "health":"5",
+            "flavorText":"'They're rare, ...' — Rubeus Hagrid",
+            "rarity":"Rare",
+            "artist":"Doug Chaffee"
+        },
+        {
+            "number":"41",
+            "name":"Percy Weasley",
+            "type":"Character",
+            "subTypes":[
+                "Wizard",
+                "Gryffindor",
+                "Unique"
+            ],
+            "description":"At the end of each of your opponent's turns, if he or she played a non-Lesson card that turn, he or she takes 1 damage.",
+            "flavorText":"''I,' said Percy, drawing himself up, 'am a Prefect. Nothing's about to attack me.''",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"42",
+            "name":"Petrified",
+            "lesson":"Transfiguration",
+            "cost":"7",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's Creatures or Characters in play (other than his or her starting Character) and put it on the bottom of his or her deck.",
+            "flavorText":"''She has been Petrified,'' said Dumbledore ... 'But how, I cannot say ...''",
+            "rarity":"Rare",
+            "artist":"Larry MacDougall"
+        },
+        {
+            "number":"43",
+            "name":"Phoenix Tears",
+            "lesson":"Potions",
+            "cost":"10",
+            "type":"Spell",
+            "subTypes":[
+                "Healing"
+            ],
+            "description":"To play this card, return 4 of your Potions Lessons from play to your hand. Shuffle up to 16 non-Healing cards from your discard pile into your deck.",
+            "flavorText":"'Fascinating creatures, phoenixes. They can carry immensely heavy loads, their tears have healing powers and they make highly faithful pets.' — Albus Dumbledore",
+            "rarity":"Rare",
+            "artist":"Mark Romanoski"
+        },
+        {
+            "number":"44",
+            "name":"Potions Test",
+            "lesson":"Potions",
+            "cost":"12",
+            "type":"Spell",
+            "description":"Your opponent takes damage until he or she discards a total of 3 Lesson cards from his or her deck.",
+            "flavorText":"'Snape prowled through the fumes, making waspish remarks about the Gryffindors' work while the Slytherins sniggered appreciatively.'",
+            "rarity":"Rare",
+            "artist":"Greg Hildebrandt"
+        },
+        {
+            "number":"45",
+            "name":"Professor Pomona Sprout ",
+            "type":"Character",
+            "subTypes":[
+                "Witch",
+                "Hufflepuff",
+                "Unique"
+            ],
+            "description":"Each of your Plants has 2 more Health.",
+            "provides":[
+                "1",
+                "Care of Magical Creatures"
+            ],
+            "flavorText":"'... there was usually a large amount of earth on her clothes, and her fingernails would have made Aunt Petunia faint.'",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"46",
+            "name":"Reparo",
+            "lesson":"Charms",
+            "cost":"7",
+            "type":"Spell",
+            "description":"Put a non-Healing card from your discard pile into your hand.",
+            "flavorText":"'Mr Weasley took Harry's glasses, gave them a tap of his wand and returned them, good as new.'",
+            "rarity":"Rare",
+            "artist":"Monte Michael Moore"
+        },
+        {
+            "number":"47",
+            "name":"Rogue Bludger",
+            "lesson":"Quidditch",
+            "cost":"8",
+            "type":"Item",
+            "description":"Before each of your turns, your opponent takes 3 damage.",
+            "rarity":"Rare",
+            "artist":"Larry MacDougall"
+        },
+        {
+            "number":"48",
+            "name":"Ron, Youngest Brother",
+            "type":"Character",
+            "subTypes":[
+                "Wizard",
+                "Gryffindor",
+                "Unique"
+            ],
+            "description":"If you have no cards in your hand, you may use an Action to draw 5 cards.",
+            "flavorText":"'Everyone expects me to do as well as the others, but if I do, it's no big deal, because they did it first.'",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"49",
+            "name":"Serpensortia",
+            "lesson":"Transfiguration",
+            "cost":"6",
+            "type":"Spell",
+            "description":"Before each of your turns, your opponent takes 3 damage.",
+            "flavorText":"'Malfoy raised his wand quickly and bellowed, 'Serpensortia!''",
+            "rarity":"Rare",
+            "artist":"Kevin Dobler"
+        },
+        {
+            "number":"50",
+            "name":"Slytherin Common Room",
+            "lesson":"Potions",
+            "cost":"5",
+            "type":"Location",
+            "subTypes":[
+                "Slytherin",
+                "Unique"
+            ],
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, he or she counts the number of Slytherin cards he or she has in play and does that much damage to his or her opponent.",
+            "flavorText":"'The Slytherin common room was a long, low underground room with rough stone walls and ceiling, from which round, greenish lamps were hanging on chains.'",
+            "rarity":"Rare",
+            "artist":"Ron Spears"
+        },
+        {
+            "number":"51",
+            "name":"Spiders' Exodus",
+            "lesson":"Transfiguration",
+            "cost":"6",
+            "type":"Spell",
+            "description":"Return all Creatures in play (yours and your opponent's) to their owners' hands.",
+            "flavorText":"''Have you ever seen spiders act like that?' said Hermione wonderingly.'",
+            "rarity":"Rare",
+            "artist":"Dave Dorman"
+        },
+        {
+            "number":"52",
+            "name":"Venomous Tentacular Juice",
+            "lesson":"Potions",
+            "cost":"9",
+            "type":"Spell",
+            "description":"Count the number of cards in your opponent's hand. He or she draws twice that many cards.",
+            "flavorText":"''His insides were burning ...'",
+            "rarity":"Rare",
+            "artist":"Alex Horley"
+        },
+        {
+            "number":"53",
+            "name":"The Weasley Twins",
+            "type":"Character",
+            "subTypes":[
+                "Wizard",
+                "Gryffindor",
+                "Unique"
+            ],
+            "description":"Before each of your turns, if you have an Adventure in play, your opponent takes 2 damage.",
+            "flavorText":"'You had to hand it to them, thought Harry, as George took an ordinary hairpin from his pocket and started to pick the lock.'",
+            "rarity":"Rare",
+            "artist":"Kim Graham"
+        },
+        {
+            "number":"54",
+            "name":"Whomping Willow",
+            "lesson":"Care of Magical Creatures",
+            "cost":"9",
+            "type":"Creature",
+            "subTypes":[
+                "Plant",
+                "Unique"
+            ],
+            "description":"To play this card, return 3 of your Care of Magical Creatures Lessons from play to your hand. Before each of your turns, if your opponent has any Items in play, choose 1 of them and discard it.",
+            "dmgEachTurn":"8",
+            "health":"12",
+            "flavorText":"'Of all the trees we could've hit, we had to get one that hits back.' — Ron Weasley",
+            "rarity":"Rare",
+            "artist":"Ron Spencer"
+        },
+        {
+            "number":"55",
+            "name":"Wizard Chess",
+            "lesson":"Transfiguration",
+            "cost":"6",
+            "type":"Item",
+            "description":"You may use an Action and discard 1 of your Lessons from play to do 2 damage to your opponent.",
+            "rarity":"Rare",
+            "artist":"George Davis"
         }
     ]
 }
