@@ -723,6 +723,431 @@
             "description":"You may use an Action and discard 1 of your Lessons from play to do 2 damage to your opponent.",
             "rarity":"Rare",
             "artist":"George Davis"
+        },
+        {
+            "number":"56",
+            "name":"Angel's Trumpet Draught",
+            "lesson":"Potions",
+            "cost":"4",
+            "type":"Spell",
+            "description":"To play this card, return 2 of your Potions Lessons from play to your hand. Do 7 damage to your opponent or to a Creature of your choice.",
+            "rarity":"Uncommon",
+            "artist":"Arnie Swekel"
+        },
+        {
+            "number":"57",
+            "name":"Blocked!",
+            "lesson":"Quidditch",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Draw 4 cards. Then your opponent may choose a Lesson card from his or her hand and discard it. If he or she does, you choose 3 cards in your hand and discard them.",
+            "rarity":"Uncommon",
+            "artist":"Mark Brill"
+        },
+        {
+            "number":"58",
+            "name":"Blocked Barrier",
+            "type":"Adventure",
+            "description":{
+                "effect":"Your opponent can't use Actions to play Location cards.",
+                "toSolve":"Your opponent chooses 2 Location cards in his or her hand and discards them.",
+                "reward":"Once during this turn, when your opponent uses an Action to play a Location card, he or she gets 2 more Actions this turn."
+            },
+            "rarity":"Uncommon",
+            "artist":"Jim Nelson"
+        },
+        {
+            "number":"59",
+            "name":"Bundimun Ooze",
+            "lesson":"Potions",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Your opponent chooses 1 of his or her Creatures or Items in play and discards it. Then he or she takes damage equal to that card's printed Power cost.",
+            "rarity":"Uncommon",
+            "artist":"Tim Hildebrandt"
+        },
+        {
+            "number":"60",
+            "name":"Caught!",
+            "lesson":"Transfiguration",
+            "cost":"6",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's cards in play (other than his or her starting Character) and discard it. Your opponent may prevent this by choosing 4 cards in his or her hand and discarding them.",
+            "rarity":"Uncommon",
+            "artist":"Daren Bader"
+        },
+        {
+            "number":"61",
+            "name":"Caught by Snape",
+            "type":"Adventure",
+            "description":{
+                "effect":"Your opponent can't use Actions to play any cards except Lesson cards.",
+                "toSolve":"Your opponent uses Actions to play Lesson cards 3 times. (Those Actions don't need to be one right after the other.)",
+                "reward":"Your opponent may put any number of Lesson cards from his or her hand into play."
+            },
+            "rarity":"Uncommon",
+            "artist":"Kevin Dobler"
+        },
+        {
+            "number":"62",
+            "name":"Checked!",
+            "lesson":"Quidditch",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Do 4 damage to your opponent. Then your opponent may choose a Lesson card in his or her hand and discard it. If he or she does, you take 4 damage.",
+            "rarity":"Uncommon",
+            "artist":"Alex Horley"
+        },
+        {
+            "number":"63",
+            "name":"Cleansweep Five",
+            "lesson":"Quidditch",
+            "cost":"2",
+            "type":"Item",
+            "description":"When you play this card, look at the top 2 cards of your deck (1 if there is only 1) and put both of them on the bottom or back on the top of your deck in any order. If you play this card, and you already have a Broom in play, discard the old one.",
+            "provides":[
+                "1",
+                "Quidditch"
+            ],
+            "rarity":"Uncommon",
+            "artist":"Monte Michael Moore"
+        },
+        {
+            "number":"64",
+            "name":"Counter Curse",
+            "lesson":"Transfiguration",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's Creatures in play and put it on the bottom of his or her deck.",
+            "flavorText":"'Snape stepped forward, waved his wand and the snake vanished in a small puff of black smoke.'",
+            "rarity":"Uncommon",
+            "artist":"Dave Dorman"
+        },
+        {
+            "number":"65",
+            "name":"Dragon-Dung Compost",
+            "lesson":"Care of Magical Creatures",
+            "cost":"7",
+            "type":"Item",
+            "description":"Before each of your turns, count the number of Plants you have in play. Do that much damage to your opponent.",
+            "rarity":"Uncommon",
+            "artist":"David Day"
+        },
+        {
+            "number":"66",
+            "name":"Earmuffs",
+            "lesson":"Care of Magical Creatures",
+            "cost":"7",
+            "type":"Item",
+            "description":"Once during each of your turns, you may choose 1 of your opponent's Creatures in play. Prevent up to 3 damage from that Creature on your opponent's next turn.",
+            "rarity":"Uncommon",
+            "artist":"Cindy Salans Rosenheim"
+        },
+        {
+            "number":"67",
+            "name":"Endless Sandwiches",
+            "lesson":"Charms",
+            "cost":"7",
+            "type":"Spell",
+            "description":"Play this card only if you have fewer than 7 other cards in your hand. Draw cards until you have 7 cards in your hand.",
+            "flavorText":"'A large plate of sandwiches, two silver goblets and a jug of iced pumpkin juice appeared with a pop.'",
+            "rarity":"Uncommon",
+            "artist":"Kevin Dobler"
+        },
+        {
+            "number":"68",
+            "name":"Floo Powder",
+            "lesson":"Transfiguration",
+            "cost":"2",
+            "type":"Spell",
+            "description":"Search your deck. You may take a Location card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "flavorText":"'Floo powder's a lot quicker, dear, but goodness me, if you've never used it before – ' – Mrs Weasley",
+            "rarity":"Uncommon",
+            "artist":"David Day"
+        },
+        {
+            "number":"69",
+            "name":"Forgotten Password",
+            "lesson":"Charms",
+            "cost":"6",
+            "type":"Spell",
+            "description":"During your opponent's next turn, he or she can't use Actions to play Lesson cards.",
+            "flavorText":"'I've been out here for hours. I couldn't remember the new password to get in to bed.' – Neville Longbottom",
+            "rarity":"Uncommon",
+            "artist":"Hugo Martin"
+        },
+        {
+            "number":"70",
+            "name":"Invisibility Section",
+            "lesson":"Transfiguration",
+            "cost":"4",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's cards in play (other than his or her starting Character) and discard it. Then he or she chooses 1 of your cards in play (other than your starting Character) and discards it.",
+            "flavorText":"'... he paused to listen, hidden in the Invisibility section.'",
+            "rarity":"Uncommon",
+            "artist":"Ron Spears"
+        },
+        {
+            "number":"71",
+            "name":"Keeping Dobby Quiet",
+            "type":"Adventure",
+            "description":{
+                "effect":"Your opponent discards the card drawn at the start of each of his or her turns.",
+                "toSolve":"Your opponent takes 8 damage.",
+                "reward":"You take 2 damage."
+            },
+            "flavorText":"'Er – I don't want to be rude or anything, but – this isn't a great time for me to have a house-elf in my bedroom.' – Harry Potter",
+            "rarity":"Uncommon",
+            "artist":[
+                "Kevin McCann",
+                "Michael Collins"
+            ]
+        },
+        {
+            "number":"72",
+            "name":"Locked In",
+            "type":"Adventure",
+            "description":{
+                "effect":"Your opponent gets 1 fewer Action on each of his or her turns (even the turn this Adventure is solved). (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)",
+                "toSolve":"Your opponent chooses 4 cards in his or her hand and discards them.",
+                "reward":"Your opponent may draw 2 cards."
+            },
+            "rarity":"Uncommon",
+            "artist":"Kevin Dobler"
+        },
+        {
+            "number":"73",
+            "name":"Lockhart's Hair-Care Potions",
+            "lesson":"Potions",
+            "cost":"1",
+            "type":"Item",
+            "description":"Whenever you play a Character card, you use up 1 Action to play it instead of 2.",
+            "rarity":"Uncommon",
+            "artist":"Darren Bader"
+        },
+        {
+            "number":"74",
+            "name":"Magical Mess Remover",
+            "lesson":"Potions",
+            "cost":"1",
+            "type":"Spell",
+            "description":"Choose any number of your cards in play (other than your starting Character) and discard them.",
+            "flavorText":"'Harry had seen him scrubbing the message on the wall with 'Mrs Skower's All-Purpose Magical Mess Remover,' but to no effect; ...'",
+            "rarity":"Uncommon",
+            "artist":"Jeff Laubenstein"
+        },
+        {
+            "number":"75",
+            "name":"Manticore",
+            "lesson":"Care of Magical Creatures",
+            "cost":"5",
+            "type":"Creature",
+            "subTypes":[
+                "Manticore"
+            ],
+            "dmgEachTurn":"2",
+            "health":"4",
+            "rarity":"Uncommon",
+            "artist":"Patrick Faricy"
+        },
+        {
+            "number":"76",
+            "name":"Potions Project",
+            "lesson":"Potions",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Your opponent takes damage until he or she discards a total of 2 Lesson cards from his or her deck.",
+            "flavorText":"'Potions lessons took place in one of the large dungeons.'",
+            "rarity":"Uncommon",
+            "artist":"Kevin Dobler"
+        },
+        {
+            "number":"77",
+            "name":"Prickly Porcupine",
+            "lesson":"Care of Magical Creatures",
+            "cost":"5",
+            "type":"Creature",
+            "subTypes":[
+                "Porcupine"
+            ],
+            "description":"When you play this card, draw a card.",
+            "dmgEachTurn":"2",
+            "health":"2",
+            "rarity":"Uncommon",
+            "artist":"Ken Steacy"
+        },
+        {
+            "number":"78",
+            "name":"Pure-Blood",
+            "lesson":"Charms",
+            "cost":"6",
+            "type":"Spell",
+            "subTypes":[
+                "Password"
+            ],
+            "description":"When you play this card, play it face down and tell your opponent to guess 'Pure-Blood', 'Sherbet Lemon' or 'Wattlebird'. If he or she guesses 'Pure-Blood', nothing happens. Otherwise, do 8 damage to your opponent.",
+            "flavorText":"'What's the new password again?' he said to Harry.'",
+            "rarity":"Uncommon",
+            "artist":"Mark Brill"
+        },
+        {
+            "number":"79",
+            "name":"Rabbit Slippers",
+            "lesson":"Transfiguration",
+            "cost":"8",
+            "type":"Spell",
+            "description":"Choose up to 2 Creatures in play and discard them.",
+            "flavorText":"'Harry looked down at the pair of white rabbits he was supposed to be turning into slippers.'",
+            "rarity":"Uncommon",
+            "artist":"Greg Hildebrandt"
+        },
+        {
+            "number":"80",
+            "name":"Rainy-Day Match",
+            "lesson":"Quidditch",
+            "cost":"1",
+            "type":"Match",
+            "subTypes":[
+                "Healing"
+            ],
+            "description":{
+                "toWin":"Do 9 damage to your opponent. (That damage doesn't have to be done all at once.)",
+                "prize":"Winner shuffles up to 6 non-Healing cards from his or her discard pile into his or her deck."
+            },
+            "rarity":"Uncommon",
+            "artist":"Ron Spears"
+        },
+        {
+            "number":"81",
+            "name":"Second-Hand Robe Shop ",
+            "lesson":"Transfiguration",
+            "cost":"3",
+            "type":"Location",
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Whenever a Spell card (yours or your opponent's) does damage to a player, it does 1 less damage to that player.",
+            "flavorText":"'I expect we'll be able to pick up a lot of Ginny's things second-hand.' – Mrs Weasley",
+            "rarity":"Uncommon",
+            "artist":"Thomas Gianni"
+        },
+        {
+            "number":"82",
+            "name":"Self-Shuffling Cards ",
+            "lesson":"Charms",
+            "cost":"3",
+            "type":"Item",
+            "description":"You may use an Action to have both players shuffle their decks.",
+            "rarity":"Uncommon",
+            "artist":[
+                "Kevin McCann",
+                "Michael Collins"
+            ]
+        },
+        {
+            "number":"83",
+            "name":"Sherbet Lemon",
+            "lesson":"Charms",
+            "cost":"6",
+            "type":"Spell",
+            "subTypes":[
+                "Password"
+            ],
+            "description":"When you play this card, play it face down and tell your opponent to guess 'Pure-Blood', 'Sherbet Lemon' or 'Wattlebird'. If he or she guesses 'Sherbet Lemon', nothing happens. Otherwise, do 8 damage to your opponent.",
+            "flavorText":"'What's the new password again?' he said to Harry.'",
+            "rarity":"Uncommon",
+            "artist":"Greg Hildebrandt"
+        },
+        {
+            "number":"84",
+            "name":"Swelling Solution",
+            "lesson":"Potions",
+            "cost":"7",
+            "type":"Spell",
+            "description":"Do 8 damage to your opponent. He or she can prevent this by choosing 3 cards in his or her hand and discarding them.",
+            "flavorText":"'Harry tried not to laugh as he watched Malfoy hurry forward, his head drooping with the weight of a nose like a small melon.'",
+            "rarity":"Uncommon",
+            "artist":"Alex Horley"
+        },
+        {
+            "number":"85",
+            "name":"Through the Floo",
+            "type":"Adventure",
+            "description":{
+                "effect":"Before each of your opponent's turns, he or she draws 3 cards and then chooses 3 cards in his or her hand and discards them.",
+                "toSolve":"Your opponent chooses 1 of his or her Locations in play or 4 of his or her Lessons in play and discards them. ",
+                "reward":"You take 3 damage."
+            },
+            "rarity":"Uncommon",
+            "artist":"Tim Hildebrandt"
+        },
+        {
+            "number":"86",
+            "name":"Twirl",
+            "lesson":"Quidditch",
+            "cost":"8",
+            "type":"Spell",
+            "description":"Do 5 damage to your opponent. Then, if he or she has any cards in play other than Lessons (or his or her starting Character), he or she chooses 1 of those cards and returns it to his or her hand.",
+            "flavorText":"''Training for the ballet, Potter?' yelled Malfoy, as Harry was forced to do a stupid kind of twirl in mid-air to dodge the Bludger.'",
+            "rarity":"Uncommon",
+            "artist":"Ken Steacy"
+        },
+        {
+            "number":"87",
+            "name":"Umbrella Flowers",
+            "lesson":"Care of Magical Creatures",
+            "cost":"3",
+            "type":"Creature",
+            "subTypes":[
+                "Plant"
+            ],
+            "description":"Once per turn, you may let Umbrella Flowers take 1 damage that you were going to take.",
+            "health":"2",
+            "rarity":"Uncommon",
+            "artist":"Cindy Salans Rosenheim"
+        },
+        {
+            "number":"88",
+            "name":"Venomous Tentacula",
+            "lesson":"Care of Magical Creatures",
+            "cost":"4",
+            "type":"Creature",
+            "subTypes":[
+                "Plant"
+            ],
+            "description":"You may use an Action and discard Venomous Tentacula from play to put a Potions Lesson from your discard pile into play.",
+            "dmgEachTurn":"2",
+            "health":"1",
+            "flavorText":"'... be careful of the Venomous Tentacula, it's teething.' – Professor Sprout",
+            "rarity":"Uncommon",
+            "artist":"Tim Hildebrandt"
+        },
+        {
+            "number":"89",
+            "name":"Wattlebird",
+            "lesson":"Charms",
+            "cost":"6",
+            "type":"Spell",
+            "subTypes":[
+                "Password"
+            ],
+            "description":"When you play this card, play it face down and tell your opponent to guess 'Pure-Blood', 'Sherbet Lemon' or 'Wattlebird'. If he or she guesses 'Wattlebird', nothing happens. Otherwise, do 8 damage to your opponent.",
+            "flavorText":"''Skip the lecture,' said Ron impatiently, and tell us the new password.'",
+            "rarity":"Uncommon",
+            "artist":[
+                "Kevin McCann",
+                "Michael Collins"
+            ]
+        },
+        {
+            "number":"90",
+            "name":"Windy-Day Match",
+            "lesson":"Quidditch",
+            "cost":"1",
+            "type":"Match",
+            "description":{
+                "toWin":"Use Actions to play Spell cards 2 times while this card is in play.",
+                "prize":"Loser takes 6 damage."
+            },
+            "rarity":"Uncommon",
+            "artist":"Romas"
         }
     ]
 }
