@@ -6,9 +6,9 @@ This project provides Harry Potter Trading Card Game card data in JSON format fo
 * Tressley Cahill
 * Mateusz Koteja
 
-### Example Cards
-#### Lesson
-```JSON
+## Example Cards
+### Lesson
+```XML
 {
     "number":"113",
     "name":"Care of Magical Creatures",
