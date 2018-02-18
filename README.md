@@ -2,11 +2,11 @@
 
 This project provides Harry Potter Trading Card Game card data in JSON format for developers to easily use in their projects.
 
-The JSON files contain Harry Potter characters, names and related indicia that are © & ™ Warner Bros. Entertainment - All Rights Reserved. This project is not affiliated with Warner Bros. Entertainment in any way.
-
-## Contributors
+### Contributors
 * Tressley Cahill
 * Mateusz Koteja
+
+The JSON files contain Harry Potter characters, names and related indicia that are © & ™ Warner Bros. Entertainment - All Rights Reserved. This project is not affiliated with Warner Bros. Entertainment in any way.
 
 ## Example Cards
 ### Lesson
