@@ -1148,6 +1148,625 @@
             },
             "rarity":"Uncommon",
             "artist":"Romas"
+        },
+        {
+            "number":"91",
+            "name":"Aparecium",
+            "lesson":"Transfiguration",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Show your hand to your opponent. Put all Lesson cards there into play.",
+            "flavorText":"'She tapped the diary three times and said, 'Aparecium!''",
+            "rarity":"Common",
+            "artist":"Larry MacDougall"
+        },
+        {
+            "number":"92",
+            "name":"Backfire!",
+            "lesson":"Charms",
+            "cost":"6",
+            "type":"Spell",
+            "description":"Do 5 damage to your opponent.",
+            "flavorText":"'... Ron's wand was still malfunctioning, surpassing itself on Friday morning by shooting out of Ron's hand in Charms and hitting tiny old Professor Flitwick squarely between the eyes, ...'",
+            "rarity":"Common",
+            "artist":"Mark Brill"
+        },
+        {
+            "number":"93",
+            "name":"Badgered Boy",
+            "lesson":"Transfiguration",
+            "cost":"4",
+            "type":"Spell",
+            "description":"Search your deck. You may take a Creature card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "flavorText":"'Professor McGonagall was shouting at someone who, by the sound of it, had turned his friend into a badger.'",
+            "rarity":"Common",
+            "artist":"Alan Pollack"
+        },
+        {
+            "number":"94",
+            "name":"Beater's Bat",
+            "lesson":"Quidditch",
+            "cost":"4",
+            "type":"Item",
+            "description":"You may use an Action and discard a card from your hand to do 2 damage to your opponent.",
+            "rarity":"Common",
+            "artist":[
+                "Kevin McCann",
+                "Michael Collins"
+            ]
+        },
+        {
+            "number":"95",
+            "name":"Beetle Buttons",
+            "lesson":"Transfiguration",
+            "cost":"6",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's Creatures in play and discard it.",
+            "flavorText":"'... Ron's mood was not improved by Hermione showing them the handful of perfect coat buttons she had produced in Transfiguration.'",
+            "rarity":"Common",
+            "artist":"George Davis"
+        },
+        {
+            "number":"96",
+            "name":"Catching Apples",
+            "lesson":"Quidditch",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Do 3 damage to your opponent. Then, if your opponent has any cards in play (other than his or her starting Character), he or she chooses 1 of them and returns it to his or her hand.",
+            "flavorText":"'They couldn't use real Quidditch balls, which would have been hard to explain if they had escaped and flown away over the village; instead they threw apples for each other to catch.'",
+            "rarity":"Common",
+            "artist":"Mark Brill"
+        },
+        {
+            "number":"97",
+            "name":"Chudley Cannons Robes",
+            "lesson":"Quidditch",
+            "cost":"3",
+            "type":"Item",
+            "description":"You may use an Action to put up to 2 cards from your hand on the bottom of your deck (in any order).",
+            "rarity":"Common",
+            "artist":"Keith Garletts"
+        },
+        {
+            "number":"98",
+            "name":"Copper Cauldron",
+            "lesson":"Potions",
+            "cost":"3",
+            "type":"Item",
+            "subTypes":[
+                "Cauldron"
+            ],
+            "description":"To play this card, return 1 of your Potions Lessons from play to your hand. ",
+            "provides":[
+                "2",
+                "Potions"
+            ],
+            "rarity":"Common",
+            "artist":"Jim Nelson"
+        },
+        {
+            "number":"99",
+            "name":"Death-Cap Draught",
+            "lesson":"Potions",
+            "cost":"5",
+            "type":"Spell",
+            "description":"To play this card, return 1 of your Potions Lessons from play to your hand. Do 6 damage to your opponent or to a Creature of your choice.",
+            "rarity":"Common",
+            "artist":"Keith Garletts"
+        },
+        {
+            "number":"100",
+            "name":"Deboning",
+            "lesson":"Transfiguration",
+            "cost":"7",
+            "type":"Spell",
+            "description":"During your opponent's next turn, he or she can't use Actions to play cards.",
+            "flavorText":"'Ah. Yes. Well, that can sometimes happen. But the point is, the bones are no longer broken.'",
+            "rarity":"Common",
+            "artist":"Kevin Dobler"
+        },
+        {
+            "number":"101",
+            "name":"Dizziness Draught",
+            "lesson":"Potions",
+            "cost":"4",
+            "type":"Spell",
+            "description":"Do 4 damage to your opponent. During your opponent's next turn, he or she can't use Actions to play Quidditch cards.",
+            "rarity":"Common",
+            "artist":"Dany Orizio"
+        },
+        {
+            "number":"102",
+            "name":"Engorgement Charm",
+            "lesson":"Charms",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Remove all damage counters from all of your Creatures in play.",
+            "flavorText":"''An Engorgement Charm, I suppose?' said Hermione, halfway between disapproval and amusement. Well, you've done a good job on them.'",
+            "rarity":"Common",
+            "artist":"Hugo Martin"
+        },
+        {
+            "number":"103",
+            "name":"Evanesce",
+            "lesson":"Transfiguration",
+            "cost":"7",
+            "type":"Spell",
+            "description":"Choose a Creature or Lesson in play and discard it.",
+            "flavorText":"'Professor McGonagall's classes were always hard work, but today was especially difficult.'",
+            "rarity":"Common",
+            "artist":"Ken Steacy"
+        },
+        {
+            "number":"104",
+            "name":"Family Ghoul",
+            "lesson":"Care of Magical Creatures",
+            "cost":"3",
+            "type":"Creature",
+            "subTypes":[
+                "Ghoul"
+            ],
+            "description":"To play this card, return 1 of your Creatures in play to your hand.",
+            "dmgEachTurn":"2",
+            "health":"2",
+            "flavorText":"'... I'm right underneath the ghoul in the attic, he's always banging on the pipes and groaning ...' — Ron Weasley",
+            "rarity":"Common",
+            "artist":"Jeff Laubenstein"
+        },
+        {
+            "number":"105",
+            "name":"Fatiguing Fusion",
+            "lesson":"Potions",
+            "cost":"8",
+            "type":"Spell",
+            "description":"To play this card, return 1 of your Potions Lessons from play to your hand. Do 9 damage to your opponent or to a Creature of your choice.",
+            "rarity":"Common",
+            "artist":"Dave Dorman"
+        },
+        {
+            "number":"106",
+            "name":"Flacking",
+            "lesson":"Quidditch",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Do 2 damage to your opponent. Then, if your opponent has any cards in his or her hand, he or she chooses 1 of them and discards it.",
+            "flavorText":"'And there's the Keeper, too. He guards the goalposts.' — Harry Potter",
+            "rarity":"Common",
+            "artist":"Jeff Laubenstein"
+        },
+        {
+            "number":"107",
+            "name":"Freezing Charm",
+            "lesson":"Charms",
+            "cost":"7",
+            "type":"Spell",
+            "description":"Do 4 damage to your opponent or to a Creature of your choice.",
+            "flavorText":"'He just wants to give us some hands-on experience, said Hermione, immobilising two pixies at once with a clever Freezing Charm and stuffing them back into their cage.'",
+            "rarity":"Common",
+            "artist":"Mark Brill"
+        },
+        {
+            "number":"108",
+            "name":"Garden Gnome",
+            "lesson":"Care of Magical Creatures",
+            "cost":"4",
+            "type":"Creature",
+            "subTypes":[
+                "Gnome"
+            ],
+            "description":"At the end of each of your opponent's turns, if there are any cards in his or her hand, he or she chooses 1 of them and discards it.",
+            "health":"1",
+            "flavorText":"'They love it here ... Dad's too soft with them, he thinks they're funny ...'",
+            "rarity":"Common",
+            "artist":"Thomas Gianni"
+        },
+        {
+            "number":"109",
+            "name":"Gryffindor Lion",
+            "lesson":"Care of Magical Creatures",
+            "cost":"6",
+            "type":"Creature",
+            "subTypes":[
+                "Lion",
+                "Gryffindor"
+            ],
+            "dmgEachTurn":"3",
+            "health":"3",
+            "flavorText":"'Their daring, nerve and chivalry Set Gryffindors apart; ...' — The Sorting Hat",
+            "rarity":"Common",
+            "artist":"Tony Szczudlo"
+        },
+        {
+            "number":"110",
+            "name":"Guide to Household Pests",
+            "lesson":"Care of Magical Creatures",
+            "cost":"2",
+            "type":"Item",
+            "subTypes":[
+                "Book"
+            ],
+            "description":"You may use an Action and discard this card from play to choose a Creature in play and do 4 damage to it.",
+            "provides":[
+                "1",
+                "Care of Magical Creatures"
+            ],
+            "rarity":"Common",
+            "artist":"George Davis"
+        },
+        {
+            "number":"111",
+            "name":"Hair-Raising Potion",
+            "lesson":"Potions",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Do 1 damage to your opponent or to a Creature of your choice.",
+            "flavorText":"'Ron was just saying he wished he had asked Hermione how many rat tails you were supposed to add to a Hair-Raising Potion, ...'",
+            "rarity":"Common",
+            "artist":"David Day"
+        },
+        {
+            "number":"112",
+            "name":"Hawkshead Formation",
+            "lesson":"Quidditch",
+            "cost":"7",
+            "type":"Spell",
+            "description":"Do 6 damage to your opponent.",
+            "flavorText":"'Three Chasers on each team throw the Quaffle to each other and try and get it through the goalposts at the end of the pitch — ...' — Harry Potter",
+            "rarity":"Common",
+            "artist":"Ken Steacy"
+        },
+        {
+            "number":"113",
+            "name":"Hermione's Note",
+            "lesson":"Charms",
+            "cost":"6",
+            "type":"Spell",
+            "description":"Discard the Adventure your opponent has played. You get the reward.",
+            "flavorText":"'Ron, he breathed, this is it. This is the answer.' — Harry Potter",
+            "rarity":"Common",
+            "artist":"Alex Horley"
+        },
+        {
+            "number":"114",
+            "name":"History of Magic Homework",
+            "lesson":"Transfiguration",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Search your deck. You may take a Lesson card from your deck and put it into play. Then shuffle your deck.",
+            "flavorText":"'Hermione, let me read your composition, said Ron desperately, ...'",
+            "rarity":"Common",
+            "artist":"Ron Spears"
+        },
+        {
+            "number":"115",
+            "name":"Hover Charm",
+            "lesson":"Charms",
+            "cost":"4",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's cards in play (other than his or her starting Character) and return it to his or her hand.",
+            "flavorText":"'Aunt Petunia's masterpiece of a pudding, the mountain of cream and sugared violets, was floating up near the ceiling.'",
+            "rarity":"Common",
+            "artist":"Alex Horley"
+        },
+        {
+            "number":"116",
+            "name":"Howler",
+            "lesson":"Charms",
+            "cost":"4",
+            "type":"Spell",
+            "description":"Do 2 damage to your opponent. Then, if your opponent has any cards in his or her hand, look at them. Choose 1 of those cards and put it on top of his or her deck.",
+            "flavorText":"''You'd better open it, Ron,' said Neville, in a timid whisper. 'It'll be worse if you don't. My Gran sent me one once, and I ignored it and' — he gulped, 'it was horrible.''",
+            "rarity":"Common",
+            "artist":"Monte Michael Moore"
+        },
+        {
+            "number":"117",
+            "name":"Hufflepuff Badger",
+            "lesson":"Care of Magical Creatures",
+            "cost":"3",
+            "type":"Creature",
+            "subTypes":[
+                "Badger",
+                "Hufflepuff"
+            ],
+            "dmgEachTurn":"1",
+            "health":"3",
+            "flavorText":"'You might belong in Hufflepuff, Where they are just and loyal, ...' — The Sorting Hat",
+            "rarity":"Common",
+            "artist":"Tony Szczudlo"
+        },
+        {
+            "number":"118",
+            "name":"Invisible Ink",
+            "lesson":"Transfiguration",
+            "cost":"8",
+            "type":"Spell",
+            "description":"Choose up to 2 Lessons in play and discard them.",
+            "flavorText":"''It might be invisible ink!' she whispered.'",
+            "rarity":"Common",
+            "artist":"Alan Pollack"
+        },
+        {
+            "number":"119",
+            "name":"Leaping Toadstools",
+            "lesson":"Care of Magical Creatures",
+            "cost":"1",
+            "type":"Creature",
+            "subTypes":[
+                "Plant"
+            ],
+            "description":"Once per turn, you may let Leaping Toadstools take 1 damage that you were going to take.",
+            "health":"4",
+            "flavorText":"'... Ernie Macmillan asked Harry quite politely to pass a bucket of leaping toadstools in Herbology one day, ...'",
+            "rarity":"Common",
+            "artist":"George Davis"
+        },
+        {
+            "number":"120",
+            "name":"Overdue Homework",
+            "lesson":"Charms",
+            "cost":"2",
+            "type":"Spell",
+            "description":"Look at your opponent's hand. Count the number of Lesson cards there. Do that much damage to your opponent.",
+            "rarity":"Common",
+            "artist":"Kevin Dobler"
+        },
+        {
+            "number":"121",
+            "name":"Pepperup Potion",
+            "lesson":"Potions",
+            "cost":"1",
+            "type":"Spell",
+            "subTypes":[
+                "Healing"
+            ],
+            "description":"Put up to 4 non-Healing cards from your discard pile on the bottom of your deck (in any order).",
+            "flavorText":"'Her Pepperup Potion worked instantly, though it left the drinker smoking at the ears for several hours afterwards.'",
+            "rarity":"Common",
+            "artist":"Ken Steacy"
+        },
+        {
+            "number":"122",
+            "name":"Potions Homework",
+            "lesson":"Potions",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Your opponent takes damage until he or she discards a Lesson card from his or her deck.",
+            "rarity":"Common",
+            "artist":"Darren Bader"
+        },
+        {
+            "number":"123",
+            "name":"Ransacked!",
+            "lesson":"Charms",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Your opponent chooses 2 cards in his or her hand and discards them (1 if he or she has only 1).",
+            "flavorText":"''Someone's been looking for something,' said Ron. 'Is there anything missing?''",
+            "rarity":"Common",
+            "artist":"Mark Brill"
+        },
+        {
+            "number":"124",
+            "name":"Ravenclaw Eagle",
+            "lesson":"Care of Magical Creatures",
+            "cost":"4",
+            "type":"Creature",
+            "subTypes":[
+                "Eagle",
+                "Ravenclaw"
+            ],
+            "dmgEachTurn":"2",
+            "health":"2",
+            "flavorText":"'Or yet in wise old Ravenclaw, If you've a ready mind, ...' — The Sorting Hat",
+            "rarity":"Common",
+            "artist":"Tony Szczudlo"
+        },
+        {
+            "number":"125",
+            "name":"Restoration Potion",
+            "lesson":"Potions",
+            "cost":"4",
+            "type":"Spell",
+            "description":"Do 4 damage to your opponent. During your opponent's next turn, he or she can't use Actions to play Transfiguration cards.",
+            "rarity":"Common",
+            "artist":"David Day"
+        },
+        {
+            "number":"126",
+            "name":"Revealer",
+            "lesson":"Transfiguration",
+            "cost":"2",
+            "type":"Item",
+            "description":"You may use an Action to look at your opponent's hand.",
+            "rarity":"Common",
+            "artist":"Thomas Gianni"
+        },
+        {
+            "number":"127",
+            "name":"Rose Growth",
+            "lesson":"Charms",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Do 2 damage to your opponent or to a Creature of your choice. Then draw a card.",
+            "rarity":"Common",
+            "artist":"Thomas Gianni"
+        },
+        {
+            "number":"128",
+            "name":"Shooting Star",
+            "lesson":"Quidditch",
+            "cost":"4",
+            "type":"Item",
+            "subTypes":[
+                "Broom"
+            ],
+            "description":"You may use an Action and discard a card from your hand to draw 2 cards. If you play this card, and you already have a Broom in play, discard the old one.",
+            "provides":[
+                "1",
+                "Quidditch"
+            ],
+            "rarity":"Common",
+            "artist":"Monte Michael Moore"
+        },
+        {
+            "number":"129",
+            "name":"Slinking Ferret",
+            "lesson":"Care of Magical Creatures",
+            "cost":"3",
+            "type":"Creature",
+            "subTypes":[
+                "Ferret"
+            ],
+            "description":"When you play this card, draw a card.",
+            "dmgEachTurn":"1",
+            "health":"1",
+            "rarity":"Common",
+            "artist":"Doug Chaffee"
+        },
+        {
+            "number":"130",
+            "name":"Slow-Acting Venom",
+            "lesson":"Potions",
+            "cost":"6",
+            "type":"Item",
+            "description":"Before each of your turns, your opponent takes 1 damage.",
+            "rarity":"Common",
+            "artist":"Romas"
+        },
+        {
+            "number":"131",
+            "name":"Slytherin Serpent",
+            "lesson":"Care of Magical Creatures",
+            "cost":"5",
+            "type":"Creature",
+            "subTypes":[
+                "Snake",
+                "Slytherin"
+            ],
+            "dmgEachTurn":"3",
+            "health":"1",
+            "flavorText":"'Those cunning folk use any means To achieve their ends.' — The Sorting Hat",
+            "rarity":"Common",
+            "artist":"Tony Szczudlo"
+        },
+        {
+            "number":"132",
+            "name":"Slytherin Steals",
+            "lesson":"Quidditch",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Do 2 damage to your opponent. Then, if your opponent has any cards in play (other than his or her starting Character), he or she chooses 1 of them and discards it.",
+            "rarity":"Common",
+            "artist":"Dany Orizio"
+        },
+        {
+            "number":"133",
+            "name":"Training Programme",
+            "lesson":"Quidditch",
+            "cost":"7",
+            "type":"Spell",
+            "description":"Draw 2 cards. Then you may put up to 2 Quidditch Lesson cards from your hand into play.",
+            "flavorText":"''Oliver,' Harry croaked, 'it's the crack of dawn.''",
+            "rarity":"Common",
+            "artist":"Alex Horley"
+        },
+        {
+            "number":"134",
+            "name":"Vanishing Cabinet",
+            "lesson":"Transfiguration",
+            "cost":"1",
+            "type":"Spell",
+            "description":"Choose 1 of your opponent's Items in play and put it on the bottom of his or her deck.",
+            "flavorText":"'That vanishing cabinet was extremely valuable!' — Argus Filch",
+            "rarity":"Common",
+            "artist":"Thomas Gianni"
+        },
+        {
+            "number":"135",
+            "name":"Zig-Zag",
+            "lesson":"Quidditch",
+            "cost":"5",
+            "type":"Spell",
+            "description":"Put a non-Healing Quidditch card from your discard pile into your hand.",
+            "flavorText":"'On Madam Hooch's whistle, Harry kicked hard into the air and heard the tell-tale whoosh of the Bludger behind him.'",
+            "rarity":"Common",
+            "artist":"Keith Garletts"
+        },
+        {
+            "number":"136",
+            "name":"Care of Magical Creatures",
+            "lesson":"Care of Magical Creatures",
+            "type":"Lesson",
+            "provides":[
+                "1",
+                "Care of Magical Creatures"
+            ],
+            "rarity":"Common",
+            "artist":[
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number":"137",
+            "name":"Charms",
+            "lesson":"Charms",
+            "type":"Lesson",
+            "provides":[
+                "1",
+                "Charms"
+            ],
+            "rarity":"Common",
+            "artist":[
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number":"138",
+            "name":"Potions",
+            "lesson":"Potions",
+            "type":"Lesson",
+            "provides":[
+                "1",
+                "Potions"
+            ],
+            "rarity":"Common",
+            "artist":[
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number":"139",
+            "name":"Quidditch",
+            "lesson":"Quidditch",
+            "type":"Lesson",
+            "provides":[
+                "1",
+                "Quidditch"
+            ],
+            "rarity":"Common",
+            "artist":[
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number":"140",
+            "name":"Transfiguration",
+            "lesson":"Transfiguration",
+            "type":"Lesson",
+            "provides":[
+                "1",
+                "Transfiguration"
+            ],
+            "rarity":"Common",
+            "artist":[
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
         }
     ]
 }

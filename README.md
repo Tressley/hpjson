@@ -6,7 +6,9 @@ This project provides Harry Potter Trading Card Game card data in JSON format fo
 * Tressley Cahill
 * Mateusz Koteja
 
-The JSON files contain Harry Potter characters, names and related indicia that are © & ™ Warner Bros. Entertainment - All Rights Reserved. This project is not affiliated with Warner Bros. Entertainment in any way.
+
+The information presented in these files about Harry Potter, including characters, names and related indicia are trademarks of and © Warner Bros. Entertainment Inc. This project is not produced by, endorsed by, supported by, or affiliated with Warner Bros. Entertainment Inc. All rights reserved.
+
 
 ## Example Cards
 ### Lesson
