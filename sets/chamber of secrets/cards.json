@@ -584,7 +584,7 @@
         },
         {
             "number":"45",
-            "name":"Professor Pomona Sprout ",
+            "name":"Professor Pomona Sprout",
             "type":"Character",
             "subTypes":[
                 "Witch",
@@ -1019,7 +1019,7 @@
         },
         {
             "number":"81",
-            "name":"Second-Hand Robe Shop ",
+            "name":"Second-Hand Robe Shop",
             "lesson":"Transfiguration",
             "cost":"3",
             "type":"Location",
@@ -1030,7 +1030,7 @@
         },
         {
             "number":"82",
-            "name":"Self-Shuffling Cards ",
+            "name":"Self-Shuffling Cards",
             "lesson":"Charms",
             "cost":"3",
             "type":"Item",
