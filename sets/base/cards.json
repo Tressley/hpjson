@@ -227,7 +227,7 @@
                 "Ravenclaw",
                 "Unique"
             ],
-            "description":"Once per game, you may trade 2 cards in your hand for 1 card in your discard pile that needs Charms power.",
+            "description":"Once per game, you may trade 2 cards in your hand for 1 card in your discard pile that needs Charms Power.",
             "provides":[
                 "1",
                 "Charms"
