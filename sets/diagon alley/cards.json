@@ -621,7 +621,7 @@
             "lesson":"Charms",
             "cost":"4",
             "type":"Location",
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). All Charms Lessons (yours and your opponent's) provide 2 Charms Lessons instead of 1.",
+            "description":"When you play this card, discard any other Location from play (yours or your opponent's). All Charms Lessons (yours and your opponent's) provide 2 Charms Lessons instead of 1 Charms Lesson.",
             "flavorText":"'...Ollivanders: Makers of Fine Wands since 382 BC.' — shop sign in Diagon Alley",
             "rarity":"Uncommon",
             "artist":"Kevin Dobler"
