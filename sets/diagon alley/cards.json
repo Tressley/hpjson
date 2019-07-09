@@ -180,6 +180,7 @@
             "name":"Hagrid's Umbrella",
             "lesson":"Charms",
             "cost":"3",
+            "type":"Item",
             "subTypes":[
                 "Wand",
                 "Unique"
