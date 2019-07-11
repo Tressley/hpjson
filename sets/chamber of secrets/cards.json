@@ -641,7 +641,7 @@
             "lesson":"Transfiguration",
             "cost":"6",
             "type":"Spell",
-            "description":"Before each of your turns, your opponent takes 3 damage.",
+            "description":"Search your deck. You may take up to 2 Creature cards from your deck, show them to your opponent and put them into your hand. Then shuffle your deck.",
             "flavorText":"'Malfoy raised his wand quickly and bellowed, 'Serpensortia!''",
             "rarity":"Rare",
             "artist":"Kevin Dobler"
