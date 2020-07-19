@@ -42,7 +42,7 @@
             ],
             "description":"During your turn, you may use an Action and discard a card from your hand to look at your opponent's hand. You may then choose 1 card in his or her hand and discard it.",
             "flavorText":"'You don't want to go making friends with the wrong sort. I can help you there.' - Draco Malfoy",
-            "rarity":"Foil Premium",
+            "rarity":"Rare",
             "artist":"Romas"
         },
         {
@@ -200,6 +200,7 @@
             "type":"Character",
             "subTypes":[
                 "Gryffindor",
+                "Ghost",
                 "Unique"
             ],
             "description":"Once per game, you may search your deck. When you do, you may take up to 2 Item cards from your deck, show them to your opponent, and put them into your hand. Then shuffle your deck.",
@@ -243,7 +244,8 @@
             "subTypes":[
                 "Wizard",
                 "Slytherin",
-                "Unique"
+                "Unique",
+                "Healing"
             ],
             "description":"Once per game, you may shuffle up to 7 non-Healing cards from your discard pile into your deck.",
             "provides":[
@@ -910,8 +912,8 @@
             "type":"Adventure",
             "description":{
                 "condition":"Play this card only if your opponent has any Creatures in play.",
-                "effect":"Your opponent can't use more than 1 Action to play Lesson cards during each of his or her turns.",
-                "toSolve":"Your opponent chooses 4 of his or her Lessons in play and discards them.",
+                "effect":"Before each of your turns, your opponent takes 4 damage.",
+                "toSolve":"Your opponent chooses 2 of his or her Creatures in play and discards them.",
                 "reward":"Your opponent may draw a card."
             },
             "flavorText":"'It's hatching.' - note from Hagrid",
@@ -1007,7 +1009,7 @@
             "subTypes":[
                 "Wand"
             ],
-            "description":"Once during each of your turns, you may choose 1 of your opponent's Creatures in play. Prevent all damage done by that creature until the end of your opponent's next turn.",
+            "description":"If you play this card and you already have a Wand in play, discard the old one.",
             "provides":[
                 "2",
                 "Charms"
@@ -1123,7 +1125,7 @@
             "number":"88",
             "name":"Giant Tarantula",
             "lesson":"Care of Magical Creatures",
-            "cost":"2",
+            "cost":"1",
             "type":"Creature",
             "subTypes":[
                 "Spider"
@@ -1294,7 +1296,7 @@
             "lesson":"Transfiguration",
             "cost":"2",
             "type":"Spell",
-            "description":"During your turn, you may use an Action to put a Lesson card from your discard pile into play.",
+            "description":"Choose 1 of your opponent's Transfiguration Lessons in play and discard it.",
             "flavorText":"'These were the books containing powerful Dark Magic never taught at Hogwarts...'",
             "rarity":"Common",
             "artist":"Marcelo Vignali"
@@ -1318,7 +1320,7 @@
             "number":"104",
             "name":"Snape's Question",
             "lesson":"Potions",
-            "cost":"6",
+            "cost":"3",
             "type":"Spell",
             "description":"Do 4 damage to your opponent. Your opponent may prevent this damage by showing you a Potions Lesson from his or her hand.",
             "flavorText":"''I don't know, sir,' said Harry. Snape's lips curled into a sneer.'",

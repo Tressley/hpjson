@@ -10,6 +10,7 @@
             "subTypes":[
                 "Witch",
                 "Gryffindor",
+                "Chaser",
                 "Unique"
             ],
             "description":"Before each of your turns, if there is a Match in play, you get 1 more Action that turn.",
@@ -161,6 +162,7 @@
             "subTypes":[
                 "Wizard",
                 "Slytherin",
+                "Seeker",
                 "Unique"
             ],
             "description":"If your opponent has any cards in his or her hand, you may use an Action to make him or her choose 1 of them and discard it.",
@@ -802,7 +804,7 @@
             "number":"63",
             "name":"Cleansweep Five",
             "lesson":"Quidditch",
-            "cost":"2",
+            "cost":"3",
             "type":"Item",
             "description":"When you play this card, look at the top 2 cards of your deck (1 if there is only 1) and put both of them on the bottom or back on the top of your deck in any order. If you play this card, and you already have a Broom in play, discard the old one.",
             "provides":[

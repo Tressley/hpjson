@@ -166,7 +166,8 @@
             "subTypes":[
                 "Unique",
                 "Wizard",
-                "Gryffindor"
+                "Gryffindor",
+                "Seeker"
             ],
             "description":"At the end of each of your turns, if you played an Adventure card that turn, draw up to 4 cards.",
             "flavorText":"'... to Mr Harry Potter ...' ... '... for pure nerve and outstanding courage, I award Gryffindor house sixty points.' — Albus Dumbledore",
@@ -255,6 +256,7 @@
             "name":"Peeves",
             "type":"Character",
             "subTypes":[
+                "Ghost",
                 "Unique"
             ],
             "description":"Once per game, you may discard your hands and draw 7 cards to make your opponent discard his or her hand and then draw 7 cards.",
@@ -567,7 +569,7 @@
         {
             "number":"44",
             "name":"Purple Firecrackers",
-            "lesson":"Transfiguration",
+            "lesson":"Charms",
             "cost":"6",
             "type":"Spell",
             "description":"Your opponent chooses 3 cards in his or her hand and discards them. (If he or she has fewer than 3 cards in his or her hand, he or she discards them all.)",
@@ -610,7 +612,7 @@
             "subTypes":[
                 "Healing"
             ],
-            "description":"To play this card, discard one of your Potions Lessons from play. Shuffle up to 11 non-Healing cards from your discard pile into your deck.",
+            "description":"To play this card, discard one of your Potions Lessons from play. Shuffle up to 12 non-Healing cards from your discard pile into your deck.",
             "rarity":"Uncommon",
             "artist":"Bob Petillo"
         },
@@ -855,7 +857,7 @@
             "name":"Photo Album",
             "lesson":"Charms",
             "cost":"5",
-            "type":"Spell",
+            "type":"Item",
             "description":"Before each of your turns, draw a card.",
             "flavorText":"'Smiling and waving at him from every page were his mother and father.'",
             "rarity":"Common",

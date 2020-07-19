@@ -135,6 +135,7 @@
             "subTypes":[
                 "Wizard",
                 "Gryffindor",
+                "Seeker",
                 "Unique"
             ],
             "description":"Once during each of your turns, when you use an Action to play a Quidditch Lesson card, you may also draw a card.",
@@ -176,6 +177,7 @@
             "subTypes":[
                 "Wizard",
                 "Slytherin",
+                "Chaser",
                 "Unique"
             ],
             "description":"Once per game, you may make your opponent choose 3 cards in his or her hand and discard them. (If there are fewer than 3 cards in your opponent's hand, he or she discards them all.)",
@@ -232,6 +234,7 @@
             "subTypes":[
                 "Wizard",
                 "Gryffindor",
+                "Keeper",
                 "Unique"
             ],
             "description":"Once per game, when 1 of your Spell cards that needs Quidditch Power does damage, you may have it do 8 more damage.",
@@ -922,7 +925,7 @@
         {
             "number":"75",
             "name":"Vanish",
-            "lesson":"Quidditch",
+            "lesson":"Transfiguration",
             "cost":"7",
             "type":"Spell",
             "description":"Choose 1 of your opponent's Creatures or Characters in play (other than his or her starting Character) and put it on the bottom of his or her deck.",
