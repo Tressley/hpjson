@@ -483,7 +483,7 @@
                 "Witch",
                 "Unique"
             ],
-            "description":"You may use an Action to draw 2 cards and then put 2 cards from your hand on the bottom of your deck (in any order).",
+            "description":"You may use an Action to search your deck. You may take a Character card for a Weasley character from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
             "flavorText":"'Mrs Weasley fussed over the state of his socks and tried to force him to eat fourth helpings at every meal.'",
             "rarity":"Rare",
             "artist":"Kim Graham"
