@@ -431,6 +431,9 @@
             "lesson":"Potions",
             "cost":"5",
             "type":"Item",
+            "subTypes":[
+                "Beetle Eyes"
+            ],
             "description":"When you play this card, do 4 damage to your opponent. You may use an Action to discard this card and Eel Eyes from play to search your deck. You may take a Bulgeye Potion card from your deck and put it into play. Then shuffle your deck.",
             "rarity":"Uncommon",
             "artist":"Daren Bader"
@@ -493,6 +496,9 @@
             "lesson":"Potions",
             "cost":"1",
             "type":"Item",
+            "subTypes": [
+                "Eel Eyes"
+            ],
             "description":"When you play this card, look at your opponent's hand. You may use an Action to discard this card and Beetle Eyes from play to search your deck. You may take a Bulgeye Potion card from your deck and put it into play. Then shuffle your deck.",
             "rarity":"Uncommon",
             "artist":"Monte Michael Moore"
