@@ -58,6 +58,9 @@
             "lesson":"Charms",
             "cost":"2",
             "type":"Item",
+            "subTypes": [
+                "Wand"
+            ],
             "description":"You may use an Action to reveal the top card of your deck. If it's a Lesson card, put it into play. If it isn't a Lesson card, discard it. If you play this card, and you already have a Wand in play, discard the old one.",
             "provides":[
                 "1",
