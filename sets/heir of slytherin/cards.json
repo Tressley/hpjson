@@ -86,7 +86,7 @@
             "rarity":"Rare",
             "artist":"Vladislav Pantic"
         },
-        {   //TO-DO - DESCRIPTION
+        {   
             "number":"7",
             "name":"Dobby is Free!",
             "type":"Adventure",
@@ -701,7 +701,7 @@
             "rarity":"Common",
             "artist":"HogwartsHorror"
         },
-        {   //TO-DO - FLAVOR TEXT
+        {   
             "number":"55",
             "name":"Enemies of the Heir, Beware",
             "lesson":"Potions",
@@ -817,7 +817,7 @@
             "rarity":"Common",
             "artist":"Agatha-macpie"
         },
-        {   //TO-DO - FLAVOR TEXT
+        {   
             "number":"65",
             "name":"Petrifying Stare",
             "lesson":"Care of Magical Creatures",
