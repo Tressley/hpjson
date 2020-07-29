@@ -580,7 +580,7 @@
             "lesson":"Transfiguration",
             "cost":"5",
             "type":"Spell",
-            "description":"Choose a Creature in play. It becomes an Item that has no effects, damage per turn, health, or keywords (except Unique) while it is in play.",
+            "description":"Choose a Creature in play. It becomes an Item that has no abilities, damage per turn, health, or keywords (except Unique) while it is in play.",
             "rarity":"Uncommon",
             "artist":"limach-an"
         },
