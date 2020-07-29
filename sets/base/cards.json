@@ -549,7 +549,7 @@
             "type":"Spell",
             "description":"Search your deck. You may take up to 2 Lesson cards from your deck, show them to your opponent, and put them in your hand. Then shuffle your deck.",
             "flavorText":"'The Stone will transform any metal into pure gold.'",
-            "rarity":"Rare",
+            "rarity":"Uncommon",
             "artist":"Ron Spencer"
         },
         {
