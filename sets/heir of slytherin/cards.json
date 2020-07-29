@@ -498,7 +498,6 @@
             "cost":"5",
             "type":"Spell",
             "description":"To play this card, discard 1 of your Potions Lessons from play. Search your deck. You may take a Location that needs Potions Power with printed Power cost 5 or less from your deck and put it into play. Then shuffle your deck.",
-            "flavorText":"'... A strange hissing had escaped him ...'",
             "rarity":"Uncommon",
             "artist":"HogwartsHorror"
         },
