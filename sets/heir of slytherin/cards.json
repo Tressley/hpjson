@@ -91,9 +91,9 @@
             "name":"Dobby is Free!",
             "type":"Adventure",
             "description":{
-                "effect":"",
-                "toSolve":"",
-                "reward":""
+                "effect":"Your opponent may use Actions only to draw or play cards.",
+                "toSolve":"Your opponent uses Actions to play cards 4 times.",
+                "reward":"Your opponent may choose 1 of your Characters in play. Their starting Character gains the abilities of the chosen Character until the end of their turn."
             },
             "rarity":"Rare",
             "artist":"HogwartsHorror"
