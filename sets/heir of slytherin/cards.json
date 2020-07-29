@@ -754,7 +754,6 @@
             "cost":"5",
             "type":"Spell",
             "description":"Count the number of Characters an opponent has in play and in their discard pile. Do that much damage to that opponent. Then, choose 1 of their Characters in play. Until their next turn, that Character loses all abilities.",
-            "flavorText":"''It was a c-cat hair!' she howled.'",
             "rarity":"Common",
             "artist":"Dina M. Nealey"
         },
