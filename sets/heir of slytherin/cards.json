@@ -820,6 +820,7 @@
             "cost":"6",
             "type":"Spell",
             "description":"Choose an opponent's Character (other than their starting Character) or non-Rooster Creature in play. Shuffle that card into their deck.",
+            "flavorText":"'But no one’s died — because no one looked it straight in the eye.' — Harry Potter",
             "rarity":"Common",
             "artist":"grim1978"
         },
