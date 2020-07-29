@@ -81,7 +81,7 @@
                 "House-elf",
                 "Unique"
             ],
-            "description":"During each opponent's turn, you may prevent up to 4 damage done to you. If any damage is prevented in this way, at the end of that turn, that opponent may choose a card in play other than Dobby. Return that card to its owner's hand.",
+            "description":"During each opponent's turn, you may prevent up to 4 damage done to you. If any damage is prevented in this way, at the end of that turn, that opponent may choose a non-Healing card in play other than Dobby. Return that card to its owner's hand.",
             "flavorText":"'The little creature on the bed had large, bat-like ears and bulging green eyes the size of tennis balls.'",
             "rarity":"Rare",
             "artist":"Vladislav Pantic"
@@ -187,7 +187,7 @@
                 "Charms"
             ],
             "rarity":"Rare",
-            "artist":"whitekitsune"
+            "artist":"WhiteKitsune"
         },
         {
             "number":"15",
@@ -250,9 +250,8 @@
                 "Healing"
             ],
             "description":"To play this card, discard 1 of your Potions Lessons from play. Choose 1 of an opponent's Wizards or Witches in play. Your starting Character gains all abilities of that card until the end of your turn.",
-            "flavorText":"'All we'd need would be some Polyjuice Potion ... It transforms you into somebody else.' — Hermione Granger",
             "rarity":"Rare",
-            "artist":"Janira Arco"
+            "artist":"gartzia.artz"
         },
         {
             "number":"20",
@@ -894,9 +893,8 @@
             "cost":"3",
             "type":"Spell",
             "description":"To play this card, discard 1 of your Potions Lessons from play. Choose 3 different non-Healing cards in your discard pile. Your opponent chooses 1 of those cards. Put that card into your hand and the rest on the bottom of your deck in any order.",
-            "flavorText":"'Regrowing bones is a nasty business.' — Madam Pomfrey",
             "rarity":"Common",
-            "artist":"Janira Arco"
+            "artist":"Ashley Bedore"
         },
         {
             "number":"72",
