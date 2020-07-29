@@ -330,7 +330,7 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or an opponent's).  Each Spider has 2 more Health (even your opponents').",
+            "description":"When you play this card, discard any other Location from play (yours or an opponent's). Each Spider has 2 more Health (even your opponents').",
             "flavorText":"'Aragog clicked his pincers furiously, and all around the hollow the sound was echoed by the crowd of spiders ...'",
             "rarity":"Uncommon",
             "artist":"Piotr Siwerski"
@@ -407,7 +407,7 @@
             "subTypes":[
                 "Pixie"
             ],
-            "description":"When you play this card, look at an opponent's hand. You may choose a card and place it under this card. (Cards under this card cannot be interacted with.)  When this card leaves play, return that card to its owner's hand.",
+            "description":"When you play this card, look at an opponent's hand. You may choose a card and place it under this card. (Cards under this card cannot be interacted with.) When this card leaves play, return that card to its owner's hand.",
             "dmgEachTurn":"1",
             "health":"1",
             "rarity":"Uncommon",
@@ -650,10 +650,9 @@
             "lesson":"Potions",
             "cost":"3",
             "type":"Spell",
-            "description":"To play this card, discard any number of your Potions Lessons from play.  For each Potions Lesson discarded, do 2 damage to an opponent or Creature of your choice. (You may choose the same target multiple times.)",
-            "flavorText":"'... clouds of acid green smoke and a loud hissing filled the dungeon.'",
+            "description":"To play this card, discard any number of your Potions Lessons from play. For each Potions Lesson discarded, do 2 damage to an opponent or Creature of your choice. (You may choose the same target multiple times.)",
             "rarity":"Common",
-            "artist":"palnk"
+            "artist":"Palnk"
         },
         {
             "number":"51",
