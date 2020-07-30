@@ -173,7 +173,7 @@
         },
         {
             "number":"14",
-            "name":"Lucius's Cane",
+            "name":"Lucius' Cane",
             "lesson":"Potions",
             "cost":"4",
             "type":"Item",
@@ -181,7 +181,7 @@
                 "Wand",
                 "Unique"
             ],
-            "description":"At the end of each of your turns, do 2 damage to your opponent for each Action you have used after the second Action. (If you play this card, and you already have a Wand card in play, discard the old one.)",
+            "description":"At the end of each of your turns, do 2 damage to your opponent for each Action you have used after the second Action. (If you play this card, and you already have a Wand in play, discard the old one.)",
             "provides":[
                 "1",
                 "Charms"
@@ -580,7 +580,7 @@
             "lesson":"Transfiguration",
             "cost":"5",
             "type":"Spell",
-            "description":"Choose a Creature in play. It becomes an Item that has no abilities, damage per turn, health, or keywords (except Unique) while it is in play.",
+            "description":"Choose a Creature in play. It becomes an Item that has no abilities, damage each turn, health, or keywords (except Unique) while it is in play.",
             "rarity":"Uncommon",
             "artist":"limach-an"
         },
