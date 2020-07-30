@@ -289,7 +289,7 @@
             "lesson":"Quidditch",
             "cost":"3",
             "type":"Item",
-            "description":"During your turn, if your hand contains at least 4 cards, you may discard this card from play. Discard your hand. You win the current Match.",
+            "description":"During your turn, if your hand contains at least 4 cards, you may discard this card from play. If you do, discard your hand to win the current Match.",
             "rarity":"Rare",
             "artist":"(c)JoeriVanRoyen"
         },
@@ -624,7 +624,7 @@
             },
             "flavorText":"'I haven't been properly dry since August' — George Weasley",
             "rarity":"Uncommon",
-            "artist":"Vladislav Pantic"
+            "artist":"Piotr Siwerski"
         },
         {
             "number":"49",
@@ -881,7 +881,7 @@
             "lesson":"Transfiguration",
             "cost":"3",
             "type":"Spell",
-            "description":"Put a non-Healing Location card from your discard pile into your hand.",
+            "description":"Put a non-Healing Location from your discard pile into your hand.",
             "flavorText":"'It looked like an ordinary sink ... And then Harry saw it: Scratched on the side of one of the copper taps was a tiny snake.'",
             "rarity":"Common",
             "artist":"julieexann"
