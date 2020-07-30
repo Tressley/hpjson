@@ -16,7 +16,7 @@
             "description":"If there is a Match in play, whenever 1 of your cards that needs Quidditch Power does damage, it does 1 more damage.",
             "flavorText":"'... A penalty to Gryffindor, taken by Spinnet, who puts it away, no trouble ...' — Lee Jordan, commentator",
             "rarity":"Rare",
-            "artist":"UpTheHillart"
+            "artist":"UpTheHill"
         },
         {
             "number":"2",
@@ -156,7 +156,7 @@
             "description":"If there is a Match in play, whenever a card (yours or an opponent's) does damage to you, it does 1 less damage.",
             "flavorText":"'... nice dive around Flint, up off the field ...' — Lee Jordan, commentator",
             "rarity":"Rare",
-            "artist":"UpTheHillart"
+            "artist":"UpTheHill"
         },
         {
             "number":"13",
@@ -200,7 +200,7 @@
             "description":"At the end of each of your turns, if you have used 5 or more Actions, you may search your deck, take any card, put it into your hand, and then shuffle your deck.",
             "flavorText":"'The man ... could only be Draco's father. He had the same pale, pointed face and identical cold, gray eyes.'",
             "rarity":"Rare",
-            "artist":"UpTheHillart"
+            "artist":"UpTheHill"
         },
         {
             "number":"16",
@@ -610,7 +610,7 @@
                 "toSolve":"Your opponent puts their hand on the bottom of their deck in any order.",
                 "reward":"Your opponent names a card type. Reveal your hand and discard all cards of the chosen type."
             },
-            "rarity":"Uncommon",
+            "rarity":"Uncommon"
         },
         {
             "number":"48",
@@ -663,7 +663,7 @@
             ],
             "description":"Before each of your turns, draw a card. Then all your opponents draw a card.",
             "rarity":"Common",
-            "artist":"Vladislav Pantic"
+            "artist":"Drew Winchester"
         },
         {
             "number":"52",
@@ -856,7 +856,6 @@
             "cost":"4",
             "type":"Spell",
             "description":"Play this card only if there is a Match in play. Trade total progress toward winning a Match with an opponent. Then do 4 damage to that opponent.",
-            "flavorText":"'... back in possession of the Quaffle, a clear field ahead ... GRYFFINDOR SCORE!' — Lee Jordan, commentator",
             "rarity":"Common",
             "artist":"abosz007"
         },
@@ -908,7 +907,7 @@
             ],
             "description":"All cards with a Power cost (yours and your opponents') need 1 more Power to play. If you play this card and you already have a Broom in play, discard the old one.",
             "rarity":"Common",
-            "artist":"Jari Hirvikoski"
+            "artist":"hyenacub"
         },
         {
             "number":"73",
