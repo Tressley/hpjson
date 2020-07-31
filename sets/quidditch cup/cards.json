@@ -907,7 +907,7 @@
             "lesson":"Care of Magical Creatures",
             "cost":"5",
             "type":"Spell",
-            "description":"Count the number or Creatures in play (yours and your opponent's). Do that much damage to your opponent.",
+            "description":"Count the number of Creatures in play (yours and your opponent's). Do that much damage to your opponent.",
             "rarity":"Common",
             "artist":"Monte Michael Moore"
         },
