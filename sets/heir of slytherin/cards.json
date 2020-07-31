@@ -610,7 +610,8 @@
                 "toSolve":"Your opponent puts their hand on the bottom of their deck in any order.",
                 "reward":"Your opponent names a card type. Reveal your hand and discard all cards of the chosen type."
             },
-            "rarity":"Uncommon"
+            "rarity":"Uncommon",
+            "artist":"Alex van der Linde"
         },
         {
             "number":"48",
