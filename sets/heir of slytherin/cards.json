@@ -773,7 +773,7 @@
             "lesson":"Quidditch",
             "cost":"6",
             "type":"Spell",
-            "description":"Do 5 damage to an opponent. If there is a Match is in play, you may have that opponent choose 1 of their Creatures in play and discard it.",
+            "description":"Do 5 damage to an opponent. If there is a Match in play, you may have that opponent choose 1 of their Creatures in play and discard it.",
             "flavorText":"''All right there, Scarhead?' yelled Malfoy, shooting underneath him as though to show off the speed of his broom.'",
             "rarity":"Common",
             "artist":"Michael Silverleaf"
