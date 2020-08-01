@@ -938,7 +938,6 @@
             "cost":"5",
             "type":"Spell",
             "description":"Each player discards the top card of their deck. Do 8 damage to each player who discarded a card with the lowest printed Power cost. (Cards with no printed Power cost count as 0.)",
-            "flavorText":"'Scared? — Draco Malfoy",
             "rarity":"Common",
             "artist":"HogwartsHorror"
         }
