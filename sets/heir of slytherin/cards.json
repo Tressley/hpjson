@@ -68,7 +68,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or an opponent's). Cards cannot be played from or leave their owners' discard piles.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Cards cannot be played from or leave their owners' discard piles.",
             "flavorText":"'Naturally, the school has been searched for evidence of such a chamber ... It does not exist.' — Professor Binns",
             "rarity":"Rare",
             "artist":"EpicLoop"
@@ -115,7 +116,8 @@
             "lesson":"Charms",
             "cost":"3",
             "type":"Location",
-            "description":"When you play this card, discard any other Location from play (yours or an opponent's). At the end of each player's turn, if that player used an Action to play a Spell, they draw a card.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"At the end of each player's turn, if that player used an Action to play a Spell, they draw a card.",
             "flavorText":"'I wouldn't mind dueling lessons; they might come in handy one of these days ...' — Seamus Finnigan",
             "rarity":"Rare",
             "artist":"Drew Winchester"
@@ -124,8 +126,8 @@
             "number":"10",
             "name":"Dumbledore's Suspension",
             "type":"Adventure",
+            "note":"Play this card only if you have at least 4 Lessons in play.",
             "description":{
-                "note":"Play this card only if you have at least 4 Lessons in play.",
                 "effect":"Your opponent's starting Character loses all abilities (including any Lessons provided).",
                 "toSolve":"Your opponent skips a total of 3 Actions.",
                 "reward":"The next Spell your opponent plays needs 2 less Power to play."
@@ -291,7 +293,7 @@
             "type":"Item",
             "description":"During your turn, if your hand contains at least 4 cards, you may discard this card from play. If you do, discard your hand to win the current Match.",
             "rarity":"Rare",
-            "artist":"(c)JoeriVanRoyen"
+            "artist":"JoeriVanRoyen"
         },
         {
             "number":"23",
@@ -311,8 +313,8 @@
             "number":"24",
             "name":"Wandering Knockturn",
             "type":"Adventure",
+            "note":"Play this card only if you have at least 5 Lessons in play.",
             "description":{
-                "note":"Play this card only if you have at least 5 Lessons in play.",
                 "effect":"After your opponent uses an Action to play a Creature or Item, they discard that card from play.",
                 "toSolve":"Your opponent discards 2 cards in this way.",
                 "reward":"Your opponent may put up to 2 Lessons from their discard pile into play."
@@ -329,7 +331,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or an opponent's). Each Spider has 2 more Health (even your opponents').",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Each Spider has 2 more Health (even your opponents').",
             "flavorText":"'Aragog clicked his pincers furiously, and all around the hollow the sound was echoed by the crowd of spiders ...'",
             "rarity":"Uncommon",
             "artist":"Piotr Siwerski"
@@ -468,7 +471,8 @@
             "lesson":"Potions",
             "cost":"2",
             "type":"Location",
-            "description":"When you play this card, discard any other Location from play (yours or an opponent's). When any player takes damage, they discard cards from the bottom of their deck instead of the top.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"When any player takes damage, they discard cards from the bottom of their deck instead of the top.",
             "flavorText":"'But how's the basilisk been getting around the place?' — Ron Weasley",
             "rarity":"Uncommon",
             "artist":"Ranivius"
@@ -509,7 +513,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location card in play (yours or an opponent's). Once during each player's turn, that player may discard any number of cards from their hand.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Once during each player's turn, that player may discard any number of cards from their hand.",
             "flavorText":"'Shining brightly on the walls by the light of many candles were countless framed photographs of Lockhart.'",
             "rarity":"Uncommon",
             "artist":"Liam Cleal"

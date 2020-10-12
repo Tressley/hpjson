@@ -140,7 +140,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, he or she draws a card.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Before each player's turn, he or she draws a card.",
             "flavorText":"'It was lit by thousands and thousands of candles which were floating in midair over four long tables, ...'",
             "rarity":"Foil Premium",
             "artist":"James Bernardin"
@@ -154,7 +155,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Whenever a Care of Magical Creatures Lesson (yours or your opponent's) is discarded from play, put it into its owner's hand.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Whenever a Care of Magical Creatures Lesson (yours or your opponent's) is discarded from play, put it into its owner's hand.",
             "flavorText":"'Hagrid lived in a small wooden house on the edge of the Forbidden Forest.'",
             "rarity":"Foil Premium",
             "artist":"Jim Nelson"
@@ -180,7 +182,8 @@
             "lesson":"Potions",
             "cost":"7",
             "type":"Location",
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Each turn, each player may prevent 4 damage done to him or her. (The damage may be prevented from one or more cards.)",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Each turn, each player may prevent 4 damage done to him or her. (The damage may be prevented from one or more cards.)",
             "flavorText":"'He realised he must be in the hospital wing.'",
             "rarity":"Foil Premium",
             "artist":"Kevin Dobler"
@@ -189,8 +192,8 @@
             "number":"15",
             "name":"Hut on the Rock",
             "type":"Adventure",
+            "note":"Play this card only if you have at least 5 Lessons in play.",
             "description":{
-                "note":"Play this card only if you have at least 5 Lessons in play.",
                 "effect":"Before each of your opponent's turns, if he or she has any cards in play (other than his or her starting Character), he or she chooses 1 of them and discards it.",
                 "toSolve":"Your opponent discards his or her hand.",
                 "reward":"You take 5 damage."
@@ -216,8 +219,8 @@
             "number":"17",
             "name":"Meeting Fluffy",
             "type":"Adventure",
+            "note":"Play this card only if you have at least 9 Lessons in play.",
             "description":{
-                "note":"Play this card only if you have at least 9 Lessons in play.",
                 "effect":"Before each of your turns, your opponent takes 12 damage.",
                 "toSolve":"Your opponent lets you choose 3 of his or her cards in play (other than his or her starting Character) and discard them.",
                 "reward":"Your opponent gets 1 more Action the turn he or she solves this Adventure."
@@ -229,8 +232,8 @@
             "number":"18",
             "name":"Midnight Duel",
             "type":"Adventure",
+            "note":"Play this card only if you have at least 5 Lessons in play.",
             "description":{
-                "note":"Play this card only if you have at least 5 Lessons in play.",
                 "effect":"To use an Action to play a Creature or a Spell card from his or her hand, your opponent must discard another card from his or her hand.",
                 "toSolve":"Your opponent chooses 4 of his or her cards in play (other than his or her starting Character) and discards them.",
                 "reward":"Your opponent may draw 4 cards."
@@ -287,7 +290,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Whenever a Potions Lesson (yours or your opponent's) is discarded from play, put it into its owner's hand.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Whenever a Potions Lesson (yours or your opponent's) is discarded from play, put it into its owner's hand.",
             "flavorText":"'It... would have been quite creepy enough without the pickled animals floating in glass jars all around the walls.'",
             "rarity":"Foil Premium",
             "artist":"Tim Hildebrandt"
@@ -311,7 +315,8 @@
             "lesson":"Quidditch",
             "cost":"2",
             "type":"Location",
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Spell cards that need Quidditch Power (yours and your opponent's) need 2 less Power to play (you still need at least 1 Power that matches).",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Spell cards that need Quidditch Power (yours and your opponent's) need 2 less Power to play (you still need at least 1 Power that matches).",
             "flavorText":"'At either end of the pitch were three golden poles with hoops at the end.'",
             "rarity":"Foil Premium",
             "artist":"Darrell Riche"
@@ -399,8 +404,8 @@
             "number":"31",
             "name":"5 Points from Gryffindor",
             "type":"Adventure",
+            "note":"Play this card only if you have at least 5 Lessons in play.",
             "description":{
-                "note":"Play this card only if you have at least 5 Lessons in play.",
                 "effect":"Your opponent gets 1 fewer Action on each of his or her turns (even the turn this Adventure is solved). (If this would mean your opponent would have fewer than 1 Action, he or she still gets 1 Action.)",
                 "toSolve":"Your opponent chooses 5 cards from his or her hand and discards them.",
                 "reward":"You take 5 damage."
@@ -447,8 +452,8 @@
             "number":"35",
             "name":"Candy Cart",
             "type":"Adventure",
+            "note":"Play this card only if you have at least 3 Lessons in play.",
             "description":{
-                "note":"Play this card only if you have at least 3 Lessons in play.",
                 "effect":"Before each of your opponent's turns, he or she draws 3 cards and then chooses 3 cards in his or her hand and discards them.",
                 "toSolve":"Your opponent takes 10 damage.",
                 "reward":"Your opponent may draw a card."
@@ -505,7 +510,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, he or she chooses 1 of his or her cards in play (other than his or her starting Character) and discards it. At the end of each player's turn, if he or she has no Lessons in play, discard this card.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Before each player's turn, he or she chooses 1 of his or her cards in play (other than his or her starting Character) and discards it. At the end of each player's turn, if he or she has no Lessons in play, discard this card.",
             "flavorText":"'And now they know why it was forbidden.'",
             "rarity":"Uncommon",
             "artist":"Doug Chaffee"
@@ -558,8 +564,8 @@
             "lesson":"Quidditch",
             "cost":"1",
             "type":"Match",
+            "note":"Either player may use an Action to discard a card from his or her hand.",
             "description":{
-                "note":"Either player may use an Action to discard a card from his or her hand.",
                 "toWin":"Discard 5 cards from your hand in this way.",
                 "prize":"The winner does 10 damage to his or her opponent."
             },
@@ -581,8 +587,8 @@
             "number":"45",
             "name":"Running from Filch",
             "type":"Adventure",
+            "note":"Play this card only if you have at least 6 Lessons in play.",
             "description":{
-                "note":"Play this card only if you have at least 6 Lessons in play.",
                 "effect":"Your opponent can't use Actions to play Lesson cards.",
                 "toSolve":"Your opponent discards his or her hand.",
                 "reward":"Your opponent may draw 3 cards."

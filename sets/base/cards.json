@@ -910,8 +910,8 @@
             "number":"70",
             "name":"Unusual Pets",
             "type":"Adventure",
+            "note":"Play this card only if your opponent has any Creatures in play.",
             "description":{
-                "condition":"Play this card only if your opponent has any Creatures in play.",
                 "effect":"Before each of your turns, your opponent takes 4 damage.",
                 "toSolve":"Your opponent chooses 2 of his or her Creatures in play and discards them.",
                 "reward":"Your opponent may draw a card."

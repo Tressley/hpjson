@@ -78,7 +78,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, if that player has fewer than 4 cards in his or her hand, that player draws cards until he or she has 4.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Before each player's turn, if that player has fewer than 4 cards in his or her hand, that player draws cards until he or she has 4.",
             "flavorText":"'... Harry, grinning widely, said, 'This is the best house I've ever been in.''",
             "rarity":"Rare",
             "artist":"Dennis Calero"
@@ -116,8 +117,8 @@
             "number":"9",
             "name":"De-Gnoming the Garden",
             "type":"Adventure",
+            "note":"Play this card only if you have at least 5 Lessons in play.",
             "description":{
-                "note":"Play this card only if you have at least 5 Lessons in play.",
                 "effect":"At the end of each of your opponent's turns, if he or she has any cards in his or her hand, he or she chooses 1 of them and discards it.",
                 "toSolve":"Your opponent discards 5 cards in this way.",
                 "reward":"Your opponent may draw a card."
@@ -192,7 +193,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). All Item cards (yours and your opponent's) need 3 less Power to play. (You still need at least 1 Power that matches.)",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"All Item cards (yours and your opponent's) need 3 less Power to play. (You still need at least 1 Power that matches.)",
             "flavorText":"'It was a large and beautiful circular room, full of funny little noises.'",
             "rarity":"Rare",
             "artist":"Tim Hildebrandt"
@@ -275,8 +277,8 @@
             "number":"21",
             "name":"Fighting the Basilisk",
             "type":"Adventure",
+            "note":"Play this card only if you have at least 7 Lessons in play.",
             "description":{
-                "note":"Play this card only if you have at least 7 Lessons in play.",
                 "effect":"Before each of your turns, your opponent takes 5 damage.",
                 "toSolve":"Your opponent chooses 4 of his or her cards in play (other than his or her starting Character) and discards them.",
                 "reward":"You take 5 damage."
@@ -340,7 +342,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Once during each player's turn, when he or she uses an Action to play a Plant card, he or she gets 1 more Action that turn.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Once during each player's turn, when he or she uses an Action to play a Plant card, he or she gets 1 more Action that turn.",
             "flavorText":"'They had only ever worked in Greenhouse One before — Greenhouse Three housed far more interesting and dangerous plants.'",
             "rarity":"Rare",
             "artist":"Cindy Salans Rosenheim"
@@ -355,7 +358,8 @@
                 "Gryffindor",
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, he or she counts the number of Gryffindor cards he or she has in play and may draw that many cards.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Before each player's turn, he or she counts the number of Gryffindor cards he or she has in play and may draw that many cards.",
             "flavorText":"'They ... found themselves in the Gryffindor common room, a cosy, round room full of squashy armchairs.'",
             "rarity":"Rare",
             "artist":"Thomas Gianni"
@@ -475,7 +479,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, if he or she has at least 2 Characters in play (including his or her starting Character), he or she gets 1 more Action that turn.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Before each player's turn, if he or she has at least 2 Characters in play (including his or her starting Character), he or she gets 1 more Action that turn.",
             "flavorText":"'It was the gloomiest, most depressing bathroom Harry had ever set foot in.'",
             "rarity":"Rare",
             "artist":"Ron Spencer"
@@ -661,7 +666,8 @@
                 "Slytherin",
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Before each player's turn, he or she counts the number of Slytherin cards he or she has in play and does that much damage to his or her opponent.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Before each player's turn, he or she counts the number of Slytherin cards he or she has in play and does that much damage to his or her opponent.",
             "flavorText":"'The Slytherin common room was a long, low underground room with rough stone walls and ceiling, from which round, greenish lamps were hanging on chains.'",
             "rarity":"Rare",
             "artist":"Ron Spears"
@@ -1028,7 +1034,8 @@
             "lesson":"Transfiguration",
             "cost":"3",
             "type":"Location",
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Whenever a Spell card (yours or your opponent's) does damage to a player, it does 1 less damage to that player.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Whenever a Spell card (yours or your opponent's) does damage to a player, it does 1 less damage to that player.",
             "flavorText":"'I expect we'll be able to pick up a lot of Ginny's things second-hand.' – Mrs Weasley",
             "rarity":"Uncommon",
             "artist":"Thomas Gianni"

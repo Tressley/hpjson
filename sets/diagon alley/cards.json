@@ -78,7 +78,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Each Owl has 1 more health. Whenever an Owl does damage, it does 1 more damage.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Each Owl has 1 more health. Whenever an Owl does damage, it does 1 more damage.",
             "flavorText":"'...Eeylops Owl Emporium — Tawny, Screech, Barn, Brown and Snowy.' - Shop sign in Diagon Alley",
             "rarity":"Foil Premium",
             "artist":"Scott M. Fischer"
@@ -92,7 +93,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Either player may use an Action and discard 2 of his or her Lessons from play to draw 5 cards.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Either player may use an Action and discard 2 of his or her Lessons from play to draw 5 cards.",
             "flavorText":"'They bought Harry's school books in a shop called Flourish and Blotts where the shelves were stacked to the ceiling...'",
             "rarity":"Foil Premium",
             "artist":"Ken Steacy"
@@ -120,7 +122,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Each player gets 1 more Action on each of his or her turns (including the turn you play this card).",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Each player gets 1 more Action on each of his or her turns (including the turn you play this card).",
             "flavorText":"'Enter stranger, but take heed of what awaits the sing of greed, ...' — Gringotts engraving",
             "rarity":"Foil Premium",
             "artist":"Tim Hildebrandt"
@@ -354,7 +357,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Whenever either player plays a Character card, he or she uses up 1 Action to play it instead of 2.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Whenever either player plays a Character card, he or she uses up 1 Action to play it instead of 2.",
             "flavorText":"'This is it,' said Hagrid, coming to a halt, 'the Leaky Cauldron. It's a famous place.'",
             "rarity":"Foil Premium",
             "artist":"Tim Hildebrandt"
@@ -476,7 +480,8 @@
             "lesson":"Potions",
             "cost":"3",
             "type":"Location",
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Either player may use an Action to search his or her deck. That player may take an Item card from his or her deck that needs Potions Power, show it to his or her opponent and put it into his or her hand. Then the player shuffles his or her deck.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Either player may use an Action to search his or her deck. That player may take an Item card from his or her deck that needs Potions Power, show it to his or her opponent and put it into his or her hand. Then the player shuffles his or her deck.",
             "rarity":"Uncommon",
             "artist":"Bob Petillo"
         },
@@ -546,7 +551,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Whenever a card (yours or your opponent's) does damage, it does 1 less damage",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Whenever a card (yours or your opponent's) does damage, it does 1 less damage",
             "flavorText":"'Madam Malkin stood Harry on a stool… slipped a long robe over his head and started to pin it to the right length.'",
             "rarity":"Uncommon",
             "artist":"Greg Hildebrandt"
@@ -580,7 +586,8 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). Either player may use an Action to search his or her deck. That player may take an Item card from his or her deck that needs Quidditch Power, show it to his or her opponent and put it into his or her hand. Then the player shuffles his or her deck.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"Either player may use an Action to search his or her deck. That player may take an Item card from his or her deck that needs Quidditch Power, show it to his or her opponent and put it into his or her hand. Then the player shuffles his or her deck.",
             "rarity":"Uncommon",
             "artist":"Bob Petillo"
         },
@@ -628,7 +635,8 @@
             "lesson":"Charms",
             "cost":"4",
             "type":"Location",
-            "description":"When you play this card, discard any other Location from play (yours or your opponent's). All Charms Lessons (yours and your opponent's) provide 2 Charms Lessons instead of 1 Charms Lesson.",
+            "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
+            "description":"All Charms Lessons (yours and your opponent's) provide 2 Charms Lessons instead of 1 Charms Lesson.",
             "flavorText":"'...Ollivanders: Makers of Fine Wands since 382 BC.' — shop sign in Diagon Alley",
             "rarity":"Uncommon",
             "artist":"Kevin Dobler"
