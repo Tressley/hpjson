@@ -971,7 +971,7 @@
                 "Book"
             ],
             "provides":[
-                "2",
+                "1",
                 "Charms"
             ],
             "description":"You may use an Action and discard this card from play to draw 3 cards.",
