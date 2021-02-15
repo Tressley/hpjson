@@ -173,8 +173,8 @@
             "name":"Human Chess Game",
             "type":"Adventure",
             "description":{
-                "effect":"During each of your opponent's turns, he or she can play cards only if you played 1 or more cards on your previous turn.",
-                "toSolve":"Your opponent chooses and discards 1 of his or her Characters in play (other than his or her starting character) or 8 cards from their hand.",
+                "effect":"During each of your opponent's turns, he or she can play cards only if you played 1 or more cards during your previous turn.",
+                "toSolve":"Your opponent chooses and discards 1 of his or her Characters in play (other than his or her starting Character) or 8 cards from his or her hand.",
                 "reward":"Your opponent may draw 3 cards."
             },
             "rarity":"Foil Premium",
