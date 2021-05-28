@@ -269,7 +269,7 @@
             ],
             "description":"Each turn, you may prevent 4 damage done to you. If Fawkes is discarded from play, put it into your hand.",
             "health":"4",
-            "flavorText":"'Fawkes,' said Harry, isn't an ordinary bird.'",
+            "flavorText":"'Fawkes,' said Harry, 'isn't an ordinary bird.'",
             "rarity":"Rare",
             "artist":"Alex Horley"
         },
