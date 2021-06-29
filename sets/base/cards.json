@@ -365,7 +365,7 @@
             "lesson":"Charms",
             "cost":"3",
             "type":"Spell",
-            "description":"Count the number of Charms Lessons you have in play, Do that much damage to a Creature of your choice.",
+            "description":"Count the number of Charms Lessons you have in play. Do that much damage to a Creature of your choice.",
             "rarity":"Rare",
             "artist":"Ben Thompson"
         },
