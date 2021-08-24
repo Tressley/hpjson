@@ -87,6 +87,9 @@
             "lesson":"Potions",
             "cost":"9",
             "type":"Item",
+            "subTypes":[
+                "Cauldron"
+            ],
             "description":"To play this card, return 2 of your Potions Lessons from play to your hand.",
             "provides":[
                 "5",
