@@ -275,6 +275,7 @@
             "name":"Rubeus Hagrid",
             "type":"Character",
             "subTypes":[
+                "Gryffindor",
                 "Unique"
             ],
             "description":"Whenever 1 of your Creatures does 3 or more damage to your opponent, it does 2 more damage than it usually would.",
