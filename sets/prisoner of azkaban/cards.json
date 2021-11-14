@@ -95,7 +95,7 @@
       "cost": 8,
       "lesson": "Quidditch",
       "subTypes": ["Broom"],
-      "provides": [2, ""],
+      "provides": [2, "Quidditch"],
       "description": "Once during each of your turns, when you use an Action to play a Quidditch card, you may look at the top 4 cards of your deck, put them on the top and/or bottom of your deck in any order, and then draw a card. ( When you play this card, discard the other Broom (s) you control.)"
     },
     {
@@ -171,7 +171,7 @@
       "rarity": "Rare",
       "subTypes": ["Wizard", "Unique"],
       "flavorText": "'Yer in my firs’ ever lesson! Right after lunch! Bin up since five gettin’ everythin’ ready.' — Professor Rubeus Hagrid",
-      "provides": [1, ""],
+      "provides": [1, "Care of Magical Creatures"],
       "description": "Once during each of your turns, when you discard 1 of your Care of Magical Creatures Lessons from play, you may draw a card and put 1 Lesson from your discard pile into your hand."
     },
     {
@@ -364,7 +364,7 @@
       "cost": 4,
       "lesson": "Quidditch",
       "subTypes": ["Book"],
-      "provides": [1, ""],
+      "provides": [1, "Quidditch"],
       "description": "During your turn, you may discard this card from play. If you do, until the end of this turn, Brooms require 2 less Power to play and you may play Brooms from your discard pile as if they were in your hand."
     },
     {
@@ -434,7 +434,7 @@
       "cost": 4,
       "lesson": "Transfiguration",
       "subTypes": ["Book"],
-      "provides": [1, ""],
+      "provides": [1, "Transfiguration"],
       "description": "Your Items do not require Power that matches their Lesson type to play."
     },
     {
@@ -536,7 +536,7 @@
       "cost": 4,
       "lesson": "Charms",
       "subTypes": ["Book"],
-      "provides": [1, ""],
+      "provides": [1, "Charms"],
       "description": "Whenever you play a Spell, do 1 damage to an opponent."
     },
     {
@@ -964,7 +964,7 @@
       "flavorText": "'Oh, how silly we’ve all been! We should have stroked them! Why didn’t we guess!' — Draco Malfoy",
       "dmgEachTurn": 1,
       "health": 1,
-      "provides": [1, ""]
+      "provides": [1, "Care of Magical Creatures"]
     },
     {
       "number": "86",
