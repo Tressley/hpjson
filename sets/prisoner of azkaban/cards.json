@@ -956,7 +956,7 @@
       "number": "85",
       "name": "The Monster Book of Monsters",
       "artist": "Paolo Maria Breda",
-      "type": "Creature",
+      "type": ["Creature", "Item"],
       "rarity": "Common",
       "cost": 4,
       "lesson": "Care of Magical Creatures",
