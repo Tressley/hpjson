@@ -13,7 +13,7 @@
             ],
             "description":"If you have at least 4 Lessons in play, your Spell cards with a printed Power cost of 6 or more need 2 less Power to play. (You still need at least 1 Power that matches.)",
             "flavorText":"'(Order of Merlin, First Class, Grand Sorc., Chf. Warlock, Supreme Mugwump, International Confed. of Wizards)' — Hogwarts letterhead",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -25,7 +25,7 @@
             ],
             "description":"You may use an Action to discard an Adventure from play (yours or your opponent's). (You don't get the reward.)",
             "flavorText":"'Filch knew the secret passageways of the school better than anyone... and could pop up as suddenly as any of the ghosts.'",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -39,7 +39,7 @@
             ],
             "description":"You may use an Action and discard 2 cards from your hand to do 3 damage to your opponent.",
             "flavorText":"'Both of them were thickest and looked extremely mean.'",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -173,7 +173,7 @@
             ],
             "description":"At the end of each of your turns, if you played an Adventure card that turn, draw up to 4 cards.",
             "flavorText":"'... to Mr Harry Potter ...' ... '... for pure nerve and outstanding courage, I award Gryffindor house sixty points.' — Albus Dumbledore",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -212,7 +212,7 @@
             ],
             "description":"Once per game, you may shuffle up to 12 non-Healing cards from your discard pile into your deck.",
             "flavorText":"'Madam Pomfrey, the matron, was a nice woman, but very strict.'",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -264,7 +264,7 @@
             ],
             "description":"Once per game, you may discard your hands and draw 7 cards to make your opponent discard his or her hand and then draw 7 cards.",
             "flavorText":"'... Peeves the poltergeist was worth two locked doors and a trick staircase if you met him when you were late for class.'",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -344,7 +344,7 @@
             ],
             "description":"At the end of each of your turns, if you played an Adventure card that turn, your may search your deck. You may take a Character card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
             "flavorText":"'... you don't think we'd let you go alone?' - Ron Weasley",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -369,7 +369,7 @@
             ],
             "description":"You may use an Action to search your deck. You may take a Gryffindor card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
             "flavorText":"'At the very end of the corridor hung a portrait of a very fat woman in a pink silk dress. 'Password?', she said.'",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -960,7 +960,7 @@
                 "1",
                 "Care of Magical Creatures"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -975,7 +975,7 @@
                 "1",
                 "Charms"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -990,7 +990,7 @@
                 "1",
                 "Potions"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1005,7 +1005,7 @@
                 "1",
                 "Quidditch"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1020,7 +1020,7 @@
                 "1",
                 "Transfiguration"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
