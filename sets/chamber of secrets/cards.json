@@ -15,7 +15,7 @@
             ],
             "description":"Before each of your turns, if there is a Match in play, you get 1 more Action that turn.",
             "flavorText":"'... what an excellent Chaser that girl is, and rather attractive, too — ' — Lee Jordan, commentator",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -28,7 +28,7 @@
             ],
             "description":"Once per turn, you may use an Action to choose 1 of your Items in play and do damage to your opponent equal to its printed Power cost.",
             "flavorText":"'He was a thin man, going bald, but the little hair he had was as red as any of his children's.'",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -39,7 +39,7 @@
             "type":"Spell",
             "description":"Do 8 damage to your opponent. Then, if your opponent has any cards in play (other than his or her starting Character), he or she chooses 1 of them and discards it.",
             "flavorText":"''Will you stop messing around!' he yelled. 'That's exactly the sort of thing that'll lose us the match!'' — Oliver Wood",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Chris Seaman"
         },
         {
@@ -49,7 +49,7 @@
             "cost":"7",
             "type":"Spell",
             "description":"Do 8 damage to your opponent. Then your opponent may choose a Lesson card from his or her hand and discard it. If he or she does, you take 8 damage.",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Mark Brill"
         },
         {
@@ -66,7 +66,7 @@
                 "1",
                 "Charms"
             ],
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Kevin Dobler"
         },
         {
@@ -81,7 +81,7 @@
             "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
             "description":"Before each player's turn, if that player has fewer than 4 cards in his or her hand, that player draws cards until he or she has 4.",
             "flavorText":"'... Harry, grinning widely, said, 'This is the best house I've ever been in.''",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Dennis Calero"
         },
         {
@@ -95,7 +95,7 @@
             ],
             "description":"Once per turn, you may use an Action to draw 3 cards and then make your opponent draw 3 cards.",
             "flavorText":"'I never knew all the odd stuff I could do was magic till I got the letter from Hogwarts. My dad's a milkman, he couldn't believe it either.'",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -110,7 +110,7 @@
             "description":"When you play this card, draw a card.",
             "dmgEachTurn":"3",
             "health":"3",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Tim Hildebrandt"
         },
         {
@@ -123,7 +123,7 @@
                 "toSolve":"Your opponent discards 5 cards in this way.",
                 "reward":"Your opponent may draw a card."
             },
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Larry MacDougall"
         },
         {
@@ -134,7 +134,7 @@
             "type":"Spell",
             "description":"Choose 1 of your opponent's cards in play (other than his or her starting Character) and return it to his or her hand. You get 1 more Action this turn.",
             "flavorText":"''Dobby must go!' breathed the elf, terrified; there was a loud crack, and Harry's fist was suddenly clenched on thin air.'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Keith Garletts"
         },
         {
@@ -145,7 +145,7 @@
             "type":"Spell",
             "description":"Your opponent draws 10 cards.",
             "flavorText":"'You know what, Harry? If he doesn't stop trying to save your life he's going to kill you.' — Ron Weasley",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Kevin Dobler"
         },
         {
@@ -156,7 +156,7 @@
             "type":"Spell",
             "description":"To play this card, discard 2 other cards from your hand. Do 5 damage to your opponent. Then, if your opponent has any cards in his or her hand, he or she chooses 2 of them and discards them (1 if he or she has only 1).",
             "flavorText":"'Fred and George Weasley are the Gryffindor Beaters.' — Harry Potter",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Ken Steacy"
         },
         {
@@ -171,7 +171,7 @@
             ],
             "description":"If your opponent has any cards in his or her hand, you may use an Action to make him or her choose 1 of them and discard it.",
             "flavorText":"'... we're going to make them rue the day they let that little bit of slime, Malfoy, buy his way onto their team.' — Oliver Wood",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -181,7 +181,7 @@
             "cost":"7",
             "type":"Spell",
             "description":"To play this card, return 2 of your Potions Lessons from play to your hand. Do 10 damage to your opponent or to a Creature of your choice.",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Thomas Gianni"
         },
         {
@@ -196,7 +196,7 @@
             "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
             "description":"All Item cards (yours and your opponent's) need 3 less Power to play. (You still need at least 1 Power that matches.)",
             "flavorText":"'It was a large and beautiful circular room, full of funny little noises.'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Tim Hildebrandt"
         },
         {
@@ -207,7 +207,7 @@
             "type":"Spell",
             "description":"Search your deck. You may take a Character card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
             "flavorText":"'... Professor Flitwick knows more about Entrancing Enchantments than any wizard I've ever met, the sly old dog!' — Professor Gilderoy Lockhart",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Greg Hildebrandt"
         },
         {
@@ -224,7 +224,7 @@
             "dmgEachTurn":"1",
             "health":"1",
             "flavorText":"'He's ancient. It wouldn't be the first time he'd collapsed on a delivery.' — Ron Weasley",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Ron Spencer"
         },
         {
@@ -236,7 +236,7 @@
                 "toSolve":"Your opponent discards his or her hand.",
                 "reward":"Your opponent searches his or her deck for any card, puts it into his or her hand and then shuffles his or her deck."
             },
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":[
                 "Kevin McCann",
                 "Michael Collins"
@@ -254,7 +254,7 @@
             ],
             "description":"Once per game, you may draw 2 cards, then do 2 damage to your opponent and then put up to 2 non-Healing cards from your discard pile on the bottom of your deck.",
             "flavorText":"''Hope to see you in Hufflepuff!' said the Friar.'",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -270,7 +270,7 @@
             "description":"Each turn, you may prevent 4 damage done to you. If Fawkes is discarded from play, put it into your hand.",
             "health":"4",
             "flavorText":"'Fawkes,' said Harry, 'isn't an ordinary bird.'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Alex Horley"
         },
         {
@@ -283,7 +283,7 @@
                 "toSolve":"Your opponent chooses 4 of his or her cards in play (other than his or her starting Character) and discards them.",
                 "reward":"You take 5 damage."
             },
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Ken Steacy"
         },
         {
@@ -293,7 +293,7 @@
             "cost":"8",
             "type":"Item",
             "description":"You may use an Action to choose an Adventure or a Location in play and discard it. (If you discard an Adventure, you don't get the reward.)",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Greg Hildebrandt"
         },
         {
@@ -304,7 +304,7 @@
             "type":"Spell",
             "description":"Count the number of Lessons you have in play. Do that much damage to your opponent. Then draw that many cards.",
             "flavorText":"'He soared right around the stadium at full speed, racing Fred and George.'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"George Davis"
         },
         {
@@ -316,7 +316,7 @@
                 "toSolve":"Your opponent skips a total of 5 Actions. (They don't need to be one right after the other.)",
                 "reward":"Your opponent may look at your hand, choose 1 of those cards and discard it."
             },
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Greg Hildebrandt"
         },
         {
@@ -330,7 +330,7 @@
             ],
             "description":"Before each of your turns, count the number of other Characters you have in play. You may draw that many cards.",
             "flavorText":"'You don't know how weird it is for her to be this shy, she never shuts up normally — ' — Ron Weasley",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -345,7 +345,7 @@
             "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
             "description":"Once during each player's turn, when he or she uses an Action to play a Plant card, he or she gets 1 more Action that turn.",
             "flavorText":"'They had only ever worked in Greenhouse One before — Greenhouse Three housed far more interesting and dangerous plants.'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Cindy Salans Rosenheim"
         },
         {
@@ -361,7 +361,7 @@
             "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
             "description":"Before each player's turn, he or she counts the number of Gryffindor cards he or she has in play and may draw that many cards.",
             "flavorText":"'They ... found themselves in the Gryffindor common room, a cosy, round room full of squashy armchairs.'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Thomas Gianni"
         },
         {
@@ -374,7 +374,7 @@
                 "Unique"
             ],
             "description":"At the start of the game, if Harry, Second Year is your starting Character, secretly write down the name of a Creature, Item or Spell card. If your opponent plays that card, you may reveal what you wrote down. If you do, at the end of that turn, you may shuffle up to 20 non-Healing cards from your discard pile into your deck.",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -388,7 +388,7 @@
             ],
             "description":"You may use an Action to put up to 2 Lesson cards of different types from your hand into play.",
             "flavorText":"'I'm sure I've done everything right,' said Hermione, nervously re-reading the splotched page of Moste Potente Potions.'",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -399,7 +399,7 @@
             "type":"Spell",
             "description":"Choose a Character in play (other than a starting Character) and discard it. Then search your deck. You may take a Character card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
             "flavorText":"'Ron, who had been gazing at Harry, said, 'You don't know how bizarre it is to see Goyle thinking.''",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Daren Bader"
         },
         {
@@ -411,7 +411,7 @@
                 "toSolve":"Your opponent takes 10 damage.",
                 "reward":"If you have any cards in your hand, you choose 1 of them and discard it."
             },
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Ken Steacy"
         },
         {
@@ -425,7 +425,7 @@
             ],
             "description":"You may use an Action to draw 2 cards and then put 2 cards from your hand on the bottom of your deck (in any order).",
             "flavorText":"'My name was down for Eton, you know, I can't tell you how glad I am I came here instead.'",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -437,7 +437,7 @@
                 "toSolve":"Your opponent lets you have 4 more Actions on your next turn.",
                 "reward":"You take 3 damage."
             },
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":[
                 "Kevin McCann",
                 "Michael Collins"
@@ -456,7 +456,7 @@
             "dmgEachTurn":"3",
             "health":"1",
             "flavorText":"'Instead of roots, a small, muddy and extremely ugly baby popped out of the earth.'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Cindy Salans Rosenheim"
         },
         {
@@ -467,7 +467,7 @@
             "type":"Spell",
             "description":"Your opponent chooses 1 card in his or her hand and discards the rest.",
             "flavorText":"'If there's one thing I pride myself on, it's my Memory Charms.' — Professor Gilderoy Lockhart",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Ron Spencer"
         },
         {
@@ -482,7 +482,7 @@
             "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
             "description":"Before each player's turn, if he or she has at least 2 Characters in play (including his or her starting Character), he or she gets 1 more Action that turn.",
             "flavorText":"'It was the gloomiest, most depressing bathroom Harry had ever set foot in.'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Ron Spencer"
         },
         {
@@ -495,7 +495,7 @@
             ],
             "description":"You may use an Action to search your deck. You may take a Character card for a Weasley character from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
             "flavorText":"'Mrs Weasley fussed over the state of his socks and tried to force him to eat fourth helpings at every meal.'",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -512,7 +512,7 @@
                 "2",
                 "Quidditch"
             ],
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Ron Spears"
         },
         {
@@ -523,7 +523,7 @@
             "type":"Spell",
             "description":"Play this card only if there is a Match in play. Discard the top card of your deck. If that card is a Lesson card, you win the current Match (you get the prize). Otherwise, you take 3 damage.",
             "flavorText":"'Harry took his remaining hand off his broom and made a wild snatch; ...'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Doug Chaffee"
         },
         {
@@ -539,7 +539,7 @@
             "dmgEachTurn":"7",
             "health":"5",
             "flavorText":"'They're rare, ...' — Rubeus Hagrid",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Doug Chaffee"
         },
         {
@@ -553,7 +553,7 @@
             ],
             "description":"At the end of each of your opponent's turns, if he or she played a non-Lesson card that turn, he or she takes 1 damage.",
             "flavorText":"''I,' said Percy, drawing himself up, 'am a Prefect. Nothing's about to attack me.''",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -564,7 +564,7 @@
             "type":"Spell",
             "description":"Choose 1 of your opponent's Creatures or Characters in play (other than his or her starting Character) and put it on the bottom of his or her deck.",
             "flavorText":"''She has been Petrified,'' said Dumbledore ... 'But how, I cannot say ...''",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Larry MacDougall"
         },
         {
@@ -578,7 +578,7 @@
             ],
             "description":"To play this card, return 4 of your Potions Lessons from play to your hand. Shuffle up to 16 non-Healing cards from your discard pile into your deck.",
             "flavorText":"'Fascinating creatures, phoenixes. They can carry immensely heavy loads, their tears have healing powers and they make highly faithful pets.' — Albus Dumbledore",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Mark Romanoski"
         },
         {
@@ -589,7 +589,7 @@
             "type":"Spell",
             "description":"Your opponent takes damage until he or she discards a total of 3 Lesson cards from his or her deck.",
             "flavorText":"'Snape prowled through the fumes, making waspish remarks about the Gryffindors' work while the Slytherins sniggered appreciatively.'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Greg Hildebrandt"
         },
         {
@@ -607,7 +607,7 @@
                 "Care of Magical Creatures"
             ],
             "flavorText":"'... there was usually a large amount of earth on her clothes, and her fingernails would have made Aunt Petunia faint.'",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -618,7 +618,7 @@
             "type":"Spell",
             "description":"Put a non-Healing card from your discard pile into your hand.",
             "flavorText":"'Mr Weasley took Harry's glasses, gave them a tap of his wand and returned them, good as new.'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Monte Michael Moore"
         },
         {
@@ -628,7 +628,7 @@
             "cost":"8",
             "type":"Item",
             "description":"Before each of your turns, your opponent takes 3 damage.",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Larry MacDougall"
         },
         {
@@ -642,7 +642,7 @@
             ],
             "description":"If you have no cards in your hand, you may use an Action to draw 5 cards.",
             "flavorText":"'Everyone expects me to do as well as the others, but if I do, it's no big deal, because they did it first.'",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -653,7 +653,7 @@
             "type":"Spell",
             "description":"Search your deck. You may take up to 2 Creature cards from your deck, show them to your opponent and put them into your hand. Then shuffle your deck.",
             "flavorText":"'Malfoy raised his wand quickly and bellowed, 'Serpensortia!''",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Kevin Dobler"
         },
         {
@@ -669,7 +669,7 @@
             "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
             "description":"Before each player's turn, he or she counts the number of Slytherin cards he or she has in play and does that much damage to his or her opponent.",
             "flavorText":"'The Slytherin common room was a long, low underground room with rough stone walls and ceiling, from which round, greenish lamps were hanging on chains.'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Ron Spears"
         },
         {
@@ -680,7 +680,7 @@
             "type":"Spell",
             "description":"Return all Creatures in play (yours and your opponent's) to their owners' hands.",
             "flavorText":"''Have you ever seen spiders act like that?' said Hermione wonderingly.'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Dave Dorman"
         },
         {
@@ -691,7 +691,7 @@
             "type":"Spell",
             "description":"Count the number of cards in your opponent's hand. He or she draws twice that many cards.",
             "flavorText":"''His insides were burning ...'",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Alex Horley"
         },
         {
@@ -705,7 +705,7 @@
             ],
             "description":"Before each of your turns, if you have an Adventure in play, your opponent takes 2 damage.",
             "flavorText":"'You had to hand it to them, thought Harry, as George took an ordinary hairpin from his pocket and started to pick the lock.'",
-            "rarity":"Rare",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
         {
@@ -722,7 +722,7 @@
             "dmgEachTurn":"8",
             "health":"12",
             "flavorText":"'Of all the trees we could've hit, we had to get one that hits back.' — Ron Weasley",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Ron Spencer"
         },
         {
@@ -732,7 +732,7 @@
             "cost":"6",
             "type":"Item",
             "description":"You may use an Action and discard 1 of your Lessons from play to do 2 damage to your opponent.",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"George Davis"
         },
         {
@@ -1714,7 +1714,7 @@
                 "1",
                 "Care of Magical Creatures"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1729,7 +1729,7 @@
                 "1",
                 "Charms"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1744,7 +1744,7 @@
                 "1",
                 "Potions"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1759,7 +1759,7 @@
                 "1",
                 "Quidditch"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1774,7 +1774,7 @@
                 "1",
                 "Transfiguration"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
