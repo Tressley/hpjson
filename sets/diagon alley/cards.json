@@ -56,7 +56,7 @@
             ],
             "description":"Once during each of your turns, when you use an Action to play an Item card, you get 1 more Action that turn.",
             "flavorText":"'My father's next door buying my books and mother's up the street looking at wands... Then I'm going to drag them off to look at racing brooms.' - Draco Malfoy",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Bob Petillo"
         },
         {
@@ -149,7 +149,7 @@
             ],
             "description":"Once per game, you may make your opponent discard his or her hand. Then your opponent draws as many cards as he or she discarded in this way.",
             "flavorText":"''If anyone but a Gringotts goblin tried that, they'd be sucked through the door and trapped in there,' said Griphook.''",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Doug Chaffee"
         },
         {
@@ -175,7 +175,7 @@
             ],
             "description":"You may use an Action to search your deck. You may take a Location card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
             "flavorText":"'...I haven't introduced meself. Rubeus Hagrid, Keeper of Keys and Grounds at Hogwarts' — Rubeus Hagrid",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Greg Hildebrandt"
         },
         {
@@ -241,7 +241,7 @@
             ],
             "description":"Once per game, you may search your deck. You may take up to 2 Lesson cards from your deck, show them to your opponent and put them into your hand. Then shuffle your deck.",
             "flavorText":"'...Hermione, of course, came up top of the year.'",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Mark Romanoski"
         },
         {
@@ -255,7 +255,7 @@
             ],
             "description":"You may use an Action to reveal the top 3 cards of your deck. Put all of those cards that need Quidditch Power into your hand. Put the rest on the bottom of your deck (in any order).",
             "flavorText":"'The Weasley twins' friend, Lee Jordan, was doing the commentary for the match, ...'",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kevin Dobler"
         },
         {
@@ -281,7 +281,7 @@
             ],
             "description":"You may use an Action to put a Book card from your discard pile into your hand. (Lesson cards aren't Books.)",
             "flavorText":"'Madam Pince the librarian brandished a feather duster...'",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Alex Horley"
         },
         {
@@ -294,7 +294,7 @@
             ],
             "description":"Once per game, you may return all Creatures and Items to their owners' hands.",
             "flavorText":"'Even Professor Quirrell was temblin' ter meet yeh — mind you, he's usually tremblin'.' — Rubeus Hagrid",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kevin Dobler"
         },
         {
@@ -348,7 +348,7 @@
             ],
             "description":"Before each of your turns, if there are 4 or fewer cards in your hand, you may draw a card.",
             "flavorText":"'I'm famous and I can't even remember what I'm famous for.' — Harry Potter",
-            "rarity":"Foil Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Greg Hildebrandt"
         },
         {
@@ -990,7 +990,7 @@
                 "1",
                 "Care of Magical Creatures"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1005,7 +1005,7 @@
                 "1",
                 "Charms"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1020,7 +1020,7 @@
                 "1",
                 "Potions"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1035,7 +1035,7 @@
                 "1",
                 "Quidditch"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1050,7 +1050,7 @@
                 "1",
                 "Transfiguration"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"

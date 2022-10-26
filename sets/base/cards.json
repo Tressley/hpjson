@@ -14,7 +14,7 @@
             ],
             "description":"Once per game, you may draw 3 cards.",
             "flavorText":"'Ron had already had a big argument with Dean Thomas, who shared their dormitory, about football.'",
-            "rarity":"Holo-Portrait Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Jon Foster"
         },
         {
@@ -28,7 +28,7 @@
             ],
             "description":"During your turn, you may use an Action and discard a card from your hand to look at your opponent's hand. You may then choose 1 card in his or her hand and discard it.",
             "flavorText":"'You don't want to go making friends with the wrong sort. I can help you there.' - Draco Malfoy",
-            "rarity":"Holo-Portrait Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Pete Venters"
         },
         {
@@ -42,7 +42,7 @@
             ],
             "description":"During your turn, you may use an Action and discard a card from your hand to look at your opponent's hand. You may then choose 1 card in his or her hand and discard it.",
             "flavorText":"'You don't want to go making friends with the wrong sort. I can help you there.' - Draco Malfoy",
-            "rarity":"Rare",
+            "rarity":"Foil Premium",
             "artist":"Romas"
         },
         {
@@ -109,7 +109,7 @@
             ],
             "description":"Once per game, you may trade 2 cards in your hand for 2 non-Healing cards in your discard pile.",
             "flavorText":"'The table on the right cheered and clapped as Hannah went to sit down at the Hufflepuff table.'",
-            "rarity":"Holo-Portrait Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Jon Foster"
         },
         {
@@ -123,7 +123,7 @@
             ],
             "description":"Whenever you use an Action to draw a card, you may draw 2 cards instead of 1.",
             "flavorText":"'There will be books written about Harry — every child in our world will know his name!' - Professor McGonagall",
-            "rarity":"Holo-Portrait Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Scott M. Fischer"
         },
         {
@@ -137,7 +137,7 @@
             ],
             "description":"If you already have 2 or more Lessons in play, then whenever you use an Action to play a Lesson card, you may play 2 Lesson cards instead of 1.",
             "flavorText":"'She had a bossy sort of voice, lots of bushy brown hair and rather large front teeth.'",
-            "rarity":"Holo-Portrait Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Kevin McCann"
         },
         {
@@ -205,7 +205,7 @@
             ],
             "description":"Once per game, you may search your deck. When you do, you may take up to 2 Item cards from your deck, show them to your opponent, and put them into your hand. Then shuffle your deck.",
             "flavorText":"'His whole head swung off his neck and fell on to his shoulder as if it was on a hinge.'",
-            "rarity":"Holo-Portrait Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Cindy Salans Rosenheim"
         },
         {
@@ -234,7 +234,7 @@
                 "Charms"
             ],
             "flavorText":"'Professor Flitwick, the Charms teacher, was a tiny little wizard who had to stand on a pile of books to see over his desk.'",
-            "rarity":"Holo-Portrait Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Jon Foster"
         },
         {
@@ -253,7 +253,7 @@
                 "Potions"
             ],
             "flavorText":"'His eyes were black like Hagrid's, but they had none of Hagrid's warmth. They were cold and empty and made you think of dark tunnels.'",
-            "rarity":"Holo-Portrait Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Scott M. Fischer"
         },
         {
@@ -267,7 +267,7 @@
             ],
             "description":"Whenever you play a Character card, you use up 1 Action to play it instead of 2.",
             "flavorText":"'I'm the sixth in our family to go to Hogwarts. You could say I've got a lot to live up to.' - Ron Weasley",
-            "rarity":"Holo-Portrait Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"D. Alexander Gregory"
         },
         {
@@ -279,7 +279,7 @@
             ],
             "description":"Whenever 1 of your Creatures does 3 or more damage to your opponent, it does 2 more damage than it usually would.",
             "flavorText":"'Hagrid's beard twitched and they could tell he was smiling.'",
-            "rarity":"Holo-Portrait Premium",
+            "rarity":"Holo Portrait Premium",
             "artist":"Pete Venters"
         },
         {
@@ -322,7 +322,7 @@
             "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play. Before each of your turns, draw a card.",
             "health":"1",
             "flavorText":"'...and there was an owl rapping its claw on the window, a newspaper held in its beak.'",
-            "rarity":"Foil Premium",
+            "rarity":"Rare",
             "artist":"D. Alexander Gregory"
         },
         {
@@ -454,7 +454,7 @@
                 "4",
                 "Charms"
             ],
-            "rarity":"Foil Premium",
+            "rarity":"Rare",
             "artist":"Scott Lewis"
         },
         {
@@ -475,7 +475,7 @@
             "cost":"5",
             "type":"Item",
             "description":"When a Spell card damages you, you may discard this card from play to prevent all of that damage.",
-            "rarity":"Foil Premium",
+            "rarity":"Rare",
             "artist":"Scott Lewis"
         },
         {
@@ -1427,7 +1427,7 @@
                 "1",
                 "Care of Magical Creatures"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1442,7 +1442,7 @@
                 "1",
                 "Charms"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1457,7 +1457,7 @@
                 "1",
                 "Potions"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
@@ -1472,7 +1472,7 @@
                 "1",
                 "Transfiguration"
             ],
-            "rarity":"Common",
+            "rarity":"Lesson",
             "artist":[
                 "Shanth Enjeti",
                 "Melissa Ferreira"
