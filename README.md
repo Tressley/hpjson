@@ -17,7 +17,7 @@ The information presented in these files about Harry Potter, including character
         "1",
         "Care of Magical Creatures"
     ],
-    "rarity":"Common",
+    "rarity":"Lesson",
     "artist":[
         "Shanth Enjeti",
         "Melissa Ferreira"
@@ -125,7 +125,7 @@ The information presented in these files about Harry Potter, including character
     ],
     "description":"Whenever you use an Action to draw a card, you may draw 2 cards instead of 1.",
     "flavorText":"'There will be books written about Harry — every child in our world will know his name!' - Professor McGonagall",
-    "rarity":"Holo-Portrait Premium",
+    "rarity":"Holo Portrait Premium",
     "artist":"M. Fischer"
 }
 ```
