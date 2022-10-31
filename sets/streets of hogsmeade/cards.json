@@ -1,0 +1,86 @@
+{
+    "setName":"Streets of Hogsmeade",
+    "releaseDate":"11-2022",
+    "totalCards":"140",
+    "cards":[
+        {
+            "number":"1",
+            "name":"Dervish and Banges",
+            "lesson":"Transfiguration",
+            "cost":"4",
+            "type":"Location",
+            "subTypes":[
+                "Hogsmeade",
+                "Unique"
+            ],
+            "note":"When you play this card, discard any other Location from play (yours or an opponent's).",
+            "description":"Once during each player's turn, when they discard 1 of their Items from play, they may choose a non-Healing Item in their discard pile with printed Power cost less than the discarded Item and put it into their hand.",
+            "flavorText":"'Dervish and Banges, the wizarding equipment shop ...'",
+            "rarity":"Rare",
+            "artist":"dakotahblackart"
+        },
+        {
+            "number":"2",
+            "name":"Hogsmeade Station",
+            "lesson":"Quidditch",
+            "cost":"5",
+            "type":"Location",
+            "subTypes":[
+                "Hogsmeade",
+                "Unique"
+            ],
+            "note":"When you play this card, discard any other Location from play (yours or an opponent's).",
+            "description":"When either player uses an Action to play a card with a printed Power cost, their cards require 2 less Power to play until the end of their turn. (They must have at least 1 Power that matches.)",
+            "rarity":"Rare",
+            "artist":"Megan Renae"
+        },
+        {
+            "number":"3",
+            "name":"Honeydukes",
+            "lesson":"Charms",
+            "cost":"5",
+            "type":"Location",
+            "subTypes":[
+                "Hogsmeade",
+                "Unique"
+            ],
+            "note":"When you play this card, discard any other Location from play (yours or an opponent's).",
+            "description":"Whenever a player uses an Action to play a Candy card from their hand, they may play another Candy card from their discard pile without using an Action.",
+            "flavorText":"''We'll bring you lots of sweets back from Honeydukes,' said Hermione, looking desperately sorry for him.'",
+            "rarity":"Rare",
+            "artist":"ZeldaPitwick66"
+        },
+        {
+            "number":"4",
+            "name":"Madam Rosmerta",
+            "type":"Character",
+            "subTypes":[
+                "Witch",
+                "Hogsmeade",
+                "Healing",
+                "Unique"
+            ],
+            "description":"The first time you would draw any number of cards each turn, you may instead put that many non-Healing cards from your discard pile on the bottom of your deck in any order.",
+            "flavorText":"'A curvy sort of woman with a pretty face was serving a bunch of rowdy warlocks up at the bar.'",
+            "rarity":"Rare",
+            "artist":"Sophia Del Plato"
+        },
+        {
+            "number":"5",
+            "name":"Comet Two Ninety",
+            "lesson":"Quidditch",
+            "cost":"4",
+            "type":"Item",
+            "subTypes":[
+                "Broom"
+            ],
+            "provides":[
+                "1",
+                "Quidditch"
+            ],
+            "description":"When this card is discarded from play, draw 3 cards. (When you play this card, discard the other Broom(s) you control.)",
+            "rarity":"Uncommon",
+            "artist":"Emmanuel Oquendo"
+        }
+    ]
+}
