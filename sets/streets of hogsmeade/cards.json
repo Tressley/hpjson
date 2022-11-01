@@ -1,0 +1,233 @@
+{
+    "setName":"Streets of Hogsmeade",
+    "releaseDate":"11-2022",
+    "totalCards":"140",
+    "cards":[
+        {
+            "number":"1",
+            "name":"Dervish and Banges",
+            "lesson":"Transfiguration",
+            "cost":"4",
+            "type":"Location",
+            "subTypes":[
+                "Hogsmeade",
+                "Unique"
+            ],
+            "note":"When you play this card, discard any other Location from play (yours or an opponent's).",
+            "description":"Once during each player's turn, when they discard 1 of their Items from play, they may choose a non-Healing Item in their discard pile with printed Power cost less than the discarded Item and put it into their hand.",
+            "flavorText":"'Dervish and Banges, the wizarding equipment shop ...'",
+            "rarity":"Rare",
+            "artist":"dakotahblackart"
+        },
+        {
+            "number":"2",
+            "name":"Hogsmeade Station",
+            "lesson":"Quidditch",
+            "cost":"5",
+            "type":"Location",
+            "subTypes":[
+                "Hogsmeade",
+                "Unique"
+            ],
+            "note":"When you play this card, discard any other Location from play (yours or an opponent's).",
+            "description":"When either player uses an Action to play a card with a printed Power cost, their cards require 2 less Power to play until the end of their turn. (They must have at least 1 Power that matches.)",
+            "rarity":"Rare",
+            "artist":"Megan Renae"
+        },
+        {
+            "number":"3",
+            "name":"Honeydukes",
+            "lesson":"Charms",
+            "cost":"5",
+            "type":"Location",
+            "subTypes":[
+                "Hogsmeade",
+                "Unique"
+            ],
+            "note":"When you play this card, discard any other Location from play (yours or an opponent's).",
+            "description":"Whenever a player uses an Action to play a Candy card from their hand, they may play another Candy card from their discard pile without using an Action.",
+            "flavorText":"''We'll bring you lots of sweets back from Honeydukes,' said Hermione, looking desperately sorry for him.'",
+            "rarity":"Rare",
+            "artist":"ZeldaPitwick66"
+        },
+        {
+            "number":"4",
+            "name":"Madam Rosmerta",
+            "type":"Character",
+            "subTypes":[
+                "Witch",
+                "Hogsmeade",
+                "Healing",
+                "Unique"
+            ],
+            "description":"The first time you would draw any number of cards each turn, you may instead put that many non-Healing cards from your discard pile on the bottom of your deck in any order.",
+            "flavorText":"'A curvy sort of woman with a pretty face was serving a bunch of rowdy warlocks up at the bar.'",
+            "rarity":"Rare",
+            "artist":"Sophia Del Plato"
+        },
+        {
+            "number":"5",
+            "name":"Comet Two Ninety",
+            "lesson":"Quidditch",
+            "cost":"4",
+            "type":"Item",
+            "subTypes":[
+                "Broom"
+            ],
+            "provides":[
+                "1",
+                "Quidditch"
+            ],
+            "description":"When this card is discarded from play, draw 3 cards. (When you play this card, discard the other Broom(s) you control.)",
+            "rarity":"Uncommon",
+            "artist":"Emmanuel Oquendo"
+        },
+        {
+            "number":"6",
+            "name":"Dissendium",
+            "lesson":"Transfiguration",
+            "cost":"4",
+            "type":"Spell",
+            "note":"Play this card only if a non-Hogsmeade Location is in play.",
+            "description":"Search your deck. You may take a Hogsmeade Location from your deck and put it into play. Then shuffle your deck.",
+            "flavorText":"''See you in Honeydukes,' said George, winking.'",
+            "rarity":"Uncommon",
+            "artist":"Mary GrandPré"
+        },
+        {
+            "number":"7",
+            "name":"On the Hogwarts Express",
+            "lesson":"Quidditch",
+            "cost":"5",
+            "type":"Event",
+            "subTypes":[
+                "Unique"
+            ],
+            "description":"When you play this card, choose a card type. Once per turn, whenever you use an Action to play the second card of the chosen type this turn, you get an extra Action this turn.",
+            "flavorText":"' ... they were boarding the Hogwarts Express; talking and laughing as the countryside became greener and tidier ...'",
+            "rarity":"Uncommon"
+        },
+        {
+            "number":"8",
+            "name":"The Shrieking Shack",
+            "lesson":"Care of Magical Creatures",
+            "cost":"4",
+            "type":"Location",
+            "subTypes":[
+                "Hogsmeade",
+                "Unique"
+            ],
+            "note":"When you play this card, discard any other Location from play (yours or an opponent's).",
+            "description":"Before each player's turn, they take 4 damage.",
+            "flavorText":"'Paper was peeling from the walls; there were stains all over the floor; every piece of furniture was broken as though somebody had smashed it.'",
+            "rarity":"Uncommon",
+            "artist":"Olga Zvozdetska"
+        },
+        {
+            "number":"9",
+            "name":"The Three Broomsticks Inn",
+            "lesson":"Potions",
+            "cost":"5",
+            "type":"Location",
+            "subTypes":[
+                "Hogsmeade",
+                "Unique"
+            ],
+            "note":"When you play this card, discard any other Location from play (yours or an opponent's).",
+            "description":"At the end of each player's turn, if they put any number of cards into their deck, they may prevent up to 4 damage done to them during their opponent's next turn.",
+            "flavorText":"'Shall we go for a butterbeer in the Three Broomsticks?' — Ron Weasley",
+            "rarity":"Uncommon",
+            "artist":"Mary GrandPré"
+        },
+        {
+            "number":"10",
+            "name":"Acid Pops",
+            "lesson":"Charms",
+            "cost":"1",
+            "type":"Spell",
+            "subTypes":[
+                "Candy"
+            ],
+            "description":"Choose an opponent's Creature in play and do 2 damage to it. Then draw a card.",
+            "flavorText":"'Breathe fire for your friends!' — Pepper Imps",
+            "rarity":"Common",
+            "artist":"TonyBWizardly"
+        },
+        {
+            "number":"11",
+            "name":"Broken Item",
+            "lesson":"Transfiguration",
+            "cost":"12",
+            "type":"Item",
+            "description":"To play this card, choose one of your Items in play. This card requires less Power to play equal to the chosen Item's printed Power cost. When you play this card, discard the chosen Item from play. Then, draw a card.",
+            "rarity":"Common"
+        },
+        {
+            "number":"12",
+            "name":"Butterbeer",
+            "lesson":"Potions",
+            "cost":"4",
+            "type":"Spell",
+            "subTypes":[
+                "Healing"
+            ],
+            "description":"Choose up to 2 non-Healing cards in your discard pile and put them on the top of your deck in any order. Until the beginning of your next turn, you may not draw cards.",
+            "flavorText":"'Butterbeer! Yeah, I like that stuff!' — Harry Potter",
+            "rarity":"Common",
+            "artist":"Poiv"
+        },
+        {
+            "number":"13",
+            "name":"Haunting Screams",
+            "lesson":"Care of Magical Creatures",
+            "cost":"7",
+            "type":"Spell",
+            "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play. Count the number of Creatures in your discard pile. Do half that much damage to your opponent, rounded up.",
+            "flavorText":"'The villagers heard the noise and the screaming and thought they were hearing particularly violent spirits.' — Professor Remus Lupin",
+            "rarity":"Common",
+            "artist":"Danikatze"
+        },
+        {
+            "number":"14",
+            "name":"Permission Form",
+            "lesson":"Charms",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Reveal your hand, then put a Lesson from your hand into play. You get 1 more Action this turn.",
+            "flavorText":"'Please give the enclosed permission form to your parent or guardian to sign.' — Professor McGonagall",
+            "rarity":"Common",
+            "artist":"CaptainJackHarkness"
+        },
+        {
+            "number":"15",
+            "name":"Toothflossing Stringmints",
+            "lesson":"Potions",
+            "cost":"3",
+            "type":"Spell",
+            "subTypes":[
+                "Candy",
+                "Healing"
+            ],
+            "description":"Put up to 3 non-Healing cards from your discard pile on the bottom of your deck in any order. Then draw a card.",
+            "flavorText":"'Mum and Dad would really love those Toothflossing Stringmints from Honeydukes!' — Hermione Granger",
+            "rarity":"Common",
+            "artist":"mechinism"
+        },
+        {
+            "number":"16",
+            "name":"Werewolf",
+            "lesson":"Care of Magical Creatures",
+            "cost":"5",
+            "type":"Creature",
+            "subTypes":[
+                "Werewolf"
+            ],
+            "dmgEachTurn":"1",
+            "health":"3",
+            "description":"When you play this card, you may discard 1 of your Care of Magical Creatures Lessons from play. If you do, this card does 5 damage to an opponent.",
+            "flavorText":"' ... the werewolf reared, snapping its long jaws ...'",
+            "rarity":"Common",
+            "artist":"maryquize"
+        }
+    ]
+}
