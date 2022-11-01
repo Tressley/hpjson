@@ -152,6 +152,82 @@
             "flavorText":"'Breathe fire for your friends!' — Pepper Imps",
             "rarity":"Common",
             "artist":"TonyBWizardly"
+        },
+        {
+            "number":"11",
+            "name":"Broken Item",
+            "lesson":"Transfiguration",
+            "cost":"12",
+            "type":"Item",
+            "description":"To play this card, choose one of your Items in play. This card requires less Power to play equal to the chosen Item's printed Power cost. When you play this card, discard the chosen Item from play. Then, draw a card.",
+            "rarity":"Common"
+        },
+        {
+            "number":"12",
+            "name":"Butterbeer",
+            "lesson":"Potions",
+            "cost":"4",
+            "type":"Spell",
+            "subTypes":[
+                "Healing"
+            ],
+            "description":"Choose up to 2 non-Healing cards in your discard pile and put them on the top of your deck in any order. Until the beginning of your next turn, you may not draw cards.",
+            "flavorText":"'Butterbeer! Yeah, I like that stuff!' — Harry Potter",
+            "rarity":"Common",
+            "artist":"Poiv"
+        },
+        {
+            "number":"13",
+            "name":"Haunting Screams",
+            "lesson":"Care of Magical Creatures",
+            "cost":"7",
+            "type":"Spell",
+            "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play. Count the number of Creatures in your discard pile. Do half that much damage to your opponent, rounded up.",
+            "flavorText":"'The villagers heard the noise and the screaming and thought they were hearing particularly violent spirits.' — Professor Remus Lupin",
+            "rarity":"Common",
+            "artist":"Danikatze"
+        },
+        {
+            "number":"14",
+            "name":"Permission Form",
+            "lesson":"Charms",
+            "cost":"3",
+            "type":"Spell",
+            "description":"Reveal your hand, then put a Lesson from your hand into play. You get 1 more Action this turn.",
+            "flavorText":"'Please give the enclosed permission form to your parent or guardian to sign.' — Professor McGonagall",
+            "rarity":"Common",
+            "artist":"CaptainJackHarkness"
+        },
+        {
+            "number":"15",
+            "name":"Toothflossing Stringmints",
+            "lesson":"Potions",
+            "cost":"3",
+            "type":"Spell",
+            "subTypes":[
+                "Candy",
+                "Healing"
+            ],
+            "description":"Put up to 3 non-Healing cards from your discard pile on the bottom of your deck in any order. Then draw a card.",
+            "flavorText":"'Mum and Dad would really love those Toothflossing Stringmints from Honeydukes!' — Hermione Granger",
+            "rarity":"Common",
+            "artist":"mechinism"
+        },
+        {
+            "number":"16",
+            "name":"Werewolf",
+            "lesson":"Care of Magical Creatures",
+            "cost":"5",
+            "type":"Creature",
+            "subTypes":[
+                "Werewolf"
+            ],
+            "dmgEachTurn":"1",
+            "health":"3",
+            "description":"When you play this card, you may discard 1 of your Care of Magical Creatures Lessons from play. If you do, this card does 5 damage to an opponent.",
+            "flavorText":"' ... the werewolf reared, snapping its long jaws ...'",
+            "rarity":"Common",
+            "artist":"maryquize"
         }
     ]
 }
