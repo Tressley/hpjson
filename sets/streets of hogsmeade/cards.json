@@ -81,6 +81,77 @@
             "description":"When this card is discarded from play, draw 3 cards. (When you play this card, discard the other Broom(s) you control.)",
             "rarity":"Uncommon",
             "artist":"Emmanuel Oquendo"
+        },
+        {
+            "number":"6",
+            "name":"Dissendium",
+            "lesson":"Transfiguration",
+            "cost":"4",
+            "type":"Spell",
+            "note":"Play this card only if a non-Hogsmeade Location is in play.",
+            "description":"Search your deck. You may take a Hogsmeade Location from your deck and put it into play. Then shuffle your deck.",
+            "flavorText":"''See you in Honeydukes,' said George, winking.'",
+            "rarity":"Uncommon",
+            "artist":"Mary GrandPré"
+        },
+        {
+            "number":"7",
+            "name":"On the Hogwarts Express",
+            "lesson":"Quidditch",
+            "cost":"5",
+            "type":"Event",
+            "subTypes":[
+                "Unique"
+            ],
+            "description":"When you play this card, choose a card type. Once per turn, whenever you use an Action to play the second card of the chosen type this turn, you get an extra Action this turn.",
+            "flavorText":"' ... they were boarding the Hogwarts Express; talking and laughing as the countryside became greener and tidier ...'",
+            "rarity":"Uncommon"
+        },
+        {
+            "number":"8",
+            "name":"The Shrieking Shack",
+            "lesson":"Care of Magical Creatures",
+            "cost":"4",
+            "type":"Location",
+            "subTypes":[
+                "Hogsmeade",
+                "Unique"
+            ],
+            "note":"When you play this card, discard any other Location from play (yours or an opponent's).",
+            "description":"Before each player's turn, they take 4 damage.",
+            "flavorText":"'Paper was peeling from the walls; there were stains all over the floor; every piece of furniture was broken as though somebody had smashed it.'",
+            "rarity":"Uncommon",
+            "artist":"Olga Zvozdetska"
+        },
+        {
+            "number":"9",
+            "name":"The Three Broomsticks Inn",
+            "lesson":"Potions",
+            "cost":"5",
+            "type":"Location",
+            "subTypes":[
+                "Hogsmeade",
+                "Unique"
+            ],
+            "note":"When you play this card, discard any other Location from play (yours or an opponent's).",
+            "description":"At the end of each player's turn, if they put any number of cards into their deck, they may prevent up to 4 damage done to them during their opponent's next turn.",
+            "flavorText":"'Shall we go for a butterbeer in the Three Broomsticks?' — Ron Weasley",
+            "rarity":"Uncommon",
+            "artist":"Mary GrandPré"
+        },
+        {
+            "number":"10",
+            "name":"Acid Pops",
+            "lesson":"Charms",
+            "cost":"1",
+            "type":"Spell",
+            "subTypes":[
+                "Candy"
+            ],
+            "description":"Choose an opponent's Creature in play and do 2 damage to it. Then draw a card.",
+            "flavorText":"'Breathe fire for your friends!' — Pepper Imps",
+            "rarity":"Common",
+            "artist":"TonyBWizardly"
         }
     ]
 }
