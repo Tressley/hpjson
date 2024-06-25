@@ -1,1479 +1,2137 @@
 {
-    "setName":"Base",
-    "releaseDate":"08-2001",
-    "totalCards":"116",
-    "cards":[
+    "setName": "Base",
+    "releaseDate": "08-2001",
+    "totalCards": "116",
+    "cards": [
         {
-            "number":"1",
-            "name":"Dean Thomas",
-            "type":"Character",
-            "subTypes":[
+            "number": "1",
+            "name": "Dean Thomas",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Wizard",
                 "Gryffindor",
                 "Unique"
             ],
-            "description":"Once per game, you may draw 3 cards.",
-            "flavorText":"'Ron had already had a big argument with Dean Thomas, who shared their dormitory, about football.'",
-            "rarity":"Holo Portrait Premium",
-            "artist":"Jon Foster"
+            "flavorText": "'Ron had already had a big argument with Dean Thomas, who shared their dormitory, about football.'",
+            "rarity": "Holo Portrait Premium",
+            "artist": "Jon Foster",
+            "effect": [
+                "Once per game, you may draw 3 cards."
+            ]
         },
         {
-            "number":"2",
-            "name":"Draco Malfoy",
-            "type":"Character",
-            "subTypes":[
+            "number": "2",
+            "name": "Draco Malfoy",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Wizard",
                 "Slytherin",
                 "Unique"
             ],
-            "description":"During your turn, you may use an Action and discard a card from your hand to look at your opponent's hand. You may then choose 1 card in his or her hand and discard it.",
-            "flavorText":"'You don't want to go making friends with the wrong sort. I can help you there.' - Draco Malfoy",
-            "rarity":"Holo Portrait Premium",
-            "artist":"Pete Venters"
+            "flavorText": "'You don't want to go making friends with the wrong sort. I can help you there.' - Draco Malfoy",
+            "rarity": "Holo Portrait Premium",
+            "artist": "Pete Venters",
+            "effect": [
+                "During your turn, you may use an Action and discard a card from your hand to look at your opponent's hand. You may then choose 1 card in his or her hand and discard it."
+            ]
         },
         {
-            "number":"3a",
-            "name":"Draco Malfoy",
-            "type":"Character",
-            "subTypes":[
+            "number": "3a",
+            "name": "Draco Malfoy",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Wizard",
                 "Slytherin",
                 "Unique"
             ],
-            "description":"During your turn, you may use an Action and discard a card from your hand to look at your opponent's hand. You may then choose 1 card in his or her hand and discard it.",
-            "flavorText":"'You don't want to go making friends with the wrong sort. I can help you there.' - Draco Malfoy",
-            "rarity":"Foil Premium",
-            "artist":"Romas"
+            "flavorText": "'You don't want to go making friends with the wrong sort. I can help you there.' - Draco Malfoy",
+            "rarity": "Foil Premium",
+            "artist": "Romas",
+            "effect": [
+                "During your turn, you may use an Action and discard a card from your hand to look at your opponent's hand. You may then choose 1 card in his or her hand and discard it."
+            ]
         },
         {
-            "number":"3b",
-            "name":"Draco Malfoy",
-            "type":"Character",
-            "subTypes":[
+            "number": "3b",
+            "name": "Draco Malfoy",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Wizard",
                 "Slytherin",
                 "Unique"
             ],
-            "description":"During your turn, you may use an Action and discard a card from your hand to look at your opponent's hand. You may then choose 1 card in his or her hand and discard it.",
-            "flavorText":"'You don't want to go making friends with the wrong sort. I can help you there.' - Draco Malfoy",
-            "rarity":"Foil Premium",
-            "artist":"Pete Venters"
+            "flavorText": "'You don't want to go making friends with the wrong sort. I can help you there.' - Draco Malfoy",
+            "rarity": "Foil Premium",
+            "artist": "Pete Venters",
+            "effect": [
+                "During your turn, you may use an Action and discard a card from your hand to look at your opponent's hand. You may then choose 1 card in his or her hand and discard it."
+            ]
         },
         {
-            "number":"4",
-            "name":"Dragon's Escape",
-            "type":"Adventure",
-            "description":{
-                "effect":"Before each of your turns, your opponent takes 1 damage.",
-                "toSolve":"Your opponent chooses 3 of his or her Lessons in play and discards them.",
-                "reward":"Your opponent draws 3 cards or does 3 damage to you."
-            },
-            "rarity":"Foil Premium",
-            "artist":"Daren Bader"
+            "number": "4",
+            "name": "Dragon's Escape",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Foil Premium",
+            "artist": "Daren Bader",
+            "effect": [
+                "Before each of your turns, your opponent takes 1 damage.",
+                "to solve: Your opponent chooses 3 of his or her Lessons in play and discards them.",
+                "reward: Your opponent draws 3 cards or does 3 damage to you."
+            ],
+            "toSolve": "Your opponent chooses 3 of his or her Lessons in play and discards them.",
+            "reward": "Your opponent draws 3 cards or does 3 damage to you."
         },
         {
-            "number":"5",
-            "name":"Elixir of Life",
-            "lesson":"Potions",
-            "cost":"10",
-            "type":"Spell",
-            "subTypes":[
+            "number": "5",
+            "name": "Elixir of Life",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "10",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
                 "Healing"
             ],
-            "description":"To play this card, discard 2 of your Potions Lessons from play. Shuffle up to 16 non-Healing cards from your discard pile into your deck.",
-            "flavorText":"'The Stone... produces the Elixir of Life, which will make the drinker immortal.'",
-            "rarity":"Foil Premium",
-            "artist":"James Bernardin"
+            "flavorText": "'The Stone... produces the Elixir of Life, which will make the drinker immortal.'",
+            "rarity": "Foil Premium",
+            "artist": "James Bernardin",
+            "effect": [
+                "To play this card, discard 2 of your Potions Lessons from play. Shuffle up to 16 non-Healing cards from your discard pile into your deck."
+            ]
         },
         {
-            "number":"6",
-            "name":"Gringotts' Cart Ride",
-            "type":"Adventure",
-            "description":{
-                "effect":"Before each of your opponent's turns, he or she chooses a card in his or her hand (if any) and discards it.",
-                "toSolve":"Your opponent skips a total of 5 Actions. (Those Actions don't have to be one right after the other.)",
-                "reward":"Your opponent may draw 5 cards."
-            },
-            "flavorText":"'The rattling cart seemed to know its own way, because Griphook wasn't steering.'",
-            "rarity":"Foil Premium",
-            "artist":"Warner Bros."
+            "number": "6",
+            "name": "Gringotts' Cart Ride",
+            "type": [
+                "Adventure"
+            ],
+            "flavorText": "'The rattling cart seemed to know its own way, because Griphook wasn't steering.'",
+            "rarity": "Foil Premium",
+            "artist": "Warner Bros.",
+            "effect": [
+                "Before each of your opponent's turns, he or she chooses a card in his or her hand (if any) and discards it.",
+                "to solve: Your opponent skips a total of 5 Actions. (Those Actions don't have to be one right after the other.)",
+                "reward: Your opponent may draw 5 cards."
+            ],
+            "toSolve": "Your opponent skips a total of 5 Actions. (Those Actions don't have to be one right after the other.)",
+            "reward": "Your opponent may draw 5 cards."
         },
         {
-            "number":"7",
-            "name":"Hannah Abbott",
-            "type":"Character",
-            "subTypes":[
+            "number": "7",
+            "name": "Hannah Abbott",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Witch",
                 "Hufflepuff",
                 "Unique"
             ],
-            "description":"Once per game, you may trade 2 cards in your hand for 2 non-Healing cards in your discard pile.",
-            "flavorText":"'The table on the right cheered and clapped as Hannah went to sit down at the Hufflepuff table.'",
-            "rarity":"Holo Portrait Premium",
-            "artist":"Jon Foster"
+            "flavorText": "'The table on the right cheered and clapped as Hannah went to sit down at the Hufflepuff table.'",
+            "rarity": "Holo Portrait Premium",
+            "artist": "Jon Foster",
+            "effect": [
+                "Once per game, you may trade 2 cards in your hand for 2 non-Healing cards in your discard pile."
+            ]
         },
         {
-            "number":"8",
-            "name":"Harry Potter",
-            "type":"Character",
-            "subTypes":[
+            "number": "8",
+            "name": "Harry Potter",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Wizard",
                 "Gryffindor",
                 "Unique"
             ],
-            "description":"Whenever you use an Action to draw a card, you may draw 2 cards instead of 1.",
-            "flavorText":"'There will be books written about Harry â€” every child in our world will know his name!' - Professor McGonagall",
-            "rarity":"Holo Portrait Premium",
-            "artist":"Scott M. Fischer"
+            "flavorText": "'There will be books written about Harry — every child in our world will know his name!' - Professor McGonagall",
+            "rarity": "Holo Portrait Premium",
+            "artist": "Scott M. Fischer",
+            "effect": [
+                "Whenever you use an Action to draw a card, you may draw 2 cards instead of 1."
+            ]
         },
         {
-            "number":"9",
-            "name":"Hermione Granger",
-            "type":"Character",
-            "subTypes":[
+            "number": "9",
+            "name": "Hermione Granger",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Witch",
                 "Gryffindor",
                 "Unique"
             ],
-            "description":"If you already have 2 or more Lessons in play, then whenever you use an Action to play a Lesson card, you may play 2 Lesson cards instead of 1.",
-            "flavorText":"'She had a bossy sort of voice, lots of bushy brown hair and rather large front teeth.'",
-            "rarity":"Holo Portrait Premium",
-            "artist":"Kevin McCann"
+            "flavorText": "'She had a bossy sort of voice, lots of bushy brown hair and rather large front teeth.'",
+            "rarity": "Holo Portrait Premium",
+            "artist": "Kevin McCann",
+            "effect": [
+                "If you already have 2 or more Lessons in play, then whenever you use an Action to play a Lesson card, you may play 2 Lesson cards instead of 1."
+            ]
         },
         {
-            "number":"10a",
-            "name":"Hermione Granger",
-            "type":"Character",
-            "subTypes":[
+            "number": "10a",
+            "name": "Hermione Granger",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Witch",
                 "Gryffindor",
                 "Unique"
             ],
-            "description":"If you already have 2 or more Lessons in play, then whenever you use an Action to play a Lesson card, you may play 2 Lesson cards instead of 1.",
-            "flavorText":"'She had a bossy a sort of voice, lots of bushy brown hair and rather large front teeth.'",
-            "rarity":"Foil Premium",
-            "artist":"James Bernardin"
+            "flavorText": "'She had a bossy a sort of voice, lots of bushy brown hair and rather large front teeth.'",
+            "rarity": "Foil Premium",
+            "artist": "James Bernardin",
+            "effect": [
+                "If you already have 2 or more Lessons in play, then whenever you use an Action to play a Lesson card, you may play 2 Lesson cards instead of 1."
+            ]
         },
         {
-            "number":"10b",
-            "name":"Hermione Granger",
-            "type":"Character",
-            "subTypes":[
+            "number": "10b",
+            "name": "Hermione Granger",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Witch",
                 "Gryffindor",
                 "Unique"
             ],
-            "description":"If you already have 2 or more Lessons in play, then whenever you use an Action to play a Lesson card, you may play 2 Lesson cards instead of 1.",
-            "flavorText":"'She had a bossy a sort of voice, lots of bushy brown hair and rather large front teeth.'",
-            "rarity":"Foil Premium",
-            "artist":"Kevin McCann"
+            "flavorText": "'She had a bossy a sort of voice, lots of bushy brown hair and rather large front teeth.'",
+            "rarity": "Foil Premium",
+            "artist": "Kevin McCann",
+            "effect": [
+                "If you already have 2 or more Lessons in play, then whenever you use an Action to play a Lesson card, you may play 2 Lesson cards instead of 1."
+            ]
         },
         {
-            "number":"11",
-            "name":"Human Chess Game",
-            "type":"Adventure",
-            "description":{
-                "effect":"During each of your opponent's turns, he or she can play cards only if you played 1 or more cards during your previous turn.",
-                "toSolve":"Your opponent chooses and discards 1 of his or her Characters in play (other than his or her starting Character) or 8 cards from his or her hand.",
-                "reward":"Your opponent may draw 3 cards."
-            },
-            "rarity":"Foil Premium",
-            "artist":"Ron Spears"
+            "number": "11",
+            "name": "Human Chess Game",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Foil Premium",
+            "artist": "Ron Spears",
+            "effect": [
+                "During each of your opponent's turns, he or she can play cards only if you played 1 or more cards during your previous turn.",
+                "to solve: Your opponent chooses and discards 1 of his or her Characters in play (other than his or her starting Character) or 8 cards from his or her hand.",
+                "reward: Your opponent may draw 3 cards."
+            ],
+            "toSolve": "Your opponent chooses and discards 1 of his or her Characters in play (other than his or her starting Character) or 8 cards from his or her hand.",
+            "reward": "Your opponent may draw 3 cards."
         },
         {
-            "number":"12",
-            "name":"Invisibility Cloak",
-            "lesson":"Transfiguration",
-            "cost":"13",
-            "type":"Item",
-            "subTypes":[
+            "number": "12",
+            "name": "Invisibility Cloak",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "13",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
                 "Gryffindor",
                 "Unique"
             ],
-            "description":"Once during each of your opponent's turns, you may prevent all damage done by a Spell card.",
-            "rarity":"Foil Premium",
-            "artist":"Scott Lewis"
+            "rarity": "Foil Premium",
+            "artist": "Scott Lewis",
+            "effect": [
+                "Once during each of your opponent's turns, you may prevent all damage done by a Spell card."
+            ]
         },
         {
-            "number":"13",
-            "name":"Nearly Headless Nick",
-            "type":"Character",
-            "subTypes":[
+            "number": "13",
+            "name": "Nearly Headless Nick",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Gryffindor",
                 "Ghost",
                 "Unique"
             ],
-            "description":"Once per game, you may search your deck. When you do, you may take up to 2 Item cards from your deck, show them to your opponent, and put them into your hand. Then shuffle your deck.",
-            "flavorText":"'His whole head swung off his neck and fell on to his shoulder as if it was on a hinge.'",
-            "rarity":"Holo Portrait Premium",
-            "artist":"Cindy Salans Rosenheim"
+            "flavorText": "'His whole head swung off his neck and fell on to his shoulder as if it was on a hinge.'",
+            "rarity": "Holo Portrait Premium",
+            "artist": "Cindy Salans Rosenheim",
+            "effect": [
+                "Once per game, you may search your deck. When you do, you may take up to 2 Item cards from your deck, show them to your opponent, and put them into your hand. Then shuffle your deck."
+            ]
         },
         {
-            "number":"14",
-            "name":"Obliviate",
-            "lesson":"Charms",
-            "cost":"12",
-            "type":"Spell",
-            "description":"Your opponent discards his or her hand.",
-            "flavorText":"'The Memory Charm'",
-            "rarity":"Foil Premium",
-            "artist":"Keith Garletts"
+            "number": "14",
+            "name": "Obliviate",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "12",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'The Memory Charm'",
+            "rarity": "Foil Premium",
+            "artist": "Keith Garletts",
+            "effect": [
+                "Your opponent discards his or her hand."
+            ]
         },
         {
-            "number":"15",
-            "name":"Professor Filius Flitwick",
-            "type":"Character",
-            "subTypes":[
+            "number": "15",
+            "name": "Professor Filius Flitwick",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Wizard",
                 "Ravenclaw",
                 "Unique"
             ],
-            "description":"Once per game, you may trade 2 cards in your hand for 1 card in your discard pile that needs Charms Power.",
-            "provides":[
-                "1",
-                "Charms"
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": "1"
+                }
             ],
-            "flavorText":"'Professor Flitwick, the Charms teacher, was a tiny little wizard who had to stand on a pile of books to see over his desk.'",
-            "rarity":"Holo Portrait Premium",
-            "artist":"Jon Foster"
+            "flavorText": "'Professor Flitwick, the Charms teacher, was a tiny little wizard who had to stand on a pile of books to see over his desk.'",
+            "rarity": "Holo Portrait Premium",
+            "artist": "Jon Foster",
+            "effect": [
+                "Once per game, you may trade 2 cards in your hand for 1 card in your discard pile that needs Charms Power."
+            ]
         },
         {
-            "number":"16",
-            "name":"Professor Severus Snape",
-            "type":"Character",
-            "subTypes":[
+            "number": "16",
+            "name": "Professor Severus Snape",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Wizard",
                 "Slytherin",
                 "Unique",
                 "Healing"
             ],
-            "description":"Once per game, you may shuffle up to 7 non-Healing cards from your discard pile into your deck.",
-            "provides":[
-                "1",
-                "Potions"
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": "1"
+                }
             ],
-            "flavorText":"'His eyes were black like Hagrid's, but they had none of Hagrid's warmth. They were cold and empty and made you think of dark tunnels.'",
-            "rarity":"Holo Portrait Premium",
-            "artist":"Scott M. Fischer"
+            "flavorText": "'His eyes were black like Hagrid's, but they had none of Hagrid's warmth. They were cold and empty and made you think of dark tunnels.'",
+            "rarity": "Holo Portrait Premium",
+            "artist": "Scott M. Fischer",
+            "effect": [
+                "Once per game, you may shuffle up to 7 non-Healing cards from your discard pile into your deck."
+            ]
         },
         {
-            "number":"17",
-            "name":"Ron Weasley",
-            "type":"Character",
-            "subTypes":[
+            "number": "17",
+            "name": "Ron Weasley",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Wizard",
                 "Gryffindor",
                 "Unique"
             ],
-            "description":"Whenever you play a Character card, you use up 1 Action to play it instead of 2.",
-            "flavorText":"'I'm the sixth in our family to go to Hogwarts. You could say I've got a lot to live up to.' - Ron Weasley",
-            "rarity":"Holo Portrait Premium",
-            "artist":"D. Alexander Gregory"
+            "flavorText": "'I'm the sixth in our family to go to Hogwarts. You could say I've got a lot to live up to.' - Ron Weasley",
+            "rarity": "Holo Portrait Premium",
+            "artist": "D. Alexander Gregory",
+            "effect": [
+                "Whenever you play a Character card, you use up 1 Action to play it instead of 2."
+            ]
         },
         {
-            "number":"18",
-            "name":"Rubeus Hagrid",
-            "type":"Character",
-            "subTypes":[
+            "number": "18",
+            "name": "Rubeus Hagrid",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
                 "Unique"
             ],
-            "description":"Whenever 1 of your Creatures does 3 or more damage to your opponent, it does 2 more damage than it usually would.",
-            "flavorText":"'Hagrid's beard twitched and they could tell he was smiling.'",
-            "rarity":"Holo Portrait Premium",
-            "artist":"Pete Venters"
+            "flavorText": "'Hagrid's beard twitched and they could tell he was smiling.'",
+            "rarity": "Holo Portrait Premium",
+            "artist": "Pete Venters",
+            "effect": [
+                "Whenever 1 of your Creatures does 3 or more damage to your opponent, it does 2 more damage than it usually would."
+            ]
         },
         {
-            "number":"19",
-            "name":"Troll in the Bathroom",
-            "type":"Adventure",
-            "description":{
-                "effect":"Before each of your turns, your opponent takes 2 damage.",
-                "toSolve":"Your opponent chooses 7 cards in his or her hand and discards them.",
-                "reward":"You take 4 damage."
-            },
-            "flavorText":"'The shouting and the echoes seemed to be driving the troll berserk.'",
-            "rarity":"Foil Premium",
-            "artist":"Michael Koelsch"
+            "number": "19",
+            "name": "Troll in the Bathroom",
+            "type": [
+                "Adventure"
+            ],
+            "flavorText": "'The shouting and the echoes seemed to be driving the troll berserk.'",
+            "rarity": "Foil Premium",
+            "artist": "Michael Koelsch",
+            "effect": [
+                "Before each of your turns, your opponent takes 2 damage.",
+                "to solve: Your opponent chooses 7 cards in his or her hand and discards them.",
+                "reward: You take 4 damage."
+            ],
+            "toSolve": "Your opponent chooses 7 cards in his or her hand and discards them.",
+            "reward": "You take 4 damage."
         },
         {
-            "number":"20",
-            "name":"Unicorn",
-            "lesson":"Care of Magical Creatures",
-            "cost":"6",
-            "type":"Creature",
-            "subTypes":[
+            "number": "20",
+            "name": "Unicorn",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "6",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
                 "Unicorn"
             ],
-            "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play. You get 1 more Action on each of your turns (including the turn you play Unicorn).",
-            "health":"6",
-            "flavorText":"''That is because it is a monstrous thing, to slay a unicorn,' said Firenze.'",
-            "rarity":"Foil Premium",
-            "artist":"Zina Saunders"
+            "health": "6",
+            "flavorText": "''That is because it is a monstrous thing, to slay a unicorn,' said Firenze.'",
+            "rarity": "Foil Premium",
+            "artist": "Zina Saunders",
+            "effect": [
+                "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. You get 1 more Action on each of your turns (including the turn you play Unicorn)."
+            ]
         },
         {
-            "number":"21",
-            "name":"Delivery Owl",
-            "lesson":"Care of Magical Creatures",
-            "cost":"2",
-            "type":"Creature",
-            "subTypes":[
+            "number": "21",
+            "name": "Delivery Owl",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "2",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
                 "Owl"
             ],
-            "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play. Before each of your turns, draw a card.",
-            "health":"1",
-            "flavorText":"'...and there was an owl rapping its claw on the window, a newspaper held in its beak.'",
-            "rarity":"Rare",
-            "artist":"D. Alexander Gregory"
+            "health": "1",
+            "flavorText": "'...and there was an owl rapping its claw on the window, a newspaper held in its beak.'",
+            "rarity": "Rare",
+            "artist": "D. Alexander Gregory",
+            "effect": [
+                "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. Before each of your turns, draw a card."
+            ]
         },
         {
-            "number":"22",
-            "name":"Draught of Living Death",
-            "lesson":"Potions",
-            "cost":"8",
-            "type":"Spell",
-            "description":"To play this card, discard 2 of your Potions Lessons from play. Do 12 damage to your opponent or to a creature of your choice.",
-            "flavorText":"'What would I get if I added powdered root of asphodel to an infusion of wormwood?' - Professor Severus Snape",
-            "rarity":"Rare",
-            "artist":"Keith Garletts"
+            "number": "22",
+            "name": "Draught of Living Death",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "8",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'What would I get if I added powdered root of asphodel to an infusion of wormwood?' - Professor Severus Snape",
+            "rarity": "Rare",
+            "artist": "Keith Garletts",
+            "effect": [
+                "To play this card, discard 2 of your Potions Lessons from play. Do 12 damage to your opponent or to a creature of your choice."
+            ]
         },
         {
-            "number":"23",
-            "name":"Harry Hunting",
-            "type":"Adventure",
-            "description":{
-                "effect":"Your opponent's Creature and Spell cards need 2 more Power to play.",
-                "toSolve":"Your opponent chooses 7 cards in his or her hand and discards them.",
-                "reward":"Your opponent may put a Lesson card from his or her discard pile into play."
-            },
-            "rarity":"Rare",
-            "artist":"Patrick Faricy"
+            "number": "23",
+            "name": "Harry Hunting",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Rare",
+            "artist": "Patrick Faricy",
+            "effect": [
+                "Your opponent's Creature and Spell cards need 2 more Power to play.",
+                "to solve: Your opponent chooses 7 cards in his or her hand and discards them.",
+                "reward: Your opponent may put a Lesson card from his or her discard pile into play."
+            ],
+            "toSolve": "Your opponent chooses 7 cards in his or her hand and discards them.",
+            "reward": "Your opponent may put a Lesson card from his or her discard pile into play."
         },
         {
-            "number":"24",
-            "name":"History of Magic",
-            "lesson":"Charms",
-            "cost":"2",
-            "type":"Spell",
-            "description":"Look at your opponent's hand. Discard all Adventure cards from it.",
-            "flavorText":"'Easily the most boring lesson was History of Magic...'",
-            "rarity":"Rare",
-            "artist":"Scott Lewis"
+            "number": "24",
+            "name": "History of Magic",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'Easily the most boring lesson was History of Magic...'",
+            "rarity": "Rare",
+            "artist": "Scott Lewis",
+            "effect": [
+                "Look at your opponent's hand. Discard all Adventure cards from it."
+            ]
         },
         {
-            "number":"25",
-            "name":"Incendio",
-            "lesson":"Charms",
-            "cost":"3",
-            "type":"Spell",
-            "description":"Count the number of Charms Lessons you have in play. Do that much damage to a Creature of your choice.",
-            "rarity":"Rare",
-            "artist":"Ben Thompson"
+            "number": "25",
+            "name": "Incendio",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "3",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Rare",
+            "artist": "Ben Thompson",
+            "effect": [
+                "Count the number of Charms Lessons you have in play. Do that much damage to a Creature of your choice."
+            ]
         },
         {
-            "number":"26",
-            "name":"Malevolent Mixture",
-            "lesson":"Potions",
-            "cost":"5",
-            "type":"Spell",
-            "description":"To play this card, discard 2 of your Potions Lessons from play. Do 10 damage to your opponent or to a Creature of your choice.",
-            "rarity":"Rare",
-            "artist":"Keith Garletts"
+            "number": "26",
+            "name": "Malevolent Mixture",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "5",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Rare",
+            "artist": "Keith Garletts",
+            "effect": [
+                "To play this card, discard 2 of your Potions Lessons from play. Do 10 damage to your opponent or to a Creature of your choice."
+            ]
         },
         {
-            "number":"27",
-            "name":"Meet the Centaurs",
-            "type":"Adventure",
-            "description":{
-                "effect":"Your opponent plays with his or her hand face up.",
-                "toSolve":"Your opponent discards his or her hand. (Your opponent may do this even if his or her hand is empty.)",
-                "reward":"You play with your hand face up for the rest of the game."
-            },
-            "flavorText":"Never', said Hagrid irritably, 'try an' get a straight answer out of a centaur. Ruddy star-gazers.'",
-            "rarity":"Rare",
-            "artist":"Thomas Gianni"
+            "number": "27",
+            "name": "Meet the Centaurs",
+            "type": [
+                "Adventure"
+            ],
+            "flavorText": "Never', said Hagrid irritably, 'try an' get a straight answer out of a centaur. Ruddy star-gazers.'",
+            "rarity": "Rare",
+            "artist": "Thomas Gianni",
+            "effect": [
+                "Your opponent plays with his or her hand face up.",
+                "to solve: Your opponent discards his or her hand. (Your opponent may do this even if his or her hand is empty.)",
+                "reward: You play with your hand face up for the rest of the game."
+            ],
+            "toSolve": "Your opponent discards his or her hand. (Your opponent may do this even if his or her hand is empty.)",
+            "reward": "You play with your hand face up for the rest of the game."
         },
         {
-            "number":"28",
-            "name":"Mountain Troll",
-            "lesson":"Care of Magical Creatures",
-            "cost":"8",
-            "type":"Creature",
-            "subTypes":[
+            "number": "28",
+            "name": "Mountain Troll",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "8",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
                 "Troll"
             ],
-            "dmgEachTurn":"4",
-            "health":"4",
-            "flavorText":"'And then they heard it - a low grunting and the shuffling footfalls of gigantic feet.'",
-            "rarity":"Rare",
-            "artist":"Patrick Faricy"
+            "dmgEachTurn": "4",
+            "health": "4",
+            "flavorText": "'And then they heard it - a low grunting and the shuffling footfalls of gigantic feet.'",
+            "rarity": "Rare",
+            "artist": "Patrick Faricy"
         },
         {
-            "number":"29",
-            "name":"Mrs Norris",
-            "lesson":"Care of Magical Creatures",
-            "cost":"2",
-            "type":"Creature",
-            "subTypes":[
+            "number": "29",
+            "name": "Mrs Norris",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "2",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
                 "Cat",
                 "Unique"
             ],
-            "description":"Your opponent plays with his or her hand face up.",
-            "health":"1",
-            "flavorText":"'Filch owned a cat called Mrs Norris, a scrawny, dust-coloured creature with bulging, lamp-like eyes...'",
-            "rarity":"Rare",
-            "artist":"Scott Lewis"
+            "health": "1",
+            "flavorText": "'Filch owned a cat called Mrs Norris, a scrawny, dust-coloured creature with bulging, lamp-like eyes...'",
+            "rarity": "Rare",
+            "artist": "Scott Lewis",
+            "effect": [
+                "Your opponent plays with his or her hand face up."
+            ]
         },
         {
-            "number":"30",
-            "name":"Norbert",
-            "lesson":"Care of Magical Creatures",
-            "cost":"4",
-            "type":"Creature",
-            "subTypes":[
+            "number": "30",
+            "name": "Norbert",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "4",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
                 "Dragon",
                 "Unique"
             ],
-            "description":"To play this card, discard 2 of your Care of Magical Creatures Lessons from play.",
-            "dmgEachTurn":"5",
-            "health":"3",
-            "flavorText":"'They slipped back down the spiral staircase, their hearts as light as their hands, now that Norbert was of was off them.'",
-            "rarity":"Rare",
-            "artist":"Scott Lewis"
-        },
-        {
-            "number":"31",
-            "name":"Phoenix Feather Wand",
-            "lesson":"Charms",
-            "cost":"7",
-            "type":"Item",
-            "subTypes":[
-                "Wand"
-            ],
-            "description":"Play this card only is you have cards in play that provide at least 3 Charms Power. If you play this card, and you already have a Wand in play, discard the old one.",
-            "provides":[
-                "4",
-                "Charms"
-            ],
-            "rarity":"Rare",
-            "artist":"Scott Lewis"
-        },
-        {
-            "number":"32",
-            "name":"Platform 9 3/4",
-            "lesson":"Transfiguration",
-            "cost":"5",
-            "type":"Spell",
-            "description":"To play this card, discard 1 of your Lessons from play. You get 2 more Actions this turn.",
-            "flavorText":"'...walk straight at the barrier between platforms nine and ten. Don't stop and don't be scared you'll crash into it...' - Molly Weasley",
-            "rarity":"Rare",
-            "artist":"Warner Bros."
-        },
-        {
-            "number":"33",
-            "name":"Potion Ingredients",
-            "lesson":"Potions",
-            "cost":"5",
-            "type":"Item",
-            "description":"When a Spell card damages you, you may discard this card from play to prevent all of that damage.",
-            "rarity":"Rare",
-            "artist":"Scott Lewis"
-        },
-        {
-            "number":"34",
-            "name":"Raven to Writing Desk",
-            "lesson":"Transfiguration",
-            "cost":"1",
-            "type":"Spell",
-            "description":"If your opponent has 2 or more Creatures in play, choose 1 of them and discard it.",
-            "rarity":"Rare",
-            "artist":"Melissa Ferreira"
-        },
-        {
-            "number":"35",
-            "name":"Shrinking Potion",
-            "lesson":"Potions",
-            "cost":"8",
-            "type":"Spell",
-            "description":"During your opponent's next turn, prevent all damage done to you.",
-            "rarity":"Rare",
-            "artist":"Mark Romanoski"
-        },
-        {
-            "number":"36",
-            "name":"Titillando",
-            "lesson":"Charms",
-            "cost":"9",
-            "type":"Spell",
-            "description":"Do 3 damage to your opponent or to a Creature of your choice. Then your opponent chooses 3 cards in his or her hand and discards them. (If there are fewer than 3 cards in your opponent's hand, he or she discards them all.)",
-            "rarity":"Rare",
-            "artist":"Kevin Dobler"
-        },
-        {
-            "number":"37",
-            "name":"Transfiguration Exam",
-            "lesson":"Transfiguration",
-            "cost":"10",
-            "type":"Spell",
-            "description":"Discard all creatures from play (even your own).",
-            "rarity":"Rare",
-            "artist":"Michael T. Collins"
-        },
-        {
-            "number":"38",
-            "name":"Transfiguration Test",
-            "lesson":"Transfiguration",
-            "cost":"5",
-            "type":"Spell",
-            "description":"If your opponent has 2 or more Creatures in play, he or she chooses 1 of them and discards the rest. Then, if you have 2 or more Creatures in play, choose 1 of them and discard the rest.",
-            "rarity":"Rare",
-            "artist":"Michael T. Collins"
-        },
-        {
-            "number":"39",
-            "name":"4 Privet Drive",
-            "type":"Adventure",
-            "description":{
-                "effect":"Your opponent can't play Spell cards.",
-                "toSolve":"Your opponent chooses 6 cards in his or her hand and discards them.",
-                "reward":"Your opponent may draw a card."
-            },
-            "flavorText":"'Harry was used to spiders, because the cupboard under the stairs was full of them, and that was where he slept.'",
-            "rarity":"Uncommon",
-            "artist":"Michael Koelsch"
-        },
-        {
-            "number":"40",
-            "name":"Alchemy",
-            "lesson":"Transfiguration",
-            "cost":"2",
-            "type":"Spell",
-            "description":"Search your deck. You may take up to 2 Lesson cards from your deck, show them to your opponent, and put them in your hand. Then shuffle your deck.",
-            "flavorText":"'The Stone will transform any metal into pure gold.'",
-            "rarity":"Uncommon",
-            "artist":"Ron Spencer"
-        },
-        {
-            "number":"41",
-            "name":"Apothecary",
-            "lesson":"Potions",
-            "cost":"5",
-            "type":"Spell",
-            "description":"To play this card, discard 2 other cards from your hand. You may take a card that needs Potions Power from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
-            "rarity":"Uncommon",
-            "artist":"James Bernardin"
-        },
-        {
-            "number":"42",
-            "name":"Apparate",
-            "lesson":"Transfiguration",
-            "cost":"1",
-            "type":"Spell",
-            "description":"Discard the Adventure your opponent has played. (You don't get the reward.)",
-            "rarity":"Uncommon",
-            "artist":"Marcelo Vignali"
-        },
-        {
-            "number":"43",
-            "name":"Baby Dragon",
-            "lesson":"Care of Magical Creatures",
-            "cost":"3",
-            "type":"Creature",
-            "subTypes":[
-                "Dragon"
-            ],
-            "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
-            "dmgEachTurn":"3",
-            "health":"2",
-            "flavorText":"''Hagrid,' said Hermione, 'how fast do Norwegian Ridgebacks grow, exactly?''",
-            "rarity":"Uncommon",
-            "artist":"Michael Koelsch"
-        },
-        {
-            "number":"44",
-            "name":"Bluebell Flames",
-            "lesson":"Charms",
-            "cost":"7",
-            "type":"Spell",
-            "description":"Do 4 damage to your opponent or to a Creature of your choice.",
-            "flavorText":"'Bright blue flames shot from her wand...'",
-            "rarity":"Uncommon",
-            "artist":"Marcelo Vignali"
-        },
-        {
-            "number":"45",
-            "name":"Burning Bitterroot Balm",
-            "lesson":"Potions",
-            "cost":"6",
-            "type":"Spell",
-            "subTypes":[
-                "Healing"
-            ],
-            "description":"To play this card, discard 1 of your Potions Lessons from play. Shuffle up to 10 non-Healing cards from your discard pile into your deck.",
-            "rarity":"Uncommon",
-            "artist":"Monte Michael Moore"
-        },
-        {
-            "number":"46",
-            "name":"Cage",
-            "lesson":"Care of Magical Creatures",
-            "cost":"2",
-            "type":"Item",
-            "description":"During your turn, you may discard this card from play and use an Action to choose a Creature in play (yours or your opponent's) and return it to it's owner's hand.",
-            "provides":[
-                "1",
-                "Care of Magical Creatures"
-            ],
-            "rarity":"Uncommon",
-            "artist":"Jeff Laubenstein"
-        },
-        {
-            "number":"47",
-            "name":"Confundus",
-            "lesson":"Charms",
-            "cost":"5",
-            "type":"Spell",
-            "description":"Your opponent chooses 2 cards in his or her hand and discards them (1 if he or she only has 1).",
-            "rarity":"Uncommon",
-            "artist":"Zina Saunders"
-        },
-        {
-            "number":"48",
-            "name":"Diagon Alley",
-            "type":"Adventure",
-            "description":{
-                "effect":"Your opponent can't use Actions to draw cards.",
-                "toSolve":"Your opponent skips a total of 7 Actions. (Those Actions don't need to be one right after the other.)",
-                "reward":"Your opponent may draw any number of cards."
-            },
-            "flavorText":"'There were shops selling robes, shops selling telescopes and strange silver instruments Harry had never seen before...'",
-            "rarity":"Uncommon",
-            "artist":"Ron Spears"
-        },
-        {
-            "number":"49",
-            "name":"Dogbreath Potion",
-            "lesson":"Potions",
-            "cost":"6",
-            "type":"Spell",
-            "description":"To play this card, discard 1 of your Potions Lessons from play. Do 8 damage to your opponent or to a Creature of your choice.",
-            "rarity":"Uncommon",
-            "artist":"Scott Lewis"
-        },
-        {
-            "number":"50",
-            "name":"Draco's Trick",
-            "lesson":"Transfiguration",
-            "cost":"7",
-            "type":"Spell",
-            "description":"Discard the Adventure you've played. You get the reward.",
-            "rarity":"Uncommon",
-            "artist":"George Davis"
-        },
-        {
-            "number":"51",
-            "name":"Dragon Heart Wand",
-            "lesson":"Charms",
-            "cost":"5",
-            "type":"Item",
-            "subTypes":[
-                "Wand"
-            ],
-            "description":"Play this card only if you have cards in play that provide at least 2 Charms Power. If you play this card, and you already have a Wand in play, discard the old one.",
-            "provides":[
-                "3",
-                "Charms"
-            ],
-            "rarity":"Uncommon",
-            "artist":"James Bernardin"
-        },
-        {
-            "number":"52",
-            "name":"Fumos",
-            "lesson":"Charms",
-            "cost":"7",
-            "type":"Spell",
-            "description":"Do 2 damage to each Creature (even your own).",
-            "rarity":"Uncommon",
-            "artist":"David Day"
-        },
-        {
-            "number":"53",
-            "name":"Guard Dog",
-            "lesson":"Care of Magical Creatures",
-            "cost":"7",
-            "type":"Creature",
-            "subTypes":[
-                "Dog"
-            ],
-            "dmgEachTurn":"3",
-            "health":"5",
-            "flavorText":"'He let them in, struggling to keep a hold on the collar of an enourmous black boarhound.'",
-            "rarity":"Uncommon",
-            "artist":"Ron Spencer"
-        },
-        {
-            "number":"54",
-            "name":"Hiding From Snape",
-            "type":"Adventure",
-            "description":{
-                "effect":"Your opponent can't play Item cards.",
-                "toSolve":"Your opponent chooses 4 Item cards in his or her hand and discards them.",
-                "reward":"Your opponent may search his or her deck for any card and put it into his or her hand. Then your opponent shuffles his or her deck."
-            },
-            "rarity":"Uncommon",
-            "artist":"James Bernardin"
-        },
-        {
-            "number":"55",
-            "name":"Kelpie",
-            "lesson":"Care of Magical Creatures",
-            "cost":"3",
-            "type":"Creature",
-            "subTypes":[
-                "Kelpie"
-            ],
-            "description":"To play this card, discard 1 of your Care of Magical Creature Lessons from play. Whenever a Spell card damages you, you may let Kelpie take that damage instead.",
-            "dmgEachTurn":"1",
-            "health":"5",
-            "flavorText":"'The mountains around the school became icy grey and the lake like chilled steel.'",
-            "rarity":"Uncommon",
-            "artist":"Greg Hildebrandt"
-        },
-        {
-            "number":"56",
-            "name":"Logic Puzzle",
-            "lesson":"Charms",
-            "cost":"6",
-            "type":"Spell",
-            "description":"Discard the Adventure your opponent has played. You get the reward.",
-            "flavorText":"'Hermione let out a great sigh and Harry, amazed, saw that she was smiling...'",
-            "rarity":"Uncommon",
-            "artist":"Jon Foster"
-        },
-        {
-            "number":"57",
-            "name":"Mysterious Egg",
-            "lesson":"Care of Magical Creatures",
-            "cost":"4",
-            "type":"Spell",
-            "description":"Search your deck. You may take a Creature card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
-            "flavorText":"''But what are you going to do with it when it's hatched?' said Hermione.'",
-            "rarity":"Uncommon",
-            "artist":"Bob Petillo"
-        },
-        {
-            "number":"58",
-            "name":"Nurture",
-            "lesson":"Care of Magical Creatures",
-            "cost":"2",
-            "type":"Spell",
-            "description":"Remove all damage counters from all of your Creatures.",
-            "flavorText":"'Isn't he beautiful?' Hagrid murmured.",
-            "rarity":"Uncommon",
-            "artist":"Patrick Faricy"
-        },
-        {
-            "number":"59",
-            "name":"Ollivanders",
-            "lesson":"Charms",
-            "cost":"1",
-            "type":"Spell",
-            "description":"Put an Item card from your discard pile into your hand.",
-            "flavorText":"'The pile of tried wands was mounting higher and higher on the spindly chair, but the more wands Mr Ollivander pulled from the shelves, the happier he seemed to become.'",
-            "rarity":"Uncommon",
-            "artist":"Jon Foster"
-        },
-        {
-            "number":"60",
-            "name":"Peeves Causes Trouble",
-            "type":"Adventure",
-            "description":{
-                "effect":"Whenever your opponent draws 1 or more cards, he or she then takes 1 damage.",
-                "toSolve":"Your opponent skips a total of 5 Actions. (Those Actions don't need to be one right after the other.)",
-                "reward":"You take 3 damage."
-            },
-            "flavorText":"'There was a pop and a little man with wicked dark eyes and a wide mouth appeared, floating cross-legged in the air, clutching the walking sticks.'",
-            "rarity":"Uncommon",
-            "artist":"Michael Koelsch"
-        },
-        {
-            "number":"61",
-            "name":"Pet Toad",
-            "lesson":"Care of Magical Creatures",
-            "cost":"2",
-            "type":"Creature",
-            "subTypes":[
-                "Toad"
-            ],
-            "description":"Whenever a Spell card damages you, you may let Pet Toad take that damage instead.",
-            "health":"1",
-            "flavorText":"''Don't know why he's so bothered,' said Ron. 'If I'd brought a toad I'd lose it as quick as I could.''",
-            "rarity":"Uncommon",
-            "artist":"Zina Saunders"
-        },
-        {
-            "number":"62",
-            "name":"Pomfrey's Pick-Me-Up",
-            "lesson":"Potions",
-            "cost":"3",
-            "type":"Spell",
-            "subTypes":[
-                "Healing"
-            ],
-            "description":"Put up to 3 non-Healing cards from your discard pile on the bottom of your deck (in any order). Then draw a card.",
-            "flavorText":"'Madam Pomfrey came over at that moment...'",
-            "rarity":"Uncommon",
-            "artist":"Jason Bernardin"
-        },
-        {
-            "number":"63",
-            "name":"Potions Exam",
-            "lesson":"Potions",
-            "cost":"10",
-            "type":"Spell",
-            "description":"Your opponent chooses 3 of his or her cards in play and discards them (if your opponent has fewer than 3 cards in play he or she discards them all). Your opponent may prevent this by discarding 1 of his or her Potions Lessons in play and discarding it.",
-            "rarity":"Uncommon",
-            "artist":"Jason Bernardin"
-        },
-        {
-            "number":"64",
-            "name":"Reptile House",
-            "type":"Adventure",
-            "description":{
-                "effect":"Your opponent can't use more than 1 Action to play Lesson cards during each of his or her turns.",
-                "toSolve":"Your opponent chooses 4 of his or her Lessons in play and discards them.",
-                "reward":"Your opponent may draw a card."
-            },
-            "flavorText":"'It gave Harry a look that said quite plainly: 'I get that all the time.''",
-            "rarity":"Uncommon",
-            "artist":"Michael Koelsch"
-        },
-        {
-            "number":"65",
-            "name":"Silver Cauldron",
-            "lesson":"Potions",
-            "cost":"8",
-            "type":"Item",
-            "subTypes":[
-                "Cauldron"
-            ],
-            "description":"To play this card, discard 2 of your Potions Lessons from play.",
-            "provides":[
-                "5",
-                "Potions"
-            ],
-            "rarity":"Uncommon",
-            "artist":"Kevin Dobler"
-        },
-        {
-            "number":"66",
-            "name":"Snuffling Potion",
-            "lesson":"Potions",
-            "cost":"4",
-            "type":"Spell",
-            "description":"Next turn, whenever your opponent draws a card, he or she discards it instead of putting it into his or her hand.",
-            "rarity":"Uncommon",
-            "artist":"Mark Romanoski"
-        },
-        {
-            "number":"67",
-            "name":"Stupefy",
-            "lesson":"Charms",
-            "cost":"6",
-            "type":"Spell",
-            "description":"Do 5 damage to your opponent.",
-            "flavorText":"'I arrived in time to prevent that...' - Albus Dumbledore",
-            "rarity":"Uncommon",
-            "artist":"Tim Hildebrandt"
-        },
-        {
-            "number":"68",
-            "name":"Take Root",
-            "lesson":"Transfiguration",
-            "cost":"5",
-            "type":"Spell",
-            "description":"Your opponent chooses 1 of his or her Creatures in play and discards it.",
-            "rarity":"Uncommon",
-            "artist":"Monte Michael Moore"
-        },
-        {
-            "number":"69",
-            "name":"Transmogrify",
-            "lesson":"Transfiguration",
-            "cost":"2",
-            "type":"Spell",
-            "description":"To play this card, discard 1 of your Creatures from play. Search your deck. You may take a Creature card from your deck, show it to your opponent and put it in your hand. Then shuffle your deck.",
-            "rarity":"Uncommon",
-            "artist":"Zina Saunders"
-        },
-        {
-            "number":"70",
-            "name":"Unusual Pets",
-            "type":"Adventure",
-            "note":"Play this card only if your opponent has any Creatures in play.",
-            "description":{
-                "effect":"Before each of your turns, your opponent takes 4 damage.",
-                "toSolve":"Your opponent chooses 2 of his or her Creatures in play and discards them.",
-                "reward":"Your opponent may draw a card."
-            },
-            "flavorText":"'It's hatching.' - note from Hagrid",
-            "rarity":"Uncommon",
-            "artist":"Thomas Gianni"
-        },
-        {
-            "number":"71",
-            "name":"Vanishing Glass",
-            "lesson":"Transfiguration",
-            "cost":"9",
-            "type":"Spell",
-            "description":"Play this card only if your opponent has any Lessons in play. Choose 1 of those Lessons and discard it. Search your deck. You may take a Creature card from your deck, show it to your opponent and put it in your hand. Then shuffle your deck.",
-            "rarity":"Uncommon",
-            "artist":"Patrick Faricy"
-        },
-        {
-            "number":"72",
-            "name":"Winged Keys",
-            "lesson":"Transfiguration",
-            "cost":"10",
-            "type":"Item",
-            "description":"Once during each of your turns, you may choose 1 of your opponent's Creatures in play. Prevent all damage done by that creature until the end of your opponent's next turn.",
-            "rarity":"Uncommon",
-            "artist":"Ron Spears"
-        },
-        {
-            "number":"73",
-            "name":"Accio",
-            "lesson":"Charms",
-            "cost":"2",
-            "type":"Spell",
-            "description":"Put up to 2 Lesson cards from your discard pile into your hand.",
-            "flavorText":"'The Summoning Charm'",
-            "rarity":"Common",
-            "artist":"Chris Seaman"
-        },
-        {
-            "number":"74",
-            "name":"Avifors",
-            "lesson":"Transfiguration",
-            "cost":"2",
-            "type":"Spell",
-            "description":"Choose 1 of your opponent's Care of Magical Creatures Lessons in play and discard it.",
-            "rarity":"Common",
-            "artist":"Kevin Dobler"
-        },
-        {
-            "number":"75",
-            "name":"Baubillious",
-            "lesson":"Charms",
-            "cost":"2",
-            "type":"Spell",
-            "description":"Do 1 damage to your opponent or to a Creature of your choice. Then draw a card.",
-            "rarity":"Common",
-            "artist":"George Davis"
-        },
-        {
-            "number":"76",
-            "name":"Boa Constrictor",
-            "lesson":"Care of Magical Creatures",
-            "cost":"4",
-            "type":"Creature",
-            "subTypes":[
-                "Snake"
-            ],
-            "dmgEachTurn":"2",
-            "health":"2",
-            "flavorText":"'Brazil, here I come... Thanks, amigo.' - The Snake",
-            "rarity":"Common",
-            "artist":"Patrick Faricy"
-        },
-        {
-            "number":"77",
-            "name":"Boil Cure",
-            "lesson":"Potions",
-            "cost":"1",
-            "type":"Spell",
-            "subTypes":[
-                "Healing"
-            ],
-            "description":"Put up to 4 non-Healing cards from your discard pile on the bottom of your deck (in any order).",
-            "flavorText":"Neville whimpered as boils started to pop up all over his nose.'",
-            "rarity":"Common",
-            "artist":"Jason Bernardin"
-        },
-        {
-            "number":"78",
-            "name":"Borrowed Wand",
-            "lesson":"Charms",
-            "cost":"3",
-            "type":"Item",
-            "subTypes":[
-                "Wand"
-            ],
-            "description":"If you play this card and you already have a Wand in play, discard the old one.",
-            "provides":[
-                "2",
-                "Charms"
-            ],
-            "rarity":"Common",
-            "artist":"Keith Garletts"
-        },
-        {
-            "number":"79",
-            "name":"Cauldron to Sieve",
-            "lesson":"Transfiguration",
-            "cost":"2",
-            "type":"Spell",
-            "description":"Choose 1 of your opponent's Potions Lessons in play and discard it.",
-            "rarity":"Common",
-            "artist":"Scott Lewis"
-        },
-        {
-            "number":"80",
-            "name":"Curious Raven",
-            "lesson":"Care of Magical Creatures",
-            "cost":"2",
-            "type":"Creature",
-            "subTypes":[
-                "Bird"
-            ],
-            "dmgEachTurn":"1",
-            "health":"1",
-            "rarity":"Common",
-            "artist":"Melissa Ferreira"
-        },
-        {
-            "number":"81",
-            "name":"Dungbomb",
-            "lesson":"Potions",
-            "cost":"2",
-            "type":"Spell",
-            "description":"During your opponent's next turn, prevent all damage done to you by your opponent's Adventures and Creatures.",
-            "flavorText":"'Slipping and stumbling, they followed...'",
-            "rarity":"Common",
-            "artist":"Jason Bernardin"
-        },
-        {
-            "number":"82",
-            "name":"Epoximise",
-            "lesson":"Transfiguration",
-            "cost":"2",
-            "type":"Spell",
-            "description":"Choose 1 of your opponent's Charms Lessons in play and discard it.",
-            "rarity":"Common",
-            "artist":"Marcelo Vignali"
-        },
-        {
-            "number":"83",
-            "name":"Erumpent Potion",
-            "lesson":"Potions",
-            "cost":"3",
-            "type":"Spell",
-            "description":"Do 1 damage to your opponent or to a Creature of your choice.",
-            "rarity":"Common",
-            "artist":"Bob Petillo"
-        },
-        {
-            "number":"84",
-            "name":"Fluffy Falls Asleep",
-            "lesson":"Care of Magical Creatures",
-            "cost":"3",
-            "type":"Spell",
-            "description":"Choose a Creature in play and return it to its owner's hand.",
-            "flavorText":"'In the few seconds' silence, the dog growled and twitched, but the moment Hermione began to play, it fell back into its deep sleep.'",
-            "rarity":"Common",
-            "artist":"Scott Lewis"
-        },
-        {
-            "number":"85",
-            "name":"Forest Troll",
-            "lesson":"Care of Magical Creatures",
-            "cost":"2",
-            "type":"Creature",
-            "subTypes":[
-                "Troll"
-            ],
-            "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
-            "dmgEachTurn":"2",
-            "health":"3",
-            "flavorText":"'It was holding a huge wooden club, which dragged along the floor because the arms were so long.'",
-            "rarity":"Common",
-            "artist":"Chris Seaman"
-        },
-        {
-            "number":"86",
-            "name":"Forgetfulness Potion",
-            "lesson":"Potions",
-            "cost":"7",
-            "type":"Spell",
-            "description":"To play this card, discard 1 of your Potions Lessons from play. During your opponent's next turn, he or she can't play cards.",
-            "flavorText":"'Snape made them all nervous, breathing down their necks while they tried to remember how to make a Forgetfulness Potion.'",
-            "rarity":"Common",
-            "artist":"Michael T. Collins"
-        },
-        {
-            "number":"87",
-            "name":"Foul Brew",
-            "lesson":"Potions",
-            "cost":"5",
-            "type":"Spell",
-            "description":"Do 2 damage to your opponent or to a Creature of your choice.",
-            "flavorText":"'Barrels of slimy stuff stood on the floor, jars of herbs, dried roots and bright powders lined the walls, bundles of feathers, strings of fangs and snarled claws hung from the ceiling.'",
-            "rarity":"Common",
-            "artist":"Ron Spencer"
-        },
-        {
-            "number":"88",
-            "name":"Giant Tarantula",
-            "lesson":"Care of Magical Creatures",
-            "cost":"1",
-            "type":"Creature",
-            "subTypes":[
-                "Spider"
-            ],
-            "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
-            "dmgEachTurn":"2",
-            "health":"1",
-            "flavorText":"'The boy lifted the lid of a box in his arms and the people around him shriekedand yelled as something inside poked out a long, hairy leg.'",
-            "rarity":"Common",
-            "artist":"Jeff Laubenstein"
-        },
-        {
-            "number":"89",
-            "name":"Hagrid and the Stranger",
-            "lesson":"Care of Magical Creatures",
-            "cost":"4",
-            "type":"Spell",
-            "description":"Put a Creature card from your discard pile into your hand.",
-            "flavorText":"'...yeh get a lot o' funny folk in the Hog's Head -- that's the pub down in the village... I never saw his face, he kept his hood up.' - Rubeus Hagrid",
-            "rarity":"Common",
-            "artist":"Doug Chaffee"
-        },
-        {
-            "number":"90",
-            "name":"Homework",
-            "lesson":"Transfiguration",
-            "cost":"2",
-            "type":"Spell",
-            "description":"Put up to 2 Lesson cards from your hand into play.",
-            "flavorText":"'It was really lucky that Harry now had Hermione as a friend. He didn't know how he'd have got through all his homework without her...'",
-            "rarity":"Common",
-            "artist":"Patrick Faricy"
-        },
-        {
-            "number":"91",
-            "name":"Hospital Wing",
-            "lesson":"Potions",
-            "cost":"4",
-            "type":"Spell",
-            "subTypes":[
-                "Healing"
-            ],
-            "description":"To play this card, discard 1 of your Potions Lessons from play. Shuffle up to 8 non-Healing cards from your discard pile into your deck.",
-            "rarity":"Common",
-            "artist":"Jason Bernardin"
-        },
-        {
-            "number":"92",
-            "name":"Illegibilus",
-            "lesson":"Charms",
-            "cost":"5",
-            "type":"Spell",
-            "description":"Look at your opponent's hand. Choose 1 of those cards and discard it.",
-            "rarity":"Common",
-            "artist":"Jason Bernardin"
-        },
-        {
-            "number":"93",
-            "name":"Incarcifors",
-            "lesson":"Transfiguration",
-            "cost":"6",
-            "type":"Spell",
-            "description":"Choose 1 of your opponent's Creatures in play and discard it.",
-            "flavorText":"''I'm glad we didnt have to fight that one,' Harry whispered, as they stepped carefully over one of it's massive legs.'",
-            "rarity":"Common",
-            "artist":"Bob Petillo"
-        },
-        {
-            "number":"94",
-            "name":"Lost Notes",
-            "lesson":"Transfiguration",
-            "cost":"5",
-            "type":"Spell",
-            "description":"Choose 1 of your opponent's Items or Lessons in play and discard it.",
-            "rarity":"Common",
-            "artist":"Monte Michael Monte"
-        },
-        {
-            "number":"95",
-            "name":"Magical Mishap",
-            "lesson":"Charms",
-            "cost":"2",
-            "type":"Spell",
-            "description":"Do 3 damage to your opponent.",
-            "flavorText":"'Harry would have screamed, but he couldn't make a sound.'",
-            "rarity":"Common",
-            "artist":"Michael T. Collins"
-        },
-        {
-            "number":"96",
-            "name":"Noxious Poison",
-            "lesson":"Potions",
-            "cost":"3",
-            "type":"Spell",
-            "description":"To play this card, discard 1 of your Potions Lessons from play. Do 5 damage to your opponent or to a Creature of your choice.",
-            "flavorText":"'...the delicate power of liquids that creep through human veins, bewitching the mind, ensnaring the senses...' - Professor Severus Snape",
-            "rarity":"Common",
-            "artist":"Tommy Zimmerman"
-        },
-        {
-            "number":"97",
-            "name":"Out of the Woods",
-            "lesson":"Charms",
-            "cost":"5",
-            "type":"Spell",
-            "description":"Look at your opponent's hand. Discard all Creature cards from it.",
-            "flavorText":"'In a matter of seconds, though, he was wide-eyed as Harry began to tell him and Hermione what had happened in the Forest.'",
-            "rarity":"Common",
-            "artist":"Michael Koelsch"
-        },
-        {
-            "number":"98",
-            "name":"Pet Rat",
-            "lesson":"Care of Magical Creatures",
-            "cost":"1",
-            "type":"Creature",
-            "subTypes":[
-                "Rat"
-            ],
-            "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
-            "dmgEachTurn":"1",
-            "health":"4",
-            "flavorText":"'His name's Scabbers and he's useless, he hardly ever wakes up.' - Ron Weasley",
-            "rarity":"Common",
-            "artist":"Tommy Zimmerman"
-        },
-        {
-            "number":"99",
-            "name":"Pewter Cauldron",
-            "lesson":"Potions",
-            "cost":"5",
-            "type":"Item",
-            "subTypes":[
-                "Cauldron"
-            ],
-            "description":"To play this card, discard 1 of your Potions Lessons from play.",
-            "provides":[
-                "3",
-                "Potions"
-            ],
-            "rarity":"Common",
-            "artist":"Tommy Zimmerman"
-        },
-        {
-            "number":"100",
-            "name":"Potions Mistake",
-            "lesson":"Potions",
-            "cost":"6",
-            "type":"Spell",
-            "description":"To play this card, discard 3 of your Potions Lessons from play. Choose 1 of your opponent's Creatures or Items in play and discard it.",
-            "flavorText":"'You are here to learn the subtle science and exact art of potion-making'...' - Professor Severus Snape",
-            "rarity":"Common",
-            "artist":"Daren Bader"
-        },
-        {
-            "number":"101",
-            "name":"Remembrall",
-            "lesson":"Transfiguration",
-            "cost":"8",
-            "type":"Item",
-            "description":"During your turn, you may use an Action to put a Lesson card from your discard pile into play.",
-            "rarity":"Common",
-            "artist":"Marcelo Vignali"
-        },
-        {
-            "number":"102",
-            "name":"Restricted Section",
-            "lesson":"Transfiguration",
-            "cost":"2",
-            "type":"Spell",
-            "description":"Choose 1 of your opponent's Transfiguration Lessons in play and discard it.",
-            "flavorText":"'These were the books containing powerful Dark Magic never taught at Hogwarts...'",
-            "rarity":"Common",
-            "artist":"Marcelo Vignali"
-        },
-        {
-            "number":"103",
-            "name":"Scottish Stag",
-            "lesson":"Care of Magical Creatures",
-            "cost":"4",
-            "type":"Creature",
-            "subTypes":[
-                "Deer"
-            ],
-            "dmgEachTurn":"1",
-            "health":"5",
-            "flavorText":"'... the path became almost impossible to follow because the trees were so thick.'",
-            "rarity":"Common",
-            "artist":"Doug Chaffee"
-        },
-        {
-            "number":"104",
-            "name":"Snape's Question",
-            "lesson":"Potions",
-            "cost":"3",
-            "type":"Spell",
-            "description":"Do 4 damage to your opponent. Your opponent may prevent this damage by showing you a Potions Lesson from his or her hand.",
-            "flavorText":"''I don't know, sir,' said Harry. Snape's lips curled into a sneer.'",
-            "rarity":"Common",
-            "artist":"Daren Bader"
-        },
-        {
-            "number":"105",
-            "name":"Squiggle Quill",
-            "lesson":"Transfiguration",
-            "cost":"2",
-            "type":"Spell",
-            "description":"Choose 1 of your opponent's Items in play and discard it.",
-            "rarity":"Common",
-            "artist":"Marcelo Vignali"
-        },
-        {
-            "number":"106",
-            "name":"Steelclaw",
-            "lesson":"Transfiguration",
-            "cost":"4",
-            "type":"Spell",
-            "description":"All your creatures do damage to your opponent.",
-            "rarity":"Common",
-            "artist":"Tim Hildebrandt"
-        },
-        {
-            "number":"107",
-            "name":"Surly Hound",
-            "lesson":"Care of Magical Creatures",
-            "cost":"3",
-            "type":"Creature",
-            "subTypes":[
-                "Dog"
-            ],
-            "dmgEachTurn":"1",
-            "health":"3",
-            "flavorText":"'When Harry knocked they heard a frantic scrabbling from inside and several booming barks.'",
-            "rarity":"Common",
-            "artist":"Scott Lewis"
-        },
-        {
-            "number":"108",
-            "name":"Toe Biter",
-            "lesson":"Charms",
-            "cost":"3",
-            "type":"Spell",
-            "description":"Do 2 damage to your opponent. You may also choose a Creature and do 2 damage to it.",
-            "rarity":"Common",
-            "artist":"Michael T. Collins"
-        },
-        {
-            "number":"109",
-            "name":"Vermillious",
-            "lesson":"Charms",
-            "cost":"4",
-            "type":"Spell",
-            "description":"Do 3 damage to your opponent or to a Creature of your choice.",
-            "rarity":"Common",
-            "artist":"Chris Seaman"
-        },
-        {
-            "number":"110",
-            "name":"Vicious Wolf",
-            "lesson":"Care of Magical Creatures",
-            "cost":"6",
-            "type":"Creature",
-            "subTypes":[
-                "Wolf"
-            ],
-            "dmgEachTurn":"3",
-            "health":"3",
-            "rarity":"Common",
-            "artist":"Patrick Faricy"
-        },
-        {
-            "number":"111",
-            "name":"Wingardium Leviosa!",
-            "lesson":"Charms",
-            "cost":"1",
-            "type":"Spell",
-            "description":"During your opponent's next turn, prevent all damage done to you by your opponent's Creatures.",
-            "flavorText":"'The club flew suddenly out of the troll's hand, rose high, high up into the air...'",
-            "rarity":"Common",
-            "artist":"Ron Spencer"
-        },
-        {
-            "number":"112",
-            "name":"Wizard Crackers",
-            "lesson":"Charms",
-            "cost":"1",
-            "type":"Spell",
-            "description":"Reveal the top card of your deck. If it's a Lesson card, put it into play. If it isn't, put the card in your hand.",
-            "flavorText":"'Harry pulled a wizard cracker with Fred and it didn't just bang, it went off with a blast like a cannon...'",
-            "rarity":"Common",
-            "artist":"Patrick Faricy"
-        },
-        {
-            "number":"113",
-            "name":"Care of Magical Creatures",
-            "lesson":"Care of Magical Creatures",
-            "type":"Lesson",
-            "provides":[
-                "1",
-                "Care of Magical Creatures"
-            ],
-            "rarity":"Lesson",
-            "artist":[
-                "Shanth Enjeti",
-                "Melissa Ferreira"
+            "dmgEachTurn": "5",
+            "health": "3",
+            "flavorText": "'They slipped back down the spiral staircase, their hearts as light as their hands, now that Norbert was of was off them.'",
+            "rarity": "Rare",
+            "artist": "Scott Lewis",
+            "effect": [
+                "To play this card, discard 2 of your Care of Magical Creatures Lessons from play."
             ]
         },
         {
-            "number":"114",
-            "name":"Charms",
-            "lesson":"Charms",
-            "type":"Lesson",
-            "provides":[
-                "1",
+            "number": "31",
+            "name": "Phoenix Feather Wand",
+            "lesson": [
                 "Charms"
             ],
-            "rarity":"Lesson",
-            "artist":[
-                "Shanth Enjeti",
-                "Melissa Ferreira"
-            ]
-        },
-        {
-            "number":"115",
-            "name":"Potions",
-            "lesson":"Potions",
-            "type":"Lesson",
-            "provides":[
-                "1",
-                "Potions"
+            "cost": "7",
+            "type": [
+                "Item"
             ],
-            "rarity":"Lesson",
-            "artist":[
-                "Shanth Enjeti",
-                "Melissa Ferreira"
+            "subTypes": [
+                "Wand"
+            ],
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": "4"
+                }
+            ],
+            "rarity": "Rare",
+            "artist": "Scott Lewis",
+            "effect": [
+                "Play this card only is you have cards in play that provide at least 3 Charms Power. If you play this card, and you already have a Wand in play, discard the old one."
             ]
         },
         {
-            "number":"116",
-            "name":"Transfiguration",
-            "lesson":"Transfiguration",
-            "type":"Lesson",
-            "provides":[
-                "1",
+            "number": "32",
+            "name": "Platform 9 3/4",
+            "lesson": [
                 "Transfiguration"
             ],
-            "rarity":"Lesson",
-            "artist":[
+            "cost": "5",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'...walk straight at the barrier between platforms nine and ten. Don't stop and don't be scared you'll crash into it...' - Molly Weasley",
+            "rarity": "Rare",
+            "artist": "Warner Bros.",
+            "effect": [
+                "To play this card, discard 1 of your Lessons from play. You get 2 more Actions this turn."
+            ]
+        },
+        {
+            "number": "33",
+            "name": "Potion Ingredients",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "5",
+            "type": [
+                "Item"
+            ],
+            "rarity": "Rare",
+            "artist": "Scott Lewis",
+            "effect": [
+                "When a Spell card damages you, you may discard this card from play to prevent all of that damage."
+            ]
+        },
+        {
+            "number": "34",
+            "name": "Raven to Writing Desk",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "1",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Rare",
+            "artist": "Melissa Ferreira",
+            "effect": [
+                "If your opponent has 2 or more Creatures in play, choose 1 of them and discard it."
+            ]
+        },
+        {
+            "number": "35",
+            "name": "Shrinking Potion",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "8",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Rare",
+            "artist": "Mark Romanoski",
+            "effect": [
+                "During your opponent's next turn, prevent all damage done to you."
+            ]
+        },
+        {
+            "number": "36",
+            "name": "Titillando",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "9",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Rare",
+            "artist": "Kevin Dobler",
+            "effect": [
+                "Do 3 damage to your opponent or to a Creature of your choice. Then your opponent chooses 3 cards in his or her hand and discards them. (If there are fewer than 3 cards in your opponent's hand, he or she discards them all.)"
+            ]
+        },
+        {
+            "number": "37",
+            "name": "Transfiguration Exam",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "10",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Rare",
+            "artist": "Michael T. Collins",
+            "effect": [
+                "Discard all creatures from play (even your own)."
+            ]
+        },
+        {
+            "number": "38",
+            "name": "Transfiguration Test",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "5",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Rare",
+            "artist": "Michael T. Collins",
+            "effect": [
+                "If your opponent has 2 or more Creatures in play, he or she chooses 1 of them and discards the rest. Then, if you have 2 or more Creatures in play, choose 1 of them and discard the rest."
+            ]
+        },
+        {
+            "number": "39",
+            "name": "4 Privet Drive",
+            "type": [
+                "Adventure"
+            ],
+            "flavorText": "'Harry was used to spiders, because the cupboard under the stairs was full of them, and that was where he slept.'",
+            "rarity": "Uncommon",
+            "artist": "Michael Koelsch",
+            "effect": [
+                "Your opponent can't play Spell cards.",
+                "to solve: Your opponent chooses 6 cards in his or her hand and discards them.",
+                "reward: Your opponent may draw a card."
+            ],
+            "toSolve": "Your opponent chooses 6 cards in his or her hand and discards them.",
+            "reward": "Your opponent may draw a card."
+        },
+        {
+            "number": "40",
+            "name": "Alchemy",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'The Stone will transform any metal into pure gold.'",
+            "rarity": "Uncommon",
+            "artist": "Ron Spencer",
+            "effect": [
+                "Search your deck. You may take up to 2 Lesson cards from your deck, show them to your opponent, and put them in your hand. Then shuffle your deck."
+            ]
+        },
+        {
+            "number": "41",
+            "name": "Apothecary",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "5",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Uncommon",
+            "artist": "James Bernardin",
+            "effect": [
+                "To play this card, discard 2 other cards from your hand. You may take a card that needs Potions Power from your deck, show it to your opponent and put it into your hand. Then shuffle your deck."
+            ]
+        },
+        {
+            "number": "42",
+            "name": "Apparate",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "1",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Marcelo Vignali",
+            "effect": [
+                "Discard the Adventure your opponent has played. (You don't get the reward.)"
+            ]
+        },
+        {
+            "number": "43",
+            "name": "Baby Dragon",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "3",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Dragon"
+            ],
+            "dmgEachTurn": "3",
+            "health": "2",
+            "flavorText": "''Hagrid,' said Hermione, 'how fast do Norwegian Ridgebacks grow, exactly?''",
+            "rarity": "Uncommon",
+            "artist": "Michael Koelsch",
+            "effect": [
+                "To play this card, discard 1 of your Care of Magical Creatures Lessons from play."
+            ]
+        },
+        {
+            "number": "44",
+            "name": "Bluebell Flames",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "7",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'Bright blue flames shot from her wand...'",
+            "rarity": "Uncommon",
+            "artist": "Marcelo Vignali",
+            "effect": [
+                "Do 4 damage to your opponent or to a Creature of your choice."
+            ]
+        },
+        {
+            "number": "45",
+            "name": "Burning Bitterroot Balm",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "6",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Healing"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Monte Michael Moore",
+            "effect": [
+                "To play this card, discard 1 of your Potions Lessons from play. Shuffle up to 10 non-Healing cards from your discard pile into your deck."
+            ]
+        },
+        {
+            "number": "46",
+            "name": "Cage",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "2",
+            "type": [
+                "Item"
+            ],
+            "provides": [
+                {
+                    "lesson": "Care of Magical Creatures",
+                    "amount": "1"
+                }
+            ],
+            "rarity": "Uncommon",
+            "artist": "Jeff Laubenstein",
+            "effect": [
+                "During your turn, you may discard this card from play and use an Action to choose a Creature in play (yours or your opponent's) and return it to it's owner's hand."
+            ]
+        },
+        {
+            "number": "47",
+            "name": "Confundus",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "5",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Zina Saunders",
+            "effect": [
+                "Your opponent chooses 2 cards in his or her hand and discards them (1 if he or she only has 1)."
+            ]
+        },
+        {
+            "number": "48",
+            "name": "Diagon Alley",
+            "type": [
+                "Adventure"
+            ],
+            "flavorText": "'There were shops selling robes, shops selling telescopes and strange silver instruments Harry had never seen before...'",
+            "rarity": "Uncommon",
+            "artist": "Ron Spears",
+            "effect": [
+                "Your opponent can't use Actions to draw cards.",
+                "to solve: Your opponent skips a total of 7 Actions. (Those Actions don't need to be one right after the other.)",
+                "reward: Your opponent may draw any number of cards."
+            ],
+            "toSolve": "Your opponent skips a total of 7 Actions. (Those Actions don't need to be one right after the other.)",
+            "reward": "Your opponent may draw any number of cards."
+        },
+        {
+            "number": "49",
+            "name": "Dogbreath Potion",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "6",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Scott Lewis",
+            "effect": [
+                "To play this card, discard 1 of your Potions Lessons from play. Do 8 damage to your opponent or to a Creature of your choice."
+            ]
+        },
+        {
+            "number": "50",
+            "name": "Draco's Trick",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "7",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Uncommon",
+            "artist": "George Davis",
+            "effect": [
+                "Discard the Adventure you've played. You get the reward."
+            ]
+        },
+        {
+            "number": "51",
+            "name": "Dragon Heart Wand",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "5",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Wand"
+            ],
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": "3"
+                }
+            ],
+            "rarity": "Uncommon",
+            "artist": "James Bernardin",
+            "effect": [
+                "Play this card only if you have cards in play that provide at least 2 Charms Power. If you play this card, and you already have a Wand in play, discard the old one."
+            ]
+        },
+        {
+            "number": "52",
+            "name": "Fumos",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "7",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Uncommon",
+            "artist": "David Day",
+            "effect": [
+                "Do 2 damage to each Creature (even your own)."
+            ]
+        },
+        {
+            "number": "53",
+            "name": "Guard Dog",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "7",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Dog"
+            ],
+            "dmgEachTurn": "3",
+            "health": "5",
+            "flavorText": "'He let them in, struggling to keep a hold on the collar of an enourmous black boarhound.'",
+            "rarity": "Uncommon",
+            "artist": "Ron Spencer"
+        },
+        {
+            "number": "54",
+            "name": "Hiding From Snape",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Uncommon",
+            "artist": "James Bernardin",
+            "effect": [
+                "Your opponent can't play Item cards.",
+                "to solve: Your opponent chooses 4 Item cards in his or her hand and discards them.",
+                "reward: Your opponent may search his or her deck for any card and put it into his or her hand. Then your opponent shuffles his or her deck."
+            ],
+            "toSolve": "Your opponent chooses 4 Item cards in his or her hand and discards them.",
+            "reward": "Your opponent may search his or her deck for any card and put it into his or her hand. Then your opponent shuffles his or her deck."
+        },
+        {
+            "number": "55",
+            "name": "Kelpie",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "3",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Kelpie"
+            ],
+            "dmgEachTurn": "1",
+            "health": "5",
+            "flavorText": "'The mountains around the school became icy grey and the lake like chilled steel.'",
+            "rarity": "Uncommon",
+            "artist": "Greg Hildebrandt",
+            "effect": [
+                "To play this card, discard 1 of your Care of Magical Creature Lessons from play. Whenever a Spell card damages you, you may let Kelpie take that damage instead."
+            ]
+        },
+        {
+            "number": "56",
+            "name": "Logic Puzzle",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "6",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'Hermione let out a great sigh and Harry, amazed, saw that she was smiling...'",
+            "rarity": "Uncommon",
+            "artist": "Jon Foster",
+            "effect": [
+                "Discard the Adventure your opponent has played. You get the reward."
+            ]
+        },
+        {
+            "number": "57",
+            "name": "Mysterious Egg",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "4",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "''But what are you going to do with it when it's hatched?' said Hermione.'",
+            "rarity": "Uncommon",
+            "artist": "Bob Petillo",
+            "effect": [
+                "Search your deck. You may take a Creature card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck."
+            ]
+        },
+        {
+            "number": "58",
+            "name": "Nurture",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'Isn't he beautiful?' Hagrid murmured.",
+            "rarity": "Uncommon",
+            "artist": "Patrick Faricy",
+            "effect": [
+                "Remove all damage counters from all of your Creatures."
+            ]
+        },
+        {
+            "number": "59",
+            "name": "Ollivanders",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "1",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'The pile of tried wands was mounting higher and higher on the spindly chair, but the more wands Mr Ollivander pulled from the shelves, the happier he seemed to become.'",
+            "rarity": "Uncommon",
+            "artist": "Jon Foster",
+            "effect": [
+                "Put an Item card from your discard pile into your hand."
+            ]
+        },
+        {
+            "number": "60",
+            "name": "Peeves Causes Trouble",
+            "type": [
+                "Adventure"
+            ],
+            "flavorText": "'There was a pop and a little man with wicked dark eyes and a wide mouth appeared, floating cross-legged in the air, clutching the walking sticks.'",
+            "rarity": "Uncommon",
+            "artist": "Michael Koelsch",
+            "effect": [
+                "Whenever your opponent draws 1 or more cards, he or she then takes 1 damage.",
+                "to solve: Your opponent skips a total of 5 Actions. (Those Actions don't need to be one right after the other.)",
+                "reward: You take 3 damage."
+            ],
+            "toSolve": "Your opponent skips a total of 5 Actions. (Those Actions don't need to be one right after the other.)",
+            "reward": "You take 3 damage."
+        },
+        {
+            "number": "61",
+            "name": "Pet Toad",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "2",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Toad"
+            ],
+            "health": "1",
+            "flavorText": "''Don't know why he's so bothered,' said Ron. 'If I'd brought a toad I'd lose it as quick as I could.''",
+            "rarity": "Uncommon",
+            "artist": "Zina Saunders",
+            "effect": [
+                "Whenever a Spell card damages you, you may let Pet Toad take that damage instead."
+            ]
+        },
+        {
+            "number": "62",
+            "name": "Pomfrey's Pick-Me-Up",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "3",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Healing"
+            ],
+            "flavorText": "'Madam Pomfrey came over at that moment...'",
+            "rarity": "Uncommon",
+            "artist": "Jason Bernardin",
+            "effect": [
+                "Put up to 3 non-Healing cards from your discard pile on the bottom of your deck (in any order). Then draw a card."
+            ]
+        },
+        {
+            "number": "63",
+            "name": "Potions Exam",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "10",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Jason Bernardin",
+            "effect": [
+                "Your opponent chooses 3 of his or her cards in play and discards them (if your opponent has fewer than 3 cards in play he or she discards them all). Your opponent may prevent this by discarding 1 of his or her Potions Lessons in play and discarding it."
+            ]
+        },
+        {
+            "number": "64",
+            "name": "Reptile House",
+            "type": [
+                "Adventure"
+            ],
+            "flavorText": "'It gave Harry a look that said quite plainly: 'I get that all the time.''",
+            "rarity": "Uncommon",
+            "artist": "Michael Koelsch",
+            "effect": [
+                "Your opponent can't use more than 1 Action to play Lesson cards during each of his or her turns.",
+                "to solve: Your opponent chooses 4 of his or her Lessons in play and discards them.",
+                "reward: Your opponent may draw a card."
+            ],
+            "toSolve": "Your opponent chooses 4 of his or her Lessons in play and discards them.",
+            "reward": "Your opponent may draw a card."
+        },
+        {
+            "number": "65",
+            "name": "Silver Cauldron",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "8",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Cauldron"
+            ],
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": "5"
+                }
+            ],
+            "rarity": "Uncommon",
+            "artist": "Kevin Dobler",
+            "effect": [
+                "To play this card, discard 2 of your Potions Lessons from play."
+            ]
+        },
+        {
+            "number": "66",
+            "name": "Snuffling Potion",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "4",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Mark Romanoski",
+            "effect": [
+                "Next turn, whenever your opponent draws a card, he or she discards it instead of putting it into his or her hand."
+            ]
+        },
+        {
+            "number": "67",
+            "name": "Stupefy",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "6",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'I arrived in time to prevent that...' - Albus Dumbledore",
+            "rarity": "Uncommon",
+            "artist": "Tim Hildebrandt",
+            "effect": [
+                "Do 5 damage to your opponent."
+            ]
+        },
+        {
+            "number": "68",
+            "name": "Take Root",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "5",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Monte Michael Moore",
+            "effect": [
+                "Your opponent chooses 1 of his or her Creatures in play and discards it."
+            ]
+        },
+        {
+            "number": "69",
+            "name": "Transmogrify",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Zina Saunders",
+            "effect": [
+                "To play this card, discard 1 of your Creatures from play. Search your deck. You may take a Creature card from your deck, show it to your opponent and put it in your hand. Then shuffle your deck."
+            ]
+        },
+        {
+            "number": "70",
+            "name": "Unusual Pets",
+            "type": [
+                "Adventure"
+            ],
+            "note": "Play this card only if your opponent has any Creatures in play.",
+            "flavorText": "'It's hatching.' - note from Hagrid",
+            "rarity": "Uncommon",
+            "artist": "Thomas Gianni",
+            "effect": [
+                "Before each of your turns, your opponent takes 4 damage.",
+                "to solve: Your opponent chooses 2 of his or her Creatures in play and discards them.",
+                "reward: Your opponent may draw a card."
+            ],
+            "toSolve": "Your opponent chooses 2 of his or her Creatures in play and discards them.",
+            "reward": "Your opponent may draw a card."
+        },
+        {
+            "number": "71",
+            "name": "Vanishing Glass",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "9",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Patrick Faricy",
+            "effect": [
+                "Play this card only if your opponent has any Lessons in play. Choose 1 of those Lessons and discard it. Search your deck. You may take a Creature card from your deck, show it to your opponent and put it in your hand. Then shuffle your deck."
+            ]
+        },
+        {
+            "number": "72",
+            "name": "Winged Keys",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "10",
+            "type": [
+                "Item"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ron Spears",
+            "effect": [
+                "Once during each of your turns, you may choose 1 of your opponent's Creatures in play. Prevent all damage done by that creature until the end of your opponent's next turn."
+            ]
+        },
+        {
+            "number": "73",
+            "name": "Accio",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'The Summoning Charm'",
+            "rarity": "Common",
+            "artist": "Chris Seaman",
+            "effect": [
+                "Put up to 2 Lesson cards from your discard pile into your hand."
+            ]
+        },
+        {
+            "number": "74",
+            "name": "Avifors",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Common",
+            "artist": "Kevin Dobler",
+            "effect": [
+                "Choose 1 of your opponent's Care of Magical Creatures Lessons in play and discard it."
+            ]
+        },
+        {
+            "number": "75",
+            "name": "Baubillious",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Common",
+            "artist": "George Davis",
+            "effect": [
+                "Do 1 damage to your opponent or to a Creature of your choice. Then draw a card."
+            ]
+        },
+        {
+            "number": "76",
+            "name": "Boa Constrictor",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "4",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Snake"
+            ],
+            "dmgEachTurn": "2",
+            "health": "2",
+            "flavorText": "'Brazil, here I come... Thanks, amigo.' - The Snake",
+            "rarity": "Common",
+            "artist": "Patrick Faricy"
+        },
+        {
+            "number": "77",
+            "name": "Boil Cure",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "1",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Healing"
+            ],
+            "flavorText": "Neville whimpered as boils started to pop up all over his nose.'",
+            "rarity": "Common",
+            "artist": "Jason Bernardin",
+            "effect": [
+                "Put up to 4 non-Healing cards from your discard pile on the bottom of your deck (in any order)."
+            ]
+        },
+        {
+            "number": "78",
+            "name": "Borrowed Wand",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "3",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Wand"
+            ],
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": "2"
+                }
+            ],
+            "rarity": "Common",
+            "artist": "Keith Garletts",
+            "effect": [
+                "If you play this card and you already have a Wand in play, discard the old one."
+            ]
+        },
+        {
+            "number": "79",
+            "name": "Cauldron to Sieve",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Common",
+            "artist": "Scott Lewis",
+            "effect": [
+                "Choose 1 of your opponent's Potions Lessons in play and discard it."
+            ]
+        },
+        {
+            "number": "80",
+            "name": "Curious Raven",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "2",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Bird"
+            ],
+            "dmgEachTurn": "1",
+            "health": "1",
+            "rarity": "Common",
+            "artist": "Melissa Ferreira"
+        },
+        {
+            "number": "81",
+            "name": "Dungbomb",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'Slipping and stumbling, they followed...'",
+            "rarity": "Common",
+            "artist": "Jason Bernardin",
+            "effect": [
+                "During your opponent's next turn, prevent all damage done to you by your opponent's Adventures and Creatures."
+            ]
+        },
+        {
+            "number": "82",
+            "name": "Epoximise",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Common",
+            "artist": "Marcelo Vignali",
+            "effect": [
+                "Choose 1 of your opponent's Charms Lessons in play and discard it."
+            ]
+        },
+        {
+            "number": "83",
+            "name": "Erumpent Potion",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "3",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Common",
+            "artist": "Bob Petillo",
+            "effect": [
+                "Do 1 damage to your opponent or to a Creature of your choice."
+            ]
+        },
+        {
+            "number": "84",
+            "name": "Fluffy Falls Asleep",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "3",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'In the few seconds' silence, the dog growled and twitched, but the moment Hermione began to play, it fell back into its deep sleep.'",
+            "rarity": "Common",
+            "artist": "Scott Lewis",
+            "effect": [
+                "Choose a Creature in play and return it to its owner's hand."
+            ]
+        },
+        {
+            "number": "85",
+            "name": "Forest Troll",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "2",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Troll"
+            ],
+            "dmgEachTurn": "2",
+            "health": "3",
+            "flavorText": "'It was holding a huge wooden club, which dragged along the floor because the arms were so long.'",
+            "rarity": "Common",
+            "artist": "Chris Seaman",
+            "effect": [
+                "To play this card, discard 1 of your Care of Magical Creatures Lessons from play."
+            ]
+        },
+        {
+            "number": "86",
+            "name": "Forgetfulness Potion",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "7",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'Snape made them all nervous, breathing down their necks while they tried to remember how to make a Forgetfulness Potion.'",
+            "rarity": "Common",
+            "artist": "Michael T. Collins",
+            "effect": [
+                "To play this card, discard 1 of your Potions Lessons from play. During your opponent's next turn, he or she can't play cards."
+            ]
+        },
+        {
+            "number": "87",
+            "name": "Foul Brew",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "5",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'Barrels of slimy stuff stood on the floor, jars of herbs, dried roots and bright powders lined the walls, bundles of feathers, strings of fangs and snarled claws hung from the ceiling.'",
+            "rarity": "Common",
+            "artist": "Ron Spencer",
+            "effect": [
+                "Do 2 damage to your opponent or to a Creature of your choice."
+            ]
+        },
+        {
+            "number": "88",
+            "name": "Giant Tarantula",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "1",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Spider"
+            ],
+            "dmgEachTurn": "2",
+            "health": "1",
+            "flavorText": "'The boy lifted the lid of a box in his arms and the people around him shriekedand yelled as something inside poked out a long, hairy leg.'",
+            "rarity": "Common",
+            "artist": "Jeff Laubenstein",
+            "effect": [
+                "To play this card, discard 1 of your Care of Magical Creatures Lessons from play."
+            ]
+        },
+        {
+            "number": "89",
+            "name": "Hagrid and the Stranger",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "4",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'...yeh get a lot o' funny folk in the Hog's Head -- that's the pub down in the village... I never saw his face, he kept his hood up.' - Rubeus Hagrid",
+            "rarity": "Common",
+            "artist": "Doug Chaffee",
+            "effect": [
+                "Put a Creature card from your discard pile into your hand."
+            ]
+        },
+        {
+            "number": "90",
+            "name": "Homework",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'It was really lucky that Harry now had Hermione as a friend. He didn't know how he'd have got through all his homework without her...'",
+            "rarity": "Common",
+            "artist": "Patrick Faricy",
+            "effect": [
+                "Put up to 2 Lesson cards from your hand into play."
+            ]
+        },
+        {
+            "number": "91",
+            "name": "Hospital Wing",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "4",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Healing"
+            ],
+            "rarity": "Common",
+            "artist": "Jason Bernardin",
+            "effect": [
+                "To play this card, discard 1 of your Potions Lessons from play. Shuffle up to 8 non-Healing cards from your discard pile into your deck."
+            ]
+        },
+        {
+            "number": "92",
+            "name": "Illegibilus",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "5",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Common",
+            "artist": "Jason Bernardin",
+            "effect": [
+                "Look at your opponent's hand. Choose 1 of those cards and discard it."
+            ]
+        },
+        {
+            "number": "93",
+            "name": "Incarcifors",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "6",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "''I'm glad we didnt have to fight that one,' Harry whispered, as they stepped carefully over one of it's massive legs.'",
+            "rarity": "Common",
+            "artist": "Bob Petillo",
+            "effect": [
+                "Choose 1 of your opponent's Creatures in play and discard it."
+            ]
+        },
+        {
+            "number": "94",
+            "name": "Lost Notes",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "5",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Common",
+            "artist": "Monte Michael Monte",
+            "effect": [
+                "Choose 1 of your opponent's Items or Lessons in play and discard it."
+            ]
+        },
+        {
+            "number": "95",
+            "name": "Magical Mishap",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'Harry would have screamed, but he couldn't make a sound.'",
+            "rarity": "Common",
+            "artist": "Michael T. Collins",
+            "effect": [
+                "Do 3 damage to your opponent."
+            ]
+        },
+        {
+            "number": "96",
+            "name": "Noxious Poison",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "3",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'...the delicate power of liquids that creep through human veins, bewitching the mind, ensnaring the senses...' - Professor Severus Snape",
+            "rarity": "Common",
+            "artist": "Tommy Zimmerman",
+            "effect": [
+                "To play this card, discard 1 of your Potions Lessons from play. Do 5 damage to your opponent or to a Creature of your choice."
+            ]
+        },
+        {
+            "number": "97",
+            "name": "Out of the Woods",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "5",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'In a matter of seconds, though, he was wide-eyed as Harry began to tell him and Hermione what had happened in the Forest.'",
+            "rarity": "Common",
+            "artist": "Michael Koelsch",
+            "effect": [
+                "Look at your opponent's hand. Discard all Creature cards from it."
+            ]
+        },
+        {
+            "number": "98",
+            "name": "Pet Rat",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "1",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Rat"
+            ],
+            "dmgEachTurn": "1",
+            "health": "4",
+            "flavorText": "'His name's Scabbers and he's useless, he hardly ever wakes up.' - Ron Weasley",
+            "rarity": "Common",
+            "artist": "Tommy Zimmerman",
+            "effect": [
+                "To play this card, discard 1 of your Care of Magical Creatures Lessons from play."
+            ]
+        },
+        {
+            "number": "99",
+            "name": "Pewter Cauldron",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "5",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Cauldron"
+            ],
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": "3"
+                }
+            ],
+            "rarity": "Common",
+            "artist": "Tommy Zimmerman",
+            "effect": [
+                "To play this card, discard 1 of your Potions Lessons from play."
+            ]
+        },
+        {
+            "number": "100",
+            "name": "Potions Mistake",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "6",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'You are here to learn the subtle science and exact art of potion-making'...' - Professor Severus Snape",
+            "rarity": "Common",
+            "artist": "Daren Bader",
+            "effect": [
+                "To play this card, discard 3 of your Potions Lessons from play. Choose 1 of your opponent's Creatures or Items in play and discard it."
+            ]
+        },
+        {
+            "number": "101",
+            "name": "Remembrall",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "8",
+            "type": [
+                "Item"
+            ],
+            "rarity": "Common",
+            "artist": "Marcelo Vignali",
+            "effect": [
+                "During your turn, you may use an Action to put a Lesson card from your discard pile into play."
+            ]
+        },
+        {
+            "number": "102",
+            "name": "Restricted Section",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'These were the books containing powerful Dark Magic never taught at Hogwarts...'",
+            "rarity": "Common",
+            "artist": "Marcelo Vignali",
+            "effect": [
+                "Choose 1 of your opponent's Transfiguration Lessons in play and discard it."
+            ]
+        },
+        {
+            "number": "103",
+            "name": "Scottish Stag",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "4",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Deer"
+            ],
+            "dmgEachTurn": "1",
+            "health": "5",
+            "flavorText": "'... the path became almost impossible to follow because the trees were so thick.'",
+            "rarity": "Common",
+            "artist": "Doug Chaffee"
+        },
+        {
+            "number": "104",
+            "name": "Snape's Question",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "3",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "''I don't know, sir,' said Harry. Snape's lips curled into a sneer.'",
+            "rarity": "Common",
+            "artist": "Daren Bader",
+            "effect": [
+                "Do 4 damage to your opponent. Your opponent may prevent this damage by showing you a Potions Lesson from his or her hand."
+            ]
+        },
+        {
+            "number": "105",
+            "name": "Squiggle Quill",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "2",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Common",
+            "artist": "Marcelo Vignali",
+            "effect": [
+                "Choose 1 of your opponent's Items in play and discard it."
+            ]
+        },
+        {
+            "number": "106",
+            "name": "Steelclaw",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": "4",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Common",
+            "artist": "Tim Hildebrandt",
+            "effect": [
+                "All your creatures do damage to your opponent."
+            ]
+        },
+        {
+            "number": "107",
+            "name": "Surly Hound",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "3",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Dog"
+            ],
+            "dmgEachTurn": "1",
+            "health": "3",
+            "flavorText": "'When Harry knocked they heard a frantic scrabbling from inside and several booming barks.'",
+            "rarity": "Common",
+            "artist": "Scott Lewis"
+        },
+        {
+            "number": "108",
+            "name": "Toe Biter",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "3",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Common",
+            "artist": "Michael T. Collins",
+            "effect": [
+                "Do 2 damage to your opponent. You may also choose a Creature and do 2 damage to it."
+            ]
+        },
+        {
+            "number": "109",
+            "name": "Vermillious",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "4",
+            "type": [
+                "Spell"
+            ],
+            "rarity": "Common",
+            "artist": "Chris Seaman",
+            "effect": [
+                "Do 3 damage to your opponent or to a Creature of your choice."
+            ]
+        },
+        {
+            "number": "110",
+            "name": "Vicious Wolf",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": "6",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Wolf"
+            ],
+            "dmgEachTurn": "3",
+            "health": "3",
+            "rarity": "Common",
+            "artist": "Patrick Faricy"
+        },
+        {
+            "number": "111",
+            "name": "Wingardium Leviosa!",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "1",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'The club flew suddenly out of the troll's hand, rose high, high up into the air...'",
+            "rarity": "Common",
+            "artist": "Ron Spencer",
+            "effect": [
+                "During your opponent's next turn, prevent all damage done to you by your opponent's Creatures."
+            ]
+        },
+        {
+            "number": "112",
+            "name": "Wizard Crackers",
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "1",
+            "type": [
+                "Spell"
+            ],
+            "flavorText": "'Harry pulled a wizard cracker with Fred and it didn't just bang, it went off with a blast like a cannon...'",
+            "rarity": "Common",
+            "artist": "Patrick Faricy",
+            "effect": [
+                "Reveal the top card of your deck. If it's a Lesson card, put it into play. If it isn't, put the card in your hand."
+            ]
+        },
+        {
+            "number": "113",
+            "name": "Care of Magical Creatures",
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Care of Magical Creatures",
+                    "amount": "1"
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "114",
+            "name": "Charms",
+            "lesson": [
+                "Charms"
+            ],
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": "1"
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "115",
+            "name": "Potions",
+            "lesson": [
+                "Potions"
+            ],
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": "1"
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "116",
+            "name": "Transfiguration",
+            "lesson": [
+                "Transfiguration"
+            ],
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Transfiguration",
+                    "amount": "1"
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
                 "Shanth Enjeti",
                 "Melissa Ferreira"
             ]
