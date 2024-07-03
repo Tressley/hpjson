@@ -1114,7 +1114,7 @@
             ],
             "cost": 3,
             "rarity": "Common",
-			"provides": [
+            "provides": [
                 {
                     "lesson": "Quidditch",
                     "amount": 1
