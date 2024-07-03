@@ -54,7 +54,7 @@
             ],
             "cost": 7,
             "rarity": "Rare",
-			"provides": [
+            "provides": [
                 {
                     "lesson": "Charms",
                     "amount": 1
