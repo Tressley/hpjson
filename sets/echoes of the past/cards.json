@@ -1,0 +1,1670 @@
+{
+    "setName": "Echoes of the Past",
+    "releaseDate": "06-2023",
+    "totalCards": "90",
+    "cards": [
+        {
+            "number": "1",
+            "name": "Buckbeak's Execution",
+            "artist": "Pottermore",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Dark",
+                "Unique"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 5,
+            "rarity": "Rare",
+            "effect": [
+                "To play this card, discard 2 of your [P] Lessons from play.  Before each of your turns, if there are any Creatures in play, choose 1 of them and discard it. Then, if there are no Creatures in play, discard this card."
+            ]
+        },
+        {
+            "number": "2",
+            "name": "Cedric Diggory",
+            "artist": "Paolo Maria Breda",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard",
+                "Hufflepuff",
+                "Seeker",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘“He’s that tall, good-looking one, isn’t he?” said Angelina.“Strong and silent,” said Katie, and they started to giggle again.’",
+            "effect": [
+                "Once per game, you may discard your hand and then draw 6 cards."
+            ]
+        },
+        {
+            "number": "3",
+            "name": "Cho Chang",
+            "artist": "Paolo Maria Breda",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Witch",
+                "Ravenclaw",
+                "Seeker",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘She was undoubtedly a very good flier — she kept cutting across him, forcing him to change direction.’",
+            "effect": [
+                "At the end of each of your turns, if an opponent has more Lessons in play than you, you may search your deck. You may take up to 2 [Q] Lessons from your deck, reveal them, put 1 into play and the rest into your hand, and then shuffle your deck."
+            ]
+        },
+        {
+            "number": "4",
+            "name": "Confronting Black",
+            "artist": "Mary GrandPre",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Marauder",
+                "Unique"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 9,
+            "rarity": "Rare",
+            "flavorText": "‘Now was the moment to avenge his mother and father. He was going to kill Black. He had to kill Black.’",
+            "effect": [
+                "Before each of your turns, count the number of Marauder cards that you have in your discard pile and in play. Do that much damage to an opponent."
+            ]
+        },
+        {
+            "number": "5",
+            "name": "Confusing Concoction",
+            "artist": "Loukho",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 10,
+            "rarity": "Rare",
+            "effect": [
+                "To play this card, discard 1 of your [P] Lessons from play. Choose an opponent. During their next turn, when you would take any amount of damage, instead do that much damage to them, and whenever they would draw any number of cards, except during their draw step, instead you draw that many cards."
+            ]
+        },
+        {
+            "number": "6",
+            "name": "Crookshanks",
+            "artist": "Felicia Cano",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Cat",
+                "Unique"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 6,
+            "rarity": "Rare",
+            "flavorText": "...it was definitely a bit bowlegged and its face looked grumpy and oddly squashed, as though it had run headlong into a brick wall.'",
+            "dmgEachTurn": 2,
+            "health": 1,
+            "effect": [
+                "When you play this card, you may choose a player. That player shuffles their hand into their deck, then draws 4 cards."
+            ]
+        },
+        {
+            "number": "7",
+            "name": "Dementor's Kiss",
+            "artist": "Paolo Maria Breda",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Dark",
+                "Unique"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 6,
+            "rarity": "Rare",
+            "effect": [
+                "When you play this card, choose a Character in play and put it under this card. Cards that share Uniqueness with the chosen card cannot be played.  If this card would leave play, you may instead discard 3 cards from your hand."
+            ]
+        },
+        {
+            "number": "8",
+            "name": "Derrick and Bole",
+            "artist": "A3ulez",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard",
+                "Slytherin",
+                "Beater",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘“He’s made some changes in the lineup and seems to be going for size rather than skill —”’ — Lee Jordan",
+            "effect": [
+                "You may use an Action and discard a Lesson from your hand. If you do, choose an opponent. During their next turn, they get 1 fewer Action. (If this would mean your opponent has fewer than 1 Action, they still get 1 Action.)"
+            ]
+        },
+        {
+            "number": "9",
+            "name": "Dreaming of the Cup",
+            "artist": "Unknown",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 7,
+            "rarity": "Rare",
+            "flavorText": "‘... no amount of mud, wind, or rain could tarnish Harry’s wonderful vision of finally winning the huge, silver Quidditch Cup.’",
+            "effect": [
+                "If you have a Beater, Keeper, Chaser and Seeker in play, whenever you use an Action to play a Match, you win the Match."
+            ]
+        },
+        {
+            "number": "10",
+            "name": "Hermione, Overworked Student",
+            "artist": "Alexandra Curte",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Witch",
+                "Gryffindor",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘“Is there any point asking how you’re going to sit for two exams at once?”’ — Harry Potter",
+            "effect": [
+                "Once per turn, if you have at least 5 Lessons in your discard pile, you may use an Action to put up to 2 non-Advanced Lessons from your discard pile into play."
+            ]
+        },
+        {
+            "number": "11",
+            "name": "Hermione's Time Turner",
+            "artist": "ValentinaDMArt",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 5,
+            "rarity": "Rare",
+            "effect": [
+                "Before each of your turns, you may put a Lesson from your hand into play.  At the end of each of your turns, you may discard 1 of your Lessons from play. If you do,  you may search your deck for a Unique card, reveal it, and put it into your hand, then shuffle your deck."
+            ]
+        },
+        {
+            "number": "12",
+            "name": "Moony",
+            "artist": "Loukho",
+            "type": [],
+            "subTypes": [
+                "Character Creature",
+                "Werewolf",
+                "Marauder",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "dmgEachTurn": 3,
+            "health": 3,
+            "effect": [
+                "Play this card only if you have at least 5 Lessons in play.  Once per game, you may put up to 5 cards in an opponent's discard pile on the bottom of their deck in any order. Then do that much damage to that opponent."
+            ]
+        },
+        {
+            "number": "13",
+            "name": "Oliver's Last Play",
+            "artist": "Vladislav Pantic",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 15,
+            "rarity": "Rare",
+            "effect": [
+                "This card costs 2 less Power to play for every Beater, Chaser, Keeper and Seeker you have in play. Do 8 damage to an opponent. Then they choose 2 of their cards in play and discard them."
+            ]
+        },
+        {
+            "number": "14",
+            "name": "Oliver the Captain",
+            "artist": "Vladislav Pantic",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard",
+                "Gryffindor",
+                "Keeper",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "\"This is our last chance - my lasty chance - to \"win the Quidditch cup.\"\" -Oliver Wood",
+            "effect": [
+                "Before each of your turns, if you at least 1 Beater, 3 Chasers, 1 Keeper, and 1 Seeker in play, you win the game."
+            ]
+        },
+        {
+            "number": "15",
+            "name": "Padfoot",
+            "artist": "Vladislav Pantic",
+            "type": [],
+            "subTypes": [
+                "Character Creature",
+                "Animagus",
+                "Marauder",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "dmgEachTurn": 1,
+            "health": 4,
+            "effect": [
+                "Play this card only if you have at least 5 Lessons in play.  Once per game, you may reveal your hand. If there are at least 5 different card types among the cards in your hand, you may put an Event from your hand into play."
+            ]
+        },
+        {
+            "number": "16",
+            "name": "Patronus",
+            "artist": "Nesskain",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Patronus"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 5,
+            "rarity": "Rare",
+            "flavorText": "\"The Patronus is a knid of positive force,a projection of the very things that the dementor feeds upon - hope, happiness, the desire to survive...\" - Professor Remus Lupin",
+            "dmgEachTurn": 1,
+            "health": 3,
+            "effect": [
+                "Players cannot play Dark cards."
+            ]
+        },
+        {
+            "number": "17",
+            "name": "Pettigrew's Treachery",
+            "artist": "Lushies-Art",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Dark"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 8,
+            "rarity": "Rare",
+            "effect": [
+                "To play this card, discard 1 of your [P] Lessons from play. Choose a Character in play (other than a starting Character) that an opponent put into play during their last turn. Take control of that Character. If it has a \"Once per game\" ability that has already been used, use that ability."
+            ]
+        },
+        {
+            "number": "18",
+            "name": "Pigwidgeon",
+            "artist": "maryquize",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Owl",
+                "Unique"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 4,
+            "rarity": "Rare",
+            "flavorText": "\"I thought your friend Ron might like to keep this owl, as it's my fault he no longer has a rat.\" - Sirius Black",
+            "dmgEachTurn": 1,
+            "health": 1,
+            "effect": [
+                "To play this card, discard 1 of your [F] Lessons from play. Before each of your turns, draw 2 cards, then discard 1 card from your hand."
+            ]
+        },
+        {
+            "number": "19",
+            "name": "Professor Flitwick, Charms Master",
+            "artist": "Vladislav Pantic",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard",
+                "Ravenclaw",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "\"...Flitwick was a dueling champion when he was young...\" - Hermione Granger",
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": 1
+                }
+            ],
+			"effect": [
+                "Before each of your turns, you may discard a card from your hand. If you do, until the end of your turn, card effects cannot prevent you from playing Spells."
+            ]
+        },
+        {
+            "number": "20",
+            "name": "Roger Davies",
+            "artist": "Daniela Hofer",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard",
+                "Ravenclaw",
+                "Chaser",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "effect": [
+                "Once per game, you may search your deck and discard pile. You may take up to 2 non-Healing Matches from your deck and/or discard pile, reveal them, and put them into your hand. Then shuffle your deck."
+            ]
+        },
+        {
+            "number": "21",
+            "name": "SMACK!",
+            "artist": "Pskibobby",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 15,
+            "rarity": "Rare",
+            "flavorText": "‘Harry and Ron both made furious moves toward Malfoy, but Hermione got there first ...’",
+            "effect": [
+                "Choose an opponent. They may discard any number of their cards from play and/or from their hand. Then, count the number of cards they have in their hand and in play. Do twice that much damage to that opponent."
+            ]
+        },
+        {
+            "number": "22",
+            "name": "Three Turns",
+            "artist": "Allyssinian",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 12,
+            "rarity": "Rare",
+            "flavorText": "‘“Miss Granger, three turns should do it. Good luck.”’ — Albus Dumbledore",
+            "effect": [
+                "Choose a non-Healing card in your discard pile other than Three Turns. Play that card without using any Actions."
+            ]
+        },
+        {
+            "number": "23",
+            "name": "Walden MacNair",
+            "artist": "Madeline Nagel",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard",
+                "Ministry",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘“... an’ the executioner, Macnair, he’s an old pal o’ Malfoy’s ... but it’ll be quick an’ clean ... an’ I’ll be beside him ...”’ — Professor Rubeus Hagrid",
+            "effect": [
+                "Whenever a Creature does damage to you, you may prevent all but the first 1 damage."
+            ]
+        },
+        {
+            "number": "24",
+            "name": "Watching the Map",
+            "artist": "Morgane Velten",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Rare",
+            "flavorText": "He raised the map, tapped it with the tip of his wand, and muttered, \"Mischief managed!\"'",
+            "effect": [
+                "Play this card only if you have at least 5 Lessons in play.",
+                "Your opponent cannot use Actions.",
+                "to solve: Your opponent ends their turn.",
+                "reward: You discard your hand. During your next turn, you may not play Adventures."
+            ],
+            "toSolve": "Your opponent ends their turn.",
+            "reward": "You discard your hand. During your next turn, you may not play Adventures."
+        },
+        {
+            "number": "25",
+            "name": "Wormtail",
+            "artist": "Felicia Cano",
+            "type": [],
+            "subTypes": [
+                "Character Creature",
+                "Animagus",
+                "Marauder",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "dmgEachTurn": 1,
+            "health": 3,
+            "effect": [
+                "Play this card only if you have at least 5 Lessons in play.  Once per game, you may choose an Event in play and discard it, then do damage to an opponent equal to that card's printed Power cost."
+            ]
+        },
+        {
+            "number": "26",
+            "name": "Animagus",
+            "artist": "Deeterhi",
+            "type": [],
+            "subTypes": [
+                "Character Creature",
+                "Animagus"
+            ],
+            "rarity": "Uncommon",
+            "flavorText": "‘“It takes years to become an Animagus, and then you have to register yourself and everything.”’ — Hermione Granger",
+            "dmgEachTurn": 2,
+            "health": 2,
+            "effect": [
+                "To play this card, discard 1 of your Lessons from play."
+            ]
+        },
+        {
+            "number": "27",
+            "name": "Astronomy Homework",
+            "artist": "Elinor Riley",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Divination",
+                "Revelation"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "effect": [
+                "If this card is discarded from your hand, you may draw a card.  Choose an opponent's card in play with printed Power cost less than or equal to 3 and discard it."
+            ]
+        },
+        {
+            "number": "28",
+            "name": "Battered Old Suitcase",
+            "artist": "AlonsoCalder42",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 3,
+            "rarity": "Uncommon",
+            "effect": [
+                "If there are fewer than 3 cards under this card, whenever you discard cards from your hand, put 1 of them under this card face down.  During your turn you may discard this card from play. If you do, put all cards under this card into your hand."
+            ]
+        },
+        {
+            "number": "29",
+            "name": "Beater's Retribution",
+            "artist": "Elinor Riley",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 10,
+            "rarity": "Uncommon",
+            "flavorText": "Bole hit Alicia with his club and tried to say he'd thought she was a Bludger.'",
+            "effect": [
+                "Do 7 damage to an opponent. If you have 10 or fewer cards in your deck, instead do 15 damage to an opponent and discard your hand."
+            ]
+        },
+        {
+            "number": "30",
+            "name": "Centaur",
+            "artist": "maryquize",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Centaur",
+                "Divination",
+                "Revelation"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "flavorText": "‘“Mars is bright tonight. Unusually bright.”’ — Ronan",
+            "dmgEachTurn": 2,
+            "health": 1,
+            "effect": [
+                "If this card is discarded from your hand, you may draw a card."
+            ]
+        },
+        {
+            "number": "31",
+            "name": "Cheering Charm",
+            "artist": "Dina M. Nealey",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "flavorText": "‘...  the class left for lunch, all grinning broadly — the Cheering Charms had left them with a feeling of great contentment.’",
+            "effect": [
+                "Put a non-Healing Spell from your discard pile into your hand."
+            ]
+        },
+        {
+            "number": "32",
+            "name": "Confiscated Map",
+            "artist": "Vizen VHizen",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 3,
+            "rarity": "Uncommon",
+            "effect": [
+                "When you play this card, discard 4 cards from your hand. You may discard 1 less card for every Power you have above 3.  Your opponents cannot play Adventures or Events."
+            ]
+        },
+        {
+            "number": "33",
+            "name": "Deadly Prank",
+            "artist": "Harry Potter Spain",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Uncommon",
+            "effect": [
+                "Play this card only if you have at least 4 Lessons in play.",
+                "Before each of your turns, your opponent takes 3 damage.",
+                "to solve: Your opponent chooses 3 of their cards in play and discards them.",
+                "reward: Your opponent may search their deck for a Lesson, reveal it, and put it into play, then shuffle their deck."
+            ],
+            "toSolve": "Your opponent chooses 3 of their cards in play and discards them.",
+            "reward": "Your opponent may search their deck for a Lesson, reveal it, and put it into play, then shuffle their deck."
+        },
+        {
+            "number": "34",
+            "name": "Death Warrant",
+            "artist": "MothBoss",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 6,
+            "rarity": "Uncommon",
+            "effect": [
+                "When you play this card, name a non-Lesson card. Whenever an opponent uses an Action to play the named card, they take 10 damage."
+            ]
+        },
+        {
+            "number": "35",
+            "name": "Dementor Swarm",
+            "artist": "Liz F. Caballero",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Dementor",
+                "Dark"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "flavorText": "‘He could feel them watching him, hear their rattling breath like an evil wind around him.’",
+            "dmgEachTurn": 2,
+            "health": 6,
+            "effect": [
+                "To play this card, discard 1 of your [F] Lessons from play. Whenever an opponent plays a Character, they cannot use Actions or activate abilities until the end of their turn."
+            ]
+        },
+        {
+            "number": "36",
+            "name": "Dementors on the Lake",
+            "artist": "Sukiitoko",
+            "type": [
+                "Adventure"
+            ],
+            "subTypes": [
+                "Dark"
+            ],
+            "rarity": "Uncommon",
+            "effect": [
+                "When you play this card, if you have at least 4 Lessons in play, you get 1 more Action this turn.",
+                "To use Actions to play a Character, your opponent must discard 3 cards from their hand.",
+                "to solve: Your opponent lets you choose 3 of their cards in play. Return them to their owner's hand.",
+                "reward: Your opponent may draw a card."
+            ],
+            "toSolve": "Your opponent lets you choose 3 of their cards in play. Return them to their owner's hand.",
+            "reward": "Your opponent may draw a card."
+        },
+        {
+            "number": "37",
+            "name": "Empty Classroom",
+            "artist": "Vladimir Stana",
+            "type": [
+                "Location"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "flavorText": "‘He nodded toward an empty classroom to the left of the one-eyed statue. Harry followed Fred and George inside.’",
+            "effect": [
+                "Locations need 3 more Power to play."
+            ],
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+        },
+        {
+            "number": "38",
+            "name": "Exploding Charm",
+            "artist": "Vicky Leta",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 9,
+            "rarity": "Common",
+            "effect": [
+                "Count the amount of [C] Power you have. Do that much damage to an opponent."
+            ]
+        },
+        {
+            "number": "39",
+            "name": "Fire Omens",
+            "artist": "Mayshing",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Divination",
+                "Revelation"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "If this card is discarded from your hand, you may draw a card.  Do 3 damage to an opponent. Then draw a card."
+            ]
+        },
+        {
+            "number": "40",
+            "name": "Flitwick's Inspection",
+            "artist": "Caedes-Art",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 8,
+            "rarity": "Rare",
+            "flavorText": "‘“We’ve checked for most of the usual curses, but Professor Flitwick believes the broom might be carrying a Hurling Hex.”’ — Professor McGonagall",
+            "effect": [
+                "Choose an Item in play. Draw cards equal to the chosen Item's printed Power cost. Then each other player draws cards equal to the chosen Item's printed Power cost."
+            ]
+        },
+        {
+            "number": "41",
+            "name": "Full Moon",
+            "artist": "Naminpun",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 2,
+            "rarity": "Uncommon",
+            "flavorText": "‘There were suddenly dim shadows on the ground. Their party was bathed in moonlight.’",
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": 1
+                }
+            ],
+			"effect": [
+                "If you have at least 5 Lessons in play, whenever 1 of your Creatures does damage, it does 1 more damage."
+            ]
+        },
+        {
+            "number": "42",
+            "name": "Hermione's Secret",
+            "artist": "Eldensa",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 7,
+            "rarity": "Uncommon",
+            "flavorText": "‘“It’s called a Time-Turner,” Hermione whispered, “and I got it from Professor McGonagall on our first day back.”’",
+            "effect": [
+                "You may reveal any number of cards from your hand. For each card type revealed, do 2 damage to an opponent."
+            ]
+        },
+        {
+            "number": "43",
+            "name": "Immaculate Concoction",
+            "artist": "TheWolft27",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Healing",
+                "Divination",
+                "Revelation"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "effect": [
+                "If this card is discarded from your hand, you may draw a card.  Put up to 6 non-Healing cards from your discard pile on the bottom of your deck (in any order)."
+            ]
+        },
+        {
+            "number": "44",
+            "name": "Imminent Collision",
+            "artist": "Denisovslava",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 8,
+            "rarity": "Rare",
+            "effect": [
+                "Your opponent chooses 3 of their cards from their hand and/or in play and discards them. Then they may discard a Lesson from their hand. If they do, you choose 3 cards from your hand and/or in play and discard them."
+            ]
+        },
+        {
+            "number": "45",
+            "name": "Incorrect Interpretations",
+            "artist": "Leo Batic",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Divination",
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "flavorText": "‘“Who’d have thought it? That brings her total of real predictions up to two. I should offer her a pay raise. ...”’ — Albus Dumbledore",
+            "effect": [
+                "Whenever cards are put in an opponent's deck (even if they were already in the deck), do 2 damage to them."
+            ]
+        },
+        {
+            "number": "46",
+            "name": "Marauder Shenanigans",
+            "artist": "Comfort and Adam",
+            "type": [
+                "Adventure"
+            ],
+            "subTypes": [
+                "Marauder"
+            ],
+            "rarity": "Uncommon",
+            "effect": [
+                "Before each of your turns, if there is an Event in play, do 5 damage to your opponent.",
+                "to solve: Your opponent lets you search your deck. You may take up to 2 Events from your deck, reveal them, and put them into your hand. Then shuffle your deck.",
+                "reward: Your opponent may put up to 2 Lessons from their discard pile into their hand."
+            ],
+            "toSolve": "Your opponent lets you search your deck. You may take up to 2 Events from your deck, reveal them, and put them into your hand. Then shuffle your deck.",
+            "reward": "Your opponent may put up to 2 Lessons from their discard pile into their hand."
+        },
+        {
+            "number": "47",
+            "name": "Moonlit Transformation",
+            "artist": "Ichan-Desu",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Dark"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 8,
+            "rarity": "Uncommon",
+            "effect": [
+                "Choose 1 of your Wizards or Witches in play and discard it, then put a Creature from your hand into play. (You must still pay any additional costs to play the Creature.) That Creature does damage to an opponent."
+            ]
+        },
+        {
+            "number": "48",
+            "name": "Pumpkin Patch",
+            "artist": "Vladislav Pantic",
+            "type": [
+                "Location"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "When you play this card, discard any other Location from play.  Whenever a player would take damage, they may instead let 1 of their Creatures take that damage."
+            ]
+        },
+        {
+            "number": "49",
+            "name": "Star Charts",
+            "artist": "Arishatistic",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Divination",
+                "Revelation"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "effect": [
+                "If this card is discarded from your hand, you may draw a card.  Do 2 damage to an opponent. Then, if that opponent has any cards in play, they choose 1 of them and return it to its owner's hand."
+            ]
+        },
+        {
+            "number": "50",
+            "name": "The Marauder's Legacy",
+            "artist": "Noisy Matter",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Marauder",
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 6,
+            "rarity": "Uncommon",
+            "effect": [
+                "Your Marauder cards need 3 less Power and 1 less Action to play. (You still need at least 1 Power that matches. If this means you would use fewer than 1 Action, you still use 1 Action.)"
+            ]
+        },
+        {
+            "number": "51",
+            "name": "Time Travel Hijinks",
+            "artist": "Prydester",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Rare",
+            "effect": [
+                "Play this card only if you have at least 4 Lessons in play.",
+                "Before each of your opponent's turns, they choose a card they control with the highest printed Power cost and place it under this card. When this card leaves play, return all cards under this card to their owners' hands.",
+                "to solve: Your opponent discards 3 cards from their hand that share a Lesson type with a card under this card.",
+                "reward: Your opponent may draw 3 cards or do 3 damage to you."
+            ],
+            "toSolve": "Your opponent discards 3 cards from their hand that share a Lesson type with a card under this card.",
+            "reward": "Your opponent may draw 3 cards or do 3 damage to you."
+        },
+        {
+            "number": "52",
+            "name": "Trelawney's Prediction",
+            "artist": "Alina Samsomenko",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Divination"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 8,
+            "rarity": "Rare",
+            "effect": [
+                "Choose a card type that an opponent has in play. Reveal cards from the top of your deck until you reveal a card of the chosen card type, then discard all revealed cards. That opponent reveals cards from the top of their deck until they reveal a card of the chosen card type, then they discard all revealed cards."
+            ]
+        },
+        {
+            "number": "53",
+            "name": "Victory Party",
+            "artist": "Laurbits",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 7,
+            "rarity": "Uncommon",
+            "effect": [
+                "You may play this card without using an Action if you have won a Match this turn. You get 2 more Actions this turn. You may only play 1 Victory Party each turn."
+            ]
+        },
+        {
+            "number": "54",
+            "name": "Biased Referee",
+            "artist": "Unknown",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "effect": [
+                "Whenever your opponent makes progress towards winning a Match, increase your progress by half that amount, rounded up. (If both players would win the match, your opponent is the winner.)"
+            ]
+        },
+        {
+            "number": "55",
+            "name": "Blood Pops",
+            "artist": "Sophia Del Plato",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Candy"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "flavorText": "‘“Ugh, no, Harry won’t want one of those, they’re for vampires, I expect.”’ — Hermione Granger",
+            "effect": [
+                "Discard the top card of your deck. If it shares a card type with a card an opponent has in play, you may choose 1 of those cards and discard it. Then draw a card."
+            ]
+        },
+        {
+            "number": "56",
+            "name": "Cancelled Match",
+            "artist": "HogwartsHorror",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 6,
+            "rarity": "Common",
+            "flavorText": "‘“We’re not playing Slytherin!” he told them, looking very angry. “Flint’s just been to see me.”’",
+            "effect": [
+                "Choose up to 2 Beaters, Chasers, Keepers, and/or Seekers in play and return them to their owners' hands."
+            ]
+        },
+        {
+            "number": "57",
+            "name": "Caught by Dementors",
+            "artist": "Anastasia Menshikova",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Dark"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "flavorText": "‘... a pair of strong, clammy hands suddenly attached themselves around Harry’s neck.’",
+            "effect": [
+                "Choose a non-Lesson card type. During your opponent's next turn, they cannot play cards of the chosen type."
+            ]
+        },
+        {
+            "number": "58",
+            "name": "Chilling Fog",
+            "artist": "Frederic Hernandsen",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Dark"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "flavorText": "‘And then the thing beneath the hood, whatever it was, drew a long, slow, rattling breath, as though it were trying to suck something more than air from its surroundings.’",
+            "effect": [
+                "Do 1 damage to each Creature in play (even your own)."
+            ]
+        },
+        {
+            "number": "59",
+            "name": "Cho's Comet",
+            "artist": "AlonsoCalder42",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Broom"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+			"provides": [
+                {
+                    "lesson": "Quidditch",
+                    "amount": 1
+                }
+            ],
+            "effect": [
+                "If this card is discarded from play, put it into its owner's hand."
+            ]
+        },
+        {
+            "number": "60",
+            "name": "Crookshanks' Aid",
+            "artist": "Marta",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Marauder"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "effect": [
+                "You may put a non-Healing Marauder card from your discard pile into your hand. Until the end of the turn, your Marauder cards do not require Power that matches to play."
+            ]
+        },
+        {
+            "number": "61",
+            "name": "Crystal Ball",
+            "artist": "AlonsoCalder42",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Divination"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "effect": [
+                "You may use an Action to draw 3 cards, then put 2 cards from your hand on top of your deck in any order."
+            ]
+        },
+        {
+            "number": "62",
+            "name": "Determined Training",
+            "artist": "ArashiYuka",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "flavorText": "‘Full of determination, the team started training sessions, three evenings a week.’",
+            "effect": [
+                "Discard any number of cards from your hand. Draw that many cards plus 1."
+            ]
+        },
+        {
+            "number": "63",
+            "name": "Disarming Snape",
+            "artist": "HogwartsHorror",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 7,
+            "rarity": "Common",
+            "flavorText": "‘“We attacked a teacher. ... We attacked a teacher ... ,” Hermione whimpered, staring at the lifeless Snape with frightened eyes.’",
+            "effect": [
+                "Do 6 damage to an opponent or choose a Character in play and discard it."
+            ]
+        },
+        {
+            "number": "64",
+            "name": "Dizzying Workload",
+            "artist": "Amanda Daux",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "flavorText": "‘“She was usually last to leave the common room at night, first to arrive at the library the next morning ...”’",
+            "effect": [
+                "Count the number of Lessons in your discard pile. Until the end of your turn, your cards needs that much less Power to play. (You still need at least 1 Power that matches.)"
+            ]
+        },
+        {
+            "number": "65",
+            "name": "Double-Ended Newt",
+            "artist": "Henrimonteiro",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Newt"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "dmgEachTurn": 1,
+            "health": 2,
+            "effect": [
+                "Whenever this card does damage to an opponent, you may choose a Creature in play. Do 1 damage to it."
+            ]
+        },
+        {
+            "number": "66",
+            "name": "Dropping Divination",
+            "artist": "Iyannamartells",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 5,
+            "rarity": "Common",
+            "flavorText": "‘“Oooooo, Professor Trelawney, I’ve just remembered! You saw her leaving, didn’t you?”’ — Lavender Brown",
+            "effect": [
+                "Choose an opponent's card in play and return it to its owner's hand. If you have at least 3 [T] Lessons in your discard pile, instead shuffle it into its owner's deck."
+            ]
+        },
+        {
+            "number": "67",
+            "name": "Empty Frame",
+            "artist": "Hogwarts Legacy",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "flavorText": "‘He nodded toward an empty classroom to the left of the one-eyed statue. Harry followed Fred and George inside.’",
+            "effect": [
+                "When you play this card, name a Character card. Cards that share Uniqueness with the named card cannot be played. You may use 2 Actions and discard this card from play to search your deck. You may take the named card from your deck and put it into play. Then shuffle your deck."
+            ]
+        },
+        {
+            "number": "68",
+            "name": "Executioner's Axe",
+            "artist": "SaeedRamez",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Dark"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "Whenever a Creature is discarded from play, you may do 2 damage to an opponent or draw a card."
+            ]
+        },
+        {
+            "number": "69",
+            "name": "Ferula",
+            "artist": "Mogilnik6",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Healing"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "effect": [
+                "Shuffle up to 3 non-Healing cards from your discard pile into your deck. If you have at least 3 [P] Lessons in your discard pile, instead shuffle up to 8 non-Healing cards from your discard pile into your deck."
+            ]
+        },
+        {
+            "number": "70",
+            "name": "Glacius",
+            "artist": "Esther Hulst",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 6,
+            "rarity": "Common",
+            "effect": [
+                "Do 4 damage to an opponent. If you have at least 3 [C] Lessons in your discard pile, instead do 6 damage to an opponent and draw a card."
+            ]
+        },
+        {
+            "number": "71",
+            "name": "Hinkypunk",
+            "artist": "maryquize",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Hinkypunk"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "flavorText": "‘“Lures travellers into bogs. You notice the lantern dangling from his hand? Hops ahead — people follow the light ...”’ — Professor Remus Lupin",
+            "dmgEachTurn": 1,
+            "health": 1,
+            "effect": [
+                "To play this card, discard 1 of your [F] Lessons from play. Whenever an opponent uses an Action to play a Lesson, do 2 damage to them."
+            ]
+        },
+        {
+            "number": "72",
+            "name": "Hippogriff",
+            "artist": "maryquize",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Hippogriff"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 8,
+            "rarity": "Common",
+            "flavorText": "‘They had the bodies, hind legs, and tails of horses, but the front legs, wings, and heads of what seemed to be giant eagles ...’",
+            "dmgEachTurn": 3,
+            "health": 4,
+            "effect": [
+                "When you play this card, you may put up to 3 damage counters on it. If you do, do that much damage divided as you choose among any number of creatures."
+            ]
+        },
+        {
+            "number": "73",
+            "name": "Hurling Hex",
+            "artist": "Spacekitty04",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 7,
+            "rarity": "Common",
+            "flavorText": "‘“Can't nothing interfere with a broomstick except powerful Dark magic ...”’ — Rubeus Hagrid",
+            "effect": [
+                "Do 4 damage to your opponent. You may also choose a Creature in play and do 4 damage to it."
+            ]
+        },
+        {
+            "number": "74",
+            "name": "Inter-House Final",
+            "artist": "Kazu Kibuishi",
+            "type": [
+                "Match"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 1,
+            "rarity": "Common",
+            "flavorText": "‘They walked out onto the field to a tidal wave of noise.’",
+            "effect": [
+                "to win: Whenever a player takes damage, they may discard any number of cards from their hand. They prevent that much damage.  To win: Prevent 8 damage.",
+                "prize: The winner may draw 2 cards. The loser takes 8 damage."
+            ],
+            "toWin": "Whenever a player takes damage, they may discard any number of cards from their hand. They prevent that much damage.  To win: Prevent 8 damage.",
+            "prize": "The winner may draw 2 cards. The loser takes 8 damage."
+        },
+        {
+            "number": "75",
+            "name": "Lupin's Resignation",
+            "artist": "Pottermore",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "flavorText": "‘“This time tomorrow, the owls will start arriving from parents. . . . They will not want a werewolf teaching their children, Harry.”’ — Professor Remus Lupin",
+            "effect": [
+                "If at least 1 of your Creatures dealt damage to an opponent this turn, choose a non-Healing Character in play and shuffle it into its owner's deck."
+            ]
+        },
+        {
+            "number": "76",
+            "name": "Marking the Seeker",
+            "artist": "Diabolumberto",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "flavorText": "... he glanced around, saw Malfoy on his tail ...'",
+            "effect": [
+                "Look at the top 4 cards of your deck, then put them on the top and/or bottom of your deck in any order. If you have at least 3 [Q] Lessons in your discard pile, draw 2 cards."
+            ]
+        },
+        {
+            "number": "77",
+            "name": "Nox",
+            "artist": "PetraImboden",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "effect": [
+                "Choose two of the following, then shuffle this card into your deck:  Look at the top 2 cards of an opponent's deck, then put them back in any order.  Prevent the next 1 damage you would take on an opponent's next turn.  An opponent discards a card from their hand."
+            ]
+        },
+        {
+            "number": "78",
+            "name": "Patronus Practice",
+            "artist": "Mudblood428",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 6,
+            "rarity": "Common",
+            "effect": [
+                "Choose an opponent's card in play. They may discard the card from play. If they don't, draw 2 cards and you get 1 more Action this turn."
+            ]
+        },
+        {
+            "number": "79",
+            "name": "Pocket Sneakoscope",
+            "artist": "Unknown",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 1,
+            "rarity": "Common",
+            "effect": [
+                "All opponents reveal any cards they draw during their draw step."
+            ]
+        },
+        {
+            "number": "80",
+            "name": "Pressing the Knot",
+            "artist": "Danidraws",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "flavorText": "‘He slithered between the battering branches like a snake and placed his front paws upon a knot on the trunk.’",
+            "effect": [
+                "Do 4 damage to an opponent. During that opponent's next turn, they can't use Actions to play Creatures."
+            ]
+        },
+        {
+            "number": "81",
+            "name": "Red Sparks",
+            "artist": "Unknown",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "effect": [
+                "Choose an opponent's Creature in play and do 3 damage to it. If you have any cards in hand, choose and discard 1 of them."
+            ]
+        },
+        {
+            "number": "82",
+            "name": "Scabbers' Disappearance",
+            "artist": "Meirokan Kano78",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Marauder",
+                "Unique"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "flavorText": "‘“BLOOD!” Ron yelled into the stunned silence. “HE’S GONE!”’",
+            "effect": [
+                "Once during each of your turns, whenever 1 of your Creatures does damage to an opponent, you may discard it from play. If you do, do 4 damage to that opponent."
+            ]
+        },
+        {
+            "number": "83",
+            "name": "Scabbers' Return",
+            "artist": "Marina Jaraya",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 5,
+            "rarity": "Common",
+            "flavorText": "“It’s okay, Scabbers!” said Ron. “No cats! There’s nothing here to hurt you!”",
+            "effect": [
+                "You may put a Creature from your discard pile into your hand. If you have at least 3 [F] Lessons in your discard pile, you may play that Creature without using an Action."
+            ]
+        },
+        {
+            "number": "84",
+            "name": "Sirius's Letter",
+            "artist": "Unknown",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Marauder"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "effect": [
+                "Whenever you search your deck, you may draw a card."
+            ]
+        },
+        {
+            "number": "84",
+            "name": "Wizard's Desk",
+            "artist": "Lyaina",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "effect": [
+                "During your turn, you may discard this card from play. If you do, draw cards equal to the number of cards you discarded from your hand this turn or any opponents' last turn."
+            ]
+        },
+        {
+            "number": "86",
+            "name": "Ancient Runes, Third Year",
+            "artist": "Loanne Rosset",
+            "type": [
+                "Lesson"
+            ],
+            "subTypes": [
+                "Advanced"
+            ],
+            "rarity": "Common",
+            "effect": [
+                "Before your turn, discard this card from play. If you do, you may search your deck for a [F] or [T] Lesson and put it into play. Then shuffle your deck."
+            ]
+        },
+        {
+            "number": "87",
+            "name": "Arithmancy, Third Year",
+            "artist": "Felicia Cano",
+            "type": [
+                "Lesson"
+            ],
+            "subTypes": [
+                "Advanced"
+            ],
+            "rarity": "Common",
+            "effect": [
+                "Before your turn, discard this card from play. If you do, you may search your deck for a [C] or [Q] Lesson and put it into play. Then shuffle your deck."
+            ]
+        },
+        {
+            "number": "88",
+            "name": "Herbology, Third Year",
+            "artist": "Dominka Hladik",
+            "type": [
+                "Lesson"
+            ],
+            "subTypes": [
+                "Advanced"
+            ],
+            "rarity": "Common",
+            "effect": [
+                "Before your turn, discard this card from play. If you do, you may search your deck for a [F] or [P] Lesson and put it into play. Then shuffle your deck."
+            ]
+        },
+        {
+            "number": "89",
+            "name": "History of Magic, Third Year",
+            "artist": "Dominka Hladik",
+            "type": [
+                "Lesson"
+            ],
+            "subTypes": [
+                "Advanced"
+            ],
+            "rarity": "Common",
+            "effect": [
+                "Before your turn, discard this card from play. If you do, you may search your deck for a [C] or [T] Lesson and put it into play. Then shuffle your deck."
+            ]
+        },
+        {
+            "number": "90",
+            "name": "Muggle Studies, Third Year",
+            "artist": "Samir Mamedov",
+            "type": [
+                "Lesson"
+            ],
+            "subTypes": [
+                "Advanced"
+            ],
+            "rarity": "Common",
+            "effect": [
+                "Before your turn, discard this card from play. If you do, you may search your deck for a [P] or [Q] Lesson and put it into play. Then shuffle your deck."
+            ]
+        }
+    ]
+}

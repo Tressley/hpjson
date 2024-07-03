@@ -1,0 +1,381 @@
+{
+    "setName": "Hogwarts A History",
+    "releaseDate": "12-2023",
+    "totalCards": "20",
+    "cards": [
+        {
+            "number": "1",
+            "name": "Godric Gryffindor",
+            "artist": "AnnaSassiArt",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard",
+                "Gryffindor",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "By Gryffindor, the bravest were Prized far beyond the rest",
+            "effect": [
+                "Whenever you draw your third card on your turn, you get 1 more Action that turn."
+            ]
+        },
+        {
+            "number": "2",
+            "name": "Helga Hufflepuff",
+            "artist": "AnnaSassiArt",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Witch",
+                "Hufflepuff",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "For Hufflepuff, hard workers were Most worthy of admission",
+            "effect": [
+                "Once during each of your turns, whenever one or more cards are put into your deck from play, your hand, or your discard pile, you get 1 more Action that turn."
+            ]
+        },
+        {
+            "number": "3",
+            "name": "Hogwarts: A History",
+            "artist": "oixxo",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Book"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 7,
+            "rarity": "Rare",
+			"provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": 1
+                }
+            ],
+            "effect": [
+                "You may use an Action to discard a Lesson card from your hand. If you do, you may put a non-Healing card from your discard pile into your hand."
+            ]
+        },
+        {
+            "number": "4",
+            "name": "Rowena Ravenclaw",
+            "artist": "AnnaSassiArt",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Witch",
+                "Ravenclaw",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "For Ravenclaw, the cleverest Would always be the best",
+            "effect": [
+                "Once during each of your turns, whenever you play a card with printed Power cost 6 or more, you may put a Lesson card from your discard pile into play."
+            ]
+        },
+        {
+            "number": "5",
+            "name": "Salazar Slytherin",
+            "artist": "AnnaSassiArt",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard",
+                "Slytherin",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "Power-hungry Slytherin Loved those of great ambition.",
+            "effect": [
+                "At the end of each of your turns, if you did damage to an opponent, you may reveal the top 2 cards of their deck. You may discard any number of them. Put the rest on the top of their deck in any order."
+            ]
+        },
+        {
+            "number": "6",
+            "name": "The Grand Staircase",
+            "artist": "Wizarding World",
+            "type": [
+                "Location"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 6,
+            "rarity": "Rare",
+            "effect": [
+                "Before each player's turn, they get 1 fewer Action that turn. Once during each player's turn, they may discard a Lesson card from their hand to get 1 more Action."
+            ],
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+        },
+        {
+            "number": "7",
+            "name": "Cockatrice Attack",
+            "artist": "arvalis",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Rare",
+            "effect": [
+                "Your opponent's non-starting Characters have no abilities, damage each turn, health, or keywords (except Unique) while this card is in play.",
+                "to solve: Your opponent discards 2 Character cards from their hand.",
+                "reward: Your opponent chooses 1 of your cards in play and discards it."
+            ],
+            "toSolve": "Your opponent discards 2 Character cards from their hand.",
+            "reward": "Your opponent chooses 1 of your cards in play and discards it."
+        },
+        {
+            "number": "8",
+            "name": "Hogwarts' First Match",
+            "artist": "MagpieSly",
+            "type": [
+                "Match"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 1,
+            "rarity": "Uncommon",
+            "effect": [
+                "If this card is in your discard pile, you may discard a Lesson card from your hand to play this card as if it were in your hand.",
+                "to win: Do 9 damage to an opponent.",
+                "prize: The winner may choose an opponent's card in play and discard it."
+            ],
+            "toWin": "Do 9 damage to an opponent.",
+            "prize": "The winner may choose an opponent's card in play and discard it."
+        },
+        {
+            "number": "9",
+            "name": "Hogwarts Kitchens",
+            "artist": "Unknown",
+            "type": [
+                "Location"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "effect": [
+                "Before each player's turn, they may search their deck. They may take a Healing card, reveal it, and put it into their hand. Then they shuffle their deck."
+            ],
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+        },
+        {
+            "number": "10",
+            "name": "Hufflepuff Common Room",
+            "artist": "GnomeSchool",
+            "type": [
+                "Location"
+            ],
+            "subTypes": [
+                "Hufflepuff",
+                "Healing",
+                "Unique"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "Before each players turn, they count the number of Hufflepuff cards they have in play. For every 2 they have in play (rounded up), they put up to 1 non-Healing card from their discard pile on the bottom of their deck and draw a card."
+            ],
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+        },
+        {
+            "number": "11",
+            "name": "Ravenclaw Common Room",
+            "artist": "Sophia Del Plato",
+            "type": [
+                "Location"
+            ],
+            "subTypes": [
+                "Ravenclaw",
+                "Unique"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "Before each player's turn, they count the number of Ravenclaw cards they have in play. The first card they play that turn needs that much less Power to play. (You still need at least 1 Power that matches)."
+            ],
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+        },
+        {
+            "number": "12",
+            "name": "Stairs into Slides",
+            "artist": "Hogwarts-Castle",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "flavorText": "\"Er — I don’t think we’re allowed in the girls’ dormitories\"' - Ron Weasley",
+            "effect": [
+                "Choose an opponent's non-Lesson card in play they played during their last turn. Discard that card."
+            ]
+        },
+        {
+            "number": "13",
+            "name": "The First Triwizard Tournament",
+            "artist": "twibbley",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Uncommon",
+            "effect": [
+                "Your opponent's non-Lesson cards that don't have a printed Power cost require 1 more Action to play.",
+                "to solve: Your opponent skips a total of 4 Actions.",
+                "reward: Your opponent gets 1 more Action (the turn this Adventure is solved)."
+            ],
+            "toSolve": "Your opponent skips a total of 4 Actions.",
+            "reward": "Your opponent gets 1 more Action (the turn this Adventure is solved)."
+        },
+        {
+            "number": "14",
+            "name": "Animated Armour",
+            "artist": "FonteArt",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Armour"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "dmgEachTurn": 1,
+            "health": 3,
+            "effect": [
+                "If this card is in your discard pile, you may discard a Lesson card from your hand to play this card as if it were in your hand."
+            ]
+        },
+        {
+            "number": "15",
+            "name": "Bewitched Ceiling",
+            "artist": "Unknown",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "effect": [
+                "Once during each of your turns, you may discard the the top card of your deck. If you do, until the end of the turn, this card provides 2 Power that matches the Lesson type of that card."
+            ]
+        },
+        {
+            "number": "16",
+            "name": "Depulso",
+            "artist": "hueco-mundo",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "effect": [
+                "Choose an opponent's card in play with a printed Power cost and put it on the bottom of its owner's deck."
+            ]
+        },
+        {
+            "number": "17",
+            "name": "Invisibility Potion",
+            "artist": "A;oa-Moosvi",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 6,
+            "rarity": "Common",
+            "effect": [
+                "If this card is in your discard pile, you may discard a Lesson card from your hand to play this card as if it were in your hand.  Choose an opponent. During their next turn, they cannot choose your cards in play."
+            ]
+        },
+        {
+            "number": "18",
+            "name": "Midnight Snacks",
+            "artist": "TwiggyMcBones",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Healing"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 5,
+            "rarity": "Common",
+            "effect": [
+                "Choose 5 non-Healing cards in your discard pile. Your opponent chooses 1 of them. Put that card into your hand and shuffle the rest into your deck."
+            ]
+        },
+        {
+            "number": "19",
+            "name": "Stooging Penalty",
+            "artist": "J-Grey",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 5,
+            "rarity": "Common",
+            "effect": [
+                "Do 2 damage to an opponent. Then, if they have any Characters in play, they choose 1 of them and discard it."
+            ]
+        },
+        {
+            "number": "20",
+            "name": "Wild Cockatrice",
+            "artist": "Nimphradora",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Cockatrice"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 8,
+            "rarity": "Common",
+            "dmgEachTurn": 4,
+            "health": 4,
+            "effect": [
+                "To play this card, discard 1 of your [F] Lessons from play. When you play this card, you may choose an opponent's Character in play (other than their starting Character) and discard it."
+            ]
+        }
+    ]
+}
