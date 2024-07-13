@@ -1,0 +1,81 @@
+{
+    "setName": "Promotional",
+    "totalCards": "1",
+    "cards": [
+        {
+            "number": "1a",
+            "name": "House Points",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "3",
+            "type": [
+                "Spell"
+            ],
+			"subTypes": [
+                "Healing"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Tressley Cahill & Pottermore",
+            "effect": [
+                "Count the number of House Points you have in your discard pile. Shuffle that many plus 5 non-Healing cards from your discard pile into your deck. "
+            ]
+        },
+		        {
+            "number": "1b",
+            "name": "House Points",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "3",
+            "type": [
+                "Spell"
+            ],
+			"subTypes": [
+                "Healing"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Tressley Cahill & Pottermore",
+            "effect": [
+                "Count the number of House Points you have in your discard pile. Shuffle that many plus 5 non-Healing cards from your discard pile into your deck. "
+            ]
+        },
+		        {
+            "number": "1c",
+            "name": "House Points",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "3",
+            "type": [
+                "Spell"
+            ],
+			"subTypes": [
+                "Healing"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Tressley Cahill & Pottermore",
+            "effect": [
+                "Count the number of House Points you have in your discard pile. Shuffle that many plus 5 non-Healing cards from your discard pile into your deck. "
+            ]
+        },
+		        {
+            "number": "1d",
+            "name": "House Points",
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "3",
+            "type": [
+                "Spell"
+            ],
+			"subTypes": [
+                "Healing"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Tressley Cahill & Pottermore",
+            "effect": [
+                "Count the number of House Points you have in your discard pile. Shuffle that many plus 5 non-Healing cards from your discard pile into your deck. "
+            ]
+        }
+    ]
