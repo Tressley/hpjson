@@ -1,0 +1,2148 @@
+[
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "If you replace an Adventure in play with another Adventure, then your opponent must restart solving the Adventure since it’s a brand new Adventure.",
+        "cards": [
+            "Fred & George Weasley"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "You cannot pair this with Sorting Hat since Hat’s 2 Action requirement is to search your deck, not play the Character.",
+        "cards": [
+            "The Leaky Cauldron"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "His effect will only take effect if you have at least 4 Lesson cards in play. Cards that provide power will not count toward Dumbeldore’s effect.",
+        "cards": [
+            "Albus Dumbledore"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "You must discard all cards from play. You cannot choose to not do what the card says.",
+        "cards": [
+            "Dumbledore's Watch"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "If you must discard this and a similar Lesson at the same time, and it is your turn, you choose the order. If it's your opponent’s turn, they choose the order of how things are discarded.",
+        "cards": [
+            "Hagrid's House",
+            "Potions Dungeon"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "Your opponent gets 1 more Action the turn this card is solved, even if it’s after their last normal Action.",
+        "cards": [
+            "Meeting Fluffy"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "Your opponent cannot solve this unless they have at least 3 cards in play (not including their starting Character).",
+        "cards": [
+            "Meeting Fluffy"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "If your opponent doesn’t have a second card in their hand, they cannot play a Creature or Spell card.",
+        "cards": [
+            "Midnight Duel"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "Do what this says in order. First you discard your hand and draw 7, then your opponent does the same. If you have no cards left in your deck after/while drawing 7, then you lose before your opponent discards and draws 7.",
+        "cards": [
+            "Peeves"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "You can use this card even if you don’t have any cards in your hand.",
+        "cards": [
+            "Peeves"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "You cannot choose to only put some Lessons back into play. You must put all Lessons in your discard pile back into play.",
+        "cards": [
+            "Philosopher's Stone"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "If you are under an effect that says you can’t use Actions to play Lesson cards, then you cannot use Stone’s effect. You must do everything a card says or you cannot play the card.",
+        "cards": [
+            "Philosopher's Stone"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "If you play a card like Dog Bite when your opponent has no Creatures in play, “Dog Bite” says that the Creatures do damage, so their bonus damage will trigger.",
+        "cards": [
+            "Marble Gargoyle",
+            "Sandstone Gargoyle"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "If you win the Match before you take any Actions, you still get extra Actions. Actions are the first thing you decide each turn.",
+        "cards": [
+            "Angelina Johnson"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "Even if another card reduces the cost to play a card, Arthur only cares about the Printed power cost on the card.",
+        "cards": [
+            "Arthur Weasley"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "You must give your opponent a reasonable amount of time to say “Brilliant”. If you go too fast, your opponent can ask you to wait.",
+        "cards": [
+            "Lockhart's Lecture",
+            "Deathday Party"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "No matter how many Spells you play and how many times your opponent forgets to say “Brilliant”, they will only take 3 damage at the end of the turn.",
+        "cards": [
+            "Lockhart's Lecture"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "If your opponent is physically unable to comply with the directions, they do not need to speak, and will not take damage.",
+        "cards": [
+            "Lockhart's Lecture",
+            "Deathday Party"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "Any Weasley Character is a target for this card, even if “Weasley” isn’t in their name.",
+        "cards": [
+            "Molly Weasley"
+        ]
+    },
+    {
+        "date": "2001-01-01",
+        "source": "POJO",
+        "ruling": "Your opponent takes only 1 damage no matter how many non-Lesson cards they played.",
+        "cards": [
+            "Percy Wealsey"
+        ]
+    },
+    {
+        "date": "2001-05-05",
+        "source": "POJO",
+        "ruling": "Only Lessons are affected by this card. Items, Wands, etc., are not.",
+        "cards": [
+            "Wand Shop"
+        ]
+    },
+    {
+        "date": "2001-08-31",
+        "source": "POJO",
+        "ruling": "If a card states \"You may use an Action to...\" you may use that ability as many times as you have Actions.",
+        "cards": [
+            "Draco Malfoy"
+        ]
+    },
+    {
+        "date": "2001-08-31",
+        "source": "POJO",
+        "ruling": "Your opponent only takes 1 damage regardless of how many cards they draw.",
+        "cards": [
+            "Peeves Causes Trouble"
+        ]
+    },
+    {
+        "date": "2001-08-31",
+        "source": "POJO",
+        "ruling": "Each of your Creatures gets the boost from Rubeus Hagrid, whether it is from normal Creature damage, a Spell such as \"Steelclaw\", or a \"When you play this card\" ability.",
+        "cards": [
+            "Rubeus Hagrid"
+        ]
+    },
+    {
+        "date": "2001-09-03",
+        "source": "POJO",
+        "ruling": "If a Creature deals damage when it is played, it will get a boost from this Adventure (and from Rubeus Hagrid), such as Welsh Green Dragon or Black Bat.",
+        "cards": [
+            "Into the Forbidden Forest",
+            "Rubeus Hagrid"
+        ]
+    },
+    {
+        "date": "2001-11-14",
+        "source": "POJO",
+        "ruling": "If you have Into the Forbidden Forest and Rubeus Hagrid in play, you can first have the Adventure trigger, then Rubeus Hagrid. This means a Creature that normally does 2 damage would do 1 additional damage from the Adventure, and then Hagrid’s effect would trigger.",
+        "cards": [
+            "Into the Forbidden Forest",
+            "Rubeus Hagrid"
+        ]
+    },
+    {
+        "date": "2001-11-28",
+        "source": "POJO",
+        "ruling": "This effect stops your opponent from play cards, not from activating abilities (such as a Character's special ability).",
+        "cards": [
+            "Human Chees Game"
+        ]
+    },
+    {
+        "date": "2001-11-28",
+        "source": "POJO",
+        "ruling": "You cannot take a card from your deck, hand, discard pile, or anywhere else and put it into play, as that is still \"playing a card.\"",
+        "cards": [
+            "Human Chees Game"
+        ]
+    },
+    {
+        "date": "2001-11-28",
+        "source": "POJO",
+        "ruling": "If your opponent begins their turn with “Hagrid Needs Help” stealing one of their Actions, they don’t get that Action back the turn they solve this Adventure.",
+        "cards": [
+            "Hagrid Needs Help"
+        ]
+    },
+    {
+        "date": "2001-11-28",
+        "source": "POJO",
+        "ruling": "If your opponent has Potion Ingredient, they first get to choose whether or not they use Potion Ingredient to prevent Spell damage before you decide to apply Oliver Wood’s ability.",
+        "cards": [
+            "Oliver Wood"
+        ]
+    },
+    {
+        "date": "2001-11-28",
+        "source": "POJO",
+        "ruling": "Your opponent can solve this Adventure before their first Action, meaning they get 2 normal Actions.",
+        "cards": [
+            "Pep Talk"
+        ]
+    },
+    {
+        "date": "2002-02-20",
+        "source": "POJO",
+        "ruling": "This card will prevent \"Before your turn\" damage.",
+        "cards": [
+            "Dungbomb"
+        ]
+    },
+    {
+        "date": "2002-03-06",
+        "source": "POJO",
+        "ruling": "Any damage done “Before your turn” counts toward Neville’s prevention ability. Before your turn is still your turn.",
+        "cards": [
+            "Neville Longbottom"
+        ]
+    },
+    {
+        "date": "2002-03-06",
+        "source": "POJO",
+        "ruling": "The winner must draw either 0 or 5. Nothing inbetween.",
+        "cards": [
+            "Hufflepuff Match"
+        ]
+    },
+    {
+        "date": "2002-03-20",
+        "source": "POJO",
+        "ruling": "Since the second part of the card says “if”, you can play this card even if your opponent doesn’t have a card to discard.",
+        "cards": [
+            "Ouch!"
+        ]
+    },
+    {
+        "date": "2002-03-20",
+        "source": "POJO",
+        "ruling": "This card will prevent 1 damage from each of your opponent’s Creatures.",
+        "cards": [
+            "Dragon-Hide Gloves"
+        ]
+    },
+    {
+        "date": "2002-03-20",
+        "source": "POJO",
+        "ruling": "Your opponent cannot use Books to draw cards because you must use the Action to discard the book, even though the book is already in play.",
+        "cards": [
+            "Letters From No One"
+        ]
+    },
+    {
+        "date": "2002-03-20",
+        "source": "POJO",
+        "ruling": "If you use this card's ability to play Bulgeye Potion from your deck, you do NOT need to meet the Lesson requirement since the Eyes cards put “Bulgeye Potion” into play.",
+        "cards": [
+            "Beetle Eyes",
+            "Eel Eyes"
+        ]
+    },
+    {
+        "date": "2002-03-20",
+        "source": "POJO",
+        "ruling": "If you have Madam Malkin’s Robe in play, it will prevent the 1 damage dealt by “Porcupine Robe”.",
+        "cards": [
+            "Porcupine Robe"
+        ]
+    },
+    {
+        "date": "2002-03-20",
+        "source": "POJO",
+        "ruling": "If you have no card to discard, you cannot play this card. You must be able to do everything on a card to play it.",
+        "cards": [
+            "Mid-air Collision"
+        ]
+    },
+    {
+        "date": "2002-05-05",
+        "source": "POJO",
+        "ruling": "This ability changes the number of cards you draw, not what you are using the Action for.",
+        "cards": [
+            "Harry Potter"
+        ]
+    },
+    {
+        "date": "2002-05-05",
+        "source": "POJO",
+        "ruling": "If a card states, \"A player may draw any number of cards\", they must choose how many cards to draw, then draw them all at once. Players cannot draw-look-decide-draw-again-repeat.",
+        "cards": [
+            "Diagon Alley",
+            "Charms Exam"
+        ]
+    },
+    {
+        "date": "2002-05-05",
+        "source": "POJO",
+        "ruling": "You can discard a Book to draw cards, as the Action is discarding the Book, not drawing cards.",
+        "cards": [
+            "Snape's Bias"
+        ]
+    },
+    {
+        "date": "2002-05-05",
+        "source": "POJO",
+        "ruling": "You can use Harry Potter’s ability to draw 2 cards per Action instead of 1. His ability changes the number you draw only, not what you are using the Action for.",
+        "cards": [
+            "Letters From No One"
+        ]
+    },
+    {
+        "date": "2002-05-05",
+        "source": "POJO",
+        "ruling": "If you play Sloth Grip, you get to choose what 3 damage you prevent and then Robe will trigger based on what damage you let through. Creatures that don’t do damage will not get damaged by Robe.",
+        "cards": [
+            "Porcupine Robe"
+        ]
+    },
+    {
+        "date": "2002-05-05",
+        "source": "POJO",
+        "ruling": "Healing cards in play can have their effects activated, as “playing” a card only counts when the card enters the field.",
+        "cards": [
+            "Stoat Sandwiches"
+        ]
+    },
+    {
+        "date": "2002-06-12",
+        "source": "POJO",
+        "ruling": "While your opponent chooses the order of cards that are active, you always get to choose what damage you prevent unless a card says so.",
+        "cards": [
+            "Comet Two Sixty"
+        ]
+    },
+    {
+        "date": "2002-06-12",
+        "source": "POJO",
+        "ruling": "If you play Cobbing and the 4 damage wins you the Match in play, but your opponent has played the Match, you must wait for the entire Spell to resolve before you see if the Match is won. This means your opponent can choose to discard the Match so you can’t get the prize (since it is no longer on the table).",
+        "cards": [
+            "Cobbing"
+        ]
+    },
+    {
+        "date": "2002-06-12",
+        "source": "POJO",
+        "ruling": "First figure out any damage enhancers, then figure out any damage reducers. This effect would happen after Rubeus Hagrid’s effect triggers.",
+        "cards": [
+            "Dragon-Hide Gloves"
+        ]
+    },
+    {
+        "date": "2002-09-03",
+        "source": "POJO",
+        "ruling": "This Creature absorbs all damage from a Spell, even if \"Pet Toad\" doesn't have enough health left. Excess damage disappears and \"Pet Toad\" is discarded.",
+        "cards": [
+            "Pet Toad"
+        ]
+    },
+    {
+        "date": "2002-09-03",
+        "source": "POJO",
+        "ruling": "You can prevent the 8 damage you take to solve this Adventure with cards like Hospital Dormitory. First you assign damage to yourself, then you area free to prevent any of the damage possible (with cards like “Hospital Dormitory”). The 4 damage prevented will count toward the 8 damage Hagrid Needs Help is dealing to you.",
+        "cards": [
+            "Hagrid Needs Help"
+        ]
+    },
+    {
+        "date": "2002-09-03",
+        "source": "POJO",
+        "ruling": "You figure out Actions during the \"Before your turn\" phase of your turn. This means if you discard “Gringott’s” during your turn using an Action, you still have 2 more Actions.",
+        "cards": [
+            "Gringotts"
+        ]
+    },
+    {
+        "date": "2002-09-03",
+        "source": "POJO",
+        "ruling": "If it is your turn when this card activates, then you choose what order things happen.",
+        "cards": [
+            "Dumbledore's Watch"
+        ]
+    },
+    {
+        "date": "2002-09-03",
+        "source": "POJO",
+        "ruling": "In regards to Hagrid Needs Help: read the Adventure as “Assign 8 damage to yourself”. So after you assign the damage, then you can choose to prevent the damage, but all 8 counts toward solving the Adventure, even if this card this card prevents 4 of that damage.",
+        "cards": [
+            "Hospital Dormitory"
+        ]
+    },
+    {
+        "date": "2002-09-03",
+        "source": "POJO",
+        "ruling": "Your opponent can solve this before their Creatures do damage.",
+        "cards": [
+            "Riding the Centaur"
+        ]
+    },
+    {
+        "date": "2002-10-11",
+        "source": "POJO",
+        "ruling": "For the “When you play this card”effect, “Black Bat” is doing the damage, not you.",
+        "cards": [
+            "Black Bat"
+        ]
+    },
+    {
+        "date": "2002-10-11",
+        "source": "POJO",
+        "ruling": "You write down the name of the card after seeing your opponent’s Starting Character.",
+        "cards": [
+            "Harry, Second Year"
+        ]
+    },
+    {
+        "date": "2002-10-16",
+        "source": "POJO",
+        "ruling": "If your opponent plays the card your wrote down with Harry, Second Year more than once, you can reveal the card you wrote down each time and repeatedly heal 20.",
+        "cards": [
+            "Harry, Second Year"
+        ]
+    },
+    {
+        "date": "2002-11-01",
+        "source": "POJO",
+        "ruling": "You must discard a card with the intent of discarding for this Match. You cannot discard a card for another reason and count it toward this Match’s progress. (See Beater’s Bat)",
+        "cards": [
+            "Muddy Practice"
+        ]
+    },
+    {
+        "date": "2002-11-01",
+        "source": "POJO",
+        "ruling": "Discarding a card to use this ability will not count toward Muddy Practice's total.",
+        "cards": [
+            "Beater's Bat"
+        ]
+    },
+    {
+        "date": "2020-007-31",
+        "source": "Revival",
+        "ruling": "If Dobby is the only card in play (on either your or an opponent’s side) and you prevent any damage with Dobby’s effect, your opponent has no legal targets to choose for Dobby’s effect. You can still prevent damage with Dobby, but your opponent will get no benefit from Dobby.",
+        "cards": [
+            "Dobby"
+        ]
+    },
+    {
+        "date": "2020-07-03",
+        "source": "Revival",
+        "ruling": "If there is a Match in play, then the damage your opponent takes to solve this card counts toward the Match for your opponent.",
+        "cards": [
+            "Hagrid Needs Help"
+        ]
+    },
+    {
+        "date": "2020-07-13",
+        "source": "Revival",
+        "ruling": "If this card is in play Before your turn, you must discard it and add the extra Actions to your Action count for the turn (this is not optional).",
+        "cards": [
+            "Galleon",
+            "Sickle",
+            "Knut"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Whenever you play a Quidditch card that does damage, Alicia will trigger to check if a Match is in play, and if so - regardless of when you played the Match - will give your Quidditch card +1 damage.",
+        "cards": [
+            "Alicia Spinnet"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "When you win a Match, you resolve its effect before discarding it from play. This means if the Match’s prize does damage, Alicia will see that it is still in play and give the Match +1 damage (unless the Match is discarded by another card first).",
+        "cards": [
+            "Alicia Spinnet"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Armando only triggers once each turn, and only at the end of your turn, regardless of how many House cards you play.",
+        "cards": [
+            "Armando Dippet"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "No card in the discard pile may leave the discard pile, be played from the discard pile, or be chosen as a target by another card. Cards like Reparo, Remembrall, and Healing cards would not be able to be played/activated since you cannot complete everything on the card.",
+        "cards": [
+            "Chamber of Secrets"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "An opponent choosing to return a card if you prevent damage with Dobby is optional. They can choose to return nothing.",
+        "cards": [
+            "Dobby"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Damage done by Drawing the Sword occurs to each target once in the order you specify. ",
+        "cards": [
+            "Drawing the Sword"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If a card reduces damage per card (such as Madam Malkin’s Robes) then it will decrease the overall damage done by this card by 1; it will not decrease each instance of damage.",
+        "cards": [
+            "Drawing the Sword",
+            "Cauldron Calamity",
+            "Hippogriff"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "A card that loses all abilities means that card retains its card type, name, and keywords but loses everything else (such as effects and Power provided). Creatures, however, retain health and damage per turn.",
+        "cards": [
+            "Dumbledore's Suspension",
+            "Slytherin's Basilisk",
+            "Mis-Brewed Polyjuice",
+            "Mischief Managed"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If an effect prevents damage done to Creatures (such as Frog-Spawn) any damage directed at protected Creatures will be prevented and Immobulus’s second effect will not discard the Creature from play. ",
+        "cards": [
+            "Immobulus"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "When you win a Match, you resolve its effect before discarding it from play. This means if the Match’s prize does damage, Katie will see that it is still in play and make the damage you take 1 less.",
+        "cards": [
+            "Katie Bell"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Katie checks for a Match in play for each instance of you taking damage, not at the beginning of your turn. If a Match is discarded from play and then you take damage, Katie will not reduce damage by 1.",
+        "cards": [
+            "Katie Bell"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "There are 9 card types: Adventure, Character, Creature, Event, Item, Lesson, Location, Match, and Spell.",
+        "cards": [
+            "Loyalty's Reward"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If you don’t have 5 cards of different card types in your discard pile, you cannot complete everything on Loyalty’s Reward and so you cannot play it.",
+        "cards": [
+            "Loyalty's Reward"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "To see what \"Using an Action\" means, refer to the Official HPTCG Revival rules.",
+        "cards": [
+            "Lucius' Cane",
+            "Lucius Malfoy"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If a card prevents you from taking a card from your deck, you may not search your deck at all and will not shuffle your deck.",
+        "cards": [
+            "Lucius Malfoy"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If you decide to search your deck with Lucius’ effect, you must take a card and complete the entire card effect. Lucius’s may clause is a conditional for the entire effect unlike the other cards that search your deck, such as Gringotts Vault Key. With Lucius, you must either do his effect to completion or not do it at all.",
+        "cards": [
+            "Lucius Malfoy"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If the chosen card leaves play without being discarded (such as with Hover Charm), Myrtle’s effect will not trigger.",
+        "cards": [
+            "Moaning Myrtle"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If Myrtle leaves play before the chosen card is discarded, no damage will be dealt when the card leaves play. ",
+        "cards": [
+            "Moaning Myrtle"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If you have Pep Talk in play and you play Muddled Memories, your opponent will decide whether they want to have Pep Talk or Muddled Memories occur first, since it is their turn. Whichever card they do not choose has no effect for that turn, as the first Action will be used by the other.",
+        "cards": [
+            "Muddled Memories"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If you choose a card that requires more than 2 Actions to play, your opponent must use as many Actions as required to play that card, and must use the first available Actions to play that card, if they have enough Actions to play the card.",
+        "cards": [
+            "Muddled Memories"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Gaining abilities means to take on any text in the text box other than flavor text, including activated and passive abilities, as well as Lessons provided, but does not take on keywords, card types, or card names.",
+        "cards": [
+            "Polyjuice Potion"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "No matter how many cards you discarded, Lockhart will only make an opponent discard 1 card. ",
+        "cards": [
+            "Prof. Gilderoy Lockhart"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Lockhart triggers at the end of all player's turns if you discarded a card that turn.",
+        "cards": [
+            "Prof. Gilderoy Lockhart"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If Slytherin’s Basilisk loses its ability, then Petrification Counters don’t have any effect. Petrification Counters will remain on cards, however, unless they are removed in some other way.",
+        "cards": [
+            "Slytherin's Basilisk"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If Slytherin’s Basilisk loses its abilities (via something such as Vera Verto) and then leaves play, all Petrification Counters will remain on the field, though they will have no effect until another Slytherin’s Basilisk is played. ",
+        "cards": [
+            "Slytherin's Basilisk"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "You may put multiple Petrification Counters on the same card. Multiple Petrification Counters will have no additional effect, but that card will now be super petrified.",
+        "cards": [
+            "Slytherin's Basilisk"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "You must discard all cards in your hand when you activate this card’s effect, even if you have more than 4 cards in your hand.",
+        "cards": [
+            "Swallowed Snitch"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Tom’s ability only triggers when a Lesson is played, not when a card that provides Power is played. For example, Tom’s ability will not trigger with Borrowed Wand.",
+        "cards": [
+            "Tom Marvolo Riddle"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "There are 5 Lesson types: Care of Magical Creatures, Charms, Potions, Quidditch, and Transfiguration.",
+        "cards": [
+            "Tom Marvolo Riddle"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Since there is no difference between playing a card and putting a card into play, if a card like History of Magic Homework puts a Lesson into play, Tom’s ability will trigger. However, no matter how many Lessons are put into play, such as with Strategy Session, Tom will only add 1 Power per turn.",
+        "cards": [
+            "Tom Marvolo Riddle"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Wandering Knockturn discards the card after it is played and enters the field, so any card that has an ability that triggers when it enters, such as Pewter Cauldron, will activate before Wandering Knockturn discards it.",
+        "cards": [
+            "Wandering Knockturn"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "To discard a Lockhart book, you must have a valid card in your discard pile and be able to play that card. You must be able to do everything on the Lockhart Book and the chosen card to play the chosen card.",
+        "cards": [
+            "Break with a Banshee",
+            "Gadding with Ghouls",
+            "Holidays with Hags",
+            "Magical Me",
+            "Voyages with Vampires"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "You use the Action to play the card you choose with the Book, not to discard the Book from play. This means the Action is playing the card rather than discarding the Book from play.",
+        "cards": [
+            "Break with a Banshee",
+            "Gadding with Ghouls",
+            "Holidays with Hags",
+            "Magical Me",
+            "Voyages with Vampires"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Since you are playing the card chosen by the Book, you must pay any additional cost.",
+        "cards": [
+            "Break with a Banshee",
+            "Gadding with Ghouls",
+            "Holidays with Hags",
+            "Magical Me",
+            "Voyages with Vampires"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If a card would increase the cost of a card beyond 2, you may still choose the card, as Lockhart’s Books look at the printed Power cost of the chosen card, not altered cost. ",
+        "cards": [
+            "Break with a Banshee",
+            "Gadding with Ghouls",
+            "Holidays with Hags",
+            "Magical Me",
+            "Voyages with Vampires"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "To play a card as if it were in your hand, you must have the requisite Lesson Power, number of Lessons in play, and available Actions to use to play the card",
+        "cards": []
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "You may return Circling the Goalposts from your discard pile to your hand, even if you did not play it that turn, as long as one of your Spells did 5 or more damage and you discard a card for each copy you want to return.",
+        "cards": [
+            "Circling the Goalposts"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "After a Spell deals 5 or more damage, you may return any number of Circling the Goal Posts from your discard pile to your hand, as long as you discard 1 card from your hand for each copy you want to return.",
+        "cards": [
+            "Circling the Goalposts"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If a card is placed under a card, it is not considered to be in play, in a player's hand, in a deck, or in a discard pile.",
+        "cards": [
+            "Cornish Pixie",
+            "Dementor's Kiss"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If Cornish Pixie loses its ability, the chosen card beneath it stays there. If Cornish Pixie leaves play while having no ability, the card will stay facedown for the rest of the game.",
+        "cards": [
+            "Cornish Pixie"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "All players may look at the chosen card once it is beneath this card.",
+        "cards": [
+            "Cornish Pixie"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Essential Knowledge Test allows you to either continue to draw the number of cards required or draw none. There is no inbetween. ",
+        "cards": [
+            "Essential Knowledge Test"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "With Essential Knowledge Test in play, you may still play cards that require you to draw. The draw effect may be prevented by Essential Knowledge Test, if you choose, but the effect will count as having happened. ",
+        "cards": [
+            "Essential Knowledge Test"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "You still draw from the top of your deck while Hogwarts Pipes is in play, since drawing is not taking damage.",
+        "cards": [
+            "Hogwarts Pipes"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Hogwarts Pipes’ ability is not optional. Any damage taken must be taken from the bottom of your deck.",
+        "cards": [
+            "Hogwarts Pipes"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "When you play a Location using Kheshakhassa, you will still discard any Location that is already in play, as you will need to follow the effect on the Location you play to discard any other Location in play (yours or an opponent’s).",
+        "cards": [
+            "Kheshakhassa",
+            "Dissendium"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If a card prevents you from playing Locations (such as Blocked Barrier), you may still activate Kheshakhassa since the activation and Action use is discarding a Potions Lesson and searching your deck, while playing a Location is a “may” that follows.",
+        "cards": [
+            "Kheshakhassa"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Even if a card increases the number of Actions needed to use a Character’s ability, Mandrake Draught will eliminate all need for Actions to use that ability.",
+        "cards": [
+            "Mandrake Draught"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Spellotape only triggers when an opponent’s card effect would discard one of your Items from play. If your Item is returned to your hand, Spellotape does nothing.",
+        "cards": [
+            "Spellotape"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If your opponent plays Scribblifors, you can choose an Item to discard and Spellotape to return to your hand. Do things in the order they are on the card. Since the discard happens first, Spellotape would be a replacement for the discarded Item, and would discard itself. The chosen Spellotape is no longer in play, so nothing is returned to your hand.",
+        "cards": [
+            "Spellotape"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If a card such as Bundimun Ooze were to discard another of your Items from play and Spellotape replaces your Item and is discarded instead, Bundimun Ooze looks at the card that is discarded, not the initial target. This would mean you would use Spellotape’s stats to resolve Bundimun Ooze. Similarly, if Spellotape replaces a Wand that Expelliarmus discards, Expelliarmus would look at Spellotape’s keywords, since Spellotape is the card that was discarded.",
+        "cards": [
+            "Spellotape"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If all Items are discarded from play by an opponent, such as with Table Trouble, then Spellotape will not trigger because it, too, will be discarded from play.",
+        "cards": [
+            "Spellotape"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If Spellotape is in play and one of your Items would be discarded from play, you must discard Spellotape instead. This is not a “may” ability.",
+        "cards": [
+            "Spellotape"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If you have multiple Spellotapes in play and another of your Items is discarded by an opponent, only 1 Spellotape will be discarded.",
+        "cards": [
+            "Spellotape"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "The chosen Creature is treated as an Item with the same name, printed Power cost, Lesson type, and Uniqueness, but loses everything else, including damage per turn, health, and effects. If the card is somehow turned back into a Creature, it regains everything.",
+        "cards": [
+            "Vera Verto"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Vera Verto keeps the Uniqueness of what is played, meaning if a Hedwig or other Unique creature is chosen, another Hedwig or copy of that Unique Creature cannot be played.",
+        "cards": [
+            "Vera Verto"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If you have a card that reduces the damage from Whispers from the Pipes to 0 (such as Madam Malkin's Robes), you can still do everything the card says since you took the damage (even though it was 0 damage).",
+        "cards": [
+            "Whispers from the Pipes"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Drawing the card during your draw step counts.",
+        "cards": [
+            "Winter Match"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Healing cards may be returned to their owner’s hand from the discard pile with this effect.",
+        "cards": [
+            "Winter Match"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "No matter how many cards you draw at once, that draw will only count as 1 of the 7 instances of drawing you need.",
+        "cards": [
+            "Winter Match"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "You may split the 2 damage per Potion Lesson discarded however you want, but you cannot split up 2 damage into 1 damage and 1 damage.",
+        "cards": [
+            "Cauldron Calamity"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Cauldron Calamity does damage to each target you choose once, in the order you choose. ",
+        "cards": [
+            "Cauldron Calamity"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Your opponent will be able to use any Action other than their first to play Spells. This means their second Action (if they have one) and any Action beyond that (if they gain more than 2 Actions) may be used to play Spells.",
+        "cards": [
+            "Mimblewimble"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Mis-brewed Polyjuice can count the same Character twice, if there are multiple copies of a Character in your opponent’s discard pile.",
+        "cards": [
+            "Mis-Brwed Polyjuice"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Both Creatures do damage at the same time, and they deal damage only once.",
+        "cards": [
+            "Mortal Enemies",
+            "Buckbeak"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "You may play New Slytherin Seeker even if there isn’t a Match in play, but when the card checks for a Match, you will not be able to make your opponent discard one of their Creatures unless there is a Match in play.",
+        "cards": [
+            "New Slytherin Seeker"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Your opponents do not need to take a Lesson from their deck. This is optional. They do, however, still need to shuffle their deck as they were required to search through it.",
+        "cards": [
+            "Pre-Match Handshake"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Switching total progress towards a Match means that you and an opponent exchange totals of how close you are to winning a Match. This can include, but is not limited to: damage, number of Actions used to do X, or cards drawn.",
+        "cards": [
+            "Quidditch Confidence"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "You must switch progress if you play this card. Do everything on the card, in order. You cannot play this card just to do 4 damage.",
+        "cards": [
+            "Quidditch Confidence"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Slower Brooms effect will stack with other cards that adjust Power cost requirements.",
+        "cards": [
+            "Slower Broom"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "Substitute Cat only counts the number of Lessons in play, not the amount of Power in play. This means Substitute Cat will not count Power provided from cards such as Wands, Books, or Professors.",
+        "cards": [
+            "Substitute Cat"
+        ]
+    },
+    {
+        "date": "2020-07-31",
+        "source": "Revival",
+        "ruling": "If no card is discarded from the top of your deck, the printed Power cost is considered 0.",
+        "cards": [
+            "Wizard Duel"
+        ]
+    },
+    {
+        "date": "2022-11-01",
+        "source": "Revival",
+        "ruling": "This card triggers during your draw step if you did not draw any card before your turn.",
+        "cards": [
+            "Madam Rosmerta"
+        ]
+    },
+    {
+        "date": "2022-11-01",
+        "source": "Revival",
+        "ruling": "You must put exactly the same number of non-Healing cards from your discard pile on the bottom of your deck. If you cannot, then you cannot use Madam Rosmerta's effect.",
+        "cards": [
+            "Madam Rosmerta"
+        ]
+    },
+    {
+        "date": "2022-11-01",
+        "source": "Revival",
+        "ruling": "Madam Rosmerta triggers during any opponents' turn.",
+        "cards": [
+            "Madam Rosmerta"
+        ]
+    },
+    {
+        "date": "2022-11-01",
+        "source": "Revival",
+        "ruling": "This card creates a lingering effect that remains until either you’ve prevented 4 damage during your opponent’s next turn, or it is the end of your opponent’s next turn, even if The Three Broomsticks Inn is discarded from play.",
+        "cards": [
+            "The Three Broomsticks Inn"
+        ]
+    },
+    {
+        "date": "2022-11-01",
+        "source": "Revival",
+        "ruling": "You cannot play cards that require you to draw after playing this card. E.g., If you play Butterbeer, you may not then play Rose Growth because you cannot draw a card.",
+        "cards": [
+            "Butterbeer"
+        ]
+    },
+    {
+        "date": "2022-11-01",
+        "source": "Revival",
+        "ruling": "You must have the proper amount of Power and the proper Lesson type to play a Candy card from your discard pile. ",
+        "cards": [
+            "Honeydukes"
+        ]
+    },
+    {
+        "date": "2022-11-01",
+        "source": "Revival",
+        "ruling": "If you don’t have a Lesson in your hand to put into play, you cannot play Permission Form.",
+        "cards": [
+            "Permission Form"
+        ]
+    },
+    {
+        "date": "2022-11-01",
+        "source": "Revival",
+        "ruling": "If you play the chosen card type for your third, fourth, etc., Action, as long as the card played is 1) played using an action and 2) the second of that type of card played that turn, you get an extra Action as long as you have not triggered this ability this turn. The first card of that type does not need to be played using an action, and the card played which triggers this effect does not need to be the second action of the turn.",
+        "cards": [
+            "Hogsmeade Station"
+        ]
+    },
+    {
+        "date": "2022-11-01",
+        "source": "Revival",
+        "ruling": "Using one Action to play two cards of the chosen type triggers On the Hogwarts Express. E.G. If you use Hermione, Potion Maker to put two different Lessons into play, you gain an extra Action from On the Hogwarts Express if you have chosen Lesson as your card type.",
+        "cards": [
+            "On the Hogwarts Express"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You get 1 extra Action for each Action your opponent uses beyond their second. (You get 1 extra Action if they used 1 extra Action; you get 2 extra Actions if they used 2 extra Actions; etc.)",
+        "cards": [
+            "Cornelius Fudge"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You may use Filch’s ability to discard one of your own Events from play.",
+        "cards": [
+            "Filch, Hogwarts Caretaker"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "If you decide to draw a card, you must also be able to put 1 COMC Lesson from your discard pile into your hand. You cannot choose to do only 1 of these parts of the ability.",
+        "cards": [
+            "Professor Rubeus Hagrid"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You may put both cards back on top, both cards on bottom, or 1 on top and 1 on bottom.",
+        "cards": [
+            "Professor Sybill Trelawney"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "If you would take damage (or draw cards, or discard cards from the top of your deck, or any other effect that causes cards to leave your deck), you will do so until you have only one card left in your deck, and then Secret-Keeper’s effect will activate.",
+        "cards": [
+            "Secret-Keeper"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "After Secret-Keeper’s effect activates, card cannot leave your deck, meaning you cannot take damage, draw cards, or discard cards from your deck. Any card that would move cards in any way from your deck cannot be activated until the next turn.",
+        "cards": [
+            "Secret-Keeper"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "If Secret-Keeper is activated on your turn, you cannot use an Action to draw a card.",
+        "cards": [
+            "Secret-Keeper"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "This is a replacement effect for when you would lose the game by your last card leaving your deck for any reason. Because this is a replacement effect, it will trigger in the middle of other cards’ resolution that make you draw, discard, take damage, or make the last card leave your deck in any way. Once this effect triggers, stop doing any other card’s effect, resolve this card entirely, and then finish resolving other cards. No cards may leave your deck until the next turn begins.",
+        "cards": [
+            "Secret-Keeper"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Regarding an interaction with Errol: You may reveal the top card of your deck, since revealing isn’t a card leaving your deck. If it fulfills Errol’s condition of being a Lesson, and it is the last card in your deck, then Secret-Keeper’s ability triggers and Errol will be unable to put the Lesson into play. Otherwise, the card stays on top of your deck and Secret-Keeper will not trigger.",
+        "cards": [
+            "Secret-Keeper"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Regarding an interaction with Wizard Duel: If you have only one card left in your deck and Secret-Keeper is in play, Secret-Keeper will activate and prevent you from discarding the top card of your deck. Since you did not discard any card from the top of your deck, there is no printed Power cost, which Wizard Duel would then treat as 0. Then you will finish resolving Wizards Duel, which can do no damage to you since cards cannot leave your deck.",
+        "cards": [
+            "Secret-Keeper"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "The specific part of the card effect that caused your last card to leave your deck is considered finished when Secret-Keeper’s ability triggers, but any other parts of the effect unrelated to that still resolve. (e.g. Blue Wig will still let you draw a card even if Secret-Keeper stops the damage when you have 1 card left in your deck.)",
+        "cards": [
+            "Secret-Keeper"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Sir Cadogan sees printed Power cost, not Power cost. Sir Cadogan doesn’t care if a card (such as Bravado) adjusts the Power of a card. As long as the number printed on the card is even, Sir Cadogan will trigger.",
+        "cards": [
+            "Sir Cadogan"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Sirius Black’s effect only increases Power requirements to cards that require Power to play.",
+        "cards": [
+            "Sirius Black"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Cards with multiple card types count as each different card type they are (such as The Monster Book of Monsters counting as both an Item and a Creature).",
+        "cards": [
+            "Sirius Black"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You may use any Location in play, even ones owned by your opponents.",
+        "cards": [
+            "Stan Shunpike"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "This card prevents any type of damage.",
+        "cards": [
+            "12 Years in Azkaban"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "If you have prevented 11 damage with this card, and take at least 2 damage, you may still prevent 2 of that damage. However, after that, it will no longer be able to prevent damage.",
+        "cards": [
+            "12 Years in Azkaban"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You will need to keep track of the damage this card prevents. The damage prevention is cumulative. When it prevents at least 12 damage, the card no longer prevents damage and instead provides Lesson power.",
+        "cards": [
+            "12 Years in Azkaban"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You may choose to prevent 0, 1, or 2 damage.",
+        "cards": [
+            "12 Years in Azkaban"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Each instance of playing a card, regardless of how many Actions are used to play the card, counts as 1 time of playing a card. This means you only heal 1 card, regardless of how many Actions were used to play a card. This also means your opponent will only have played a card 1 time even if they used 2 or more Actions to play a card.",
+        "cards": [
+            "At the Three Broomsticks"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "If you would lose the game during the resolution of the card’s effect, At the Three Broomsticks will not save you by adding another card to your deck.",
+        "cards": [
+            "At the Three Broomsticks"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Cards with multiple card types count as each different card type they are (such as The Monster Book of Monsters counting as both an Item and a Creature).",
+        "cards": [
+            "Boggart"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "This card only discards cards with the exact same name. If you choose Draco Malfoy, and your opponent has both Draco Malfoy and Draco the Seeker in their hand, they will only discard Draco Malfoy.",
+        "cards": [
+            "Confiscated!"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Any source of damage from a card with the same name as the named card will not be prevented, whether they have 1 or 4 of them.",
+        "cards": [
+            "Eavesdropping on the Weasleys"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Your opponent must use Actions beyond 2 for this card to trigger. If your opponent gets extra Actions beyond 2, but doesn’t use them, then this card will not trigger.",
+        "cards": [
+            "Egyptian Holiday"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "This card only deals damage for the 3rd Action used. It will not trigger for Action #4 and beyond.",
+        "cards": [
+            "Egyptian Holiday"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "The Creature damage to trigger this ability can be done during any step of your turn that a card or game state has a Creature do damage during (Creature damage step, Action step with cards such as Steelclaw, etc.).",
+        "cards": [
+            "Hippogriff Ride"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "If you have more than 2 Actions, you may repeat this effect until all of your Actions are used.",
+        "cards": [
+            "Inheriting the Map",
+            "Broaden Your Minds"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Using an Action to repeat this effect is part of the Spell. When you are done repeating this effect, you then put the Spell card into your discard pile. You cannot use this Spell’s effect later unless you play it again.",
+        "cards": [
+            "Inheriting the Map",
+            "Broaden Your Minds"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "This card only sees card types played when it enters and afterwards. It does not count card types played before it entered play.",
+        "cards": [
+            "McGonagall's Office"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "All additional costs for the card your opponent plays need to be paid. If they cannot pay those additional costs, they cannot play the card, and you cannot choose the card for them to play with Riddikulus!.",
+        "cards": [
+            "Riddikulus!"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "This counts as your opponent playing a card.",
+        "cards": [
+            "Riddikulus!"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "If your opponent would gain an Action because they played a card, their Action goes away immediately and they cannot use it. However, other effects that trigger when your opponent plays a card may still trigger.",
+        "cards": [
+            "Riddikulus!"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "If your opponent has a card in their hand that they can play (they have the required Power and Lesson type in play) then you must choose a card for them to play. This is not optional.",
+        "cards": [
+            "Riddikulus!"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Each card your opponent plays is considered a choice. For example, cards that do damage or that say, “Choose an opponent…” will force your opponent to choose Security Troll before your other Creatures in play. Your opponent can still choose their own Creatures.",
+        "cards": [
+            "Security Troll"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "If a card fits into more than one category that would trigger an effect, then it triggers each effect into which the card fits.",
+        "cards": [
+            "Teacups and Tea Leaves"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "No matter how many cards a player draws at once, their opponents will only draw 2 cards.",
+        "cards": [
+            "The North Tower"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "All discarded cards count as damage, even if they are put back into the deck.",
+        "cards": [
+            "Unworthy Trick"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You must declare how much damage you want your opponent to take when you play this card.",
+        "cards": [
+            "Unworthy Trick"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "This card will shuffle Healing cards back into your deck, if they are part of the damage your opponent took from this card.",
+        "cards": [
+            "Unworthy Trick"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "If you name the same card with multiple Wanted Posters, the named card will require 1 more Action to play for each Wanted Poster you play and name that card with.",
+        "cards": [
+            "Wanted Poster"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You must have the requisite Actions as well as the requisite Power and proper Lesson type in play to play the card.",
+        "cards": [
+            "Brass Scales"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "This card checks for total damage prevented. If the total is more than 3, no matter how many instances of 1 or 2 damage were prevented, this card will not return to your hand.",
+        "cards": [
+            "Fast Swerve"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Any discarded card will go into the discard pile as part of the resolution of the effect that discards it. Once it is in the discard pile, other cards that move it elsewhere will try to activate their effects. With Chamber of Secrets in play, it will stop Hooch Watches Practice from returning a discarded Match to play.",
+        "cards": [
+            "Hooch Watches Practice"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "This Spell counts all of the damage that Creature dealt to you since your last turn. This means if your opponent played a Welsh Green Dragon to do 6 damage, and then played Steelclaw to do another 6 damage with Welsh Green Dragon, this Spell will do 12 damage to an opponent if you choose the Welsh Green Dragon that did damage to you with this card.",
+        "cards": [
+            "Laughing at a Boggart"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You cannot choose the same option twice.",
+        "cards": [
+            "Lumos!",
+            "Nox"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You must complete both chosen options before shuffling this card back into your deck.",
+        "cards": [
+            "Lumos!",
+            "Nox"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Power from cards that are not Lessons do not count toward this card’s total.",
+        "cards": [
+            "Overloaded Schedule"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You may reveal a card of either card type that shares a card type with the revealed card. For example, if you reveal The Monster Book of Monsters (that is both an Item and Creature) you may reveal any card from your hand that has either card type.",
+        "cards": [
+            "Palmistry"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You only need to reveal 1 card with at least 1 matching card type. You do not need to reveal a card that matches each card type.",
+        "cards": [
+            "Palmistry"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "Aragog increases the damage Spiders do whenever they do damage, no matter the turn.",
+        "cards": [
+            "Pet Spider"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "The ability is not a ‘may’ ability. If this is in play and at least one of your Creatures with printed Power cost of 3 or less is discarded from play, this will trigger and be discarded instead.",
+        "cards": [
+            "Rat Tonic"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "If you have multiple Rat Tonic in play and one of your Creatures with printed Power cost of 3 or less is discarded from play, you will only discard one of the Rat Tonics, and the other will have lost its ability to replace an effect, as that effect no longer exists.",
+        "cards": [
+            "Rat Tonic"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "The Match that you put into play can be the same Match you discarded, as long as that Match is non-Healing. There does not need to be a Match in your discard pile when you play this card.",
+        "cards": [
+            "Rescheduled Match"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "The Monster Book of Monsters is affected by anything that affects Items or Creatures. The Monster Book of Monsters can be chosen as targets for cards such as Smash, Beetle Buttons, and Stream of Flames.",
+        "cards": [
+            "The Monster Book of Monsters"
+        ]
+    },
+    {
+        "date": "2022-11-03",
+        "source": "Revival",
+        "ruling": "You use activated abilities at any point during your turn after your draw step but before the end of turn step.",
+        "cards": [
+            "Unfogging the Future"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Refer to the official Uniqueness Chart for a full list of affected Characters.",
+        "cards": [
+            "Molly Weasley",
+            "Empty Frame"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "The Event in play can be your Event or an opponent’s.",
+        "cards": [
+            "Marauder Shenanigans",
+            "Wormtail"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "The effect does not reduce the number of Actions required to play the card. This card gives you a third Action after playing it.",
+        "cards": [
+            "Dementors on the Lake"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Adventures, Characters, and Lessons have no printed Power cost, and thus cannot be chosen for this card.",
+        "cards": [
+            "Time-Travel Hijinks",
+            "Astronomy Homework",
+            "Depulso"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "The cards your opponent discards to solve this Adventure can share a Lesson type with any of the cards under Time Travel Hijinks, and they do not need to share a Lesson type with each other card discarded to solve the Adventure. ",
+        "cards": [
+            "Time-Travel Hijinks"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Your opponent may still activate card effects that don’t require an Action, and your opponent’s Creatures and other cards with triggered effects still occur.",
+        "cards": [
+            "Watching the Map"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "The Adventure is considered solved at the end of your opponent’s turn, and it triggers along with other “At the end of your turn...” effects.",
+        "cards": [
+            "Watching the Map"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If you choose to only search for 1 Lesson, it will go into play. If you search for 2 Lessons, 1 must go into play and the other must go into your hand.",
+        "cards": [
+            "Cho Chang"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "While Hermione, Overworked Student cannot put Advanced Lessons into play, Advanced Lessons still count as Lessons in the discard pile to allow you to use her ability.",
+        "cards": [
+            "Hermione, Overworked Student"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "You may ignore Action, printed Power cost, and Power requirements when putting an Event from your hand into play using Padfoot’s ability. You must, however, pay any additional costs. (.e.g “When you play this card…”)",
+        "cards": [
+            "Padfoot"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "This card’s effect doesn’t require an Action to use; it is a triggered ability before your turn.",
+        "cards": [
+            "Prof. Flitwick, Charms Master"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "You may use this effect to play cards even if your opponent has played cards like De-boning or Caught by Dementors.",
+        "cards": [
+            "Prof. Flitwick, Charms Master"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Flitwick will allow you to play Spells if a card effect, such as Letters From No One, restricts what you can use Actions for.",
+        "cards": [
+            "Prof. Flitwick, Charms Master"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Flitwick does not bypass alternate costs for playing a Spell, such as increased Action cost, increased Power cost, or additional costs to pay",
+        "cards": [
+            "Prof. Flitwick, Charms Master"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Modifier effects occur before prevention effects. First, apply any effects that increase or decrease damage (this damage can go below 0, but is reset to 0 if below 0 when all modifier effects have been applied). Then, when all of those effects are resolved, you may use Walden Macnair to reduce all the damage of a Creature damaging you to 1.",
+        "cards": [
+            "Walden Macnair"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "The turn player decides what order prevention effects are applied. If an opponent plays a Black Bat while you have both Walden Macnair and Dragon-Hide Gloves in play, they will usually decide to apply Dragon-Hide Gloves first to reduce the damage to 1, then Walden Macnair, which will not reduce the damage further.",
+        "cards": [
+            "Walden Macnair"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If you choose an Event, and the Event is not discarded, you will still deal damage to an opponent.",
+        "cards": [
+            "Wormtail"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If the chosen player has 0 cards in their hand, they still shuffle their deck and then draw 4 cards.",
+        "cards": [
+            "Crookshanks"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "You may choose your own card.",
+        "cards": [
+            "Dementor's Kiss",
+            "Double-ended Newt"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "No Characters that share Uniqueness with the chosen Character may be played. (i.e,. if you choose Harry the Seeker, no variations of Harry may be played.) See our Uniqueness Chart for a full list of affected cards.",
+        "cards": [
+            "Dementor's Kiss"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If the played Characters has a “When you play this card” effect, it still occurs, as this is a triggered ability, not an activated ability. Likewise, any effects that would trigger because of playing the card will still trigger.",
+        "cards": [
+            "Dementor Swarm"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Double-ended Newt may do damage to a Creature every time it damages your opponent, not just during the Creature Damage step.",
+        "cards": [
+            "Double-ended Newt"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Full Moon will increase the damage that your Creatures do to all players and Creatures, not just an opponent.",
+        "cards": [
+            "Full Moon"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Hippogriff’s effect of placing damage counters on itself does not do damage to itself. Effects that would increase damage Creatures do will not increase the number of damage counters placed on Hippogriff, and damage counters can be placed on Hippogriff even if an effect would prevent damage dealt to Creatures.",
+        "cards": [
+            "Hippogriff"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "You must pay any additional costs (e.g., “To play this card…”).",
+        "cards": [
+            "Scabbers' Return"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "The card counts the amount of Charms Power you have from all sources, including but not limited to Lessons, Items, and Characters.",
+        "cards": [
+            "Exploding Charm"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If more Lessons enter your discard pile after you play this card, the Power cost reduction will not change.",
+        "cards": [
+            "Dizzying Workload"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If you choose to draw, you will draw a card after the card effect that lets you search your deck has fully resolved and you have shuffled your deck.",
+        "cards": [
+            "Sirius' Letter"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If the only Creatures in play are your own, you must discard one of your own Creatures.",
+        "cards": [
+            "Buckbeak's Execution"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If Buckbeak’s Execution does not discard a Creature before your turn because there are no Creatures in play, Buckbeak’s Execution will still be discarded from play.",
+        "cards": [
+            "Buckbeak's Execution"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Your opponent also may not put into play any cards of the chosen card type.",
+        "cards": [
+            "Caught by Dementors"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If you have 3 Power in play, you will discard 4 cards from your hand. If you have 4 Power in play, you may discard 3 or 4 cards from your hand. If you have 5 Power in play, you may discard 2, 3, or 4 cards from your hand. If you have 6 Power, you may discard 1, 2, 3, or 4 cards from your hand. If you have at least 7 Power, you may discard up to 4 cards from your hand.",
+        "cards": [
+            "Confiscated Map"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "You may still discard more cards from your hand than required, up to 4.",
+        "cards": [
+            "Confiscated Map"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If your opponent plays the named card, their card entirely finishes resolving before Death Warrant’s effect resolves.",
+        "cards": [
+            "Death Warrant"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If Death Warrant is discarded before your opponent’s card finishes resolving, Death’s Warrant’s effect still occurs.",
+        "cards": [
+            "Death Warrant"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "You do not need to reveal your entire hand, more than 1 card of each card type, nor every card type you have. You may reveal 0 or any number of the card types you have in your hand.",
+        "cards": [
+            "Hermione's Secret"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "You must immediately use the “Once per game” ability if the chosen Character has one and the “Once per game” ability has already been used.",
+        "cards": [
+            "Pettigrew's Treachery"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "The cards discarded by Trelawney’s Prediction are not considered damage and will not count for any effects that depend on damage.",
+        "cards": [
+            "Trelawny's Prediction"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Increasing or decreasing progress means that your count toward winning the Match increases or decreases (damage, cards discarded, damage prevented, etc.). This does not mean that you do damage to your opponent, discard cards, or prevent damage.",
+        "cards": [
+            "Biased Referee"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Your progress advances after the effect that increased an opponent’s progress is fully resolved.",
+        "cards": [
+            "Biased Referee"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If your opponent discards a Lesson with the first part of this card, it does not count as them choosing to discard a Lesson to activate the second part of this card.",
+        "cards": [
+            "Imminent Collision"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Damage prevention doesn’t need to be from the Match’s effect.",
+        "cards": [
+            "Inter-House Final"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "You may discard any number of cards; you do not need to discard the same number of cards as the damage you are taking.",
+        "cards": [
+            "Inter-House Final"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Once a Match is won, its effects cannot be used. Neither player may continue to use the Match’s effect to prevent damage.",
+        "cards": [
+            "Inter-House Final"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If you have won a Match this turn, you may play Victory Party even if there is an effect that does not allow you to use Actions to play Spells.",
+        "cards": [
+            "Victory Party"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If there are not 3 cards under this card, then you must put a card under Battered Old Suitcase whenever you discard 1 or more cards. You may choose the card if you discard more than 1. This can trigger more than once a turn, during any player’s turn.",
+        "cards": [
+            "Battered Old Suitcase"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If you have more Battered Old Suitcases with less than 3 cards under it than the amount of cards you discard, the turn player will choose which Battered Old Suitcase(s) the card(s) will go under.",
+        "cards": [
+            "Battered Old Suitcase"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If the named Character is already in play, its owner may still use its abilities.",
+        "cards": [
+            "Empty Frame"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If there is already a version of the named Character in play, you cannot put a Character from your deck into play.",
+        "cards": [
+            "Empty Frame"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Incorrect Interpretations triggers on either player’s turn, and can trigger for multiple reasons (e.g. looking at the top card of their deck and putting them back on top and/or bottom, putting cards on the bottom of their deck, etc.).",
+        "cards": [
+            "Incorrect Interpretations"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Shuffling does not trigger Incorrect Interpretations.",
+        "cards": [
+            "Incorrect Interpretations"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "You do not need to meet the Power requirements to play the card, but you must pay any additional costs (i.e. “When you play this card” effects).",
+        "cards": [
+            "Moonlit Transformation"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Your opponent’s starting Character counts toward this total.",
+        "cards": [
+            "SMACK!"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "You still need to have the requisite Power to play the card, and you will still need to pay for any additional costs of the card (e.g., “To play this card…”).",
+        "cards": [
+            "Three Turns"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "These Lessons have no Lesson type. Cards like Hermione, Potion Maker cannot use their ability to play one of these since they have no Lesson type.",
+        "cards": [
+            "Ancient Runes, Third Year",
+            "Arithmacy, Third Year",
+            "History of Magic, Third Year",
+            "Muggle Studies, Third Year",
+            "Herbology, Third Year"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "Unlike other Lessons, these Lessons have a Keyword: Advanced.",
+        "cards": [
+            "Ancient Runes, Third Year",
+            "Arithmacy, Third Year",
+            "History of Magic, Third Year",
+            "Muggle Studies, Third Year",
+            "Herbology, Third Year"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "If multiple of these are in play before your turn, each of them will trigger. This is not a ‘may’ ability. You must discard the Lesson, but you may choose to not search your deck for a Lesson and put it into play. If you do not search your deck, you will not shuffle your deck.",
+        "cards": [
+            "Ancient Runes, Third Year",
+            "Arithmacy, Third Year",
+            "History of Magic, Third Year",
+            "Muggle Studies, Third Year",
+            "Herbology, Third Year"
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "source": "Revival",
+        "ruling": "You may only have 4 of each of these Lessons in your deck since these are named cards and not generic Lessons.",
+        "cards": [
+            "Ancient Runes, Third Year",
+            "Arithmacy, Third Year",
+            "History of Magic, Third Year",
+            "Muggle Studies, Third Year",
+            "Herbology, Third Year"
+        ]
+    },
+    {
+        "date": "2023-12-21",
+        "source": "Revival",
+        "ruling": "Godric’s effect triggers only on the 3rd card you draw, not on every 3rd card in a turn.",
+        "cards": [
+            "Godric Gryffindor"
+        ]
+    },
+    {
+        "date": "2023-12-21",
+        "source": "Revival",
+        "ruling": "If Bewitched Ceiling leaves play, it no longer provides Power, even if it reenters play the same turn. If Bewitched Ceiling reenters play, you may use its effect again.",
+        "cards": [
+            "Bewitched Ceiling"
+        ]
+    },
+    {
+        "date": "2023-12-21",
+        "source": "Revival",
+        "ruling": "Lessons, Characters and Adventures do not have a Lesson type. If one of those is discarded, Bewitched Ceiling does not provide power.",
+        "cards": [
+            "Bewitched Ceiling"
+        ]
+    }
+]
