@@ -17,7 +17,8 @@
             "artist": "Tim Hildebrandt",
             "effect": [
                 "Before each of your turns, Bludger does 3 damage to your opponent if a Match is in play. (If there isn't a Match in play, Bludger does no damage)."
-            ]
+            ],
+            "imgSrc": "Bludger"
         },
         {
             "number": "2",
@@ -34,7 +35,8 @@
             "artist": "James Bernardin",
             "effect": [
                 "You win the current Match. (You get the prize.)"
-            ]
+            ],
+            "imgSrc": "CatchTheSnitch"
         },
         {
             "number": "3",
@@ -51,7 +53,8 @@
             "artist": "Keith Garletts",
             "effect": [
                 "Your opponent discards his or her hand. Then he or she may draw any number of cards."
-            ]
+            ],
+            "imgSrc": "CharmsExam"
         },
         {
             "number": "4",
@@ -77,7 +80,8 @@
             ],
             "effect": [
                 "To play this card, discard 2 of your Care of Magical Creatures Lessons from play."
-            ]
+            ],
+            "imgSrc": "Fluffy"
         },
         {
             "number": "5",
@@ -94,7 +98,8 @@
             "artist": "Jon Foster",
             "effect": [
                 "You may use 1 Action (instead of 2) to put an Adventure card from your hand into play, even if you already have one in play. If you already had one in play, discard the old one. (Nobody gets the reward.)"
-            ]
+            ],
+            "imgSrc": "Fred&GeorgeWeasley"
         },
         {
             "number": "6",
@@ -111,7 +116,8 @@
                 "reward: Your opponent gets 1 more Action (the turn this Adventure is solved)."
             ],
             "toSolve": "Your opponent chooses 5 Spell cards in his or her hand and discards them.",
-            "reward": "Your opponent gets 1 more Action (the turn this Adventure is solved)."
+            "reward": "Your opponent gets 1 more Action (the turn this Adventure is solved).",
+            "imgSrc": "GazeIntoTheMirror"
         },
         {
             "number": "7",
@@ -136,7 +142,8 @@
             "artist": "Bob Petillo",
             "effect": [
                 "To play this card, return 2 of your Potions Lessons from play to your hand."
-            ]
+            ],
+            "imgSrc": "GoldCauldron"
         },
         {
             "number": "8",
@@ -152,7 +159,8 @@
             "artist": "Keith Garletts",
             "effect": [
                 "At the end of your opponent's turn, you win the game unless your opponent has at least 10 more cards in his or her deck than you do. (If he or she does, your opponent wins the game instead.)"
-            ]
+            ],
+            "imgSrc": "GoldenSnitch"
         },
         {
             "number": "9",
@@ -168,7 +176,8 @@
                 "reward: Your opponent may draw 3 cards."
             ],
             "toSolve": "Your opponent takes 8 damage.",
-            "reward": "Your opponent may draw 3 cards."
+            "reward": "Your opponent may draw 3 cards.",
+            "imgSrc": "HagridNeedsHelp"
         },
         {
             "number": "10",
@@ -185,7 +194,8 @@
             "artist": "James Bernardin",
             "effect": [
                 "Put up to 4 Creature cards from your discard pile into your hand."
-            ]
+            ],
+            "imgSrc": "HalloweenFeast"
         },
         {
             "number": "11",
@@ -204,7 +214,8 @@
             "artist": "Scott M. Fischer",
             "effect": [
                 "Once during each of your turns, when you use an Action to play a Quidditch Lesson card, you may also draw a card."
-            ]
+            ],
+            "imgSrc": "HarryTheSeeker"
         },
         {
             "number": "12",
@@ -220,7 +231,8 @@
             "artist": "Patrick Faricy",
             "effect": [
                 "You may use an Action to search your deck. You may take a Healing card, show it to your opponent and put it into your hand. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "HospitalBed"
         },
         {
             "number": "13",
@@ -243,7 +255,8 @@
             "artist": "Tony Szczudlo",
             "effect": [
                 "Once per game, you may search your deck. When you do, you may take a Broom card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "MadamRolandaHooch"
         },
         {
             "number": "14",
@@ -262,7 +275,8 @@
             "artist": "David A. Roach",
             "effect": [
                 "Once per game, you may make your opponent choose 3 cards in his or her hand and discard them. (If there are fewer than 3 cards in your opponent's hand, he or she discards them all.)"
-            ]
+            ],
+            "imgSrc": "MarcusFlint"
         },
         {
             "number": "15",
@@ -283,7 +297,8 @@
             ],
             "effect": [
                 "You may prevent all but the first 8 damage done to you each turn."
-            ]
+            ],
+            "imgSrc": "NevilleLongbottom"
         },
         {
             "number": "16",
@@ -304,7 +319,8 @@
             "artist": "Mark Romanoski",
             "effect": [
                 "Whenever 1 of your Item or Spell cards that needs Quidditch Power does damage, it does 2 more damage. If you play this card and already have a Broom in play, discard the old one."
-            ]
+            ],
+            "imgSrc": "NimbusTwoThousand"
         },
         {
             "number": "17",
@@ -320,7 +336,8 @@
             "artist": "Michael Koelsch",
             "effect": [
                 "Discard all Matches and Items that need Quidditch Power from play (even your own). (If a Match is discarded, no one gets the prize.)"
-            ]
+            ],
+            "imgSrc": "NoTimeToPlay"
         },
         {
             "number": "18",
@@ -342,7 +359,8 @@
             ],
             "effect": [
                 "Once per game, when 1 of your Spell cards that needs Quidditch Power does damage, you may have it do 8 more damage."
-            ]
+            ],
+            "imgSrc": "OliverWood"
         },
         {
             "number": "19",
@@ -358,7 +376,8 @@
             "artist": "Jeff Laubenstein",
             "effect": [
                 "Do 6 damage to your opponent. Then your opponent chooses 4 cards in his or her hand and discards them. (If there are fewer than 4 cards in your opponent's hand, he or she discards them all.)"
-            ]
+            ],
+            "imgSrc": "OutOfControl"
         },
         {
             "number": "20",
@@ -374,7 +393,8 @@
             "artist": "Alex Horley",
             "effect": [
                 "Your opponent chooses 5 of his or her cards and discards them. Those cards can come from his or her hand or from play or from both. (If there are fewer than 5 total cards in your opponent's hand and in play, he or she discards them all.)"
-            ]
+            ],
+            "imgSrc": "PotionsClassDisaster"
         },
         {
             "number": "21",
@@ -397,7 +417,8 @@
             "artist": "Scott M. Fischer",
             "effect": [
                 "Once per game, you may discard the Adventure your opponent has played. (You don't get the reward.)"
-            ]
+            ],
+            "imgSrc": "Prof.MinervaMcgonagall"
         },
         {
             "number": "22",
@@ -413,7 +434,8 @@
             "artist": "Patrick Faricy",
             "effect": [
                 "You may use 2 Actions to choose 1 of your opponent's cards in play (other than his or her starting Character) and return it to his or her hand."
-            ]
+            ],
+            "imgSrc": "PutOuter"
         },
         {
             "number": "23",
@@ -432,7 +454,8 @@
                 "prize: The winner searches his or her deck. He or she may take up to 2 Lesson cards from his or her deck and put them into play. Then that player shuffles his or her deck."
             ],
             "toWin": "Do 10 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
-            "prize": "The winner searches his or her deck. He or she may take up to 2 Lesson cards from his or her deck and put them into play. Then that player shuffles his or her deck."
+            "prize": "The winner searches his or her deck. He or she may take up to 2 Lesson cards from his or her deck and put them into play. Then that player shuffles his or her deck.",
+            "imgSrc": "RavenclawMatch"
         },
         {
             "number": "24",
@@ -455,7 +478,8 @@
             "artist": "Patrick Faricy",
             "effect": [
                 "If Scabbers is discarded from play during your opponent's turn, put it into your hand."
-            ]
+            ],
+            "imgSrc": "Scabbers"
         },
         {
             "number": "25",
@@ -476,7 +500,8 @@
             ],
             "effect": [
                 "Once during each of your turns, you may discard 2 cards from your hand to get 1 more Action."
-            ]
+            ],
+            "imgSrc": "SeamusFinnigan"
         },
         {
             "number": "26",
@@ -498,7 +523,8 @@
                 "prize: The winner may shuffle up to 15 non-Healing cards from his or her discard pile into his or her deck."
             ],
             "toWin": "Do 15 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
-            "prize": "The winner may shuffle up to 15 non-Healing cards from his or her discard pile into his or her deck."
+            "prize": "The winner may shuffle up to 15 non-Healing cards from his or her discard pile into his or her deck.",
+            "imgSrc": "SlytherinMatch"
         },
         {
             "number": "27",
@@ -514,7 +540,8 @@
             "artist": "James Bernardin",
             "effect": [
                 "Put up to 4 Lesson cards from your discard pile into your hand."
-            ]
+            ],
+            "imgSrc": "StartOfTermFeast"
         },
         {
             "number": "28",
@@ -530,7 +557,8 @@
             "artist": "Michael Koelsch",
             "effect": [
                 "At the end of your turn, draw a card if you played at least 1 Spell card that needs Quidditch Power that turn."
-            ]
+            ],
+            "imgSrc": "SupportBanner"
         },
         {
             "number": "29",
@@ -546,7 +574,8 @@
             "artist": "Kevin Dobler",
             "effect": [
                 "You may use 2 Actions to search your deck. You may take a Character card of a Character that isn't already in play and put it in play. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "TheSortingHat"
         },
         {
             "number": "30",
@@ -568,7 +597,8 @@
             "artist": "Zina Saunders",
             "effect": [
                 "When you play this card, you may put a Lesson card from your discard pile into your hand. Whenever a Spell card damages you, you may let Trevor take that damage instead."
-            ]
+            ],
+            "imgSrc": "Trevor"
         },
         {
             "number": "31",
@@ -585,7 +615,8 @@
             "artist": "Monte Michael Moore",
             "effect": [
                 "Search your deck. You may take a Wizard or a Witch card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "ChocolateFrogs"
         },
         {
             "number": "32",
@@ -610,7 +641,8 @@
             "artist": "James Bernardin",
             "effect": [
                 "Once during each of your opponent's turns, you may prevent 1 damage done to you. If you play this card, and you already have a Broom in play, discard the old one."
-            ]
+            ],
+            "imgSrc": "CometTwoSixty"
         },
         {
             "number": "33",
@@ -626,7 +658,8 @@
             "artist": "Michael Koelsch",
             "effect": [
                 "During your opponent's next turn, prevent all damage done to you."
-            ]
+            ],
+            "imgSrc": "Defence"
         },
         {
             "number": "34",
@@ -647,7 +680,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. At the end of each of your turns, remove all damage counters from Devil's Snare."
-            ]
+            ],
+            "imgSrc": "DevilsSnare"
         },
         {
             "number": "35",
@@ -663,7 +697,8 @@
             "artist": "Tim Hildebrandt",
             "effect": [
                 "Choose 1 of your opponent's cards in play (other than his or her starting Character). Your opponent discards that card."
-            ]
+            ],
+            "imgSrc": "Diffindo"
         },
         {
             "number": "36",
@@ -684,7 +719,8 @@
             "artist": "Jeff Laubenstein",
             "effect": [
                 "When you play this card, you may choose another Creature in play. Do 2 damage to it."
-            ]
+            ],
+            "imgSrc": "Doxy"
         },
         {
             "number": "37",
@@ -704,7 +740,8 @@
                 "prize: The winner may draw 5 cards. The loser takes 5 damage."
             ],
             "toWin": "Do 8 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
-            "prize": "The winner may draw 5 cards. The loser takes 5 damage."
+            "prize": "The winner may draw 5 cards. The loser takes 5 damage.",
+            "imgSrc": "HufflepuffMatch"
         },
         {
             "number": "38",
@@ -721,7 +758,8 @@
                 "reward: Your opponent may draw a card."
             ],
             "toSolve": "Your opponent chooses 4 Creature cards in his or her hand and discards them.",
-            "reward": "Your opponent may draw a card."
+            "reward": "Your opponent may draw a card.",
+            "imgSrc": "InTheStands"
         },
         {
             "number": "39",
@@ -738,7 +776,8 @@
                 "reward: Your opponent may draw a card."
             ],
             "toSolve": "Your opponent skips a total of 5 Actions. (Those Actions don't need to be one right after the other.)",
-            "reward": "Your opponent may draw a card."
+            "reward": "Your opponent may draw a card.",
+            "imgSrc": "IntoTheForbiddenForest"
         },
         {
             "number": "40",
@@ -754,7 +793,8 @@
             "artist": "Alex Horley",
             "effect": [
                 "Do 2 damage to your opponent. During your opponent's next turn, he or she can't play Spell cards."
-            ]
+            ],
+            "imgSrc": "JawbindPotion"
         },
         {
             "number": "41",
@@ -770,7 +810,8 @@
             "artist": "Kevin Dobler",
             "effect": [
                 "Look at your opponent's hand. If there are any Spell cards there, choose 1 of them and discard it."
-            ]
+            ],
+            "imgSrc": "MissingParchment"
         },
         {
             "number": "42",
@@ -786,7 +827,8 @@
             "artist": "James Bernardin",
             "effect": [
                 "Draw 3 cards."
-            ]
+            ],
+            "imgSrc": "PenaltyShot"
         },
         {
             "number": "43",
@@ -803,7 +845,8 @@
                 "reward: Your opponent may draw 2 cards."
             ],
             "toSolve": "Your opponent shows you a card from his or her hand with a (printed) Power needed of 8 or more.",
-            "reward": "Your opponent may draw 2 cards."
+            "reward": "Your opponent may draw 2 cards.",
+            "imgSrc": "PepTalk"
         },
         {
             "number": "44",
@@ -822,7 +865,8 @@
             ],
             "effect": [
                 "Choose 1 of either player's Creatures in play and a Lesson card in that player's discard pile. Discard that Creature and put that Lesson card into play."
-            ]
+            ],
+            "imgSrc": "PetrificusTotalus"
         },
         {
             "number": "45",
@@ -838,7 +882,8 @@
             "artist": "David A. Roach",
             "effect": [
                 "Play this card only if a Match is in play. Do 7 damage to your opponent."
-            ]
+            ],
+            "imgSrc": "PowerPlay"
         },
         {
             "number": "46",
@@ -855,7 +900,8 @@
                 "reward: You discard your hand."
             ],
             "toSolve": "Your opponent discards his or her hand.",
-            "reward": "You discard your hand."
+            "reward": "You discard your hand.",
+            "imgSrc": "RaceForTheSnitch"
         },
         {
             "number": "47",
@@ -872,7 +918,8 @@
                 "reward: Your opponent may draw a card."
             ],
             "toSolve": "Your opponent lets you search your deck for up to 2 cards and put them into your hand. Then shuffle your deck.",
-            "reward": "Your opponent may draw a card."
+            "reward": "Your opponent may draw a card.",
+            "imgSrc": "SnapesBias"
         },
         {
             "number": "48",
@@ -889,7 +936,8 @@
                 "reward: Your opponent may put up to 4 non-Healing cards from his or her discard pile on the bottom of his or her deck (in any order)."
             ],
             "toSolve": "Your opponent discards his or her hand.",
-            "reward": "Your opponent may put up to 4 non-Healing cards from his or her discard pile on the bottom of his or her deck (in any order)."
+            "reward": "Your opponent may put up to 4 non-Healing cards from his or her discard pile on the bottom of his or her deck (in any order).",
+            "imgSrc": "StickingUpForNeville"
         },
         {
             "number": "49",
@@ -905,7 +953,8 @@
             "artist": "Michael Koelsch",
             "effect": [
                 "You may put up to 3 Quidditch Lessons from your hand into play."
-            ]
+            ],
+            "imgSrc": "StrategySession"
         },
         {
             "number": "50",
@@ -921,7 +970,8 @@
             "artist": "Keith Garletts",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. Do 5 damage to your opponent. During your opponent's next turn, prevent all damage done to you by your opponent's Creatures."
-            ]
+            ],
+            "imgSrc": "WeaknessPotion"
         },
         {
             "number": "51",
@@ -937,7 +987,8 @@
             "artist": "Keith Garletts",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. Do 4 damage to your opponent or to a Creature of your choice."
-            ]
+            ],
+            "imgSrc": "BloodrootPoison"
         },
         {
             "number": "52",
@@ -953,7 +1004,8 @@
             "artist": "Mark Romanoski",
             "effect": [
                 "For the rest of this turn, your Spell cards need 5 less Power to play. (You still need at least 1 Power that Matches.)"
-            ]
+            ],
+            "imgSrc": "Bravado"
         },
         {
             "number": "53",
@@ -972,7 +1024,8 @@
             "artist": "Alex Horley",
             "effect": [
                 "Shuffle up to 5 non-Healing cards from your discard pile into your deck."
-            ]
+            ],
+            "imgSrc": "BruisewortBalm"
         },
         {
             "number": "54",
@@ -997,7 +1050,8 @@
             "artist": "Patrick Faricy",
             "effect": [
                 "When you play this card, look at the top 4 cards of your deck and put them back on top in any order. (If there are fewer than 4, look at all of them.) If you play this card, and you already have a Broom in play, discard the old one."
-            ]
+            ],
+            "imgSrc": "CleansweepSeven"
         },
         {
             "number": "55",
@@ -1013,7 +1067,8 @@
             "artist": "Patrick Faricy",
             "effect": [
                 "Do 4 damage to your opponent. Then, if your opponent has any cards in play, he or she chooses 1 of them and discards them."
-            ]
+            ],
+            "imgSrc": "Cobbing"
         },
         {
             "number": "56",
@@ -1034,7 +1089,8 @@
             "artist": "Doug Chaffee",
             "effect": [
                 "At the end of each of your turns, remove all damage counters from Cobra Lily."
-            ]
+            ],
+            "imgSrc": "CobraLily"
         },
         {
             "number": "57",
@@ -1052,7 +1108,8 @@
             "dmgEachTurn": "3",
             "health": "1",
             "rarity": "Common",
-            "artist": "Doug Chaffee"
+            "artist": "Doug Chaffee",
+            "imgSrc": "CunningFox"
         },
         {
             "number": "58",
@@ -1069,7 +1126,8 @@
             "artist": "Melissa Ferreira",
             "effect": [
                 "To play this card, discard 1 of your Lessons from play. Search your deck. You may take up to 3 Creature cards from your deck, show them to your opponent and put them into your hand. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "DeskIntoPig"
         },
         {
             "number": "59",
@@ -1085,7 +1143,8 @@
             "artist": "Greg Hildebrandt",
             "effect": [
                 "Do 3 damage to your opponent. During your opponent's next turn, he or she can't use Actions to play Lesson cards."
-            ]
+            ],
+            "imgSrc": "DrowsinessDraught"
         },
         {
             "number": "60",
@@ -1102,7 +1161,8 @@
             "artist": "James Bernardin",
             "effect": [
                 "Do 4 damage to your opponent. During your opponent's next turn, he or she gets 1 fewer Action. (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)"
-            ]
+            ],
+            "imgSrc": "Fouled"
         },
         {
             "number": "61",
@@ -1118,7 +1178,8 @@
             "artist": "Kevin Dobler",
             "effect": [
                 "Look at your opponent's hand. If there are any Creature cards there, choose 1 of them and discard it."
-            ]
+            ],
+            "imgSrc": "Gone"
         },
         {
             "number": "62",
@@ -1134,7 +1195,8 @@
             "artist": "Monte Michael Moore",
             "effect": [
                 "Choose up to 2 Creatures in play and return them to their owners' hands."
-            ]
+            ],
+            "imgSrc": "MiceToSnuffboxes"
         },
         {
             "number": "63",
@@ -1150,7 +1212,8 @@
             "artist": "Greg Hildebrandt",
             "effect": [
                 "Do 3 damage to yout opponent or to a Creature of your choice."
-            ]
+            ],
+            "imgSrc": "MopsusPotion"
         },
         {
             "number": "64",
@@ -1166,7 +1229,8 @@
             "artist": "Patrick Faricy",
             "effect": [
                 "Do 5 damage to your opponent. Then, if your opponent has any cards in his or her hand, he or she chooses 1 of them and discards it."
-            ]
+            ],
+            "imgSrc": "Ouch"
         },
         {
             "number": "65",
@@ -1185,7 +1249,8 @@
                 "prize: The winner may draw 4 cards."
             ],
             "toWin": "Do 5 damage to your opponent while this card is in play. (That damage doesn't have to be done all at once.)",
-            "prize": "The winner may draw 4 cards."
+            "prize": "The winner may draw 4 cards.",
+            "imgSrc": "PracticeMatch"
         },
         {
             "number": "66",
@@ -1201,7 +1266,8 @@
             "artist": "James Bernardin",
             "effect": [
                 "Do 2 damage to your opponent. Then draw 2 cards."
-            ]
+            ],
+            "imgSrc": "PullingUp"
         },
         {
             "number": "67",
@@ -1218,7 +1284,8 @@
             "artist": "Mark Romanoski",
             "effect": [
                 "To play this card, discard 1 of your Lessons from play. Search your deck. You may put up to 2 Lesson cards from your deck into play. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "Research"
         },
         {
             "number": "68",
@@ -1237,7 +1304,8 @@
             ],
             "effect": [
                 "Do 2 damage to your opponent or to a Creature of your choice. Then draw a card."
-            ]
+            ],
+            "imgSrc": "RopeBind"
         },
         {
             "number": "69",
@@ -1254,7 +1322,8 @@
             "artist": "James Bernardin",
             "effect": [
                 "Search your deck. You may take a Quidditch Lesson or a card that needs Quidditch Power from your deck, show it to your opponent and put it into your hand. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "SearchingForTheSnitch"
         },
         {
             "number": "70",
@@ -1270,7 +1339,8 @@
             "artist": "Patrick Faricy",
             "effect": [
                 "Choose 1 of your opponent's Items in play and discard it."
-            ]
+            ],
+            "imgSrc": "Smash"
         },
         {
             "number": "71",
@@ -1289,7 +1359,8 @@
             ],
             "effect": [
                 "Do 3 damage to your opponent. You may also choose a Creature in play and do 3 damage to it."
-            ]
+            ],
+            "imgSrc": "StreamOfFlames"
         },
         {
             "number": "72",
@@ -1310,7 +1381,8 @@
             "artist": "Jeff Laubenstein",
             "effect": [
                 "When you play this card, you may choose another Creature in play. Do 1 damage to it."
-            ]
+            ],
+            "imgSrc": "Streeler"
         },
         {
             "number": "73",
@@ -1326,7 +1398,8 @@
             "artist": "Monte Michael Moore",
             "effect": [
                 "Count the number of Creatures in play (yours and your opponent's). Do that much damage to your opponent."
-            ]
+            ],
+            "imgSrc": "Swarm"
         },
         {
             "number": "74",
@@ -1343,7 +1416,8 @@
             "artist": "Michael Koelsch",
             "effect": [
                 "Look at the top 6 cards of your deck and put them back on top in any order. (If there are fewer than 6, look at all of them.)"
-            ]
+            ],
+            "imgSrc": "TimeOut"
         },
         {
             "number": "75",
@@ -1359,7 +1433,8 @@
             "artist": "Monte Michael Moore",
             "effect": [
                 "Choose 1 of your opponent's Creatures or Characters in play (other than his or her starting Character) and put it on the bottom of his or her deck."
-            ]
+            ],
+            "imgSrc": "Vanish"
         },
         {
             "number": "76",
@@ -1380,7 +1455,8 @@
             "artist": [
                 "Shanth Enjeti",
                 "Melissa Ferreira"
-            ]
+            ],
+            "imgSrc": "CareOfMagicalCreatures"
         },
         {
             "number": "77",
@@ -1401,7 +1477,8 @@
             "artist": [
                 "Shanth Enjeti",
                 "Melissa Ferreira"
-            ]
+            ],
+            "imgSrc": "Charms"
         },
         {
             "number": "78",
@@ -1422,7 +1499,8 @@
             "artist": [
                 "Shanth Enjeti",
                 "Melissa Ferreira"
-            ]
+            ],
+            "imgSrc": "Potions"
         },
         {
             "number": "79",
@@ -1443,7 +1521,8 @@
             "artist": [
                 "Shanth Enjeti",
                 "Melissa Ferreira"
-            ]
+            ],
+            "imgSrc": "Quidditch"
         },
         {
             "number": "80",
@@ -1464,7 +1543,8 @@
             "artist": [
                 "Shanth Enjeti",
                 "Melissa Ferreira"
-            ]
+            ],
+            "imgSrc": "Transfiguration"
         }
     ]
 }

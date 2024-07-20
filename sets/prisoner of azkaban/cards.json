@@ -21,7 +21,8 @@
             "flavorText": "'A crater in the middle of the street, so deep it had cracked the sewer below. Bodies everywhere. Muggles screaming.' — Cornelius Fudge",
             "effect": [
                 "Do 12 damage to an opponent."
-            ]
+            ],
+            "imgSrc": "AlleyBlast"
         },
         {
             "number": "2",
@@ -43,7 +44,8 @@
             "note": "When you play this card, discard any other Location from play (yours or your opponent's).",
             "effect": [
                 "When you play this card, choose a non-Lesson card type. When any player uses an Action to play a card of the chosen type, they use 1 more Action to play that card."
-            ]
+            ],
+            "imgSrc": "Azkaban"
         },
         {
             "number": "3",
@@ -62,7 +64,8 @@
             ],
             "effect": [
                 "Reveal the top card of your deck. If it's a Character, you may put it into play. Otherwise, discard the revealed card. At the end of the turn, if the Character put into play by Black's Break In is still in play, discard it."
-            ]
+            ],
+            "imgSrc": "BlacksBreakIn"
         },
         {
             "number": "4",
@@ -85,7 +88,8 @@
             "health": 5,
             "effect": [
                 "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. Whenever an opponent plays a Creature, that Creature and Buckbeak do damage to each other."
-            ]
+            ],
+            "imgSrc": "Buckbeak"
         },
         {
             "number": "5",
@@ -103,7 +107,8 @@
             "flavorText": "'That's Dad's boss,' Ron breathed. 'The Minister of Magic!'",
             "effect": [
                 "Before each of your turns, you get 1 more Action for every Action each opponent used beyond their second on their last turn. You can’t gain Actions from cards other than this card."
-            ]
+            ],
+            "imgSrc": "CorneliusFudge"
         },
         {
             "number": "6",
@@ -125,7 +130,8 @@
             "health": 3,
             "effect": [
                 "When you play this card, you may discard 1 of your Lessons from play to choose an opponent’s Character in play (other than their starting Character) and put it on top of its owner’s deck. During that opponent’s next turn, they can't use Actions to play Characters."
-            ]
+            ],
+            "imgSrc": "Dementor"
         },
         {
             "number": "7",
@@ -141,7 +147,8 @@
             "flavorText": "Filch was suddenly bustling up and down the corridors, boarding up everything from tiny cracks in the walls to mouse holes.",
             "effect": [
                 "You may use an Action to discard an Event from play."
-            ]
+            ],
+            "imgSrc": "Filch,HogwartsCaretaker"
         },
         {
             "number": "8",
@@ -166,7 +173,8 @@
             ],
             "effect": [
                 "Once during each of your turns, when you use an Action to play a Quidditch card, you may look at the top 4 cards of your deck, put them on the top and/or bottom of your deck in any order, and then draw a card. ( When you play this card, discard the other Broom (s) you control.)"
-            ]
+            ],
+            "imgSrc": "Firebolt"
         },
         {
             "number": "9",
@@ -185,7 +193,8 @@
             "flavorText": "'We’ve got two unbeatable Beaters.’ — Oliver Wood",
             "effect": [
                 "Before each of your turns, if you have a Quidditch Item in play, do 2 damage to an opponent."
-            ]
+            ],
+            "imgSrc": "Fred&George,Beaters"
         },
         {
             "number": "10",
@@ -204,7 +213,8 @@
             "flavorText": "'How extraordinarily like your father you are, Potter ... The resemblance between you is uncanny.' — Professor Severus Snape",
             "effect": [
                 "Once per game, you may search your deck. You may take an Event from your deck, reveal it, and put it into your hand. Then shuffle your deck. Until the end of your turn, Events do not require Power that matches their Lesson type to play."
-            ]
+            ],
+            "imgSrc": "Harry,YoungMarauder"
         },
         {
             "number": "11",
@@ -222,7 +232,8 @@
                 "reward: Until the end of their turn, your opponent may play 1 non-Healing card in their discard pile as if it were in their hand."
             ],
             "toSolve": "Your opponent takes 10 damage.",
-            "reward": "Until the end of their turn, your opponent may play 1 non-Healing card in their discard pile as if it were in their hand."
+            "reward": "Until the end of their turn, your opponent may play 1 non-Healing card in their discard pile as if it were in their hand.",
+            "imgSrc": "HomeworkByWandlight"
         },
         {
             "number": "12",
@@ -238,7 +249,8 @@
             ],
             "effect": [
                 "Search your deck. You may take a Wizard or Witch from your deck, reveal it, and put it into your hand. If you have a Wand in play, you may put that card into play instead. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "KnightBus"
         },
         {
             "number": "13",
@@ -258,7 +270,8 @@
             "flavorText": "He therefore increased the number of team practices to five a week.",
             "effect": [
                 "When you play a Beater, Chaser, Keeper, or Seeker, you may choose an opponent. If they have any cards in play, they choose 1 of them and discard it."
-            ]
+            ],
+            "imgSrc": "NightlyPractices"
         },
         {
             "number": "14",
@@ -274,7 +287,8 @@
             ],
             "effect": [
                 "Once per turn, you may use an Action to choose an opponent's non-Lesson card in play and a card in their discard pile with the same name. Put both on the bottom of their deck. (You must choose 2 cards.)"
-            ]
+            ],
+            "imgSrc": "ProfessorRemusLupin"
         },
         {
             "number": "15",
@@ -297,7 +311,8 @@
             ],
             "effect": [
                 "Once during each of your turns, when you discard 1 of your Care of Magical Creatures Lessons from play, you may draw a card and put 1 Lesson from your discard pile into your hand."
-            ]
+            ],
+            "imgSrc": "ProfessorRubeusHagrid"
         },
         {
             "number": "16",
@@ -315,7 +330,8 @@
             "flavorText": "'I have been crystal gazing … and to my astonishment, I saw myself abandoning my solitary luncheon and coming to join you. Who am I to refuse the promptings of fate?' — Professor Sybill Trelawney",
             "effect": [
                 "Before each of your turns, you may look at the top 2 cards of your deck and put them on the top and/or bottom of your deck in any order."
-            ]
+            ],
+            "imgSrc": "ProfessorSybillTrelawney"
         },
         {
             "number": "17",
@@ -335,7 +351,8 @@
             ],
             "effect": [
                 "When the last card would leave your deck, discard this card from play instead. If you do, put any number of cards from your hand on the bottom of your deck in any order, and cards cannot leave your deck until the end of the turn. When you build your deck, you can put only 1 Secret-Keeper in it.   (This effect occurs during other card effects.)"
-            ]
+            ],
+            "imgSrc": "SecretKeeper"
         },
         {
             "number": "18",
@@ -352,7 +369,8 @@
             "flavorText": "'Come follow me, dear friends, and we shall find our goal, or else shall perish bravely in the charge!' — Sir Cadogan",
             "effect": [
                 "Once during each of your turns, when you play a card with an even printed Power cost, you may draw a card, and then you may put a Lesson from your hand into play."
-            ]
+            ],
+            "imgSrc": "SirCadogan"
         },
         {
             "number": "19",
@@ -369,7 +387,8 @@
             "flavorText": "'. . . He was clever enough to escape from Azkaban, and that’s supposed to be impossible.' — Arthur Weasley",
             "effect": [
                 "For every 3 different card types in your discard pile, your opponents' cards require 1 more Power to play."
-            ]
+            ],
+            "imgSrc": "SiriusBlack"
         },
         {
             "number": "20",
@@ -386,7 +405,8 @@
             "flavorText": "... Stan Shunpike was ... eighteen or nineteen at most, with large, protruding ears and quite a few pimples.",
             "effect": [
                 "Once per turn, you may use an Action to choose a Location in play and do damage to an opponent equal to its printed Power cost."
-            ]
+            ],
+            "imgSrc": "StanShunpike"
         },
         {
             "number": "21",
@@ -406,7 +426,8 @@
             ],
             "effect": [
                 "Once during each of your turns, you may search your deck. You may take an Adventure or Event from your deck, reveal it, and put it into your hand. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "TheMaraudersMap"
         },
         {
             "number": "22",
@@ -427,7 +448,8 @@
             "flavorText": "Did he realize he was facing twelve years in Azkaban, twelve years that would make him unrecognizable?",
             "effect": [
                 "Whenever you take damage, prevent up to 2 of that damage. If this card has prevented at least 12 damage, it no longer prevents damage and instead Provides Potions."
-            ]
+            ],
+            "imgSrc": "12YearsInAzkaban"
         },
         {
             "number": "23",
@@ -446,7 +468,8 @@
                 "reward: Your opponent may search their deck for a Spell, reveal it, put it into their hand, and then shuffle their deck."
             ],
             "toSolve": "Your opponent uses Actions to play cards 10 times.",
-            "reward": "Your opponent may search their deck for a Spell, reveal it, put it into their hand, and then shuffle their deck."
+            "reward": "Your opponent may search their deck for a Spell, reveal it, put it into their hand, and then shuffle their deck.",
+            "imgSrc": "AtTheThreeBroomsticks"
         },
         {
             "number": "24",
@@ -466,7 +489,8 @@
             "flavorText": "'Never been a breakout from Azkaban before, ’as there, Ern?' — Stan Shunpike",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. Put up to 3 non-Healing Characters from your discard pile into your hand."
-            ]
+            ],
+            "imgSrc": "AzkabanBreakout"
         },
         {
             "number": "25",
@@ -488,7 +512,8 @@
             "health": 1,
             "effect": [
                 "Boggart's damage per turn is equal to the number of different card types in all opponents' discard piles."
-            ]
+            ],
+            "imgSrc": "Boggart"
         },
         {
             "number": "26",
@@ -505,7 +530,8 @@
             "flavorText": "'May I?' said Professor McGonagall, but she didn’t wait for an answer before pulling the Firebolt out of their hands.'",
             "effect": [
                 "Look at an opponent's hand. You may choose a non-Lesson card from it. Discard each of their cards in play and in their hand with the same name as the chosen card."
-            ]
+            ],
+            "imgSrc": "Confiscated"
         },
         {
             "number": "27",
@@ -521,7 +547,8 @@
                 "reward: Your opponent may discard a Match in play. Then they may put a Match from their discard pile into play."
             ],
             "toSolve": "Your opponent skips a total of 4 Actions.",
-            "reward": "Your opponent may discard a Match in play. Then they may put a Match from their discard pile into play."
+            "reward": "Your opponent may discard a Match in play. Then they may put a Match from their discard pile into play.",
+            "imgSrc": "DementorsOnThePitch"
         },
         {
             "number": "28",
@@ -537,7 +564,8 @@
                 "reward: Your opponent gets 1 more Action (the turn this Adventure is solved)."
             ],
             "toSolve": "Your opponent does damage to you 4 times.",
-            "reward": "Your opponent gets 1 more Action (the turn this Adventure is solved)."
+            "reward": "Your opponent gets 1 more Action (the turn this Adventure is solved).",
+            "imgSrc": "EavesdroppingOnTheWeasleys"
         },
         {
             "number": "29",
@@ -557,7 +585,8 @@
             "flavorText": "'I don’t think Egypt agreed with him.' — Ron Weasley",
             "effect": [
                 "Whenever an opponent uses a third Action in a turn, do 5 damage to them."
-            ]
+            ],
+            "imgSrc": "EgyptianHoliday"
         },
         {
             "number": "30",
@@ -573,7 +602,8 @@
             ],
             "effect": [
                 "Choose 1 of an opponent's cards in play and return it to its owner's hand. If you have fewer cards in play than that opponent, you get 1 more Action this turn."
-            ]
+            ],
+            "imgSrc": "FlightOfTheFatLady"
         },
         {
             "number": "31",
@@ -593,7 +623,8 @@
             ],
             "effect": [
                 "At the end of each of your turns, you may take damage until you discard a Lesson. If you do, during an opponent's next turn, their starting Character loses all abilities."
-            ]
+            ],
+            "imgSrc": "GrimSighting"
         },
         {
             "number": "32",
@@ -618,7 +649,8 @@
             ],
             "effect": [
                 "During your turn, you may discard this card from play. If you do, until the end of this turn, Brooms require 2 less Power to play and you may play Brooms from your discard pile as if they were in your hand."
-            ]
+            ],
+            "imgSrc": "HandbookOfDoItYourselfBroomcare"
         },
         {
             "number": "33",
@@ -640,7 +672,8 @@
             "health": 1,
             "effect": [
                 "When you play this card, you may discard 1 of your Care of Magical Creatures Lessons from play to put a non-Healing Spell from your discard pile into your hand."
-            ]
+            ],
+            "imgSrc": "Hermes"
         },
         {
             "number": "34",
@@ -660,7 +693,8 @@
             "flavorText": "'Righ’ then, Harry,' said Hagrid. 'I reckon he might’ let yeh ride him!'",
             "effect": [
                 "At the end of each of your turns, if at least 1 of your Creatures did damage this turn, draw 2 cards. When any of your Creatures are discarded from play, discard this card from play."
-            ]
+            ],
+            "imgSrc": "HippogriffRide"
         },
         {
             "number": "35",
@@ -677,7 +711,8 @@
             "flavorText": "Harry was still numb with cold, still wetter than he’d ever been in his life, but he could see.",
             "effect": [
                 "Choose an opponent. During their next turn, prevent the first 3 damage done to you. Before your next turn, draw a card for each damage prevented in this way."
-            ]
+            ],
+            "imgSrc": "Impervius"
         },
         {
             "number": "36",
@@ -696,7 +731,8 @@
             ],
             "effect": [
                 "When you play this card, choose a non-Lesson card type. Whenever an opponent plays a card of the chosen card type, you may discard a card from your hand. If you do, draw a card."
-            ]
+            ],
+            "imgSrc": "ImpromptuInspection"
         },
         {
             "number": "37",
@@ -713,7 +749,8 @@
             "flavorText": "'Anyway, we know it by heart,' said George. 'We bequeath it to you. We don’t really need it anymore.'",
             "effect": [
                 "Search your deck. You may take an Item or Spell from your deck, reveal it, and put it into your hand. Then shuffle your deck. You may use an Action to repeat this Spell."
-            ]
+            ],
+            "imgSrc": "InheritingTheMap"
         },
         {
             "number": "38",
@@ -738,7 +775,8 @@
             ],
             "effect": [
                 "Your Items do not require Power that matches their Lesson type to play."
-            ]
+            ],
+            "imgSrc": "IntermediateTransfiguration"
         },
         {
             "number": "39",
@@ -754,7 +792,8 @@
             ],
             "effect": [
                 "Before each of your turns, you may put a Password from your discard pile into your hand."
-            ]
+            ],
+            "imgSrc": "ListOfPasswords"
         },
         {
             "number": "40",
@@ -774,7 +813,8 @@
             "note": "When you play this card, discard any other Location from play (yours or your opponent's).",
             "effect": [
                 "Each player may only use Actions to play 1 non-Lesson card of each card type every turn (even the turn this card leaves play)."
-            ]
+            ],
+            "imgSrc": "McgonagallsOffice"
         },
         {
             "number": "41",
@@ -790,7 +830,8 @@
             ],
             "effect": [
                 "Search your deck. You may take a Plant from your deck with printed Power cost less than or equal to your current Power, reveal it, and put it into play. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "Mobiliarbus"
         },
         {
             "number": "42",
@@ -807,7 +848,8 @@
             "note": "When you play this card, discard any other Location from play (yours or your opponent's).",
             "effect": [
                 "Whenever a player uses an Action to play a Beater, Chaser, Keeper, or Seeker, they may search their deck. They may take a Quidditch Item or Spell from their deck, reveal it, and put it into their hand. Then they shuffle their deck."
-            ]
+            ],
+            "imgSrc": "QuidditchChangingRoom"
         },
         {
             "number": "43",
@@ -823,7 +865,8 @@
             ],
             "effect": [
                 "Choose an opponent's Creature or Item in play and return it to its owner's hand. Then look at that opponent's hand and choose a Creature or Item they can play, if any. They put it into play."
-            ]
+            ],
+            "imgSrc": "Riddikulus"
         },
         {
             "number": "44",
@@ -845,7 +888,8 @@
             "health": 4,
             "effect": [
                 "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. Your Creatures in play not named Security Troll cannot be chosen by opponents."
-            ]
+            ],
+            "imgSrc": "SecurityTroll"
         },
         {
             "number": "45",
@@ -864,7 +908,8 @@
             ],
             "effect": [
                 "At the end of each of your turns, you may discard the top card of your deck. If it is a Spell, do 2 damage to an opponent. If it is a Divination card, do 3 damage to an opponent. If it is a Lesson, put it into play. If it is a Character, put it into your hand."
-            ]
+            ],
+            "imgSrc": "TeacupsAndTeaLeaves"
         },
         {
             "number": "46",
@@ -885,7 +930,8 @@
             "note": "When you play this card, discard any other Location from play (yours or your opponent's).",
             "effect": [
                 "During each player's turn, whenever they draw 1 or more cards, except during their draw step, each of their opponents draws 2 cards."
-            ]
+            ],
+            "imgSrc": "TheNorthTower"
         },
         {
             "number": "47",
@@ -910,7 +956,8 @@
             ],
             "effect": [
                 "Whenever you play a Spell, do 1 damage to an opponent."
-            ]
+            ],
+            "imgSrc": "TheStandardBookOfSpells(grade3)"
         },
         {
             "number": "48",
@@ -930,7 +977,8 @@
                 "prize: The winner chooses up to 2 Lessons in their discard pile and puts them into play."
             ],
             "toWin": "Use Actions to play Creatures 3 times.",
-            "prize": "The winner chooses up to 2 Lessons in their discard pile and puts them into play."
+            "prize": "The winner chooses up to 2 Lessons in their discard pile and puts them into play.",
+            "imgSrc": "ThunderstormMatch"
         },
         {
             "number": "49",
@@ -946,7 +994,8 @@
             ],
             "effect": [
                 "Choose a number between 1 and 10. Do that much damage to an opponent. If 3 or more Lessons were discarded, that opponent shuffles all cards discarded by this effect back into their deck."
-            ]
+            ],
+            "imgSrc": "UnworthyTrick"
         },
         {
             "number": "50",
@@ -962,7 +1011,8 @@
             ],
             "effect": [
                 "When you play this card, name a non-Lesson card. When any player uses an Action to play the named card, they use 1 more Action to play that card."
-            ]
+            ],
+            "imgSrc": "WantedPoster"
         },
         {
             "number": "51",
@@ -979,7 +1029,8 @@
             "flavorText": "She was entirely round, now, like a vast life buoy with piggy eyes, and her hands and feet stuck out weirdly as she drifted up into the air, making apoplectic popping noises.",
             "effect": [
                 "Choose an Event in play and discard it. Then draw a card."
-            ]
+            ],
+            "imgSrc": "BallooningAunt"
         },
         {
             "number": "52",
@@ -996,7 +1047,8 @@
             "flavorText": "... by the time they hit the ground again, Wood didn’t have a single criticism to make, which, as George Weasley pointed out, was a first.",
             "effect": [
                 "Count the number of Beaters, Chasers, Keepers, and Seekers you have in play. Do that much damage to an opponent."
-            ]
+            ],
+            "imgSrc": "BestPracticeEver"
         },
         {
             "number": "53",
@@ -1013,7 +1065,8 @@
             "flavorText": "'Tha’s it,' said Hagrid. 'Tha’s it, Harry ... now, bow ...'",
             "effect": [
                 "The next Creature you play this turn requires 3 less Power to play. ( You still need at least 1 Power that matches.)"
-            ]
+            ],
+            "imgSrc": "BowingToAHippogriff"
         },
         {
             "number": "54",
@@ -1029,7 +1082,8 @@
             ],
             "effect": [
                 "Once during each of your turns, you may play a non-Healing Potions Item from your discard pile as if it were in your hand."
-            ]
+            ],
+            "imgSrc": "BrassScales"
         },
         {
             "number": "55",
@@ -1048,7 +1102,8 @@
             ],
             "effect": [
                 "Look at the top 4 cards of your deck. Put 1 of them into your hand, and the rest on the bottom of your deck in any order. You may use an Action to repeat this Spell."
-            ]
+            ],
+            "imgSrc": "BroadenYourMinds"
         },
         {
             "number": "56",
@@ -1064,7 +1119,8 @@
             ],
             "effect": [
                 "If you have a Broom in play, this card Provides Quidditch."
-            ]
+            ],
+            "imgSrc": "BroomstickCompass"
         },
         {
             "number": "57",
@@ -1084,7 +1140,8 @@
             "flavorText": "'So we’ve finally got a Defense Against the Dark Arts teacher who knows his remedies?' — Madam Pomfrey",
             "effect": [
                 "Put 1 of your Characters discarded during an opponent's last turn from your discard pile into your hand. Then draw a card."
-            ]
+            ],
+            "imgSrc": "Chocolate"
         },
         {
             "number": "58",
@@ -1101,7 +1158,8 @@
             "flavorText": "Slowly, she reached down for a bag at her feet, turned it upside down, and tipped a dozen bits of splintered wood and twig onto the bed, the only remains of Harry’s faithful, finally beaten broomstick.",
             "effect": [
                 "Do 4 damage to an opponent. During their next turn, their non-Lesson cards do not provide Power."
-            ]
+            ],
+            "imgSrc": "DestroyedBroom"
         },
         {
             "number": "59",
@@ -1118,7 +1176,8 @@
             "flavorText": "It was turning into the dirtiest game Harry had ever played in.",
             "effect": [
                 "Do 4 damage to an opponent. Then, if that opponent has any Events in play, they choose 1 of them and discards it."
-            ]
+            ],
+            "imgSrc": "DirtyGame"
         },
         {
             "number": "60",
@@ -1134,7 +1193,8 @@
             ],
             "effect": [
                 "Choose an opponent. During their next turn, whenever you take damage, prevent half of it ( rounded up). At the end of that opponent's turn, if this card's effect prevented 3 or less damage total, you may return this card from your discard pile to your hand."
-            ]
+            ],
+            "imgSrc": "FastSwerve"
         },
         {
             "number": "61",
@@ -1153,7 +1213,8 @@
             ],
             "effect": [
                 "When you play this card, play it face down and tell an opponent to guess 'Flibbertigibbet', 'Fortuna Major', 'Oddsbodikins', or 'Scurvy Cur'. If they guess 'Flibbertigibbet', each player discards 1 card from their hand. Otherwise, look at that opponent's hand. You may choose up to 2 of those cards and discard them."
-            ]
+            ],
+            "imgSrc": "Flibbertigibbet"
         },
         {
             "number": "62",
@@ -1172,7 +1233,8 @@
             ],
             "effect": [
                 "When you play this card, play it face down and tell an opponent to guess 'Flibbertigibbet', 'Fortuna Major', 'Oddsbodikins', or 'Scurvy Cur'. If they guess 'Fortuna Major', each player draws a card. Otherwise, look at up to the top 10 cards of your deck and put them back in any order, then draw 2 cards."
-            ]
+            ],
+            "imgSrc": "FortunaMajor"
         },
         {
             "number": "63",
@@ -1189,7 +1251,8 @@
             "flavorText": "'Gryffindor in possession, no, Slytherin in possession — no! — Gryffindor back in possession …' — Lee Jordan, commentator",
             "effect": [
                 "Do 4 damage to an opponent. Then, if that opponent has any Lessons in play, they choose 1 of them and put it on top of its owner’s deck."
-            ]
+            ],
+            "imgSrc": "GryffindorSteals"
         },
         {
             "number": "64",
@@ -1208,7 +1271,8 @@
             ],
             "effect": [
                 "At the end of each of your turns, if you played a Quidditch card, you may put 1 non-Healing card from your discard pile on the bottom of your deck."
-            ]
+            ],
+            "imgSrc": "HogwartsQuidditchRobes"
         },
         {
             "number": "65",
@@ -1228,7 +1292,8 @@
             "flavorText": "Undaunted, the Gryffindor team was training harder than ever under the eye of Madam Hooch.",
             "effect": [
                 "When a Match is discarded from play, you may return it to play under its owner’s control. If you do, discard this card."
-            ]
+            ],
+            "imgSrc": "HoochWatchesPractice"
         },
         {
             "number": "66",
@@ -1247,7 +1312,8 @@
             ],
             "effect": [
                 "To play this card, discard 3 cards from your hand. Search your deck. You may put up to 2 Lessons from your deck into play. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "ISolemnlySwear"
         },
         {
             "number": "67",
@@ -1268,7 +1334,8 @@
             "flavorText": "'One hopes, however, that one might have mistaken the Signs. ... The Inner Eye can be a burden, you know.'  — Professor Sybill Trelawney",
             "effect": [
                 "Before each of your turns, your opponent may reveal a Lesson from their hand. If they do not, you may put a Lesson from your hand into play."
-            ]
+            ],
+            "imgSrc": "InnerEye"
         },
         {
             "number": "68",
@@ -1285,7 +1352,8 @@
             "flavorText": "'I bet you’re not dangerous at all, are you?' he said to the hippogriff. 'Are you, you great ugly brute?'",
             "effect": [
                 "Play this card only if you have a Creature in play. Choose an opponent's Character in play ( other than their starting Character) and discard it."
-            ]
+            ],
+            "imgSrc": "InsultingAHippogriff"
         },
         {
             "number": "69",
@@ -1302,7 +1370,8 @@
             "flavorText": "There was another tremendous BANG, and the next moment Harry found himself flat on his bed, thrown backward by the speed of the Knight Bus.",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. Choose an Adventure or Event in play and discard it. ( You do not get the reward.)"
-            ]
+            ],
+            "imgSrc": "KnightBusRide"
         },
         {
             "number": "70",
@@ -1318,7 +1387,8 @@
             ],
             "effect": [
                 "Choose an opponent's Creature in play and put it on top of its owner's deck. If that Creature did damage to you during their last turn, do that much damage to that opponent."
-            ]
+            ],
+            "imgSrc": "LaughingAtABoggart"
         },
         {
             "number": "71",
@@ -1334,7 +1404,8 @@
             ],
             "effect": [
                 "Choose two of the following, then shuffle this card into your deck: Do 1 damage to an opponent. Look at an opponent’s hand. Draw a card."
-            ]
+            ],
+            "imgSrc": "Lumos"
         },
         {
             "number": "72",
@@ -1351,7 +1422,8 @@
             "flavorText": "But it wasn’t Professor Lupin who looked up at him from the teacher’s desk; it was Snape.",
             "effect": [
                 "Do 5 damage to an opponent or to a Creature of your choice. Your opponent may prevent this damage by revealing a Creature from their hand."
-            ]
+            ],
+            "imgSrc": "MaliciousSubstitute"
         },
         {
             "number": "73",
@@ -1370,7 +1442,8 @@
             ],
             "effect": [
                 "Choose an opponent's card in play. During their next turn, that card loses all abilities and damage per turn. If you have another Marauder card in play, you get 1 more Action this turn."
-            ]
+            ],
+            "imgSrc": "MischiefManaged"
         },
         {
             "number": "74",
@@ -1389,7 +1462,8 @@
             ],
             "effect": [
                 "When you play this card, play it face down and tell an opponent to guess 'Flibbertigibbet', 'Fortuna Major', 'Oddsbodikins', or 'Scurvy Cur'. If they guess 'Oddsbodikins', do 2 damage to each player. Otherwise, do 8 damage to that opponent."
-            ]
+            ],
+            "imgSrc": "Oddsbodikins"
         },
         {
             "number": "75",
@@ -1405,7 +1479,8 @@
             ],
             "effect": [
                 "Count the number of Lessons of different types you have in play. Draw twice that many cards."
-            ]
+            ],
+            "imgSrc": "OverloadedSchedule"
         },
         {
             "number": "76",
@@ -1424,7 +1499,8 @@
             ],
             "effect": [
                 "Reveal the top card of your deck. You may then reveal a card in your hand with a matching card type. If you do, put the cards revealed this way into your hand, and then do 6 damage to an opponent. Otherwise, you may put that card either on the top or bottom of your deck."
-            ]
+            ],
+            "imgSrc": "Palmistry"
         },
         {
             "number": "77",
@@ -1444,7 +1520,8 @@
             "flavorText": "The heavily perfumed smoke in the room was making him feel sleepy and stupid.",
             "effect": [
                 "Draw 2 cards. Then choose a card in your hand and shuffle it into your deck."
-            ]
+            ],
+            "imgSrc": "PerfumedSmoke"
         },
         {
             "number": "78",
@@ -1466,7 +1543,8 @@
             "health": 1,
             "effect": [
                 "When you play this card, draw a card, then discard a card from your hand."
-            ]
+            ],
+            "imgSrc": "PetCat"
         },
         {
             "number": "79",
@@ -1488,7 +1566,8 @@
             "health": 2,
             "effect": [
                 "Whenever an opponent uses an Action to play a Spell, do 2 damage to them."
-            ]
+            ],
+            "imgSrc": "PetSpider"
         },
         {
             "number": "80",
@@ -1504,7 +1583,8 @@
             ],
             "effect": [
                 "To play this card, return 1 of your Potions Lessons from play to your hand. Do 4 damage to an opponent or to a Creature of your choice."
-            ]
+            ],
+            "imgSrc": "PotionExperimentNo.7"
         },
         {
             "number": "81",
@@ -1520,7 +1600,8 @@
             ],
             "effect": [
                 "When 1 of your Creatures with printed Power cost of 3 or less would be discarded from play due to damage or an opponent's card, remove all damage counters from that Creature and discard this card instead."
-            ]
+            ],
+            "imgSrc": "RatTonic"
         },
         {
             "number": "82",
@@ -1542,7 +1623,8 @@
             "health": 2,
             "effect": [
                 "You may use an Action to discard a Care of Magical Creatures Lesson from your hand. If you do, do 3 damage to an opponent."
-            ]
+            ],
+            "imgSrc": "RedCap"
         },
         {
             "number": "83",
@@ -1559,7 +1641,8 @@
             "flavorText": "'We’re not playing Slytherin!' he told them, looking very angry. 'Flint’s just been to see me. We’re playing Hufflepuff instead.’'",
             "effect": [
                 "Discard a Match in play, then you may put a non-Healing Match from your discard pile into play. If you do, do 3 damage to an opponent."
-            ]
+            ],
+            "imgSrc": "RescheduledMatch"
         },
         {
             "number": "84",
@@ -1578,7 +1661,8 @@
             ],
             "effect": [
                 "When you play this card, play it face down and tell an opponent to guess 'Flibbertigibbet', 'Fortuna Major', 'Oddsbodikins', or 'Scurvy Cur'. If they guess 'Scurvy Cur', each player returns 1 of their non-Healing cards in play to its owner's hand. Otherwise, choose up to 2 of that opponent's cards in play and return them to their owner's hand."
-            ]
+            ],
+            "imgSrc": "ScurvyCur"
         },
         {
             "number": "85",
@@ -1604,7 +1688,8 @@
                     "lesson": "Care of Magical Creatures",
                     "amount": 1
                 }
-            ]
+            ],
+            "imgSrc": "TheMonsterBookOfMonsters"
         },
         {
             "number": "86",
@@ -1623,7 +1708,8 @@
             ],
             "effect": [
                 "Reveal the top card of your deck, then put it into your hand. If it is a Spell, draw 2 cards."
-            ]
+            ],
+            "imgSrc": "TrelawnyReading"
         },
         {
             "number": "87",
@@ -1643,7 +1729,8 @@
             ],
             "effect": [
                 "Once during each of your turns, you may look at the top card of your deck. During your turn, you may discard Unfogging the Future from play. If you do, draw a card and put a card from your hand on top of your deck."
-            ]
+            ],
+            "imgSrc": "UnfoggingTheFuture"
         },
         {
             "number": "88",
@@ -1660,7 +1747,8 @@
             "flavorText": "'Cool, sir!' — Dean Thomas",
             "effect": [
                 "Do 3 damage to an opponent. You may discard 1 of your Items in play. If you do, do damage to that opponent equal to the Item's printed Power cost."
-            ]
+            ],
+            "imgSrc": "Waddiwasi"
         },
         {
             "number": "89",
@@ -1680,7 +1768,8 @@
             ],
             "flavorText": "... the carriage trundled toward a pair of magnificent wrought iron gates, flanked with stone columns topped with winged boars ...",
             "dmgEachTurn": 2,
-            "health": 2
+            "health": 2,
+            "imgSrc": "WingedBoar"
         },
         {
             "number": "90",
@@ -1700,7 +1789,8 @@
             "flavorText": "'I am able to curl up in my office, a harmless wolf, and wait for the moon to wane again.'  — Professor Remus Lupin",
             "effect": [
                 "To play this card, return 1 of your Potions Lessons from play to your hand. Shuffle up to 8 non-Healing cards from your discard pile into your deck."
-            ]
+            ],
+            "imgSrc": "WolfsbanePotion"
         }
     ]
 }

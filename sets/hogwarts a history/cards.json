@@ -19,7 +19,8 @@
             "flavorText": "By Gryffindor, the bravest were Prized far beyond the rest",
             "effect": [
                 "Whenever you draw your third card on your turn, you get 1 more Action that turn."
-            ]
+            ],
+            "imgSrc": "GodricGryffindor"
         },
         {
             "number": "2",
@@ -37,7 +38,8 @@
             "flavorText": "For Hufflepuff, hard workers were Most worthy of admission",
             "effect": [
                 "Once during each of your turns, whenever one or more cards are put into your deck from play, your hand, or your discard pile, you get 1 more Action that turn."
-            ]
+            ],
+            "imgSrc": "HelgaHufflepuff"
         },
         {
             "number": "3",
@@ -62,7 +64,8 @@
             ],
             "effect": [
                 "You may use an Action to discard a Lesson card from your hand. If you do, you may put a non-Healing card from your discard pile into your hand."
-            ]
+            ],
+            "imgSrc": "Hogwarts:AHistory"
         },
         {
             "number": "4",
@@ -80,7 +83,8 @@
             "flavorText": "For Ravenclaw, the cleverest Would always be the best",
             "effect": [
                 "Once during each of your turns, whenever you play a card with printed Power cost 6 or more, you may put a Lesson card from your discard pile into play."
-            ]
+            ],
+            "imgSrc": "RowenaRavenclaw"
         },
         {
             "number": "5",
@@ -98,7 +102,8 @@
             "flavorText": "Power-hungry Slytherin Loved those of great ambition.",
             "effect": [
                 "At the end of each of your turns, if you did damage to an opponent, you may reveal the top 2 cards of their deck. You may discard any number of them. Put the rest on the top of their deck in any order."
-            ]
+            ],
+            "imgSrc": "SalazarSlytherin"
         },
         {
             "number": "6",
@@ -118,7 +123,8 @@
             "effect": [
                 "Before each player's turn, they get 1 fewer Action that turn. Once during each player's turn, they may discard a Lesson card from their hand to get 1 more Action."
             ],
-            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's).",
+            "imgSrc": "TheGrandStaircase"
         },
         {
             "number": "7",
@@ -134,7 +140,8 @@
                 "reward: Your opponent chooses 1 of your cards in play and discards it."
             ],
             "toSolve": "Your opponent discards 2 Character cards from their hand.",
-            "reward": "Your opponent chooses 1 of your cards in play and discards it."
+            "reward": "Your opponent chooses 1 of your cards in play and discards it.",
+            "imgSrc": "CockatriceAttack"
         },
         {
             "number": "8",
@@ -154,7 +161,8 @@
                 "prize: The winner may choose an opponent's card in play and discard it."
             ],
             "toWin": "Do 9 damage to an opponent.",
-            "prize": "The winner may choose an opponent's card in play and discard it."
+            "prize": "The winner may choose an opponent's card in play and discard it.",
+            "imgSrc": "HogwartsFirstMatch"
         },
         {
             "number": "9",
@@ -174,7 +182,8 @@
             "effect": [
                 "Before each player's turn, they may search their deck. They may take a Healing card, reveal it, and put it into their hand. Then they shuffle their deck."
             ],
-            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's).",
+            "imgSrc": "HogwartsKitchens"
         },
         {
             "number": "10",
@@ -196,7 +205,8 @@
             "effect": [
                 "Before each players turn, they count the number of Hufflepuff cards they have in play. For every 2 they have in play (rounded up), they put up to 1 non-Healing card from their discard pile on the bottom of their deck and draw a card."
             ],
-            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's).",
+            "imgSrc": "HufflepuffCommonRoom"
         },
         {
             "number": "11",
@@ -217,7 +227,8 @@
             "effect": [
                 "Before each player's turn, they count the number of Ravenclaw cards they have in play. The first card they play that turn needs that much less Power to play. (You still need at least 1 Power that matches)."
             ],
-            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's).",
+            "imgSrc": "RavenclawCommonRoom"
         },
         {
             "number": "12",
@@ -234,7 +245,8 @@
             "flavorText": "\"Er — I don’t think we’re allowed in the girls’ dormitories\"' - Ron Weasley",
             "effect": [
                 "Choose an opponent's non-Lesson card in play they played during their last turn. Discard that card."
-            ]
+            ],
+            "imgSrc": "StairsIntoSlides"
         },
         {
             "number": "13",
@@ -250,7 +262,8 @@
                 "reward: Your opponent gets 1 more Action (the turn this Adventure is solved)."
             ],
             "toSolve": "Your opponent skips a total of 4 Actions.",
-            "reward": "Your opponent gets 1 more Action (the turn this Adventure is solved)."
+            "reward": "Your opponent gets 1 more Action (the turn this Adventure is solved).",
+            "imgSrc": "TheFirstTriwizardTournament"
         },
         {
             "number": "14",
@@ -271,7 +284,8 @@
             "health": 3,
             "effect": [
                 "If this card is in your discard pile, you may discard a Lesson card from your hand to play this card as if it were in your hand."
-            ]
+            ],
+            "imgSrc": "AnimatedArmour"
         },
         {
             "number": "15",
@@ -287,7 +301,8 @@
             "rarity": "Common",
             "effect": [
                 "Once during each of your turns, you may discard the the top card of your deck. If you do, until the end of the turn, this card provides 2 Power that matches the Lesson type of that card."
-            ]
+            ],
+            "imgSrc": "BewitchedCeiling"
         },
         {
             "number": "16",
@@ -303,7 +318,8 @@
             "rarity": "Common",
             "effect": [
                 "Choose an opponent's card in play with a printed Power cost and put it on the bottom of its owner's deck."
-            ]
+            ],
+            "imgSrc": "Depulso"
         },
         {
             "number": "17",
@@ -319,7 +335,8 @@
             "rarity": "Common",
             "effect": [
                 "If this card is in your discard pile, you may discard a Lesson card from your hand to play this card as if it were in your hand.  Choose an opponent. During their next turn, they cannot choose your cards in play."
-            ]
+            ],
+            "imgSrc": "InvisibilityPotion"
         },
         {
             "number": "18",
@@ -338,7 +355,8 @@
             "rarity": "Common",
             "effect": [
                 "Choose 5 non-Healing cards in your discard pile. Your opponent chooses 1 of them. Put that card into your hand and shuffle the rest into your deck."
-            ]
+            ],
+            "imgSrc": "MidnightSnacks"
         },
         {
             "number": "19",
@@ -354,7 +372,8 @@
             "rarity": "Common",
             "effect": [
                 "Do 2 damage to an opponent. Then, if they have any Characters in play, they choose 1 of them and discard it."
-            ]
+            ],
+            "imgSrc": "StoogingPenalty"
         },
         {
             "number": "20",
@@ -375,7 +394,8 @@
             "health": 4,
             "effect": [
                 "To play this card, discard 1 of your [F] Lessons from play. When you play this card, you may choose an opponent's Character in play (other than their starting Character) and discard it."
-            ]
+            ],
+            "imgSrc": "WildCockatrice"
         }
     ]
 }

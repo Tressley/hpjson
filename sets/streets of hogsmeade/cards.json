@@ -23,7 +23,8 @@
             "artist": "dakotahblackart",
             "effect": [
                 "Once during each player's turn, when they discard 1 of their Items from play, they may choose a non-Healing Item in their discard pile with printed Power cost less than the discarded Item and put it into their hand."
-            ]
+            ],
+            "imgSrc": "DervishAndBanges"
         },
         {
             "number": "2",
@@ -44,7 +45,8 @@
             "artist": "Megan Renae",
             "effect": [
                 "When either player uses an Action to play a card with a printed Power cost, their cards require 2 less Power to play until the end of their turn. (They must have at least 1 Power that matches.)"
-            ]
+            ],
+            "imgSrc": "HogsmeadeStation"
         },
         {
             "number": "3",
@@ -66,7 +68,8 @@
             "artist": "ZeldaPitwick66",
             "effect": [
                 "Whenever a player uses an Action to play a Candy card from their hand, they may play another Candy card from their discard pile without using an Action."
-            ]
+            ],
+            "imgSrc": "Honeydukes"
         },
         {
             "number": "4",
@@ -85,7 +88,8 @@
             "artist": "Sophia Del Plato",
             "effect": [
                 "The first time you would draw any number of cards each turn, you may instead put that many non-Healing cards from your discard pile on the bottom of your deck in any order."
-            ]
+            ],
+            "imgSrc": "MadamRosmerta"
         },
         {
             "number": "5",
@@ -110,7 +114,8 @@
             "artist": "Emmanuel Oquendo",
             "effect": [
                 "When this card is discarded from play, draw 3 cards. (When you play this card, discard the other Broom(s) you control.)"
-            ]
+            ],
+            "imgSrc": "CometTwoNinety"
         },
         {
             "number": "6",
@@ -128,7 +133,8 @@
             "artist": "Mary GrandPré",
             "effect": [
                 "Search your deck. You may take a Hogsmeade Location from your deck and put it into play. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "Dissendium"
         },
         {
             "number": "7",
@@ -147,7 +153,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "When you play this card, choose a card type. Once per turn, whenever you use an Action to play the second card of the chosen type this turn, you get an extra Action this turn."
-            ]
+            ],
+            "imgSrc": "OnTheHogwartsExpress"
         },
         {
             "number": "8",
@@ -169,7 +176,8 @@
             "artist": "Olga Zvozdetska",
             "effect": [
                 "Before each player's turn, they take 4 damage."
-            ]
+            ],
+            "imgSrc": "TheShriekingShack"
         },
         {
             "number": "9",
@@ -191,7 +199,8 @@
             "artist": "Mary GrandPré",
             "effect": [
                 "At the end of each player's turn, if they put any number of cards into their deck, they may prevent up to 4 damage done to them during their opponent's next turn."
-            ]
+            ],
+            "imgSrc": "TheThreeBroomsticksInn"
         },
         {
             "number": "10",
@@ -211,7 +220,8 @@
             "artist": "TonyBWizardly",
             "effect": [
                 "Choose an opponent's Creature in play and do 2 damage to it. Then draw a card."
-            ]
+            ],
+            "imgSrc": "AcidPops"
         },
         {
             "number": "11",
@@ -226,7 +236,8 @@
             "rarity": "Common",
             "effect": [
                 "To play this card, choose one of your Items in play. This card requires less Power to play equal to the chosen Item's printed Power cost. When you play this card, discard the chosen Item from play. Then, draw a card."
-            ]
+            ],
+            "imgSrc": "BrokenItem"
         },
         {
             "number": "12",
@@ -246,7 +257,8 @@
             "artist": "Poiv",
             "effect": [
                 "Choose up to 2 non-Healing cards in your discard pile and put them on the top of your deck in any order. Until the beginning of your next turn, you may not draw cards."
-            ]
+            ],
+            "imgSrc": "Butterbeer"
         },
         {
             "number": "13",
@@ -263,7 +275,8 @@
             "artist": "Danikatze",
             "effect": [
                 "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. Count the number of Creatures in your discard pile. Do half that much damage to your opponent, rounded up."
-            ]
+            ],
+            "imgSrc": "HauntingScreams"
         },
         {
             "number": "14",
@@ -280,7 +293,8 @@
             "artist": "CaptainJackHarkness",
             "effect": [
                 "Reveal your hand, then put a Lesson from your hand into play. You get 1 more Action this turn."
-            ]
+            ],
+            "imgSrc": "PermissionForm"
         },
         {
             "number": "15",
@@ -301,7 +315,8 @@
             "artist": "mechinism",
             "effect": [
                 "Put up to 3 non-Healing cards from your discard pile on the bottom of your deck in any order. Then draw a card."
-            ]
+            ],
+            "imgSrc": "ToothflossingStringmints"
         },
         {
             "number": "16",
@@ -323,7 +338,8 @@
             "artist": "maryquize",
             "effect": [
                 "When you play this card, you may discard 1 of your Care of Magical Creatures Lessons from play. If you do, this card does 5 damage to an opponent."
-            ]
+            ],
+            "imgSrc": "Werewolf"
         }
     ]
 }

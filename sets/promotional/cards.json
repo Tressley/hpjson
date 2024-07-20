@@ -19,7 +19,8 @@
             "artist": "Tressley Cahill & Pottermore",
             "effect": [
                 "Count the number of House Points you have in your discard pile. Shuffle that many plus 5 non-Healing cards from your discard pile into your deck. "
-            ]
+            ],
+            "imgSrc": "HousePointsV1"
         },
 		        {
             "number": "1b",
@@ -38,7 +39,8 @@
             "artist": "Tressley Cahill & Pottermore",
             "effect": [
                 "Count the number of House Points you have in your discard pile. Shuffle that many plus 5 non-Healing cards from your discard pile into your deck. "
-            ]
+            ],
+            "imgSrc": "HousePointsV2"
         },
 		        {
             "number": "1c",
@@ -57,7 +59,8 @@
             "artist": "Tressley Cahill & Pottermore",
             "effect": [
                 "Count the number of House Points you have in your discard pile. Shuffle that many plus 5 non-Healing cards from your discard pile into your deck. "
-            ]
+            ],
+            "imgSrc": "HousePointsV3"
         },
 		        {
             "number": "1d",
@@ -76,6 +79,7 @@
             "artist": "Tressley Cahill & Pottermore",
             "effect": [
                 "Count the number of House Points you have in your discard pile. Shuffle that many plus 5 non-Healing cards from your discard pile into your deck. "
-            ]
+            ],
+            "imgSrc": "HousePointsV4"
         }
     ]

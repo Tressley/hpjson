@@ -21,7 +21,8 @@
             "rarity": "Rare",
             "effect": [
                 "To play this card, discard 2 of your [P] Lessons from play.  Before each of your turns, if there are any Creatures in play, choose 1 of them and discard it. Then, if there are no Creatures in play, discard this card."
-            ]
+            ],
+            "imgSrc": "BuckbeaksExecution"
         },
         {
             "number": "2",
@@ -40,7 +41,8 @@
             "flavorText": "‘“He’s that tall, good-looking one, isn’t he?” said Angelina.“Strong and silent,” said Katie, and they started to giggle again.’",
             "effect": [
                 "Once per game, you may discard your hand and then draw 6 cards."
-            ]
+            ],
+            "imgSrc": "CedricDiggory"
         },
         {
             "number": "3",
@@ -59,7 +61,8 @@
             "flavorText": "‘She was undoubtedly a very good flier — she kept cutting across him, forcing him to change direction.’",
             "effect": [
                 "At the end of each of your turns, if an opponent has more Lessons in play than you, you may search your deck. You may take up to 2 [Q] Lessons from your deck, reveal them, put 1 into play and the rest into your hand, and then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "ChoChang"
         },
         {
             "number": "4",
@@ -80,7 +83,8 @@
             "flavorText": "‘Now was the moment to avenge his mother and father. He was going to kill Black. He had to kill Black.’",
             "effect": [
                 "Before each of your turns, count the number of Marauder cards that you have in your discard pile and in play. Do that much damage to an opponent."
-            ]
+            ],
+            "imgSrc": "ConfrontingBlack"
         },
         {
             "number": "5",
@@ -96,7 +100,8 @@
             "rarity": "Rare",
             "effect": [
                 "To play this card, discard 1 of your [P] Lessons from play. Choose an opponent. During their next turn, when you would take any amount of damage, instead do that much damage to them, and whenever they would draw any number of cards, except during their draw step, instead you draw that many cards."
-            ]
+            ],
+            "imgSrc": "ConfusingConcoction"
         },
         {
             "number": "6",
@@ -119,7 +124,8 @@
             "health": 1,
             "effect": [
                 "When you play this card, you may choose a player. That player shuffles their hand into their deck, then draws 4 cards."
-            ]
+            ],
+            "imgSrc": "Crookshanks"
         },
         {
             "number": "7",
@@ -139,7 +145,8 @@
             "rarity": "Rare",
             "effect": [
                 "When you play this card, choose a Character in play and put it under this card. Cards that share Uniqueness with the chosen card cannot be played.  If this card would leave play, you may instead discard 3 cards from your hand."
-            ]
+            ],
+            "imgSrc": "DementorsKiss"
         },
         {
             "number": "8",
@@ -158,7 +165,8 @@
             "flavorText": "‘“He’s made some changes in the lineup and seems to be going for size rather than skill —”’ — Lee Jordan",
             "effect": [
                 "You may use an Action and discard a Lesson from your hand. If you do, choose an opponent. During their next turn, they get 1 fewer Action. (If this would mean your opponent has fewer than 1 Action, they still get 1 Action.)"
-            ]
+            ],
+            "imgSrc": "DerrickAndBole"
         },
         {
             "number": "9",
@@ -178,7 +186,8 @@
             "flavorText": "‘... no amount of mud, wind, or rain could tarnish Harry’s wonderful vision of finally winning the huge, silver Quidditch Cup.’",
             "effect": [
                 "If you have a Beater, Keeper, Chaser and Seeker in play, whenever you use an Action to play a Match, you win the Match."
-            ]
+            ],
+            "imgSrc": "DreamingOfTheCup"
         },
         {
             "number": "10",
@@ -196,7 +205,8 @@
             "flavorText": "‘“Is there any point asking how you’re going to sit for two exams at once?”’ — Harry Potter",
             "effect": [
                 "Once per turn, if you have at least 5 Lessons in your discard pile, you may use an Action to put up to 2 non-Advanced Lessons from your discard pile into play."
-            ]
+            ],
+            "imgSrc": "Hermione,OverworkedStudent"
         },
         {
             "number": "11",
@@ -215,7 +225,8 @@
             "rarity": "Rare",
             "effect": [
                 "Before each of your turns, you may put a Lesson from your hand into play.  At the end of each of your turns, you may discard 1 of your Lessons from play. If you do,  you may search your deck for a Unique card, reveal it, and put it into your hand, then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "HermionesTimeTurner"
         },
         {
             "number": "12",
@@ -233,7 +244,8 @@
             "health": 3,
             "effect": [
                 "Play this card only if you have at least 5 Lessons in play.  Once per game, you may put up to 5 cards in an opponent's discard pile on the bottom of their deck in any order. Then do that much damage to that opponent."
-            ]
+            ],
+            "imgSrc": "Moony"
         },
         {
             "number": "13",
@@ -249,7 +261,8 @@
             "rarity": "Rare",
             "effect": [
                 "This card costs 2 less Power to play for every Beater, Chaser, Keeper and Seeker you have in play. Do 8 damage to an opponent. Then they choose 2 of their cards in play and discard them."
-            ]
+            ],
+            "imgSrc": "OliversLastPlay"
         },
         {
             "number": "14",
@@ -268,7 +281,8 @@
             "flavorText": "\"This is our last chance - my lasty chance - to \"win the Quidditch cup.\"\" -Oliver Wood",
             "effect": [
                 "Before each of your turns, if you at least 1 Beater, 3 Chasers, 1 Keeper, and 1 Seeker in play, you win the game."
-            ]
+            ],
+            "imgSrc": "OliverTheCaptain"
         },
         {
             "number": "15",
@@ -286,7 +300,8 @@
             "health": 4,
             "effect": [
                 "Play this card only if you have at least 5 Lessons in play.  Once per game, you may reveal your hand. If there are at least 5 different card types among the cards in your hand, you may put an Event from your hand into play."
-            ]
+            ],
+            "imgSrc": "Padfoot"
         },
         {
             "number": "16",
@@ -308,7 +323,8 @@
             "health": 3,
             "effect": [
                 "Players cannot play Dark cards."
-            ]
+            ],
+            "imgSrc": "Patronus"
         },
         {
             "number": "17",
@@ -327,7 +343,8 @@
             "rarity": "Rare",
             "effect": [
                 "To play this card, discard 1 of your [P] Lessons from play. Choose a Character in play (other than a starting Character) that an opponent put into play during their last turn. Take control of that Character. If it has a \"Once per game\" ability that has already been used, use that ability."
-            ]
+            ],
+            "imgSrc": "PettigrewsTreachery"
         },
         {
             "number": "18",
@@ -350,7 +367,8 @@
             "health": 1,
             "effect": [
                 "To play this card, discard 1 of your [F] Lessons from play. Before each of your turns, draw 2 cards, then discard 1 card from your hand."
-            ]
+            ],
+            "imgSrc": "Pigwidgeon"
         },
         {
             "number": "19",
@@ -372,9 +390,10 @@
                     "amount": 1
                 }
             ],
-			"effect": [
+            "effect": [
                 "Before each of your turns, you may discard a card from your hand. If you do, until the end of your turn, card effects cannot prevent you from playing Spells."
-            ]
+            ],
+            "imgSrc": "ProfessorFlitwick,CharmsMaster"
         },
         {
             "number": "20",
@@ -392,7 +411,8 @@
             "rarity": "Rare",
             "effect": [
                 "Once per game, you may search your deck and discard pile. You may take up to 2 non-Healing Matches from your deck and/or discard pile, reveal them, and put them into your hand. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "RogerDavies"
         },
         {
             "number": "21",
@@ -409,7 +429,8 @@
             "flavorText": "‘Harry and Ron both made furious moves toward Malfoy, but Hermione got there first ...’",
             "effect": [
                 "Choose an opponent. They may discard any number of their cards from play and/or from their hand. Then, count the number of cards they have in their hand and in play. Do twice that much damage to that opponent."
-            ]
+            ],
+            "imgSrc": "Smack"
         },
         {
             "number": "22",
@@ -426,7 +447,8 @@
             "flavorText": "‘“Miss Granger, three turns should do it. Good luck.”’ — Albus Dumbledore",
             "effect": [
                 "Choose a non-Healing card in your discard pile other than Three Turns. Play that card without using any Actions."
-            ]
+            ],
+            "imgSrc": "ThreeTurns"
         },
         {
             "number": "23",
@@ -444,7 +466,8 @@
             "flavorText": "‘“... an’ the executioner, Macnair, he’s an old pal o’ Malfoy’s ... but it’ll be quick an’ clean ... an’ I’ll be beside him ...”’ — Professor Rubeus Hagrid",
             "effect": [
                 "Whenever a Creature does damage to you, you may prevent all but the first 1 damage."
-            ]
+            ],
+            "imgSrc": "WaldenMacnair"
         },
         {
             "number": "24",
@@ -462,7 +485,8 @@
                 "reward: You discard your hand. During your next turn, you may not play Adventures."
             ],
             "toSolve": "Your opponent ends their turn.",
-            "reward": "You discard your hand. During your next turn, you may not play Adventures."
+            "reward": "You discard your hand. During your next turn, you may not play Adventures.",
+            "imgSrc": "WatchingTheMap"
         },
         {
             "number": "25",
@@ -480,7 +504,8 @@
             "health": 3,
             "effect": [
                 "Play this card only if you have at least 5 Lessons in play.  Once per game, you may choose an Event in play and discard it, then do damage to an opponent equal to that card's printed Power cost."
-            ]
+            ],
+            "imgSrc": "Wormtail"
         },
         {
             "number": "26",
@@ -497,7 +522,8 @@
             "health": 2,
             "effect": [
                 "To play this card, discard 1 of your Lessons from play."
-            ]
+            ],
+            "imgSrc": "Animagus"
         },
         {
             "number": "27",
@@ -517,7 +543,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "If this card is discarded from your hand, you may draw a card.  Choose an opponent's card in play with printed Power cost less than or equal to 3 and discard it."
-            ]
+            ],
+            "imgSrc": "AstronomyHomework"
         },
         {
             "number": "28",
@@ -533,7 +560,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "If there are fewer than 3 cards under this card, whenever you discard cards from your hand, put 1 of them under this card face down.  During your turn you may discard this card from play. If you do, put all cards under this card into your hand."
-            ]
+            ],
+            "imgSrc": "BatteredOldSuitcase"
         },
         {
             "number": "29",
@@ -550,7 +578,8 @@
             "flavorText": "Bole hit Alicia with his club and tried to say he'd thought she was a Bludger.'",
             "effect": [
                 "Do 7 damage to an opponent. If you have 10 or fewer cards in your deck, instead do 15 damage to an opponent and discard your hand."
-            ]
+            ],
+            "imgSrc": "BeatersRetribution"
         },
         {
             "number": "30",
@@ -574,7 +603,8 @@
             "health": 1,
             "effect": [
                 "If this card is discarded from your hand, you may draw a card."
-            ]
+            ],
+            "imgSrc": "Centaur"
         },
         {
             "number": "31",
@@ -591,7 +621,8 @@
             "flavorText": "‘...  the class left for lunch, all grinning broadly — the Cheering Charms had left them with a feeling of great contentment.’",
             "effect": [
                 "Put a non-Healing Spell from your discard pile into your hand."
-            ]
+            ],
+            "imgSrc": "CheeringCharm"
         },
         {
             "number": "32",
@@ -607,7 +638,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "When you play this card, discard 4 cards from your hand. You may discard 1 less card for every Power you have above 3.  Your opponents cannot play Adventures or Events."
-            ]
+            ],
+            "imgSrc": "ConfiscatedMap"
         },
         {
             "number": "33",
@@ -624,7 +656,8 @@
                 "reward: Your opponent may search their deck for a Lesson, reveal it, and put it into play, then shuffle their deck."
             ],
             "toSolve": "Your opponent chooses 3 of their cards in play and discards them.",
-            "reward": "Your opponent may search their deck for a Lesson, reveal it, and put it into play, then shuffle their deck."
+            "reward": "Your opponent may search their deck for a Lesson, reveal it, and put it into play, then shuffle their deck.",
+            "imgSrc": "DeadlyPrank"
         },
         {
             "number": "34",
@@ -640,7 +673,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "When you play this card, name a non-Lesson card. Whenever an opponent uses an Action to play the named card, they take 10 damage."
-            ]
+            ],
+            "imgSrc": "DeathWarrant"
         },
         {
             "number": "35",
@@ -663,7 +697,8 @@
             "health": 6,
             "effect": [
                 "To play this card, discard 1 of your [F] Lessons from play. Whenever an opponent plays a Character, they cannot use Actions or activate abilities until the end of their turn."
-            ]
+            ],
+            "imgSrc": "DementorSwarm"
         },
         {
             "number": "36",
@@ -683,7 +718,8 @@
                 "reward: Your opponent may draw a card."
             ],
             "toSolve": "Your opponent lets you choose 3 of their cards in play. Return them to their owner's hand.",
-            "reward": "Your opponent may draw a card."
+            "reward": "Your opponent may draw a card.",
+            "imgSrc": "DementorsOnTheLake"
         },
         {
             "number": "37",
@@ -701,7 +737,8 @@
             "effect": [
                 "Locations need 3 more Power to play."
             ],
-            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's).",
+            "imgSrc": "EmptyClassroom"
         },
         {
             "number": "38",
@@ -717,7 +754,8 @@
             "rarity": "Common",
             "effect": [
                 "Count the amount of [C] Power you have. Do that much damage to an opponent."
-            ]
+            ],
+            "imgSrc": "ExplodingCharm"
         },
         {
             "number": "39",
@@ -737,7 +775,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "If this card is discarded from your hand, you may draw a card.  Do 3 damage to an opponent. Then draw a card."
-            ]
+            ],
+            "imgSrc": "FireOmens"
         },
         {
             "number": "40",
@@ -754,7 +793,8 @@
             "flavorText": "‘“We’ve checked for most of the usual curses, but Professor Flitwick believes the broom might be carrying a Hurling Hex.”’ — Professor McGonagall",
             "effect": [
                 "Choose an Item in play. Draw cards equal to the chosen Item's printed Power cost. Then each other player draws cards equal to the chosen Item's printed Power cost."
-            ]
+            ],
+            "imgSrc": "FlitwicksInspection"
         },
         {
             "number": "41",
@@ -778,9 +818,10 @@
                     "amount": 1
                 }
             ],
-			"effect": [
+            "effect": [
                 "If you have at least 5 Lessons in play, whenever 1 of your Creatures does damage, it does 1 more damage."
-            ]
+            ],
+            "imgSrc": "FullMoon"
         },
         {
             "number": "42",
@@ -797,7 +838,8 @@
             "flavorText": "‘“It’s called a Time-Turner,” Hermione whispered, “and I got it from Professor McGonagall on our first day back.”’",
             "effect": [
                 "You may reveal any number of cards from your hand. For each card type revealed, do 2 damage to an opponent."
-            ]
+            ],
+            "imgSrc": "HermionesSecret"
         },
         {
             "number": "43",
@@ -818,7 +860,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "If this card is discarded from your hand, you may draw a card.  Put up to 6 non-Healing cards from your discard pile on the bottom of your deck (in any order)."
-            ]
+            ],
+            "imgSrc": "ImmaculateConcoction"
         },
         {
             "number": "44",
@@ -834,7 +877,8 @@
             "rarity": "Rare",
             "effect": [
                 "Your opponent chooses 3 of their cards from their hand and/or in play and discards them. Then they may discard a Lesson from their hand. If they do, you choose 3 cards from your hand and/or in play and discard them."
-            ]
+            ],
+            "imgSrc": "ImminentCollision"
         },
         {
             "number": "45",
@@ -855,7 +899,8 @@
             "flavorText": "‘“Who’d have thought it? That brings her total of real predictions up to two. I should offer her a pay raise. ...”’ — Albus Dumbledore",
             "effect": [
                 "Whenever cards are put in an opponent's deck (even if they were already in the deck), do 2 damage to them."
-            ]
+            ],
+            "imgSrc": "IncorrectInterpretations"
         },
         {
             "number": "46",
@@ -874,7 +919,8 @@
                 "reward: Your opponent may put up to 2 Lessons from their discard pile into their hand."
             ],
             "toSolve": "Your opponent lets you search your deck. You may take up to 2 Events from your deck, reveal them, and put them into your hand. Then shuffle your deck.",
-            "reward": "Your opponent may put up to 2 Lessons from their discard pile into their hand."
+            "reward": "Your opponent may put up to 2 Lessons from their discard pile into their hand.",
+            "imgSrc": "MarauderShenanigans"
         },
         {
             "number": "47",
@@ -893,7 +939,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "Choose 1 of your Wizards or Witches in play and discard it, then put a Creature from your hand into play. (You must still pay any additional costs to play the Creature.) That Creature does damage to an opponent."
-            ]
+            ],
+            "imgSrc": "MoonlitTransformation"
         },
         {
             "number": "48",
@@ -909,7 +956,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "When you play this card, discard any other Location from play.  Whenever a player would take damage, they may instead let 1 of their Creatures take that damage."
-            ]
+            ],
+            "imgSrc": "PumpkinPatch"
         },
         {
             "number": "49",
@@ -929,7 +977,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "If this card is discarded from your hand, you may draw a card.  Do 2 damage to an opponent. Then, if that opponent has any cards in play, they choose 1 of them and return it to its owner's hand."
-            ]
+            ],
+            "imgSrc": "StarCharts"
         },
         {
             "number": "50",
@@ -949,7 +998,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "Your Marauder cards need 3 less Power and 1 less Action to play. (You still need at least 1 Power that matches. If this means you would use fewer than 1 Action, you still use 1 Action.)"
-            ]
+            ],
+            "imgSrc": "TheMaraudersLegacy"
         },
         {
             "number": "51",
@@ -966,7 +1016,8 @@
                 "reward: Your opponent may draw 3 cards or do 3 damage to you."
             ],
             "toSolve": "Your opponent discards 3 cards from their hand that share a Lesson type with a card under this card.",
-            "reward": "Your opponent may draw 3 cards or do 3 damage to you."
+            "reward": "Your opponent may draw 3 cards or do 3 damage to you.",
+            "imgSrc": "TimeTravelHijinks"
         },
         {
             "number": "52",
@@ -985,7 +1036,8 @@
             "rarity": "Rare",
             "effect": [
                 "Choose a card type that an opponent has in play. Reveal cards from the top of your deck until you reveal a card of the chosen card type, then discard all revealed cards. That opponent reveals cards from the top of their deck until they reveal a card of the chosen card type, then they discard all revealed cards."
-            ]
+            ],
+            "imgSrc": "TrelawneysPrediction"
         },
         {
             "number": "53",
@@ -1001,7 +1053,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "You may play this card without using an Action if you have won a Match this turn. You get 2 more Actions this turn. You may only play 1 Victory Party each turn."
-            ]
+            ],
+            "imgSrc": "VictoryParty"
         },
         {
             "number": "54",
@@ -1020,7 +1073,8 @@
             "rarity": "Common",
             "effect": [
                 "Whenever your opponent makes progress towards winning a Match, increase your progress by half that amount, rounded up. (If both players would win the match, your opponent is the winner.)"
-            ]
+            ],
+            "imgSrc": "BiasedReferee"
         },
         {
             "number": "55",
@@ -1040,7 +1094,8 @@
             "flavorText": "‘“Ugh, no, Harry won’t want one of those, they’re for vampires, I expect.”’ — Hermione Granger",
             "effect": [
                 "Discard the top card of your deck. If it shares a card type with a card an opponent has in play, you may choose 1 of those cards and discard it. Then draw a card."
-            ]
+            ],
+            "imgSrc": "BloodPops"
         },
         {
             "number": "56",
@@ -1057,7 +1112,8 @@
             "flavorText": "‘“We’re not playing Slytherin!” he told them, looking very angry. “Flint’s just been to see me.”’",
             "effect": [
                 "Choose up to 2 Beaters, Chasers, Keepers, and/or Seekers in play and return them to their owners' hands."
-            ]
+            ],
+            "imgSrc": "CancelledMatch"
         },
         {
             "number": "57",
@@ -1077,7 +1133,8 @@
             "flavorText": "‘... a pair of strong, clammy hands suddenly attached themselves around Harry’s neck.’",
             "effect": [
                 "Choose a non-Lesson card type. During your opponent's next turn, they cannot play cards of the chosen type."
-            ]
+            ],
+            "imgSrc": "CaughtByDementors"
         },
         {
             "number": "58",
@@ -1097,7 +1154,8 @@
             "flavorText": "‘And then the thing beneath the hood, whatever it was, drew a long, slow, rattling breath, as though it were trying to suck something more than air from its surroundings.’",
             "effect": [
                 "Do 1 damage to each Creature in play (even your own)."
-            ]
+            ],
+            "imgSrc": "ChillingFog"
         },
         {
             "number": "59",
@@ -1122,7 +1180,8 @@
             ],
             "effect": [
                 "If this card is discarded from play, put it into its owner's hand."
-            ]
+            ],
+            "imgSrc": "ChosComet"
         },
         {
             "number": "60",
@@ -1141,7 +1200,8 @@
             "rarity": "Common",
             "effect": [
                 "You may put a non-Healing Marauder card from your discard pile into your hand. Until the end of the turn, your Marauder cards do not require Power that matches to play."
-            ]
+            ],
+            "imgSrc": "CrookshanksAid"
         },
         {
             "number": "61",
@@ -1160,7 +1220,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "You may use an Action to draw 3 cards, then put 2 cards from your hand on top of your deck in any order."
-            ]
+            ],
+            "imgSrc": "CrystalBall"
         },
         {
             "number": "62",
@@ -1177,7 +1238,8 @@
             "flavorText": "‘Full of determination, the team started training sessions, three evenings a week.’",
             "effect": [
                 "Discard any number of cards from your hand. Draw that many cards plus 1."
-            ]
+            ],
+            "imgSrc": "DeterminedTraining"
         },
         {
             "number": "63",
@@ -1194,7 +1256,8 @@
             "flavorText": "‘“We attacked a teacher. ... We attacked a teacher ... ,” Hermione whimpered, staring at the lifeless Snape with frightened eyes.’",
             "effect": [
                 "Do 6 damage to an opponent or choose a Character in play and discard it."
-            ]
+            ],
+            "imgSrc": "DisarmingSnape"
         },
         {
             "number": "64",
@@ -1211,7 +1274,8 @@
             "flavorText": "‘“She was usually last to leave the common room at night, first to arrive at the library the next morning ...”’",
             "effect": [
                 "Count the number of Lessons in your discard pile. Until the end of your turn, your cards needs that much less Power to play. (You still need at least 1 Power that matches.)"
-            ]
+            ],
+            "imgSrc": "DizzyingWorkload"
         },
         {
             "number": "65",
@@ -1232,7 +1296,8 @@
             "health": 2,
             "effect": [
                 "Whenever this card does damage to an opponent, you may choose a Creature in play. Do 1 damage to it."
-            ]
+            ],
+            "imgSrc": "DoubleEndedNewt"
         },
         {
             "number": "66",
@@ -1249,7 +1314,8 @@
             "flavorText": "‘“Oooooo, Professor Trelawney, I’ve just remembered! You saw her leaving, didn’t you?”’ — Lavender Brown",
             "effect": [
                 "Choose an opponent's card in play and return it to its owner's hand. If you have at least 3 [T] Lessons in your discard pile, instead shuffle it into its owner's deck."
-            ]
+            ],
+            "imgSrc": "DroppingDivination"
         },
         {
             "number": "67",
@@ -1266,7 +1332,8 @@
             "flavorText": "‘He nodded toward an empty classroom to the left of the one-eyed statue. Harry followed Fred and George inside.’",
             "effect": [
                 "When you play this card, name a Character card. Cards that share Uniqueness with the named card cannot be played. You may use 2 Actions and discard this card from play to search your deck. You may take the named card from your deck and put it into play. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "EmptyFrame"
         },
         {
             "number": "68",
@@ -1285,7 +1352,8 @@
             "rarity": "Uncommon",
             "effect": [
                 "Whenever a Creature is discarded from play, you may do 2 damage to an opponent or draw a card."
-            ]
+            ],
+            "imgSrc": "ExecutionersAxe"
         },
         {
             "number": "69",
@@ -1304,7 +1372,8 @@
             "rarity": "Common",
             "effect": [
                 "Shuffle up to 3 non-Healing cards from your discard pile into your deck. If you have at least 3 [P] Lessons in your discard pile, instead shuffle up to 8 non-Healing cards from your discard pile into your deck."
-            ]
+            ],
+            "imgSrc": "Ferula"
         },
         {
             "number": "70",
@@ -1320,7 +1389,8 @@
             "rarity": "Common",
             "effect": [
                 "Do 4 damage to an opponent. If you have at least 3 [C] Lessons in your discard pile, instead do 6 damage to an opponent and draw a card."
-            ]
+            ],
+            "imgSrc": "Glacius"
         },
         {
             "number": "71",
@@ -1342,7 +1412,8 @@
             "health": 1,
             "effect": [
                 "To play this card, discard 1 of your [F] Lessons from play. Whenever an opponent uses an Action to play a Lesson, do 2 damage to them."
-            ]
+            ],
+            "imgSrc": "Hinkypunk"
         },
         {
             "number": "72",
@@ -1364,7 +1435,8 @@
             "health": 4,
             "effect": [
                 "When you play this card, you may put up to 3 damage counters on it. If you do, do that much damage divided as you choose among any number of creatures."
-            ]
+            ],
+            "imgSrc": "Hippogriff"
         },
         {
             "number": "73",
@@ -1381,7 +1453,8 @@
             "flavorText": "‘“Can't nothing interfere with a broomstick except powerful Dark magic ...”’ — Rubeus Hagrid",
             "effect": [
                 "Do 4 damage to your opponent. You may also choose a Creature in play and do 4 damage to it."
-            ]
+            ],
+            "imgSrc": "HurlingHex"
         },
         {
             "number": "74",
@@ -1401,7 +1474,8 @@
                 "prize: The winner may draw 2 cards. The loser takes 8 damage."
             ],
             "toWin": "Whenever a player takes damage, they may discard any number of cards from their hand. They prevent that much damage.  To win: Prevent 8 damage.",
-            "prize": "The winner may draw 2 cards. The loser takes 8 damage."
+            "prize": "The winner may draw 2 cards. The loser takes 8 damage.",
+            "imgSrc": "InterHouseFinal"
         },
         {
             "number": "75",
@@ -1418,7 +1492,8 @@
             "flavorText": "‘“This time tomorrow, the owls will start arriving from parents. . . . They will not want a werewolf teaching their children, Harry.”’ — Professor Remus Lupin",
             "effect": [
                 "If at least 1 of your Creatures dealt damage to an opponent this turn, choose a non-Healing Character in play and shuffle it into its owner's deck."
-            ]
+            ],
+            "imgSrc": "LupinsResignation"
         },
         {
             "number": "76",
@@ -1435,7 +1510,8 @@
             "flavorText": "... he glanced around, saw Malfoy on his tail ...'",
             "effect": [
                 "Look at the top 4 cards of your deck, then put them on the top and/or bottom of your deck in any order. If you have at least 3 [Q] Lessons in your discard pile, draw 2 cards."
-            ]
+            ],
+            "imgSrc": "MarkingTheSeeker"
         },
         {
             "number": "77",
@@ -1451,7 +1527,8 @@
             "rarity": "Common",
             "effect": [
                 "Choose two of the following, then shuffle this card into your deck:  Look at the top 2 cards of an opponent's deck, then put them back in any order.  Prevent the next 1 damage you would take on an opponent's next turn.  An opponent discards a card from their hand."
-            ]
+            ],
+            "imgSrc": "Nox"
         },
         {
             "number": "78",
@@ -1467,7 +1544,8 @@
             "rarity": "Common",
             "effect": [
                 "Choose an opponent's card in play. They may discard the card from play. If they don't, draw 2 cards and you get 1 more Action this turn."
-            ]
+            ],
+            "imgSrc": "PatronusPractice"
         },
         {
             "number": "79",
@@ -1483,7 +1561,8 @@
             "rarity": "Common",
             "effect": [
                 "All opponents reveal any cards they draw during their draw step."
-            ]
+            ],
+            "imgSrc": "PocketSneakoscope"
         },
         {
             "number": "80",
@@ -1500,7 +1579,8 @@
             "flavorText": "‘He slithered between the battering branches like a snake and placed his front paws upon a knot on the trunk.’",
             "effect": [
                 "Do 4 damage to an opponent. During that opponent's next turn, they can't use Actions to play Creatures."
-            ]
+            ],
+            "imgSrc": "PressingTheKnot"
         },
         {
             "number": "81",
@@ -1516,7 +1596,8 @@
             "rarity": "Common",
             "effect": [
                 "Choose an opponent's Creature in play and do 3 damage to it. If you have any cards in hand, choose and discard 1 of them."
-            ]
+            ],
+            "imgSrc": "RedSparks"
         },
         {
             "number": "82",
@@ -1537,7 +1618,8 @@
             "flavorText": "‘“BLOOD!” Ron yelled into the stunned silence. “HE’S GONE!”’",
             "effect": [
                 "Once during each of your turns, whenever 1 of your Creatures does damage to an opponent, you may discard it from play. If you do, do 4 damage to that opponent."
-            ]
+            ],
+            "imgSrc": "ScabbersDisappearance"
         },
         {
             "number": "83",
@@ -1554,7 +1636,8 @@
             "flavorText": "“It’s okay, Scabbers!” said Ron. “No cats! There’s nothing here to hurt you!”",
             "effect": [
                 "You may put a Creature from your discard pile into your hand. If you have at least 3 [F] Lessons in your discard pile, you may play that Creature without using an Action."
-            ]
+            ],
+            "imgSrc": "ScabbersReturn"
         },
         {
             "number": "84",
@@ -1573,7 +1656,8 @@
             "rarity": "Common",
             "effect": [
                 "Whenever you search your deck, you may draw a card."
-            ]
+            ],
+            "imgSrc": "SiriussLetter"
         },
         {
             "number": "84",
@@ -1589,7 +1673,8 @@
             "rarity": "Common",
             "effect": [
                 "During your turn, you may discard this card from play. If you do, draw cards equal to the number of cards you discarded from your hand this turn or any opponents' last turn."
-            ]
+            ],
+            "imgSrc": "WizardsDesk"
         },
         {
             "number": "86",
@@ -1604,7 +1689,8 @@
             "rarity": "Common",
             "effect": [
                 "Before your turn, discard this card from play. If you do, you may search your deck for a [F] or [T] Lesson and put it into play. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "AncientRunes,ThirdYear"
         },
         {
             "number": "87",
@@ -1619,7 +1705,8 @@
             "rarity": "Common",
             "effect": [
                 "Before your turn, discard this card from play. If you do, you may search your deck for a [C] or [Q] Lesson and put it into play. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "Arithmancy,ThirdYear"
         },
         {
             "number": "88",
@@ -1634,7 +1721,8 @@
             "rarity": "Common",
             "effect": [
                 "Before your turn, discard this card from play. If you do, you may search your deck for a [F] or [P] Lesson and put it into play. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "Herbology,ThirdYear"
         },
         {
             "number": "89",
@@ -1649,7 +1737,8 @@
             "rarity": "Common",
             "effect": [
                 "Before your turn, discard this card from play. If you do, you may search your deck for a [C] or [T] Lesson and put it into play. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "HistoryOfMagic,ThirdYear"
         },
         {
             "number": "90",
@@ -1664,7 +1753,8 @@
             "rarity": "Common",
             "effect": [
                 "Before your turn, discard this card from play. If you do, you may search your deck for a [P] or [Q] Lesson and put it into play. Then shuffle your deck."
-            ]
+            ],
+            "imgSrc": "MuggleStudies,ThirdYear"
         }
     ]
 }
