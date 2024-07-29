@@ -19,8 +19,7 @@
             "artist": "Jon Foster",
             "effect": [
                 "Once per game, you may draw 3 cards."
-            ],
-            "imgSrc": "DeanThomas"
+            ]
         },
         {
             "number": "2",
@@ -38,8 +37,7 @@
             "artist": "Pete Venters",
             "effect": [
                 "During your turn, you may use an Action and discard a card from your hand to look at your opponent's hand. You may then choose 1 card in his or her hand and discard it."
-            ],
-            "imgSrc": "DracoMalfoy"
+            ]
         },
         {
             "number": "3a",
@@ -57,8 +55,7 @@
             "artist": "Romas",
             "effect": [
                 "During your turn, you may use an Action and discard a card from your hand to look at your opponent's hand. You may then choose 1 card in his or her hand and discard it."
-            ],
-            "imgSrc": "DracoMalfoy"
+            ]
         },
         {
             "number": "3b",
@@ -76,8 +73,7 @@
             "artist": "Pete Venters",
             "effect": [
                 "During your turn, you may use an Action and discard a card from your hand to look at your opponent's hand. You may then choose 1 card in his or her hand and discard it."
-            ],
-            "imgSrc": "DracoMalfoy"
+            ]
         },
         {
             "number": "4",
@@ -93,8 +89,7 @@
                 "reward: Your opponent draws 3 cards or does 3 damage to you."
             ],
             "toSolve": "Your opponent chooses 3 of his or her Lessons in play and discards them.",
-            "reward": "Your opponent draws 3 cards or does 3 damage to you.",
-            "imgSrc": "DragonsEscape"
+            "reward": "Your opponent draws 3 cards or does 3 damage to you."
         },
         {
             "number": "5",
@@ -114,8 +109,7 @@
             "artist": "James Bernardin",
             "effect": [
                 "To play this card, discard 2 of your Potions Lessons from play. Shuffle up to 16 non-Healing cards from your discard pile into your deck."
-            ],
-            "imgSrc": "ElixirOfLife"
+            ]
         },
         {
             "number": "6",
@@ -132,8 +126,7 @@
                 "reward: Your opponent may draw 5 cards."
             ],
             "toSolve": "Your opponent skips a total of 5 Actions. (Those Actions don't have to be one right after the other.)",
-            "reward": "Your opponent may draw 5 cards.",
-            "imgSrc": "GringottsCartRide"
+            "reward": "Your opponent may draw 5 cards."
         },
         {
             "number": "7",
@@ -151,8 +144,7 @@
             "artist": "Jon Foster",
             "effect": [
                 "Once per game, you may trade 2 cards in your hand for 2 non-Healing cards in your discard pile."
-            ],
-            "imgSrc": "HannahAbbott"
+            ]
         },
         {
             "number": "8",
@@ -170,8 +162,7 @@
             "artist": "Scott M. Fischer",
             "effect": [
                 "Whenever you use an Action to draw a card, you may draw 2 cards instead of 1."
-            ],
-            "imgSrc": "HarryPotter"
+            ]
         },
         {
             "number": "9",
@@ -189,8 +180,7 @@
             "artist": "Kevin McCann",
             "effect": [
                 "If you already have 2 or more Lessons in play, then whenever you use an Action to play a Lesson card, you may play 2 Lesson cards instead of 1."
-            ],
-            "imgSrc": "HermioneGranger"
+            ]
         },
         {
             "number": "10a",
@@ -208,8 +198,7 @@
             "artist": "James Bernardin",
             "effect": [
                 "If you already have 2 or more Lessons in play, then whenever you use an Action to play a Lesson card, you may play 2 Lesson cards instead of 1."
-            ],
-            "imgSrc": "HermioneGranger"
+            ]
         },
         {
             "number": "10b",
@@ -227,8 +216,7 @@
             "artist": "Kevin McCann",
             "effect": [
                 "If you already have 2 or more Lessons in play, then whenever you use an Action to play a Lesson card, you may play 2 Lesson cards instead of 1."
-            ],
-            "imgSrc": "HermioneGranger"
+            ]
         },
         {
             "number": "11",
@@ -244,8 +232,7 @@
                 "reward: Your opponent may draw 3 cards."
             ],
             "toSolve": "Your opponent chooses and discards 1 of his or her Characters in play (other than his or her starting Character) or 8 cards from his or her hand.",
-            "reward": "Your opponent may draw 3 cards.",
-            "imgSrc": "HumanChessGame"
+            "reward": "Your opponent may draw 3 cards."
         },
         {
             "number": "12",
@@ -265,8 +252,7 @@
             "artist": "Scott Lewis",
             "effect": [
                 "Once during each of your opponent's turns, you may prevent all damage done by a Spell card."
-            ],
-            "imgSrc": "InvisibilityCloak"
+            ]
         },
         {
             "number": "13",
@@ -284,8 +270,7 @@
             "artist": "Cindy Salans Rosenheim",
             "effect": [
                 "Once per game, you may search your deck. When you do, you may take up to 2 Item cards from your deck, show them to your opponent, and put them into your hand. Then shuffle your deck."
-            ],
-            "imgSrc": "NearlyHeadlessNick"
+            ]
         },
         {
             "number": "14",
@@ -302,8 +287,7 @@
             "artist": "Keith Garletts",
             "effect": [
                 "Your opponent discards his or her hand."
-            ],
-            "imgSrc": "Obliviate"
+            ]
         },
         {
             "number": "15",
@@ -327,8 +311,7 @@
             "artist": "Jon Foster",
             "effect": [
                 "Once per game, you may trade 2 cards in your hand for 1 card in your discard pile that needs Charms Power."
-            ],
-            "imgSrc": "ProfessorFiliusFlitwick"
+            ]
         },
         {
             "number": "16",
@@ -353,8 +336,7 @@
             "artist": "Scott M. Fischer",
             "effect": [
                 "Once per game, you may shuffle up to 7 non-Healing cards from your discard pile into your deck."
-            ],
-            "imgSrc": "ProfessorSeverusSnape"
+            ]
         },
         {
             "number": "17",
@@ -372,8 +354,7 @@
             "artist": "D. Alexander Gregory",
             "effect": [
                 "Whenever you play a Character card, you use up 1 Action to play it instead of 2."
-            ],
-            "imgSrc": "RonWeasley"
+            ]
         },
         {
             "number": "18",
@@ -389,8 +370,7 @@
             "artist": "Pete Venters",
             "effect": [
                 "Whenever 1 of your Creatures does 3 or more damage to your opponent, it does 2 more damage than it usually would."
-            ],
-            "imgSrc": "RubeusHagrid"
+            ]
         },
         {
             "number": "19",
@@ -407,8 +387,7 @@
                 "reward: You take 4 damage."
             ],
             "toSolve": "Your opponent chooses 7 cards in his or her hand and discards them.",
-            "reward": "You take 4 damage.",
-            "imgSrc": "TrollInTheBathroom"
+            "reward": "You take 4 damage."
         },
         {
             "number": "20",
@@ -429,8 +408,7 @@
             "artist": "Zina Saunders",
             "effect": [
                 "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. You get 1 more Action on each of your turns (including the turn you play Unicorn)."
-            ],
-            "imgSrc": "Unicorn"
+            ]
         },
         {
             "number": "21",
@@ -451,8 +429,7 @@
             "artist": "D. Alexander Gregory",
             "effect": [
                 "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. Before each of your turns, draw a card."
-            ],
-            "imgSrc": "DeliveryOwl"
+            ]
         },
         {
             "number": "22",
@@ -469,8 +446,7 @@
             "artist": "Keith Garletts",
             "effect": [
                 "To play this card, discard 2 of your Potions Lessons from play. Do 12 damage to your opponent or to a creature of your choice."
-            ],
-            "imgSrc": "DraughtOfLivingDeath"
+            ]
         },
         {
             "number": "23",
@@ -486,8 +462,7 @@
                 "reward: Your opponent may put a Lesson card from his or her discard pile into play."
             ],
             "toSolve": "Your opponent chooses 7 cards in his or her hand and discards them.",
-            "reward": "Your opponent may put a Lesson card from his or her discard pile into play.",
-            "imgSrc": "HarryHunting"
+            "reward": "Your opponent may put a Lesson card from his or her discard pile into play."
         },
         {
             "number": "24",
@@ -504,8 +479,7 @@
             "artist": "Scott Lewis",
             "effect": [
                 "Look at your opponent's hand. Discard all Adventure cards from it."
-            ],
-            "imgSrc": "HistoryOfMagic"
+            ]
         },
         {
             "number": "25",
@@ -521,8 +495,7 @@
             "artist": "Ben Thompson",
             "effect": [
                 "Count the number of Charms Lessons you have in play. Do that much damage to a Creature of your choice."
-            ],
-            "imgSrc": "Incendio"
+            ]
         },
         {
             "number": "26",
@@ -538,8 +511,7 @@
             "artist": "Keith Garletts",
             "effect": [
                 "To play this card, discard 2 of your Potions Lessons from play. Do 10 damage to your opponent or to a Creature of your choice."
-            ],
-            "imgSrc": "MalevolentMixture"
+            ]
         },
         {
             "number": "27",
@@ -556,8 +528,7 @@
                 "reward: You play with your hand face up for the rest of the game."
             ],
             "toSolve": "Your opponent discards his or her hand. (Your opponent may do this even if his or her hand is empty.)",
-            "reward": "You play with your hand face up for the rest of the game.",
-            "imgSrc": "MeetTheCentaurs"
+            "reward": "You play with your hand face up for the rest of the game."
         },
         {
             "number": "28",
@@ -576,8 +547,7 @@
             "health": "4",
             "flavorText": "'And then they heard it - a low grunting and the shuffling footfalls of gigantic feet.'",
             "rarity": "Rare",
-            "artist": "Patrick Faricy",
-            "imgSrc": "MountainTroll"
+            "artist": "Patrick Faricy"
         },
         {
             "number": "29",
@@ -599,8 +569,7 @@
             "artist": "Scott Lewis",
             "effect": [
                 "Your opponent plays with his or her hand face up."
-            ],
-            "imgSrc": "MrsNorris"
+            ]
         },
         {
             "number": "30",
@@ -623,8 +592,7 @@
             "artist": "Scott Lewis",
             "effect": [
                 "To play this card, discard 2 of your Care of Magical Creatures Lessons from play."
-            ],
-            "imgSrc": "Norbert"
+            ]
         },
         {
             "number": "31",
@@ -649,8 +617,7 @@
             "artist": "Scott Lewis",
             "effect": [
                 "Play this card only is you have cards in play that provide at least 3 Charms Power. If you play this card, and you already have a Wand in play, discard the old one."
-            ],
-            "imgSrc": "PhoenixFeatherWand"
+            ]
         },
         {
             "number": "32",
@@ -667,8 +634,7 @@
             "artist": "Warner Bros.",
             "effect": [
                 "To play this card, discard 1 of your Lessons from play. You get 2 more Actions this turn."
-            ],
-            "imgSrc": "Platform93/4"
+            ]
         },
         {
             "number": "33",
@@ -684,8 +650,7 @@
             "artist": "Scott Lewis",
             "effect": [
                 "When a Spell card damages you, you may discard this card from play to prevent all of that damage."
-            ],
-            "imgSrc": "PotionIngredients"
+            ]
         },
         {
             "number": "34",
@@ -701,8 +666,7 @@
             "artist": "Melissa Ferreira",
             "effect": [
                 "If your opponent has 2 or more Creatures in play, choose 1 of them and discard it."
-            ],
-            "imgSrc": "RavenToWritingDesk"
+            ]
         },
         {
             "number": "35",
@@ -718,8 +682,7 @@
             "artist": "Mark Romanoski",
             "effect": [
                 "During your opponent's next turn, prevent all damage done to you."
-            ],
-            "imgSrc": "ShrinkingPotion"
+            ]
         },
         {
             "number": "36",
@@ -735,8 +698,7 @@
             "artist": "Kevin Dobler",
             "effect": [
                 "Do 3 damage to your opponent or to a Creature of your choice. Then your opponent chooses 3 cards in his or her hand and discards them. (If there are fewer than 3 cards in your opponent's hand, he or she discards them all.)"
-            ],
-            "imgSrc": "Titillando"
+            ]
         },
         {
             "number": "37",
@@ -752,8 +714,7 @@
             "artist": "Michael T. Collins",
             "effect": [
                 "Discard all creatures from play (even your own)."
-            ],
-            "imgSrc": "TransfigurationExam"
+            ]
         },
         {
             "number": "38",
@@ -769,8 +730,7 @@
             "artist": "Michael T. Collins",
             "effect": [
                 "If your opponent has 2 or more Creatures in play, he or she chooses 1 of them and discards the rest. Then, if you have 2 or more Creatures in play, choose 1 of them and discard the rest."
-            ],
-            "imgSrc": "TransfigurationTest"
+            ]
         },
         {
             "number": "39",
@@ -787,8 +747,7 @@
                 "reward: Your opponent may draw a card."
             ],
             "toSolve": "Your opponent chooses 6 cards in his or her hand and discards them.",
-            "reward": "Your opponent may draw a card.",
-            "imgSrc": "4PrivetDrive"
+            "reward": "Your opponent may draw a card."
         },
         {
             "number": "40",
@@ -805,8 +764,7 @@
             "artist": "Ron Spencer",
             "effect": [
                 "Search your deck. You may take up to 2 Lesson cards from your deck, show them to your opponent, and put them in your hand. Then shuffle your deck."
-            ],
-            "imgSrc": "Alchemy"
+            ]
         },
         {
             "number": "41",
@@ -822,8 +780,7 @@
             "artist": "James Bernardin",
             "effect": [
                 "To play this card, discard 2 other cards from your hand. You may take a card that needs Potions Power from your deck, show it to your opponent and put it into your hand. Then shuffle your deck."
-            ],
-            "imgSrc": "Apothecary"
+            ]
         },
         {
             "number": "42",
@@ -839,8 +796,7 @@
             "artist": "Marcelo Vignali",
             "effect": [
                 "Discard the Adventure your opponent has played. (You don't get the reward.)"
-            ],
-            "imgSrc": "Apparate"
+            ]
         },
         {
             "number": "43",
@@ -862,8 +818,7 @@
             "artist": "Michael Koelsch",
             "effect": [
                 "To play this card, discard 1 of your Care of Magical Creatures Lessons from play."
-            ],
-            "imgSrc": "BabyDragon"
+            ]
         },
         {
             "number": "44",
@@ -880,8 +835,7 @@
             "artist": "Marcelo Vignali",
             "effect": [
                 "Do 4 damage to your opponent or to a Creature of your choice."
-            ],
-            "imgSrc": "BluebellFlames"
+            ]
         },
         {
             "number": "45",
@@ -900,8 +854,7 @@
             "artist": "Monte Michael Moore",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. Shuffle up to 10 non-Healing cards from your discard pile into your deck."
-            ],
-            "imgSrc": "BurningBitterrootBalm"
+            ]
         },
         {
             "number": "46",
@@ -923,8 +876,7 @@
             "artist": "Jeff Laubenstein",
             "effect": [
                 "During your turn, you may discard this card from play and use an Action to choose a Creature in play (yours or your opponent's) and return it to it's owner's hand."
-            ],
-            "imgSrc": "Cage"
+            ]
         },
         {
             "number": "47",
@@ -940,8 +892,7 @@
             "artist": "Zina Saunders",
             "effect": [
                 "Your opponent chooses 2 cards in his or her hand and discards them (1 if he or she only has 1)."
-            ],
-            "imgSrc": "Confundus"
+            ]
         },
         {
             "number": "48",
@@ -958,8 +909,7 @@
                 "reward: Your opponent may draw any number of cards."
             ],
             "toSolve": "Your opponent skips a total of 7 Actions. (Those Actions don't need to be one right after the other.)",
-            "reward": "Your opponent may draw any number of cards.",
-            "imgSrc": "DiagonAlley"
+            "reward": "Your opponent may draw any number of cards."
         },
         {
             "number": "49",
@@ -975,8 +925,7 @@
             "artist": "Scott Lewis",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. Do 8 damage to your opponent or to a Creature of your choice."
-            ],
-            "imgSrc": "DogbreathPotion"
+            ]
         },
         {
             "number": "50",
@@ -992,8 +941,7 @@
             "artist": "George Davis",
             "effect": [
                 "Discard the Adventure you've played. You get the reward."
-            ],
-            "imgSrc": "DracosTrick"
+            ]
         },
         {
             "number": "51",
@@ -1018,8 +966,7 @@
             "artist": "James Bernardin",
             "effect": [
                 "Play this card only if you have cards in play that provide at least 2 Charms Power. If you play this card, and you already have a Wand in play, discard the old one."
-            ],
-            "imgSrc": "DragonHeartWand"
+            ]
         },
         {
             "number": "52",
@@ -1035,8 +982,7 @@
             "artist": "David Day",
             "effect": [
                 "Do 2 damage to each Creature (even your own)."
-            ],
-            "imgSrc": "Fumos"
+            ]
         },
         {
             "number": "53",
@@ -1055,8 +1001,7 @@
             "health": "5",
             "flavorText": "'He let them in, struggling to keep a hold on the collar of an enourmous black boarhound.'",
             "rarity": "Uncommon",
-            "artist": "Ron Spencer",
-            "imgSrc": "GuardDog"
+            "artist": "Ron Spencer"
         },
         {
             "number": "54",
@@ -1072,8 +1017,7 @@
                 "reward: Your opponent may search his or her deck for any card and put it into his or her hand. Then your opponent shuffles his or her deck."
             ],
             "toSolve": "Your opponent chooses 4 Item cards in his or her hand and discards them.",
-            "reward": "Your opponent may search his or her deck for any card and put it into his or her hand. Then your opponent shuffles his or her deck.",
-            "imgSrc": "HidingFromSnape"
+            "reward": "Your opponent may search his or her deck for any card and put it into his or her hand. Then your opponent shuffles his or her deck."
         },
         {
             "number": "55",
@@ -1095,8 +1039,7 @@
             "artist": "Greg Hildebrandt",
             "effect": [
                 "To play this card, discard 1 of your Care of Magical Creature Lessons from play. Whenever a Spell card damages you, you may let Kelpie take that damage instead."
-            ],
-            "imgSrc": "Kelpie"
+            ]
         },
         {
             "number": "56",
@@ -1113,8 +1056,7 @@
             "artist": "Jon Foster",
             "effect": [
                 "Discard the Adventure your opponent has played. You get the reward."
-            ],
-            "imgSrc": "LogicPuzzle"
+            ]
         },
         {
             "number": "57",
@@ -1131,8 +1073,7 @@
             "artist": "Bob Petillo",
             "effect": [
                 "Search your deck. You may take a Creature card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck."
-            ],
-            "imgSrc": "MysteriousEgg"
+            ]
         },
         {
             "number": "58",
@@ -1149,8 +1090,7 @@
             "artist": "Patrick Faricy",
             "effect": [
                 "Remove all damage counters from all of your Creatures."
-            ],
-            "imgSrc": "Nurture"
+            ]
         },
         {
             "number": "59",
@@ -1167,8 +1107,7 @@
             "artist": "Jon Foster",
             "effect": [
                 "Put an Item card from your discard pile into your hand."
-            ],
-            "imgSrc": "Ollivanders"
+            ]
         },
         {
             "number": "60",
@@ -1185,8 +1124,7 @@
                 "reward: You take 3 damage."
             ],
             "toSolve": "Your opponent skips a total of 5 Actions. (Those Actions don't need to be one right after the other.)",
-            "reward": "You take 3 damage.",
-            "imgSrc": "PeevesCausesTrouble"
+            "reward": "You take 3 damage."
         },
         {
             "number": "61",
@@ -1207,8 +1145,7 @@
             "artist": "Zina Saunders",
             "effect": [
                 "Whenever a Spell card damages you, you may let Pet Toad take that damage instead."
-            ],
-            "imgSrc": "PetToad"
+            ]
         },
         {
             "number": "62",
@@ -1228,8 +1165,7 @@
             "artist": "Jason Bernardin",
             "effect": [
                 "Put up to 3 non-Healing cards from your discard pile on the bottom of your deck (in any order). Then draw a card."
-            ],
-            "imgSrc": "PomfreysPickMeUp"
+            ]
         },
         {
             "number": "63",
@@ -1245,8 +1181,7 @@
             "artist": "Jason Bernardin",
             "effect": [
                 "Your opponent chooses 3 of his or her cards in play and discards them (if your opponent has fewer than 3 cards in play he or she discards them all). Your opponent may prevent this by discarding 1 of his or her Potions Lessons in play and discarding it."
-            ],
-            "imgSrc": "PotionsExam"
+            ]
         },
         {
             "number": "64",
@@ -1263,8 +1198,7 @@
                 "reward: Your opponent may draw a card."
             ],
             "toSolve": "Your opponent chooses 4 of his or her Lessons in play and discards them.",
-            "reward": "Your opponent may draw a card.",
-            "imgSrc": "ReptileHouse"
+            "reward": "Your opponent may draw a card."
         },
         {
             "number": "65",
@@ -1289,8 +1223,7 @@
             "artist": "Kevin Dobler",
             "effect": [
                 "To play this card, discard 2 of your Potions Lessons from play."
-            ],
-            "imgSrc": "SilverCauldron"
+            ]
         },
         {
             "number": "66",
@@ -1306,8 +1239,7 @@
             "artist": "Mark Romanoski",
             "effect": [
                 "Next turn, whenever your opponent draws a card, he or she discards it instead of putting it into his or her hand."
-            ],
-            "imgSrc": "SnufflingPotion"
+            ]
         },
         {
             "number": "67",
@@ -1324,8 +1256,7 @@
             "artist": "Tim Hildebrandt",
             "effect": [
                 "Do 5 damage to your opponent."
-            ],
-            "imgSrc": "Stupefy"
+            ]
         },
         {
             "number": "68",
@@ -1341,8 +1272,7 @@
             "artist": "Monte Michael Moore",
             "effect": [
                 "Your opponent chooses 1 of his or her Creatures in play and discards it."
-            ],
-            "imgSrc": "TakeRoot"
+            ]
         },
         {
             "number": "69",
@@ -1358,8 +1288,7 @@
             "artist": "Zina Saunders",
             "effect": [
                 "To play this card, discard 1 of your Creatures from play. Search your deck. You may take a Creature card from your deck, show it to your opponent and put it in your hand. Then shuffle your deck."
-            ],
-            "imgSrc": "Transmogrify"
+            ]
         },
         {
             "number": "70",
@@ -1377,8 +1306,7 @@
                 "reward: Your opponent may draw a card."
             ],
             "toSolve": "Your opponent chooses 2 of his or her Creatures in play and discards them.",
-            "reward": "Your opponent may draw a card.",
-            "imgSrc": "UnusualPets"
+            "reward": "Your opponent may draw a card."
         },
         {
             "number": "71",
@@ -1394,8 +1322,7 @@
             "artist": "Patrick Faricy",
             "effect": [
                 "Play this card only if your opponent has any Lessons in play. Choose 1 of those Lessons and discard it. Search your deck. You may take a Creature card from your deck, show it to your opponent and put it in your hand. Then shuffle your deck."
-            ],
-            "imgSrc": "VanishingGlass"
+            ]
         },
         {
             "number": "72",
@@ -1411,8 +1338,7 @@
             "artist": "Ron Spears",
             "effect": [
                 "Once during each of your turns, you may choose 1 of your opponent's Creatures in play. Prevent all damage done by that creature until the end of your opponent's next turn."
-            ],
-            "imgSrc": "WingedKeys"
+            ]
         },
         {
             "number": "73",
@@ -1429,8 +1355,7 @@
             "artist": "Chris Seaman",
             "effect": [
                 "Put up to 2 Lesson cards from your discard pile into your hand."
-            ],
-            "imgSrc": "Accio"
+            ]
         },
         {
             "number": "74",
@@ -1446,8 +1371,7 @@
             "artist": "Kevin Dobler",
             "effect": [
                 "Choose 1 of your opponent's Care of Magical Creatures Lessons in play and discard it."
-            ],
-            "imgSrc": "Avifors"
+            ]
         },
         {
             "number": "75",
@@ -1463,8 +1387,7 @@
             "artist": "George Davis",
             "effect": [
                 "Do 1 damage to your opponent or to a Creature of your choice. Then draw a card."
-            ],
-            "imgSrc": "Baubillious"
+            ]
         },
         {
             "number": "76",
@@ -1483,8 +1406,7 @@
             "health": "2",
             "flavorText": "'Brazil, here I come... Thanks, amigo.' - The Snake",
             "rarity": "Common",
-            "artist": "Patrick Faricy",
-            "imgSrc": "BoaConstrictor"
+            "artist": "Patrick Faricy"
         },
         {
             "number": "77",
@@ -1504,8 +1426,7 @@
             "artist": "Jason Bernardin",
             "effect": [
                 "Put up to 4 non-Healing cards from your discard pile on the bottom of your deck (in any order)."
-            ],
-            "imgSrc": "BoilCure"
+            ]
         },
         {
             "number": "78",
@@ -1530,8 +1451,7 @@
             "artist": "Keith Garletts",
             "effect": [
                 "If you play this card and you already have a Wand in play, discard the old one."
-            ],
-            "imgSrc": "BorrowedWand"
+            ]
         },
         {
             "number": "79",
@@ -1547,8 +1467,7 @@
             "artist": "Scott Lewis",
             "effect": [
                 "Choose 1 of your opponent's Potions Lessons in play and discard it."
-            ],
-            "imgSrc": "CauldronToSieve"
+            ]
         },
         {
             "number": "80",
@@ -1566,8 +1485,7 @@
             "dmgEachTurn": "1",
             "health": "1",
             "rarity": "Common",
-            "artist": "Melissa Ferreira",
-            "imgSrc": "CuriousRaven"
+            "artist": "Melissa Ferreira"
         },
         {
             "number": "81",
@@ -1584,8 +1502,7 @@
             "artist": "Jason Bernardin",
             "effect": [
                 "During your opponent's next turn, prevent all damage done to you by your opponent's Adventures and Creatures."
-            ],
-            "imgSrc": "Dungbomb"
+            ]
         },
         {
             "number": "82",
@@ -1601,8 +1518,7 @@
             "artist": "Marcelo Vignali",
             "effect": [
                 "Choose 1 of your opponent's Charms Lessons in play and discard it."
-            ],
-            "imgSrc": "Epoximise"
+            ]
         },
         {
             "number": "83",
@@ -1618,8 +1534,7 @@
             "artist": "Bob Petillo",
             "effect": [
                 "Do 1 damage to your opponent or to a Creature of your choice."
-            ],
-            "imgSrc": "ErumpentPotion"
+            ]
         },
         {
             "number": "84",
@@ -1636,8 +1551,7 @@
             "artist": "Scott Lewis",
             "effect": [
                 "Choose a Creature in play and return it to its owner's hand."
-            ],
-            "imgSrc": "FluffyFallsAsleep"
+            ]
         },
         {
             "number": "85",
@@ -1659,8 +1573,7 @@
             "artist": "Chris Seaman",
             "effect": [
                 "To play this card, discard 1 of your Care of Magical Creatures Lessons from play."
-            ],
-            "imgSrc": "ForestTroll"
+            ]
         },
         {
             "number": "86",
@@ -1677,8 +1590,7 @@
             "artist": "Michael T. Collins",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. During your opponent's next turn, he or she can't play cards."
-            ],
-            "imgSrc": "ForgetfulnessPotion"
+            ]
         },
         {
             "number": "87",
@@ -1695,8 +1607,7 @@
             "artist": "Ron Spencer",
             "effect": [
                 "Do 2 damage to your opponent or to a Creature of your choice."
-            ],
-            "imgSrc": "FoulBrew"
+            ]
         },
         {
             "number": "88",
@@ -1718,8 +1629,7 @@
             "artist": "Jeff Laubenstein",
             "effect": [
                 "To play this card, discard 1 of your Care of Magical Creatures Lessons from play."
-            ],
-            "imgSrc": "GiantTarantula"
+            ]
         },
         {
             "number": "89",
@@ -1736,8 +1646,7 @@
             "artist": "Doug Chaffee",
             "effect": [
                 "Put a Creature card from your discard pile into your hand."
-            ],
-            "imgSrc": "HagridAndTheStranger"
+            ]
         },
         {
             "number": "90",
@@ -1754,8 +1663,7 @@
             "artist": "Patrick Faricy",
             "effect": [
                 "Put up to 2 Lesson cards from your hand into play."
-            ],
-            "imgSrc": "Homework"
+            ]
         },
         {
             "number": "91",
@@ -1774,8 +1682,7 @@
             "artist": "Jason Bernardin",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. Shuffle up to 8 non-Healing cards from your discard pile into your deck."
-            ],
-            "imgSrc": "HospitalWing"
+            ]
         },
         {
             "number": "92",
@@ -1791,8 +1698,7 @@
             "artist": "Jason Bernardin",
             "effect": [
                 "Look at your opponent's hand. Choose 1 of those cards and discard it."
-            ],
-            "imgSrc": "Illegibilus"
+            ]
         },
         {
             "number": "93",
@@ -1809,8 +1715,7 @@
             "artist": "Bob Petillo",
             "effect": [
                 "Choose 1 of your opponent's Creatures in play and discard it."
-            ],
-            "imgSrc": "Incarcifors"
+            ]
         },
         {
             "number": "94",
@@ -1826,8 +1731,7 @@
             "artist": "Monte Michael Monte",
             "effect": [
                 "Choose 1 of your opponent's Items or Lessons in play and discard it."
-            ],
-            "imgSrc": "LostNotes"
+            ]
         },
         {
             "number": "95",
@@ -1844,8 +1748,7 @@
             "artist": "Michael T. Collins",
             "effect": [
                 "Do 3 damage to your opponent."
-            ],
-            "imgSrc": "MagicalMishap"
+            ]
         },
         {
             "number": "96",
@@ -1862,8 +1765,7 @@
             "artist": "Tommy Zimmerman",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. Do 5 damage to your opponent or to a Creature of your choice."
-            ],
-            "imgSrc": "NoxiousPoison"
+            ]
         },
         {
             "number": "97",
@@ -1880,8 +1782,7 @@
             "artist": "Michael Koelsch",
             "effect": [
                 "Look at your opponent's hand. Discard all Creature cards from it."
-            ],
-            "imgSrc": "OutOfTheWoods"
+            ]
         },
         {
             "number": "98",
@@ -1903,8 +1804,7 @@
             "artist": "Tommy Zimmerman",
             "effect": [
                 "To play this card, discard 1 of your Care of Magical Creatures Lessons from play."
-            ],
-            "imgSrc": "PetRat"
+            ]
         },
         {
             "number": "99",
@@ -1929,8 +1829,7 @@
             "artist": "Tommy Zimmerman",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play."
-            ],
-            "imgSrc": "PewterCauldron"
+            ]
         },
         {
             "number": "100",
@@ -1947,8 +1846,7 @@
             "artist": "Daren Bader",
             "effect": [
                 "To play this card, discard 3 of your Potions Lessons from play. Choose 1 of your opponent's Creatures or Items in play and discard it."
-            ],
-            "imgSrc": "PotionsMistake"
+            ]
         },
         {
             "number": "101",
@@ -1964,8 +1862,7 @@
             "artist": "Marcelo Vignali",
             "effect": [
                 "During your turn, you may use an Action to put a Lesson card from your discard pile into play."
-            ],
-            "imgSrc": "Remembrall"
+            ]
         },
         {
             "number": "102",
@@ -1982,8 +1879,7 @@
             "artist": "Marcelo Vignali",
             "effect": [
                 "Choose 1 of your opponent's Transfiguration Lessons in play and discard it."
-            ],
-            "imgSrc": "RestrictedSection"
+            ]
         },
         {
             "number": "103",
@@ -2002,8 +1898,7 @@
             "health": "5",
             "flavorText": "'... the path became almost impossible to follow because the trees were so thick.'",
             "rarity": "Common",
-            "artist": "Doug Chaffee",
-            "imgSrc": "ScottishStag"
+            "artist": "Doug Chaffee"
         },
         {
             "number": "104",
@@ -2020,8 +1915,7 @@
             "artist": "Daren Bader",
             "effect": [
                 "Do 4 damage to your opponent. Your opponent may prevent this damage by showing you a Potions Lesson from his or her hand."
-            ],
-            "imgSrc": "SnapesQuestion"
+            ]
         },
         {
             "number": "105",
@@ -2037,8 +1931,7 @@
             "artist": "Marcelo Vignali",
             "effect": [
                 "Choose 1 of your opponent's Items in play and discard it."
-            ],
-            "imgSrc": "SquiggleQuill"
+            ]
         },
         {
             "number": "106",
@@ -2054,8 +1947,7 @@
             "artist": "Tim Hildebrandt",
             "effect": [
                 "All your creatures do damage to your opponent."
-            ],
-            "imgSrc": "Steelclaw"
+            ]
         },
         {
             "number": "107",
@@ -2074,8 +1966,7 @@
             "health": "3",
             "flavorText": "'When Harry knocked they heard a frantic scrabbling from inside and several booming barks.'",
             "rarity": "Common",
-            "artist": "Scott Lewis",
-            "imgSrc": "SurlyHound"
+            "artist": "Scott Lewis"
         },
         {
             "number": "108",
@@ -2091,8 +1982,7 @@
             "artist": "Michael T. Collins",
             "effect": [
                 "Do 2 damage to your opponent. You may also choose a Creature and do 2 damage to it."
-            ],
-            "imgSrc": "ToeBiter"
+            ]
         },
         {
             "number": "109",
@@ -2108,8 +1998,7 @@
             "artist": "Chris Seaman",
             "effect": [
                 "Do 3 damage to your opponent or to a Creature of your choice."
-            ],
-            "imgSrc": "Vermillious"
+            ]
         },
         {
             "number": "110",
@@ -2127,8 +2016,7 @@
             "dmgEachTurn": "3",
             "health": "3",
             "rarity": "Common",
-            "artist": "Patrick Faricy",
-            "imgSrc": "ViciousWolf"
+            "artist": "Patrick Faricy"
         },
         {
             "number": "111",
@@ -2145,8 +2033,7 @@
             "artist": "Ron Spencer",
             "effect": [
                 "During your opponent's next turn, prevent all damage done to you by your opponent's Creatures."
-            ],
-            "imgSrc": "WingardiumLeviosa"
+            ]
         },
         {
             "number": "112",
@@ -2163,8 +2050,7 @@
             "artist": "Patrick Faricy",
             "effect": [
                 "Reveal the top card of your deck. If it's a Lesson card, put it into play. If it isn't, put the card in your hand."
-            ],
-            "imgSrc": "WizardCrackers"
+            ]
         },
         {
             "number": "113",
@@ -2185,8 +2071,7 @@
             "artist": [
                 "Shanth Enjeti",
                 "Melissa Ferreira"
-            ],
-            "imgSrc": "CareOfMagicalCreatures"
+            ]
         },
         {
             "number": "114",
@@ -2207,8 +2092,7 @@
             "artist": [
                 "Shanth Enjeti",
                 "Melissa Ferreira"
-            ],
-            "imgSrc": "Charms"
+            ]
         },
         {
             "number": "115",
@@ -2229,8 +2113,7 @@
             "artist": [
                 "Shanth Enjeti",
                 "Melissa Ferreira"
-            ],
-            "imgSrc": "Potions"
+            ]
         },
         {
             "number": "116",
@@ -2251,8 +2134,7 @@
             "artist": [
                 "Shanth Enjeti",
                 "Melissa Ferreira"
-            ],
-            "imgSrc": "Transfiguration"
+            ]
         }
     ]
 }

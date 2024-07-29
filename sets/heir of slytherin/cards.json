@@ -20,8 +20,7 @@
             "artist": "UpTheHill",
             "effect": [
                 "If there is a Match in play, whenever 1 of your cards that needs Quidditch Power does damage, it does 1 more damage."
-            ],
-            "imgSrc": "AliciaSpinnet"
+            ]
         },
         {
             "number": "2",
@@ -44,8 +43,7 @@
             "artist": "Piotr Siwerski",
             "effect": [
                 "To play this card, discard 1 of your Care of Magical Creatures Lessons from play. Whenever another of your Spiders does damage, it does 2 more damage."
-            ],
-            "imgSrc": "Aragog"
+            ]
         },
         {
             "number": "3",
@@ -62,8 +60,7 @@
             "artist": "Elbarien",
             "effect": [
                 "At the end of each of your turns, if you played a Gryffindor, Hufflepuff, Ravenclaw, or Slytherin card, you may draw a card or do 2 damage to an opponent."
-            ],
-            "imgSrc": "ArmandoDippet"
+            ]
         },
         {
             "number": "4",
@@ -80,8 +77,7 @@
             "artist": "Vladislav Pantic",
             "effect": [
                 "Choose an opponent. On their next turn, they gain 1 more Action. On your next turn, you gain 2 more Actions."
-            ],
-            "imgSrc": "CancelledExams"
+            ]
         },
         {
             "number": "5",
@@ -102,8 +98,7 @@
             "artist": "EpicLoop",
             "effect": [
                 "Cards cannot be played from or leave their owners' discard piles."
-            ],
-            "imgSrc": "ChamberOfSecrets"
+            ]
         },
         {
             "number": "6",
@@ -120,8 +115,7 @@
             "artist": "Vladislav Pantic",
             "effect": [
                 "During each opponent's turn, you may prevent up to 4 damage done to you. If any damage is prevented in this way, at the end of that turn, that opponent may choose a non-Healing card in play other than Dobby. Return that card to its owner's hand."
-            ],
-            "imgSrc": "Dobby"
+            ]
         },
         {
             "number": "7",
@@ -137,8 +131,7 @@
                 "reward: Your opponent may choose 1 of your Characters in play. Their starting Character gains the abilities of the chosen Character until the end of their turn."
             ],
             "toSolve": "Your opponent uses Actions to play cards 4 times.",
-            "reward": "Your opponent may choose 1 of your Characters in play. Their starting Character gains the abilities of the chosen Character until the end of their turn.",
-            "imgSrc": "DobbyIsFree"
+            "reward": "Your opponent may choose 1 of your Characters in play. Their starting Character gains the abilities of the chosen Character until the end of their turn."
         },
         {
             "number": "8",
@@ -155,8 +148,7 @@
             "artist": "Sophia Del Plato",
             "effect": [
                 "Play this card only if you have a Gryffindor Witch or Wizard in play. Do 6 damage divided as you choose among any number of Creatures."
-            ],
-            "imgSrc": "DrawingTheSword"
+            ]
         },
         {
             "number": "9",
@@ -174,8 +166,7 @@
             "artist": "Drew Winchester",
             "effect": [
                 "At the end of each player's turn, if that player used an Action to play a Spell, they draw a card."
-            ],
-            "imgSrc": "DuelingClub"
+            ]
         },
         {
             "number": "10",
@@ -192,8 +183,7 @@
                 "reward: The next Spell your opponent plays needs 2 less Power to play."
             ],
             "toSolve": "Your opponent skips a total of 3 Actions.",
-            "reward": "The next Spell your opponent plays needs 2 less Power to play.",
-            "imgSrc": "DumbledoresSuspension"
+            "reward": "The next Spell your opponent plays needs 2 less Power to play."
         },
         {
             "number": "11",
@@ -209,8 +199,7 @@
             "artist": "Hilda Lara",
             "effect": [
                 "Choose an opponent. During their next turn, prevent all damage done to you by their Creatures. Until the beginning of your next turn, if one of their Creatures takes damage, discard that Creature."
-            ],
-            "imgSrc": "Immobulus"
+            ]
         },
         {
             "number": "12",
@@ -229,8 +218,7 @@
             "artist": "UpTheHill",
             "effect": [
                 "If there is a Match in play, whenever a card (yours or an opponent's) does damage to you, it does 1 less damage."
-            ],
-            "imgSrc": "KatieBell"
+            ]
         },
         {
             "number": "13",
@@ -249,8 +237,7 @@
             "artist": "Drew Winchester",
             "effect": [
                 "Choose 5 non-Healing cards, of different types, in your discard pile. Your opponent chooses 1 of those cards. Put that card on the bottom of your deck and the rest into your hand. (You must choose 5 cards.)"
-            ],
-            "imgSrc": "LoyaltysReward"
+            ]
         },
         {
             "number": "14",
@@ -276,8 +263,7 @@
             "artist": "WhiteKitsune",
             "effect": [
                 "At the end of each of your turns, do 2 damage to your opponent for each Action you have used after the second Action. (If you play this card, and you already have a Wand in play, discard the old one.)"
-            ],
-            "imgSrc": "LuciusCane"
+            ]
         },
         {
             "number": "15",
@@ -294,8 +280,7 @@
             "artist": "UpTheHill",
             "effect": [
                 "At the end of each of your turns, if you have used 5 or more Actions, you may search your deck, take any card, put it into your hand, and then shuffle your deck."
-            ],
-            "imgSrc": "LuciusMalfoy"
+            ]
         },
         {
             "number": "16",
@@ -313,8 +298,7 @@
             "artist": "ZiskaJa",
             "effect": [
                 "Once per turn, you may use an Action to do 1 damage to an opponent's Creature."
-            ],
-            "imgSrc": "MillicentBulstrode"
+            ]
         },
         {
             "number": "17",
@@ -331,8 +315,7 @@
             "artist": "Paolo Maria Breda",
             "effect": [
                 "Once per game, you may choose an opponent's card in play. If the chosen card is discarded from play, do 8 damage to that opponent."
-            ],
-            "imgSrc": "MoaningMyrtle"
+            ]
         },
         {
             "number": "18",
@@ -349,8 +332,7 @@
             "artist": "HogwartsHorror",
             "effect": [
                 "Look at an opponent's hand. You may choose 1 of those cards. If you do, on their next turn, they must use their first Action(s) to play that card. (If your opponent cannot play that card, this ability has no effect.)"
-            ],
-            "imgSrc": "MuddledMemories"
+            ]
         },
         {
             "number": "19",
@@ -369,8 +351,7 @@
             "artist": "gartzia.artz",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. Choose 1 of an opponent's Wizards or Witches in play. Your starting Character gains all abilities of that card until the end of your turn."
-            ],
-            "imgSrc": "PolyjuicePotion"
+            ]
         },
         {
             "number": "20",
@@ -387,8 +368,7 @@
             "artist": "Vladislav Pantic",
             "effect": [
                 "At the end of each player's turn, if you have discarded a card from your hand, choose an opponent. They discard a card from their hand."
-            ],
-            "imgSrc": "Prof.GilderoyLockhart"
+            ]
         },
         {
             "number": "21",
@@ -411,8 +391,7 @@
             "artist": "Jennie Huggins",
             "effect": [
                 "To play this card, discard 2 of your Care of Magical Creatures Lessons from play. At the end of each of your turns, you may choose 1 of an opponent's Characters or Creatures in play and put a petrification counter on it. Cards with petrification counters lose all abilities and do no damage. When this card leaves play, remove all petrification counters from play."
-            ],
-            "imgSrc": "SlytherinsBasilisk"
+            ]
         },
         {
             "number": "22",
@@ -428,8 +407,7 @@
             "artist": "JoeriVanRoyen",
             "effect": [
                 "During your turn, if your hand contains at least 4 cards, you may discard this card from play. If you do, discard your hand to win the current Match."
-            ],
-            "imgSrc": "SwallowedSnitch"
+            ]
         },
         {
             "number": "23",
@@ -447,8 +425,7 @@
             "artist": "Paolo Maria Breda",
             "effect": [
                 "Once during each of your turns, when you play a Lesson, you may choose a Lesson type. Until the end of your turn, this card provides 1 Power of the chosen type."
-            ],
-            "imgSrc": "TomMarvoloRiddle"
+            ]
         },
         {
             "number": "24",
@@ -465,8 +442,7 @@
                 "reward: Your opponent may put up to 2 Lessons from their discard pile into play."
             ],
             "toSolve": "Your opponent discards 2 cards in this way.",
-            "reward": "Your opponent may put up to 2 Lessons from their discard pile into play.",
-            "imgSrc": "WanderingKnockturn"
+            "reward": "Your opponent may put up to 2 Lessons from their discard pile into play."
         },
         {
             "number": "25",
@@ -487,8 +463,7 @@
             "artist": "Piotr Siwerski",
             "effect": [
                 "Each Spider has 2 more Health (even your opponents')."
-            ],
-            "imgSrc": "AragogsLair"
+            ]
         },
         {
             "number": "26",
@@ -505,8 +480,7 @@
             "artist": "maryquize",
             "effect": [
                 "Do 2 damage to a Creature of your choice. Then do 3 damage to all Spider Creatures (even your own)."
-            ],
-            "imgSrc": "AraniaExumai"
+            ]
         },
         {
             "number": "27",
@@ -522,8 +496,7 @@
             "artist": "Sophia Del Plato",
             "effect": [
                 "When you play this card, do 2 damage to your opponent or to a Creature of your choice. You may use an Action to discard this card from play. If you do, choose an opponent's Item in play and discard it."
-            ],
-            "imgSrc": "BasiliskFang"
+            ]
         },
         {
             "number": "28",
@@ -544,8 +517,7 @@
             "artist": "eorzaart",
             "effect": [
                 "When another of your Plants takes damage, this card deals 1 damage to an opponent of your choice."
-            ],
-            "imgSrc": "Bowtruckle"
+            ]
         },
         {
             "number": "29",
@@ -570,8 +542,7 @@
             "artist": "Paolo Maria Breda",
             "effect": [
                 "During your turn, you may discard this card from play. If you do, choose a non-Healing Match with printed Power cost of 1 in your discard pile. Play it as if it were in your hand. (You must still use an Action to play the card.)"
-            ],
-            "imgSrc": "BreakWithABanshee"
+            ]
         },
         {
             "number": "30",
@@ -587,8 +558,7 @@
             "artist": "abosz007",
             "effect": [
                 "Do 3 damage to an opponent. Then draw a card. At the end of each of your turns, if this card is in your discard pile and a Spell did at least 5 damage to an opponent, you may discard a card from your hand to put this card into your hand."
-            ],
-            "imgSrc": "CirclingTheGoalPosts"
+            ]
         },
         {
             "number": "31",
@@ -609,8 +579,7 @@
             "artist": "grim1978",
             "effect": [
                 "When you play this card, look at an opponent's hand. You may choose a card and place it under this card. (Cards under this card cannot be interacted with.) When this card leaves play, return that card to its owner's hand."
-            ],
-            "imgSrc": "CornishPixie"
+            ]
         },
         {
             "number": "32",
@@ -626,8 +595,7 @@
                 "reward: Your opponent may look at your hand. They may choose 1 of those cards and discard it."
             ],
             "toSolve": "Your opponent chooses 3 Lessons in their hand and discards them.",
-            "reward": "Your opponent may look at your hand. They may choose 1 of those cards and discard it.",
-            "imgSrc": "DeathdayParty"
+            "reward": "Your opponent may look at your hand. They may choose 1 of those cards and discard it."
         },
         {
             "number": "33",
@@ -644,8 +612,7 @@
             "artist": "Vladislav Pantic",
             "effect": [
                 "Search your deck. You may take a Broom from your deck, reveal it, and put it into your hand. Then shuffle your deck. If that card's printed Power cost is at least 5, do 5 damage to an opponent."
-            ],
-            "imgSrc": "DracosSuperiority"
+            ]
         },
         {
             "number": "34",
@@ -661,8 +628,7 @@
             "artist": "Liam Cleal",
             "effect": [
                 "Whenever you would draw a card, except during your draw step, you may choose not to."
-            ],
-            "imgSrc": "EssentialKnowledgeTest"
+            ]
         },
         {
             "number": "35",
@@ -687,8 +653,7 @@
             "artist": "Jonatan Rodriguez",
             "effect": [
                 "During your turn, you may discard this card from play. If you do, choose a non-Healing Item with printed Power cost of 2 or less in your discard pile. Play it as if it were in your hand. (You must still use an Action to play the card.)"
-            ],
-            "imgSrc": "GaddingWithGhouls"
+            ]
         },
         {
             "number": "36",
@@ -706,8 +671,7 @@
             "artist": "Ranivius",
             "effect": [
                 "When any player takes damage, they discard cards from the bottom of their deck instead of the top."
-            ],
-            "imgSrc": "HogwartsPipes"
+            ]
         },
         {
             "number": "37",
@@ -732,8 +696,7 @@
             "artist": "Paolo Maria Breda",
             "effect": [
                 "You may use an Action and discard this card from play. If you do, put up to 2 Lessons of the same type from your discard pile into play."
-            ],
-            "imgSrc": "HolidaysWithHags"
+            ]
         },
         {
             "number": "38",
@@ -749,8 +712,7 @@
             "artist": "HogwartsHorror",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. Search your deck. You may take a Location that needs Potions Power with printed Power cost 5 or less from your deck and put it into play. Then shuffle your deck."
-            ],
-            "imgSrc": "Kheshakhassa"
+            ]
         },
         {
             "number": "39",
@@ -771,8 +733,7 @@
             "artist": "Liam Cleal",
             "effect": [
                 "Once during each player's turn, that player may discard any number of cards from their hand."
-            ],
-            "imgSrc": "LockhartsOffice"
+            ]
         },
         {
             "number": "40",
@@ -797,8 +758,7 @@
             "artist": "Jonatan Rodriguez",
             "effect": [
                 "During your turn, you may discard this card from play. If you do, choose a non-Healing Spell with printed Power cost of 2 or less in your discard pile. Play it as if it were in your hand. (You must still use an Action to play the card.)"
-            ],
-            "imgSrc": "MagicalMe"
+            ]
         },
         {
             "number": "41",
@@ -817,8 +777,7 @@
             "artist": "Sophia Del Plato",
             "effect": [
                 "Choose 1 of your Characters in play that has a 'Once per turn' ability that you have already used this turn. Use that ability again without using any Actions."
-            ],
-            "imgSrc": "MandrakeDraught"
+            ]
         },
         {
             "number": "42",
@@ -834,8 +793,7 @@
             "artist": "Liam Cleal",
             "effect": [
                 "Whenever you play a Seeker, Beater, Keeper, or Chaser Character, you use up 1 Action to play it instead of 2. During your turn, you may discard this card from play. If you do, put a non-Healing Seeker, Beater, Keeper, or Chaser from your discard pile into your hand."
-            ],
-            "imgSrc": "QuidditchPlaque"
+            ]
         },
         {
             "number": "43",
@@ -851,8 +809,7 @@
             "artist": "Stefan Giovanni",
             "effect": [
                 "Choose 2 of your non-Healing cards in play of different card types (other than your starting Character). Discard 1 of them and return the other to your hand."
-            ],
-            "imgSrc": "Skurge"
+            ]
         },
         {
             "number": "44",
@@ -868,8 +825,7 @@
             "artist": "Liam Cleal",
             "effect": [
                 "If you would discard another Item from play due to an opponent's card, discard this card instead."
-            ],
-            "imgSrc": "Spellotape"
+            ]
         },
         {
             "number": "45",
@@ -885,8 +841,7 @@
             "artist": "limach-an",
             "effect": [
                 "Choose a Creature in play. It becomes an Item that has no abilities, damage each turn, health, or keywords (except Unique) while it is in play."
-            ],
-            "imgSrc": "VeraVerto"
+            ]
         },
         {
             "number": "46",
@@ -911,8 +866,7 @@
             "artist": "Jonatan Rodriguez",
             "effect": [
                 "During your turn, you may discard this card from play. If you do, choose a Creature with printed Power cost 2 or less in your discard pile. Play it as if it were in your hand. (You must still use an Action to play the card.)"
-            ],
-            "imgSrc": "VoyagesWithVampires"
+            ]
         },
         {
             "number": "47",
@@ -928,8 +882,7 @@
                 "reward: Your opponent names a card type. Reveal your hand and discard all cards of the chosen type."
             ],
             "toSolve": "Your opponent puts their hand on the bottom of their deck in any order.",
-            "reward": "Your opponent names a card type. Reveal your hand and discard all cards of the chosen type.",
-            "imgSrc": "WhispersFromThePipes"
+            "reward": "Your opponent names a card type. Reveal your hand and discard all cards of the chosen type."
         },
         {
             "number": "48",
@@ -949,8 +902,7 @@
                 "prize: The winner may put a card from their discard pile into their hand."
             ],
             "toWin": "Draw cards 7 times while this card is in play. (Drawing multiple cards at a time counts once.)",
-            "prize": "The winner may put a card from their discard pile into their hand.",
-            "imgSrc": "WinterMatch"
+            "prize": "The winner may put a card from their discard pile into their hand."
         },
         {
             "number": "49",
@@ -972,8 +924,7 @@
             "artist": "Piotr Siwerski",
             "effect": [
                 "When you play this card, search your deck. You may take a Baby Acromantula from your deck, reveal it, and put it into your hand. Then shuffle your deck."
-            ],
-            "imgSrc": "BabyAcromantula"
+            ]
         },
         {
             "number": "50",
@@ -989,8 +940,7 @@
             "artist": "Palnk",
             "effect": [
                 "To play this card, discard any number of your Potions Lessons from play. For each Potions Lesson discarded, do 2 damage to an opponent or to a Creature of your choice. (You may choose the same target multiple times.)"
-            ],
-            "imgSrc": "CauldronCalamity"
+            ]
         },
         {
             "number": "51",
@@ -1009,8 +959,7 @@
             "artist": "Drew Winchester",
             "effect": [
                 "Before each of your turns, draw a card. Then all your opponents draw a card."
-            ],
-            "imgSrc": "ColinsCamera"
+            ]
         },
         {
             "number": "52",
@@ -1027,8 +976,7 @@
             "artist": "abosz007",
             "effect": [
                 "Do 2 damage to an opponent. Then draw a card. You may put a Quidditch Lesson from your hand into play."
-            ],
-            "imgSrc": "DodgingTheBludger"
+            ]
         },
         {
             "number": "53",
@@ -1045,8 +993,7 @@
             "artist": "abosz007",
             "effect": [
                 "Do 1 damage to an opponent. At the end of your turn, draw 2 cards."
-            ],
-            "imgSrc": "DuelingPractice"
+            ]
         },
         {
             "number": "54",
@@ -1063,8 +1010,7 @@
             "artist": "HogwartsHorror",
             "effect": [
                 "Do 2 damage to yourself. Then draw a card."
-            ],
-            "imgSrc": "EatSlugs"
+            ]
         },
         {
             "number": "55",
@@ -1080,8 +1026,7 @@
             "artist": "Serena Steele",
             "effect": [
                 "Choose an opponent and a card type. They reveal their hand, discard all cards of the chosen type, and take damage equal to the number of cards discarded in this way."
-            ],
-            "imgSrc": "EnemiesOfTheHeir,Beware"
+            ]
         },
         {
             "number": "56",
@@ -1098,8 +1043,7 @@
             "artist": "Liam Cleal",
             "effect": [
                 "Choose 1 of your opponent's Items in play and discard it. If that item was a Wand, during their next turn, they can't use Actions to play Spells."
-            ],
-            "imgSrc": "Expelliarmus"
+            ]
         },
         {
             "number": "57",
@@ -1121,8 +1065,7 @@
             "artist": "DragonsTrace",
             "effect": [
                 "While this card is in your hand, it requires 1 less Power to play for each of your Spiders in play."
-            ],
-            "imgSrc": "ForestSpider"
+            ]
         },
         {
             "number": "58",
@@ -1138,8 +1081,7 @@
             "artist": "Dina M. Nealey",
             "effect": [
                 "Do 4 damage to an opponent. During their next turn, they can't use their first Action to play Spells."
-            ],
-            "imgSrc": "Mimblewimble"
+            ]
         },
         {
             "number": "59",
@@ -1155,8 +1097,7 @@
             "artist": "Dina M. Nealey",
             "effect": [
                 "Count the number of Characters an opponent has in play and in their discard pile. Do that much damage to that opponent. Then, choose 1 of their Characters in play. Until their next turn, that Character loses all abilities."
-            ],
-            "imgSrc": "MisBrewedPolyjuice"
+            ]
         },
         {
             "number": "60",
@@ -1173,8 +1114,7 @@
             "artist": "Francesco Amadio",
             "effect": [
                 "Choose 1 of your Creatures in play and 1 of an opponent's Creatures in play. They do damage to each other."
-            ],
-            "imgSrc": "MortalEnemies"
+            ]
         },
         {
             "number": "61",
@@ -1191,8 +1131,7 @@
             "artist": "Michael Silverleaf",
             "effect": [
                 "Do 5 damage to an opponent. If there is a Match in play, you may have that opponent choose 1 of their Creatures in play and discard it."
-            ],
-            "imgSrc": "NewSlytherinSeeker"
+            ]
         },
         {
             "number": "62",
@@ -1212,8 +1151,7 @@
             "artist": "Liam Cleal",
             "effect": [
                 "When you play this card, draw a card."
-            ],
-            "imgSrc": "OldSock"
+            ]
         },
         {
             "number": "63",
@@ -1230,8 +1168,7 @@
             "artist": "Kiwi from Outer Space",
             "effect": [
                 "Choose an opponent's Creature in play and return it to their hand. If you have Snake in play, discard your opponent's Creature instead."
-            ],
-            "imgSrc": "Parseltongue"
+            ]
         },
         {
             "number": "64",
@@ -1248,8 +1185,7 @@
             "artist": "Agatha Macpie",
             "effect": [
                 "Discard all Wands in play."
-            ],
-            "imgSrc": "PeskipiksiPesternomi"
+            ]
         },
         {
             "number": "65",
@@ -1266,8 +1202,7 @@
             "artist": "grim1978",
             "effect": [
                 "Choose an opponent's Character (other than their starting Character) or non-Rooster Creature in play. Shuffle that card into their deck."
-            ],
-            "imgSrc": "PetrifyingStare"
+            ]
         },
         {
             "number": "66",
@@ -1284,8 +1219,7 @@
             "artist": "MARiKaArt",
             "effect": [
                 "Each player searches their deck. They may take a Lesson from their deck, reveal it, and put it into their hand. Each player shuffles their deck. Then you may put a Quidditch Lesson from your hand into play."
-            ],
-            "imgSrc": "PreMatchHandshake"
+            ]
         },
         {
             "number": "67",
@@ -1307,8 +1241,7 @@
             "artist": "trowicia",
             "effect": [
                 "When you play this card, search your deck. You may take a Match from your deck, reveal it, and put it into your hand. Then shuffle your deck."
-            ],
-            "imgSrc": "Quaffle"
+            ]
         },
         {
             "number": "68",
@@ -1324,8 +1257,7 @@
             "artist": "abosz007",
             "effect": [
                 "Play this card only if there is a Match in play. Trade total progress toward winning a Match with an opponent. Then do 4 damage to that opponent."
-            ],
-            "imgSrc": "QuidditchConfidence"
+            ]
         },
         {
             "number": "69",
@@ -1347,8 +1279,7 @@
             "artist": "Barry Keenan",
             "effect": [
                 "Slytherin's Basilisk cannot be played."
-            ],
-            "imgSrc": "Rooster"
+            ]
         },
         {
             "number": "70",
@@ -1365,8 +1296,7 @@
             "artist": "julieexann",
             "effect": [
                 "Put a non-Healing Location from your discard pile into your hand."
-            ],
-            "imgSrc": "SinkPassageway"
+            ]
         },
         {
             "number": "71",
@@ -1382,8 +1312,7 @@
             "artist": "Ashley Bedore",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. Choose 3 different non-Healing cards in your discard pile. Your opponent chooses 1 of those cards. Put that card into your hand and the rest on the bottom of your deck in any order."
-            ],
-            "imgSrc": "SkeleGro"
+            ]
         },
         {
             "number": "72",
@@ -1402,8 +1331,7 @@
             "artist": "hyenacub",
             "effect": [
                 "All cards with a Power cost (yours and your opponents') need 1 more Power to play. If you play this card and you already have a Broom in play, discard the old one."
-            ],
-            "imgSrc": "SlowerBrooms"
+            ]
         },
         {
             "number": "73",
@@ -1419,8 +1347,7 @@
             "artist": "JesusAConde",
             "effect": [
                 "Search your deck. You may take an Item or Creature with printed Power cost less than or equal to the number of Lessons you have in play, reveal it, and put it into your hand. Then shuffle your deck."
-            ],
-            "imgSrc": "SubstituteCat"
+            ]
         },
         {
             "number": "74",
@@ -1437,8 +1364,7 @@
             "artist": "Dina M. Nealey",
             "effect": [
                 "Put a Lesson from your discard pile into play."
-            ],
-            "imgSrc": "SwishAndFlick"
+            ]
         },
         {
             "number": "75",
@@ -1454,8 +1380,7 @@
             "artist": "HogwartsHorror",
             "effect": [
                 "Each player discards the top card of their deck. Do 8 damage to each player who discarded a card with the lowest printed Power cost. (Cards with no printed Power cost count as 0.)"
-            ],
-            "imgSrc": "WizardDuel"
+            ]
         }
     ]
 }
