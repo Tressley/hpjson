@@ -76,7 +76,7 @@
             "rarity": "Rare",
             "flavorText": "Play now reached a level of ferocity beyond anything they had yet seen. The Beaters on both sides were acting without mercy....\"",
             "effect": [
-                "Do 3 damage to an opponent for each Q Item you have in play."
+                "Count the number of Q Items you have in play. Do 3 times that much damage to an opponent."
             ]
         },
         {
@@ -1053,7 +1053,7 @@
             "cost": 5,
             "rarity": "Uncommon",
             "effect": [
-                "When you use an Action to play a Quidditch Spell, you may discard this card from play. If you do, that Spell does 5 more damage."
+                "Whenever one of your Q Spells does damage, you may discard this card from play. If you do, it does 5 more damage."
             ],
             "provides": [
                 {
@@ -1198,7 +1198,7 @@
             "rarity": "Uncommon",
             "flavorText": "‘“Why don’t you come up to my office? Come on ... we can have a cup of tea ...”’ — Professor Alastor Moody",
             "effect": [
-                "Look at the top 6 cards of your deck. You may choose a card from among them and play it without using any Actions. Then shuffle your deck."
+                "Look at the top 6 cards of your deck. Choose a card from among them and shuffle the rest back into your deck. You may play that card without using Actions. IF you don't, discard it."
             ]
         },
         {
