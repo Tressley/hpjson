@@ -372,7 +372,7 @@
                     "amount": 1
                 }
             ],
-			"effect": [
+            "effect": [
                 "Before each of your turns, you may discard a card from your hand. If you do, until the end of your turn, card effects cannot prevent you from playing Spells."
             ]
         },
@@ -778,7 +778,7 @@
                     "amount": 1
                 }
             ],
-			"effect": [
+            "effect": [
                 "If you have at least 5 Lessons in play, whenever 1 of your Creatures does damage, it does 1 more damage."
             ]
         },

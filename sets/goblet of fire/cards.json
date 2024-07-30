@@ -1,0 +1,2389 @@
+{
+    "setName": "Goblet of Fire",
+    "releaseDate": "07-2024",
+    "totalCards": "120",
+    "cards": [
+        {
+            "Legality": "legal",
+            "number": "1",
+            "name": "Abraxan",
+            "artist": "maryquize",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Abraxan"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 12,
+            "rarity": "Rare",
+            "flavorText": "‘... winged horses, all palominos, and each the size of an elephant.’",
+            "dmgEachTurn": 10,
+            "health": 7,
+            "effect": [
+                "When you play this card, do 5 damage to an opponent and you may return a non-Healing Item card from your discard pile to your hand."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "2",
+            "name": "Alastor Moody",
+            "artist": "UpTheHillArt",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘“He was an Auror — one of the best ... a Dark wizard catcher. Half the cells in Azkaban are full because of him.”’ — Charlie Weasley",
+            "effect": [
+                "Before each of your turns, you may take 4 damage. If you do, you may play a Spell with printed Power cost of 4 or less without using any Actions. That card requires 3 less Power to play. (You still need at least 1 Power that matches.)"
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "3",
+            "name": "Bill Weasley",
+            "artist": "uppuN",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘Bill’s clothes would not have looked out of place at a rock concert, except Harry recognized his boots to be made, not of leather, but of dragon hide.’",
+            "effect": [
+                "Once per game, you may search your deck for a card and put it into your hand. Then shuffle your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "4",
+            "name": "Bumphing",
+            "artist": "GeoCaesias",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 10,
+            "rarity": "Rare",
+            "flavorText": "Play now reached a level of ferocity beyond anything they had yet seen. The Beaters on both sides were acting without mercy....\"",
+            "effect": [
+                "Count the number of Q Items you have in play. Do 3 times that much damage to an opponent."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "5",
+            "name": "Constant Vigilance",
+            "artist": "Ninorabbi",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 9,
+            "rarity": "Rare",
+            "flavorText": "\"CONSTANT VIGILANCE\" — Alastor Moody",
+            "effect": [
+                "Once per turn, when you take damage, you may put 1 of the discarded cards from your discard pile into your hand?"
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "6",
+            "name": "Disciplinary Transfiguration",
+            "artist": "Buuya",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Uncommon",
+            "effect": [
+                "If you have 4 or more Lessons in play, when you play this card, you get 1 more Action this turn.",
+                "When you play this card, name a Character. Your opponent's cards that share Uniqueness with the named card lose all abilities while this card is in play.",
+                "to solve: Your opponent chooses 6 cards in their hand and discards them.",
+                "reward: You choose 3 cards in your hand and discard them."
+            ],
+            "toSolve": "Your opponent chooses 6 cards in their hand and discards them.",
+            "reward": "You choose 3 cards in your hand and discard them."
+        },
+        {
+            "Legality": "legal",
+            "number": "7",
+            "name": "Fleur Delacour",
+            "artist": "Roby-boh",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Witch",
+                "Beauxbaton"
+            ],
+            "rarity": "Rare",
+            "effect": [
+                "Once per turn, you may use an Action to reveal a card in your hand that shares a keyword (except Unique) with at least 10 of your cards in play and/or your discard pile. You may play it without using any Actions and ignoring Power costs. (You still need at least 1 Power that matches.)"
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "8",
+            "name": "Gabrielle Delacour",
+            "artist": "TheCrookedSeptum",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Witch",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘There was also a girl who looked no older than eight, whose clouds of silvery hair made Harry feel sure that she was Fleur Delacour’s sister.’",
+            "effect": [
+                "Once per turn, you may use an Action to discard a Spell card from your hand. If you do, draw 3 cards."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "9",
+            "name": "Goblet of Fire",
+            "artist": "CaptainSquirel",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 11,
+            "rarity": "Rare",
+            "effect": [
+                "When you play this card, search your deck. You may put up to 3 Characters from your deck into play. Then shuffle your deck.  At the end of each of your turns, discard 1 of your Characters from play."
+            ],
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "10",
+            "name": "Hermione, S.P.E.W. Founder",
+            "artist": "Alex Worthen",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Witch",
+                "Gryffindor",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘“Elf enslavement goes back centuries. I can’t believe no one’s done anything about it before now.”’ — Hermione Granger",
+            "effect": [
+                "If Hermione, S.P.E.W. Founder is your starting Character, before drawing your starting hand, you may search your deck for a non-Wizard or Witch Character card and put it into play."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "11",
+            "name": "Igor Karkaroff",
+            "artist": "Steve VanderArk",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard",
+                " Dark",
+                "Durmstrang",
+                "Headmaster",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘... he was tall and thin like Dumbledore, but his white hair was short, and his goatee (finishing in a small curl) did not entirely hide his weak chin.’",
+            "effect": [
+                "The first time you take damage each turn, you take 3 less damage."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "12",
+            "name": "Imperius Curse",
+            "artist": "Natello",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Dark",
+                "Unique"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 6,
+            "rarity": "Rare",
+            "flavorText": "‘“Total control,” said Moody quietly as the spider balled itself up and began to roll over and over.’",
+            "effect": [
+                "When you play this card, choose an opponent's Character in play (except their starter Character) and take control of it while this card is in play."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "13",
+            "name": "Lee's Tarantula",
+            "artist": "ToscaSam",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Spider",
+                "Unique"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 4,
+            "rarity": "Rare",
+            "dmgEachTurn": 2,
+            "health": 2,
+            "effect": [
+                "When this card is put into your discard pile from anywhere, put a Spider not named Lee's Tarantula from your discard pile into your hand."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "14",
+            "name": "Living Room Explosion",
+            "artist": "Unknown",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 8,
+            "rarity": "Rare",
+            "flavorText": "‘The electric fire shot across the room as the boarded-up fireplace burst outward ...’",
+            "effect": [
+                "Return all Items, Events, and Locations from play to their owner's hands"
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "15",
+            "name": "Love Potion",
+            "artist": "Paolo Maria Breda",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 12,
+            "rarity": "Rare",
+            "effect": [
+                "Prevent all damage done to you.  Before your turn, discard this card from play."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "16",
+            "name": "Madame Olympe Maxine",
+            "artist": "Paolo Maria Breda",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Witch",
+                "Beauxbaton",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "effect": [
+                "The first time you play a Spell that does no damage during each of your turns, do 3 damage to an opponent."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "17",
+            "name": "Melted Cauldron",
+            "artist": "ARHDian",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 8,
+            "rarity": "Rare",
+            "effect": [
+                "Your opponent chooses 1 of their Items or Events in play and discards it. Then they take damage equal to that card's printed Power cost. You may discard 1 of your [P] Lessons from play to repeat this effect."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "18",
+            "name": "Pensieve",
+            "artist": "Unknown",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 4,
+            "rarity": "Rare",
+            "effect": [
+                "You may use an Action to put any number of cards from your hand under this card facedown. If you do, draw that many cards. You may play cards under this card as if they were in your hand."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "19",
+            "name": "Perfumed Fire",
+            "artist": "Vladislav Pantic",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Divination"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 9,
+            "rarity": "Rare",
+            "flavorText": "‘He sat up straight; he had been almost dozing off, lost in the heat and his thoughts.’",
+            "effect": [
+                "Each player chooses 3 of their non-Healing cards in play and puts them on top of their owner's deck in any order. (If they have less than 3 cards in play, they put all of them on the top of their deck.)"
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "20",
+            "name": "Poliakoff",
+            "artist": "Lul-lulla",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard",
+                "Durmstrang",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘“I notice you have dribbled food all the way down the front of your robes again, disgusting boy —”’ — Professor Igor Karkaroff",
+            "effect": [
+                "Whenever your opponent plays a Creature, you may do 1 damage to it."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "21",
+            "name": "Rita Skeeter",
+            "artist": "Brenna-Ivy Art",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Witch",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘Attractive blonde Rita Skeeter, forty-three, whose savage quill has punctured many inflated reputations —’ — Rita Skeeter",
+            "effect": [
+                "Once per turn, you may use an Action to count the number of your other Unique cards in play. Do that much damage to an opponent."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "22",
+            "name": "Rita's Surveillance",
+            "artist": "Unknown",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Healing"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 6,
+            "rarity": "Rare",
+            "effect": [
+                "Choose an opponent's Character in play with a \"Once per game\" or \"Once per turn\" ability (even if that ability is already used). Use that ability without using any Actions."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "23",
+            "name": "Unicorn Foals",
+            "artist": "TheCrookedSeptum",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Unicorn"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 3,
+            "rarity": "Uncommon",
+            "health": 3,
+            "effect": [
+                "Reveal the card you draw during your draw step. If it is a Lesson card, you get 1 more Action this turn."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "24",
+            "name": "Weasley's Grandfather Clock",
+            "artist": "Kimhoppy",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 11,
+            "rarity": "Rare",
+            "effect": [
+                "This card needs 2 less Power to play for each of your Weasley cards in play.  Before each of your turns, you may look at the top 5 cards of your deck. You may put 1 of them into your hand, then shuffle the rest into your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "25",
+            "name": "Weatherby",
+            "artist": "Brenna-Ivy Art",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Ministry",
+                "Wizard",
+                "Unique"
+            ],
+            "rarity": "Rare",
+            "flavorText": "‘“I’ve left young Weatherby in charge ... Very enthusiastic ... a little \toverenthusiastic, if truth be told ...”’ — Bartemius Crouch, Sr.",
+            "effect": [
+                "Once during each of your turns, you may play a card beginning with the same letter as a card an opponent played last turn without using any Actions."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "26",
+            "name": "Wiggenweld Potion",
+            "artist": "TheCrookedSeptum",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Healing"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 10,
+            "rarity": "Rare",
+            "effect": [
+                "You may use an Action and discard this card from play to shuffle up to 13 non-Healing cards from your discard pile into your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "27",
+            "name": "World Cup Tickets",
+            "artist": "sachiko2189",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 2,
+            "rarity": "Rare",
+            "effect": [
+                "Play this card only if there is not a Match in play.  Search your deck. You may take a Quidditch Match from your deck and put it into play. Then shuffle your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "28",
+            "name": "A Guide to Advanced Transfiguration",
+            "artist": "andrada-art",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Book"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "Before your turn, you may dicard this card from play. If you do, choose an opponent's card in play that did damage last turn. Discard that card from play."
+            ],
+            "provides": [
+                {
+                    "lesson": "Transfiguration",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "29",
+            "name": "Banned Item List",
+            "artist": "seervidae",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 3,
+            "rarity": "Uncommon",
+            "effect": [
+                "Your opponents' cards with a printed Power cost need 1 more Power to play."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "30",
+            "name": "Beauxbaton's Carriage",
+            "artist": "TheCrookedSeptum",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 4,
+            "rarity": "Rare",
+            "effect": [
+                "When you play this card, you may search your deck for a Witch or Wizard card, reveal it, and put it into your hand. Then shuffle your deck.  Before your turn, you may discard this card from play. If you do, until the end of your turn, Character cards require 1 fewer Action to play."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "31",
+            "name": "Blackboard Ingredients",
+            "artist": "CaribbeanBlue",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "flavorText": "‘... Snape had turned his back on them to write up the ingredients of today’s potion on the blackboard ...’",
+            "effect": [
+                "Search your deck. You may take up to 3 different Ingredient cards, reveal them, put them in your hand, and then shuffle your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "32",
+            "name": "Blast-Ended Skrewts",
+            "artist": "maryquize",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Manticore",
+                "Crab"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 9,
+            "rarity": "Uncommon",
+            "flavorText": "‘Ten feet long, it looked more like a giant scorpion than anything.’",
+            "dmgEachTurn": 8,
+            "health": 3,
+            "effect": [
+                "When you play this card, do 3 damage to 1 of your Creatures in play."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "33",
+            "name": "Broom Flying Practice",
+            "artist": "GeoCaecias",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 1,
+            "rarity": "Uncommon",
+            "flavorText": "‘““Hang on, I’ll get my Firebolt.”’ — Harry Potter",
+            "effect": [
+                "Whenever you win a Match by completing it's \"To Win,\" you get 1 more Action this turn."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "34",
+            "name": "Durmstrang Ship",
+            "artist": "Chapet",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Durmstrang",
+                "Unique"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 6,
+            "rarity": "Uncommon",
+            "effect": [
+                "When you play this card, you may take a non-Healing Wizard or Witch card from your discard pile and put it into your hand.  Before your turn, you may discard this card from play. If you do, choose a non-Healing Character in play and put it on the bottom of its owner's deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "35",
+            "name": "Electric Fireplace",
+            "artist": "aeshar",
+            "type": [
+                "Location"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "flavorText": "‘“Eclectic, you say? With a plug?”’ — Arthur Weasley",
+            "effect": [
+                "Any player may use an Action to discard an Adventure in play."
+            ],
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+        },
+        {
+            "Legality": "legal",
+            "number": "36",
+            "name": "Favour to Dumbledore",
+            "artist": "Alexlapiz",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 7,
+            "rarity": "Rare",
+            "flavorText": "‘“Yeah, I’m staying just the one year ... and then back to my quiet retirement.”’ — Professor Alastor Moody",
+            "effect": [
+                "To play this card, discard 1 of your [P] Lessons from play. Search your deck for a Wizard or Witch card and put it into play."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "37",
+            "name": "Fertiliser from Norway",
+            "artist": "Unknown",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "Your [F] Lessons provide [F][F] instead of [F]. At the end of each of your turns, if you played another non-Lesson card, discard this card or 1 of your [F] Lessons from play."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "38",
+            "name": "Foe Glass",
+            "artist": "Laura Freeman",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "Opponents cannot use more than 1 Action to play cards during their turn unless you used more than 1 Action during your last turn (even the turn this card leaves play)."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "39",
+            "name": "Gladrags Wizardwear",
+            "artist": "Zanariya",
+            "type": [
+                "Location"
+            ],
+            "subTypes": [
+                "Hogsmeade",
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 8,
+            "rarity": "Uncommon",
+            "flavorText": "‘... they had fun selecting the most lurid socks they could find ...’",
+            "effect": [
+                "Whenever a card does damage, it does 2 less damage."
+            ],
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+        },
+        {
+            "Legality": "legal",
+            "number": "40",
+            "name": "Kitchen House Elves",
+            "artist": "Unknown",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "House-elf",
+                "Healing"
+            ],
+            "rarity": "Uncommon",
+            "flavorText": "‘Instantly, about six house-elves came trotting up behind him, bearing a large silver tray laden with a teapot ...’",
+            "effect": [
+                "At the end of each of your turns, you may put up to 2 non-Healing cards from your discard pile on the bottom of your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "41",
+            "name": "Krum's Jealousy",
+            "artist": "Fukari",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "flavorText": "‘“I vant to know vot there is between you and Hermy-own-ninny.”’ — Viktor Krum",
+            "effect": [
+                "When you play this card or any player plays a Character, you may choose an opponent. They discard a card from their hand."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "42",
+            "name": "Madness of Mr. Crouch",
+            "artist": "glockgal",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 8,
+            "rarity": "Uncommon",
+            "flavorText": "‘Mr. Crouch’s eyes were bulging. He stood staring at the tree, muttering soundlessly at it.’",
+            "effect": [
+                "Choose an opponent. They reveal their hand and discard 2 non-Lesson cards from their hand, then take damage equal to the discarded cards' combined printed Power cost."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "43",
+            "name": "Magical Water Plants of the Mediterranean",
+            "artist": "Nimphradora",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Book"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "During your turn, you may discard this card from play. If you do, remove all damage counters from all of your Creatures."
+            ],
+            "provides": [
+                {
+                    "lesson": "Care of Magical Creatures",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "44",
+            "name": "Moody's Eye",
+            "artist": "m0ni0s",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "effect": [
+                "Play with the top card of your deck revealed. You may play Spells from the top of your deck as if they were in your hand."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "45",
+            "name": "Moody's Hip Flask",
+            "artist": "Galchi",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 6,
+            "rarity": "Uncommon",
+            "effect": [
+                "You may use an Action to discard this card and 1 of your Characters from play. If you do, put a Character from your hand into play."
+            ],
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "46",
+            "name": "Nightmare",
+            "artist": "HogwartsHorror",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Dark"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "flavorText": "‘Harry lay flat on his back, breathing hard as though he had been running.’",
+            "effect": [
+                "Search your deck. You may choose up to 2 cards from your deck and discard them. Then shuffle your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "47",
+            "name": "Orchard Pitch",
+            "artist": "NestorUst",
+            "type": [
+                "Location"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "effect": [
+                "Once during each player's turn, when they use an Action to play a Quidditch card, they may search their deck for a Q Lesson and put it into play, then shuffle their deck."
+            ],
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+        },
+        {
+            "Legality": "legal",
+            "number": "48",
+            "name": "Overhearing a Conversation",
+            "artist": "HogwartsHorror",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Uncommon",
+            "flavorText": "‘He seemed so determined that nobody should hear what he was saying ...’",
+            "effect": [
+                "Your opponent can't play Events.",
+                "to solve: Your opponent chooses 4 Event cards in their hand and discards them.",
+                "reward: Your opponent may put a non-Healing Character card from their discard pile into their hand."
+            ],
+            "toSolve": "Your opponent chooses 4 Event cards in their hand and discards them.",
+            "reward": "Your opponent may put a non-Healing Character card from their discard pile into their hand."
+        },
+        {
+            "Legality": "legal",
+            "number": "49",
+            "name": "Owl Treats",
+            "artist": "Pottermore",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "effect": [
+                "Whenever you play an Owl, you may use that Owl's \"When you play this card\" ability again."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "50",
+            "name": "Padfoot's Refuge",
+            "artist": "Unknown",
+            "type": [
+                "Location"
+            ],
+            "subTypes": [
+                "Marauder",
+                "Unique"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 3,
+            "rarity": "Uncommon",
+            "effect": [
+                "The first time a Creature leaves play each turn, their controller may put a non-Advanced Lesson from their discard pile into play."
+            ],
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+        },
+        {
+            "Legality": "legal",
+            "number": "51",
+            "name": "Percy's Admiration",
+            "artist": "Noe-Izumi",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Uncommon",
+            "flavorText": "‘“Mr. Crouch!” said Percy breathlessly, sunk into a kind of half-bow that made him look like a hunchback.’",
+            "effect": [
+                "Your opponent cannot play cards with greater printed Power cost than the number of Lessons they have in play.",
+                "to solve: Your opponent discards their hand.",
+                "reward: Your opponent may put a Lesson from their discard pile into play."
+            ],
+            "toSolve": "Your opponent discards their hand.",
+            "reward": "Your opponent may put a Lesson from their discard pile into play."
+        },
+        {
+            "Legality": "legal",
+            "number": "52",
+            "name": "Planetary Divination",
+            "artist": "TheCrookedSeptum",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Divination"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 9,
+            "rarity": "Rare",
+            "effect": [
+                "Count the number of Divination cards in your discard pile. Look at that many cards on the top of your opponent's deck, then put them back on the top and/or bottom of their deck in any order."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "53",
+            "name": "Quidditch Teams of Britain and Ireland",
+            "artist": "Picolo-kun",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Book"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "Whenever one of your Q Spells does damage, you may discard this card from play. If you do, it does 5 more damage."
+            ],
+            "provides": [
+                {
+                    "lesson": "Quidditch",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "54",
+            "name": "Resurgence of the Dark Mark",
+            "artist": "Natteshub",
+            "type": [
+                "Adventure"
+            ],
+            "rarity": "Uncommon",
+            "flavorText": "‘“Do you see? It’s never been this clear, never since —”’ — Professor Igor Karkaroff",
+            "effect": [
+                "Cards cannot be played from or leave your opponent's discard pile.",
+                "to solve: Your opponent skips a total of 5 Actions.",
+                "reward: Your opponent may choose 1 of your cards in play and discard it."
+            ],
+            "toSolve": "Your opponent skips a total of 5 Actions.",
+            "reward": "Your opponent may choose 1 of your cards in play and discard it."
+        },
+        {
+            "Legality": "legal",
+            "number": "55",
+            "name": "Riddle House",
+            "artist": "Unknown",
+            "type": [
+                "Location"
+            ],
+            "subTypes": [
+                "Dark"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 5,
+            "rarity": "Rare",
+            "flavorText": "‘Once a fine-looking manor ... the Riddle House was now damp, derelict, and unoccupied. ’",
+            "effect": [
+                "Players cannot search their decks."
+            ],
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+        },
+        {
+            "Legality": "legal",
+            "number": "56",
+            "name": "Ron's Jealousy",
+            "artist": "clockworkparadox",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "flavorText": "‘Ron mouthed soundlessly like a goldfish out of water ...’",
+            "effect": [
+                "When you play this card or an opponent draws a card other than during their draw step, you may draw a card."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "56",
+            "name": "Skeeter's Scoop",
+            "artist": "TeenyTinaTena",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "effect": [
+                "When you play this card, secretly write down the name of a non-Lesson card. If an opponent plays that card, you may reveal what you wrote down. If you do, you may search your deck, take any card from your deck and put it into your hand, then shuffle your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "58",
+            "name": "Slanderous Article",
+            "artist": "Unknown",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 3,
+            "rarity": "Uncommon",
+            "flavorText": "‘“The Daily Prophet, however, has unearthed worrying facts about Harry Potter ...”’ — Rita Skeeter",
+            "effect": [
+                "Look at an opponent's hand. Discard all Unique cards from it."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "59",
+            "name": "Stinging Scar",
+            "artist": "HogwartsHorror",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Dark",
+                "Unique"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "flavorText": "‘The old scar ... was burning beneath his fingers as though someone had just pressed a white-hot wire to his skin.’",
+            "effect": [
+                "Whenever 1 or more cards leave an opponent's discard pile, do 5 damage to that opponent."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "60",
+            "name": "Tea with Moody",
+            "artist": "natello",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 6,
+            "rarity": "Uncommon",
+            "flavorText": "‘“Why don’t you come up to my office? Come on ... we can have a cup of tea ...”’ — Professor Alastor Moody",
+            "effect": [
+                "Look at the top 6 cards of your deck. Choose a card from among them and shuffle the rest back into your deck. You may play that card without using Actions. IF you don't, discard it."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "61",
+            "name": "The Dark Forces: A Guide to Self Protection",
+            "artist": "TheReallnsignation",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Book"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "When this card is discarded from play, choose an opponent. They choose 2 cards in their hand and discard them. (If they have fewer than 2 cards in their hand, they discard them all.)"
+            ],
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "62",
+            "name": "The Rise and Fall of the Dark Arts",
+            "artist": "m0in0s",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Book"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "When you play this card, do 2 damage to yourself. When this card is discarded from play, do 6 damage to an opponent."
+            ],
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "63",
+            "name": "Unplottable",
+            "artist": "ehprybylski",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "flavorText": "‘“Well, you can enchant a building so it’s impossible to plot on a map, can’t you?”’ — Hermione Granger",
+            "effect": [
+                "To play this card, discard 1 of your [P] Lessons from play. Locations cannot leave play. Players cannot play Location cards."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "64",
+            "name": "Wiggentree Bark",
+            "artist": "Isabellaha",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Healing",
+                "Ingredient"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 5,
+            "rarity": "Uncommon",
+            "effect": [
+                "When you play this card, put up to 4 non-Healing cards from your discard pile on the bottom of your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "65",
+            "name": "Wit-Sharpening Potion",
+            "artist": "Noxivis",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 4,
+            "rarity": "Rare",
+            "effect": [
+                "Before your turn, if you have Armadillo Bile in play, this card provides [P][P] until the end of the turn; if you have Ginger Root in play, draw a card; and if you have Scarab Beetle in play, do 2 damage to an opponent."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "66",
+            "name": "Wormtail's Torture",
+            "artist": "Necht",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 6,
+            "rarity": "Uncommon",
+            "flavorText": "‘Wormtail screamed, screamed as though every nerve in his body were on fire ...’",
+            "effect": [
+                "Do 8 damage to yourself. Do 10 damage to an opponent."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "67",
+            "name": "A Year of No Quidditch",
+            "artist": "Sara Ortega Ramirez",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 5,
+            "rarity": "Common",
+            "flavorText": "‘“It is also my painful duty to inform you that the Inter-House Quidditch Cup will not take place this year.”’ — Albus Dumbledore",
+            "effect": [
+                "Do 5 damage to an opponent. Your opponents' progress toward winning a Match cannot change until the beginning of your next turn."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "68",
+            "name": "Aggressive Dustbins",
+            "artist": "kaloyster",
+            "type": [],
+            "subTypes": [
+                "Creature Item",
+                "Dustbin"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 7,
+            "rarity": "Common",
+            "flavorText": "‘“Made one hell of a noise and fired rubbish everywhere ...”’ — Amos Diggory",
+            "dmgEachTurn": 3,
+            "health": 3,
+            "effect": [
+                "Before your turn, you may discard a card from your hand. If you do not, Aggressive Dustbins does no damage this turn."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "69",
+            "name": "Armadillo Bile",
+            "artist": "WisestProjectStudio",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Ingredient"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "effect": [
+                "The first time you discard a card from your hand or a card you control from play each turn, this card provides [P][P] until the end of the turn."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "70",
+            "name": "Baby Skrewts",
+            "artist": "HogwartsArt",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Manticore",
+                "Crab"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "flavorText": "‘They looked like deformed, shell-less lobsters, horribly pale and slimy-looking, with legs sticking out in very odd places and no visible heads.’",
+            "dmgEachTurn": 2,
+            "health": 2,
+            "effect": [
+                "When you play this card, choose 1 of your Creatures in play. Do 2 damage to it."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "71",
+            "name": "Bubotubers",
+            "artist": "maryquize",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Plant",
+                "Healing"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "flavorText": "‘“They need squeezing. You will collect the pus —”’ — Professor Pomona Sprout",
+            "dmgEachTurn": 1,
+            "health": 2,
+            "effect": [
+                "When you play this card, you may put up to 2 non-Healing cards from your discard pile on the bottom of your deck in any order."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "72",
+            "name": "Bubotuber Pus",
+            "artist": "Sosoppr97",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Healing"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "effect": [
+                "You may use an Action to discard this card from play. If you do, shuffle up to 4 non-Healing cards from your discard pile into your deck."
+            ],
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "73",
+            "name": "Canary Creams",
+            "artist": "Monique Hilario",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Candy"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "flavorText": "‘Just then, Neville caused a slight diversion by turning into a large canary.’",
+            "effect": [
+                "Choose an opponent. On their next turn, their first card they play requires 1 more Power to play. Then draw a card."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "74",
+            "name": "Defensive Flying",
+            "artist": "MagpieSly",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "effect": [
+                "Whenever you take damage, you may discard any number of cards from your hand. If you do, prevent twice that much damage."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "75",
+            "name": "Demonstration Spiders",
+            "artist": "Ito-Saith-Webb",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Spider"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 6,
+            "rarity": "Common",
+            "flavorText": "‘Moody jerked his wand, and the spider rose onto two of its hind legs and went into what was unmistakably a tap dance’",
+            "dmgEachTurn": 4,
+            "health": 4,
+            "effect": [
+                "Whenever an opponent plays a Spell, put 1 damage counter on this card."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "76",
+            "name": "Disturbed and Dangerous",
+            "artist": "basschel",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "flavorText": "‘“I told you! I told you not to annoy Rita Skeeter!”’ — Ron Weasley",
+            "effect": [
+                "Name a non-Lesson card. For every card of that name an opponent has in their discard pile, they take 2 damage."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "77",
+            "name": "Eagle Owl",
+            "artist": "teallatte",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Owl"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "dmgEachTurn": 1,
+            "health": 1,
+            "effect": [
+                "When you play this card, you may put a non-Healing Event card from your discard pile into your hand."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "78",
+            "name": "Empty Pitch",
+            "artist": "Ginly Lack",
+            "type": [
+                "Location"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 2,
+            "rarity": "Uncommon",
+            "flavorText": "‘“Don’t worry, you’ll have your Quidditch field back to normal once the task is over!”’ — Ludo Bagman",
+            "effect": [
+                "Whenever a player uses an Action to play a Lesson, they may discard a card from their hand. If they do, they draw a card."
+            ],
+            "note": "When you play this card, discard any other Location from play (yours or an opponent's)."
+        },
+        {
+            "Legality": "legal",
+            "number": "79",
+            "name": "Enchanted Tables",
+            "artist": "Pottermore",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 7,
+            "rarity": "Common",
+            "flavorText": "‘Bill’s table caught Charlie’s with a huge bang and knocked one of its legs off.’",
+            "effect": [
+                "Do 5 damage to an opponent. If you have at least 3 Items in play, instead do 9 damage to them."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "80",
+            "name": "Enough Stamps",
+            "artist": "Unknown",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 9,
+            "rarity": "Common",
+            "flavorText": "‘“The postman noticed,” he said with gritted teeth. “Very interested to know where this letter came from, he was.”’",
+            "effect": [
+                "Do 3 damage to an opponent or to a Creature of your choice. Do 3 damage to an opponent or to a Creature of your choice. Then draw 2 card."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "81",
+            "name": "Fake Predictions",
+            "artist": "Vladislav Pantic",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "flavorText": "‘“Aaaaah, when two Neptunes appear in the sky, it is a sure sign that a midget in glasses is being born ...”’ — Ron Weasley",
+            "effect": [
+                "Do 1 damage to yourself. Choose an opponent. They choose 1 of their cards in play and discard it."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "82",
+            "name": "Fire Crabs",
+            "artist": "maryquize",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Fire Crab"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 5,
+            "rarity": "Common",
+            "dmgEachTurn": 2,
+            "health": 4,
+            "effect": [
+                "The first time this card takes damage each turn, do 3 damage to each player."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "83",
+            "name": "Fizzing Whisbees",
+            "artist": "XxMortanixX",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Candy"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "flavorText": "... Fizzing Whizzbees, the levitating sherbet balls that Ron had mentioned ...'",
+            "effect": [
+                "Do 3 damage to an opponent. Then draw a card."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "84",
+            "name": "Flobberworm Mucus",
+            "artist": "Szyke",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Ingredient"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 1,
+            "rarity": "Common",
+            "effect": [
+                "You may use an Action to discard this card and Wiggentree Bark from play to search your deck. You may take a Wiggenweld Potion card from your deck and put it into play. Then shuffle your deck."
+            ],
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "85",
+            "name": "Forced Diet",
+            "artist": "Unknown",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "flavorText": "‘“My aunt found him smuggling doughnuts into his room yesterday.”’ — Harry Potter",
+            "effect": [
+                "Your opponents cannot play Candy cards."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "86",
+            "name": "Ginger Root",
+            "artist": "Unknown",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Ingredient"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "effect": [
+                "The first time you discard a card from your hand or a card you control from play each turn, draw a card."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "87",
+            "name": "Gobstones",
+            "artist": "Tamilia",
+            "type": [
+                "Match"
+            ],
+            "subTypes": [
+                "Game"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 1,
+            "rarity": "Common",
+            "flavorText": "‘... a wizarding game rather like marbles ...’",
+            "effect": [
+                "to win: Before your turn, have at least 6 different card types in play.",
+                "prize: Choose an opponent's card in play and return it to its owner's hand. Then do 3 damage to that opponent."
+            ],
+            "toWin": "Before your turn, have at least 6 different card types in play.",
+            "prize": "Choose an opponent's card in play and return it to its owner's hand. Then do 3 damage to that opponent."
+        },
+        {
+            "Legality": "legal",
+            "number": "88",
+            "name": "Head in the Fire",
+            "artist": "HogwartsHorror",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "flavorText": "‘Amos Diggory’s head was sitting in the middle of the flames like a large, bearded egg.’",
+            "effect": [
+                "Choose an opponent's Advanced Lesson in play and discard it."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "89",
+            "name": "Hermione's Meditation",
+            "artist": "Agatha Macpie",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 1,
+            "rarity": "Common",
+            "flavorText": "‘“You miss him!” Hermione said impatiently. “And I know he misses you —”’",
+            "effect": [
+                "Choose an opponent's Adventure in play. You get the reward."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "90",
+            "name": "House-elf Exploitation",
+            "artist": "Conor McMullin",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 7,
+            "rarity": "Common",
+            "effect": [
+                "Do 4 damage divided as you choose among any number of Creatures. If you have an [F] Lesson in play, you may choose a Creature in play and remove all damage counters from it."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "91",
+            "name": "Impedimenta!",
+            "artist": "Miuzza",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 7,
+            "rarity": "Common",
+            "flavorText": "‘“Should slow down anything that’s trying to attack you ...”’ — Hermione Granger",
+            "effect": [
+                "Choose an opponent. During their next turn, they get 1 fewer Action and they can't draw cards except during their draw step."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "92",
+            "name": "Ingredient Preparation",
+            "artist": "emmanuel7",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 6,
+            "rarity": "Common",
+            "flavorText": "He swept around in his long black cloak, watching them weigh dried nettles and crush snake fangs ...",
+            "effect": [
+                "Do 2 damage to an opponent or to a Creature of your choice. You may discard a card from your hand to do 2 damage to an opponent or to a Creature of your choice."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "93",
+            "name": "Laps around Hogwarts",
+            "artist": "Drew Winchester",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "effect": [
+                "Do 4 damage to an opponent. You may put a [Q] Lesson from your hand into play."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "94",
+            "name": "Moody Borrows the Map",
+            "artist": "i-am-mighty",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 5,
+            "rarity": "Common",
+            "flavorText": "‘“I can make good use of this ... this might be exactly what I’ve been looking for ...”’ — Professor Alastor Moody",
+            "effect": [
+                "Choose an Item or Event in play and discard it."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "95",
+            "name": "Normal Clothes",
+            "artist": "Ana Victoria Boa Sorte",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "effect": [
+                "Once per turn, you may prevent 1 damage done to you."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "96",
+            "name": "Off-Season Training",
+            "artist": "GeoCaecias",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 7,
+            "rarity": "Uncommon",
+            "effect": [
+                "Count the number of [Q] Lessons you have in play, then draw that many cards."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "97",
+            "name": "Padfoot Returns",
+            "artist": "Unknown",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "flavorText": "‘“I want to be on the spot. Your last letter ... well, let’s just say things are getting fishier.”’ — Sirius Black",
+            "effect": [
+                "Put a non-Healing Character card from your discard pile into your hand."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "98",
+            "name": "Plimpy",
+            "artist": "maryquize",
+            "type": [
+                "Creature"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "dmgEachTurn": 1,
+            "health": 2
+        },
+        {
+            "Legality": "legal",
+            "number": "99",
+            "name": "Report of Cauldron Thickness",
+            "artist": "IrenHorrors",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "flavorText": "‘He wasn’t looking forward to being lectured on cauldron bottoms all through dinner.’",
+            "effect": [
+                "Do 4 damage to an opponent. During that opponent's next turn, they may not use Actions to play Item cards."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "100",
+            "name": "Resentful Goodbye",
+            "artist": "Pen-umbra",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 5,
+            "rarity": "Common",
+            "effect": [
+                "Choose an opponent's Lesson in play and discard it. Then search your deck. You may take a Lesson card from your deck, reveal it, and put it into your hand. Then shuffle your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "101",
+            "name": "S.P.E.W. Button",
+            "artist": "oixxo",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "effect": [
+                "When you play this card, draw a card.  When any of your cards are discarded from play, you may discard this card. If you do, draw a card."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "102",
+            "name": "Scarab Beetle",
+            "artist": "oixxo",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Beetle",
+                "Ingredient"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 1,
+            "rarity": "Common",
+            "flavorText": "Harry continued to pound his scarab beetles...'",
+            "health": 1,
+            "effect": [
+                "The first time you discard a card from your hand or a card you control from play each turn, you may do 1 damage to an opponent."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "103",
+            "name": "Seeing the Unseen",
+            "artist": "Amelie S. Lebel",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Transfiguration"
+            ],
+            "cost": 10,
+            "rarity": "Common",
+            "flavorText": "‘Harry’s heart gave a horrible jolt. Moody could see through Invisibility Cloaks ...’",
+            "effect": [
+                "Choose an opponent's card in play and return it to its owner's hand. That opponent reveals their hand. Choose up to 2 cards in their hand and discard them."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "104",
+            "name": "Snowy Owl",
+            "artist": "maryquize",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Owl"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "dmgEachTurn": 1,
+            "health": 1,
+            "effect": [
+                "When you play this card, you may discard 1 of your [F] Lessons from play. If you do, you may choose a Location card from your discard pile and put it into your hand."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "105",
+            "name": "Squid Tentacles",
+            "artist": "Ashley Livolski",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Squid"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 6,
+            "rarity": "Common",
+            "flavorText": "‘“... something in the water grabbed me and pushed me back in the boat!”’ — Dennis Creevey",
+            "dmgEachTurn": 2,
+            "health": 3,
+            "effect": [
+                "When you play this card or when this card is discarded from play, you may put a [P] Lesson from your hand or discard pile into play."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "106",
+            "name": "Sugar-Free Candy",
+            "artist": "DigitalCutti",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 1,
+            "rarity": "Common",
+            "flavorText": "Hermione's parents were dentists.'",
+            "effect": [
+                "You may choose one of your cards in play and discard it. Draw a card.  (Sugar-Free Candy isn't really a Candy.)"
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "107",
+            "name": "Tebo",
+            "artist": "maryquize",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Tebo"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 9,
+            "rarity": "Common",
+            "dmgEachTurn": 5,
+            "health": 6
+        },
+        {
+            "Legality": "legal",
+            "number": "108",
+            "name": "The Standard Book of Spells, Grade 4",
+            "artist": "colgreyis",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Book"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 4,
+            "rarity": "Uncommon",
+            "effect": [
+                "When you play this card, you may put a non-Advanced Lesson from your discard pile into play."
+            ],
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "109",
+            "name": "Tickled Pear",
+            "artist": "emmanuel7",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Healing"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 4,
+            "rarity": "Common",
+            "flavorText": "‘It began to squirm, chuckling, and suddenly turned into a large green door handle.’",
+            "effect": [
+                "Choose up to 5 non-Healing cards in your discard pile and shuffle them into your deck. If you have a [C] Lesson in play, draw 2 cards."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "110",
+            "name": "Ton-Tongue Toffee",
+            "artist": "enilorak",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Candy"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": 3,
+            "rarity": "Common",
+            "flavorText": "‘“It was four feet long before his parents would let me shrink it!”’ — Arthur Weasley",
+            "effect": [
+                "Until your next turn, opponents cannot use Actions to play Adventures. Draw a card."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "111",
+            "name": "Tresspasser in the Riddle House",
+            "artist": "HogwartsHorror",
+            "type": [
+                "Spell"
+            ],
+            "subTypes": [
+                "Dark"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "flavorText": "‘Standing at the sink, filling the kettle, he looked up at the Riddle House and saw lights glimmering in its upper windows.’",
+            "effect": [
+                "Do 4 damage to yourself. Choose an opponent's card in play and return it to their hand."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "112",
+            "name": "Tropical Birds",
+            "artist": "WardaAbir",
+            "type": [
+                "Creature"
+            ],
+            "subTypes": [
+                "Bird"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 1,
+            "rarity": "Uncommon",
+            "flavorText": "‘Hedwig had not approved of these flashy intruders ...’",
+            "health": 1,
+            "effect": [
+                "Before each of your turns, choose a Lesson type. This card provides 1 Power of that type until the end of your turn."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "113",
+            "name": "Turbulent Flight",
+            "artist": "Alivewhenever",
+            "type": [
+                "Spell"
+            ],
+            "lesson": [
+                "Quidditch"
+            ],
+            "cost": 6,
+            "rarity": "Uncommon",
+            "flavorText": "‘Full of fresh determination, he urged his broom through the turbulent air ...’",
+            "effect": [
+                "Do 4 damage to an opponent. If you have a [T] Lesson in play, choose a card type. That opponent chooses a card of that type they control and discards it."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "114",
+            "name": "Wheezes Order Form",
+            "artist": "JoAnnBlack",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": 1,
+            "rarity": "Uncommon",
+            "effect": [
+                "Whenever you play a Spell, you may put a card from your hand on the bottom of your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "115",
+            "name": "Weekly Zoological Column",
+            "artist": "ragweed",
+            "type": [
+                "Item"
+            ],
+            "lesson": [
+                "Care of Magical Creatures"
+            ],
+            "cost": 2,
+            "rarity": "Common",
+            "effect": [
+                "Whenever you play a Creature card, you may reveal the top 2 cards of your deck. You may put a Lesson card from among them into play, then discard the rest."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "116",
+            "name": "Alchemy, Third Year",
+            "artist": "daimoc-art",
+            "type": [
+                "Lesson"
+            ],
+            "subTypes": [
+                "Advanced"
+            ],
+            "rarity": "Common",
+            "effect": [
+                "Before your turn, discard this card from play. If you do, you may search your deck for a [P] or [T] Lesson and put it into play. Then shuffle your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "117",
+            "name": "Astronomy, Third Year",
+            "artist": "RaggedVixen",
+            "type": [
+                "Lesson"
+            ],
+            "subTypes": [
+                "Advanced"
+            ],
+            "rarity": "Common",
+            "effect": [
+                "Before your turn, discard this card from play. If you do, you may search your deck for a [Q] or [T] Lesson and put it into play. Then shuffle your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "118",
+            "name": "Defense Against the Dark Arts, Third Year",
+            "artist": "BlueFoxStudios",
+            "type": [
+                "Lesson"
+            ],
+            "subTypes": [
+                "Advanced"
+            ],
+            "rarity": "Common",
+            "effect": [
+                "Before your turn, discard this card from play. If you do, you may search your deck for a [F] or [C] Lesson and put it into play. Then shuffle your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "119",
+            "name": "Divinatino, Third Year",
+            "artist": "EliRove",
+            "type": [
+                "Lesson"
+            ],
+            "subTypes": [
+                "Advanced"
+            ],
+            "rarity": "Common",
+            "effect": [
+                "Before your turn, discard this card from play. If you do, you may search your deck for a [C] or [P] Lesson and put it into play. Then shuffle your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "120",
+            "name": "Flying, Third Year",
+            "artist": "varaikalam",
+            "type": [
+                "Lesson"
+            ],
+            "subTypes": [
+                "Advanced"
+            ],
+            "rarity": "Common",
+            "effect": [
+                "Before your turn, discard this card from play. If you do, you may search your deck for a [F] or [Q] Lesson and put it into play. Then shuffle your deck."
+            ]
+        }
+    ]
+}
