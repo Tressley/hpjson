@@ -328,10 +328,10 @@
             "lesson": [
                 "Potions"
             ],
-            "cost": 8,
+            "cost": 9,
             "rarity": "Rare",
             "effect": [
-                "Your opponent chooses 1 of their Items or Events in play and discards it. Then they take damage equal to that card's printed Power cost. You may discard 1 of your [P] Lessons from play to repeat this effect."
+                "Discard 1 of your [P] Lessons from play, then choose an opponent. They choose 1 of their Items or Events from play and discard it. Then they take damage equal to that card's printed Power cost. You may repeat this effect."
             ]
         },
         {
@@ -895,7 +895,7 @@
             "effect": [
                 "You may use an Action to discard this card and 1 of your Characters from play. If you do, put a Character from your hand into play."
             ],
-            "provides": [
+                        "provides": [
                 {
                     "lesson": "Potions",
                     "amount": 1
@@ -1053,9 +1053,9 @@
             "cost": 5,
             "rarity": "Uncommon",
             "effect": [
-                "Whenever one of your Q Spells does damage, you may discard this card from play. If you do, it does 5 more damage."
+                "When you use an Action to play a Quidditch Spell, you may discard this card from play. If you do, that Spell does 5 more damage."
             ],
-            "provides": [
+                        "provides": [
                 {
                     "lesson": "Quidditch",
                     "amount": 2
@@ -1198,7 +1198,7 @@
             "rarity": "Uncommon",
             "flavorText": "‘“Why don’t you come up to my office? Come on ... we can have a cup of tea ...”’ — Professor Alastor Moody",
             "effect": [
-                "Look at the top 6 cards of your deck. Choose a card from among them and shuffle the rest back into your deck. You may play that card without using Actions. IF you don't, discard it."
+                "Look at the top 6 cards of your deck. You may choose a card from among them and shuffle the rest back into your deck. Play that card without using any Actions."
             ]
         },
         {
@@ -1220,7 +1220,7 @@
             "effect": [
                 "When this card is discarded from play, choose an opponent. They choose 2 cards in their hand and discard them. (If they have fewer than 2 cards in their hand, they discard them all.)"
             ],
-            "provides": [
+                        "provides": [
                 {
                     "lesson": "Charms",
                     "amount": 2
@@ -1249,7 +1249,7 @@
             "provides": [
                 {
                     "lesson": "Potions",
-                    "amount": 1
+                    "amount": 2
                 }
             ]
         },
@@ -1796,7 +1796,7 @@
         {
             "Legality": "legal",
             "number": "89",
-            "name": "Hermione's Meditation",
+            "name": "Hermione's Mediation",
             "artist": "Agatha Macpie",
             "type": [
                 "Spell"
