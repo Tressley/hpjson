@@ -170,7 +170,7 @@
             "cost": 11,
             "rarity": "Rare",
             "effect": [
-                "When you play this card, search your deck. You may put up to 3 Characters from your deck into play. Then shuffle your deck.  At the end of each of your turns, discard 1 of your Characters from play."
+                "When you play this card, search your deck. Put up to 3 Wizard or Witch Characters from your deck into play. Then shuffle your deck.  At the end of each of your turns, discard 1 of your Characters from play."
             ],
             "provides": [
                 {
@@ -1120,7 +1120,7 @@
             "rarity": "Uncommon",
             "flavorText": "‘Ron mouthed soundlessly like a goldfish out of water ...’",
             "effect": [
-                "When you play this card or an opponent draws a card other than during their draw step, you may draw a card."
+                "When you play this card or an opponent draws 1 or more cards during their turn other than during their draw step, you may draw a card."
             ]
         },
         {
