@@ -248,7 +248,7 @@
             "cost": 15,
             "rarity": "Rare",
             "effect": [
-                "This card costs 2 less Power to play for every Beater, Chaser, Keeper and Seeker you have in play. Do 8 damage to an opponent. Then they choose 2 of their cards in play and discard them."
+                "This card needs 2 less Power to play for every Beater, Chaser, Keeper and Seeker you have in play. Do 8 damage to an opponent. Then they choose 2 of their cards in play and discard them."
             ]
         },
         {
@@ -606,7 +606,7 @@
             "cost": 3,
             "rarity": "Uncommon",
             "effect": [
-                "When you play this card, discard 4 cards from your hand. You may discard 1 less card for every Power you have above 3.  Your opponents cannot play Adventures or Events."
+                "To this card, discard 4 cards from your hand. You may discard 1 less card for every Power you have above 3.  Your opponents cannot play Adventures or Events."
             ]
         },
         {
@@ -1000,7 +1000,7 @@
             "cost": 7,
             "rarity": "Uncommon",
             "effect": [
-                "You may play this card without using an Action if you have won a Match this turn. You get 2 more Actions this turn. You may only play 1 Victory Party each turn."
+                "You may play this card without using any Actions if you have won a Match this turn. You get 2 more Actions this turn. You may only play 1 Victory Party each turn."
             ]
         },
         {
@@ -1450,7 +1450,7 @@
             "cost": 2,
             "rarity": "Common",
             "effect": [
-                "Choose two of the following, then shuffle this card into your deck:  Look at the top 2 cards of an opponent's deck, then put them back in any order.  Prevent the next 1 damage you would take on an opponent's next turn.  An opponent discards a card from their hand."
+                "Choose 2, then shuffle this card into your deck:  Look at the top 2 cards of an opponent's deck, then put them back in any order.  Prevent the next 1 damage you would take on an opponent's next turn.  An opponent discards a card from their hand."
             ]
         },
         {
@@ -1499,7 +1499,7 @@
             "rarity": "Common",
             "flavorText": "‘He slithered between the battering branches like a snake and placed his front paws upon a knot on the trunk.’",
             "effect": [
-                "Do 4 damage to an opponent. During that opponent's next turn, they can't use Actions to play Creatures."
+                "Do 4 damage to an opponent. During that opponent's next turn, they can't use Actions to play Creature cards."
             ]
         },
         {

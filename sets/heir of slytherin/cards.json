@@ -59,7 +59,7 @@
             "rarity": "Rare",
             "artist": "Elbarien",
             "effect": [
-                "At the end of each of your turns, if you played a Gryffindor, Hufflepuff, Ravenclaw, or Slytherin card, you may draw a card or do 2 damage to an opponent."
+                "Whenever you use an Action to play a Gryffindor, Hufflepuff, Ravenclaw, or Slytherin card, you may draw a card or do 2 damage to an opponent."
             ]
         },
         {
@@ -76,7 +76,7 @@
             "rarity": "Rare",
             "artist": "Vladislav Pantic",
             "effect": [
-                "Choose an opponent. On their next turn, they gain 1 more Action. On your next turn, you gain 2 more Actions."
+                "Choose an opponent. On their next turn, they get 1 more Action. On your next turn, you get 2 more Actions."
             ]
         },
         {
@@ -198,7 +198,7 @@
             "rarity": "Rare",
             "artist": "Hilda Lara",
             "effect": [
-                "Choose an opponent. During their next turn, prevent all damage done to you by their Creatures. Until the beginning of your next turn, if one of their Creatures takes damage, discard that Creature."
+                "Choose an opponent. During their next turn, prevent all damage done to you by their Creatures. Until the beginning of your next turn, if 1 of their Creatures takes damage, discard that Creature."
             ]
         },
         {
@@ -792,7 +792,7 @@
             "rarity": "Uncommon",
             "artist": "Liam Cleal",
             "effect": [
-                "Whenever you play a Seeker, Beater, Keeper, or Chaser Character, you use up 1 Action to play it instead of 2. During your turn, you may discard this card from play. If you do, put a non-Healing Seeker, Beater, Keeper, or Chaser from your discard pile into your hand."
+                "Your Beaters, Chasers, Keepers, and Seekers need 1 fewer Action to play. (If this means you would use fewer than 1 Action, you still use 1 Action.)"
             ]
         },
         {
