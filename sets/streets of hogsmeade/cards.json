@@ -65,7 +65,7 @@
             "rarity": "Rare",
             "artist": "ZeldaPitwick66",
             "effect": [
-                "Whenever a player uses an Action to play a Candy card from their hand, they may play another Candy card from their discard pile without using an Action."
+                "Whenever a player uses any Actions to play a Candy card from their hand, they may play another Candy card from their discard pile without using any Actions."
             ]
         },
         {
@@ -225,7 +225,7 @@
             ],
             "rarity": "Common",
             "effect": [
-                "To play this card, choose one of your Items in play. This card requires less Power to play equal to the chosen Item's printed Power cost. When you play this card, discard the chosen Item from play. Then, draw a card."
+                "To play this card, choose 1 of your Items in play. This card requires less Power to play equal to the chosen Item's printed Power cost. When you play this card, discard the chosen Item from play. Then, draw a card."
             ]
         },
         {

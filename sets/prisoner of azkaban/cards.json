@@ -42,7 +42,7 @@
             "flavorText": "'The fortress is set on a tiny island, way out to sea, but they don’t need walls and water to keep the prisoners in ...' — Professor Remus Lupin",
             "note": "When you play this card, discard any other Location from play (yours or your opponent's).",
             "effect": [
-                "When you play this card, choose a non-Lesson card type. When any player uses an Action to play a card of the chosen type, they use 1 more Action to play that card."
+                "When you play this card, choose a non-Lesson card type. Cards of the chosen type need 1 more Action to play."
             ]
         },
         {
@@ -217,7 +217,7 @@
             "flavorText": "It was nearly midnight, and he was lying on his stomach in bed, the blankets drawn right over his head like a tent, a flashlight in one hand ...",
             "note": "Play this card only if you have at least 4 Lessons in play.",
             "effect": [
-                "Before each of your opponent's turns, you may choose one of their Lessons in play. Return it to its owner's hand.",
+                "Before each of your opponent's turns, you may choose 1 of their Lessons in play. Return it to its owner's hand.",
                 "to solve: Your opponent takes 10 damage.",
                 "reward: Until the end of their turn, your opponent may play 1 non-Healing card in their discard pile as if it were in their hand."
             ],
@@ -789,7 +789,7 @@
                 "Care of Magical Creatures"
             ],
             "effect": [
-                "Search your deck. You may take a Plant from your deck with printed Power cost less than or equal to your current Power, reveal it, and put it into play. Then shuffle your deck."
+                "Search your deck. You may take a Plant from your deck with printed Power cost less than or equal to your current Power and put it into play. Then shuffle your deck."
             ]
         },
         {
@@ -961,7 +961,7 @@
                 "Transfiguration"
             ],
             "effect": [
-                "When you play this card, name a non-Lesson card. When any player uses an Action to play the named card, they use 1 more Action to play that card."
+                "When you play this card, name a non-Lesson card. The named card needs 1 more Action to play."
             ]
         },
         {
@@ -1246,7 +1246,7 @@
                 "Marauder"
             ],
             "effect": [
-                "To play this card, discard 3 cards from your hand. Search your deck. You may put up to 2 Lessons from your deck into play. Then shuffle your deck."
+                "To play this card, discard 3 other cards from your hand. Search your deck. You may put up to 2 Lessons from your deck into play. Then shuffle your deck."
             ]
         },
         {
@@ -1333,7 +1333,7 @@
                 "Charms"
             ],
             "effect": [
-                "Choose two of the following, then shuffle this card into your deck: Do 1 damage to an opponent. Look at an opponent’s hand. Draw a card."
+                "Choose 2, then shuffle this card into your deck: Do 1 damage to an opponent. Look at an opponent’s hand. Draw a card."
             ]
         },
         {
