@@ -1,6 +1,5 @@
 {
     "setName": "Quidditch World Finals",
-    "releaseDate": "06-2025",
     "totalCards": "11",
     "cards": [
         {
@@ -14,7 +13,7 @@
             "lesson": [
                 "Quidditch"
             ],
-            "cost": 10,
+            "cost": "10",
             "rarity": "Rare",
             "effect": [
                 "Chose one:\n- Discard all Items from play\n- Discard all Characters from play\n- Discard all Events from play\n- Discard all Creatures from play\nYou may use an Action to repeat this effect."
@@ -23,7 +22,7 @@
         {
             "Legality": "legal",
             "number": "28",
-            "name": "Dreams Of Flying",
+            "name": "Dreams Of Fling",
             "artist": "Rhys",
             "type": [
                 "Adventure"
@@ -54,7 +53,7 @@
             "lesson": [
                 "Transfiguration"
             ],
-            "cost": 8,
+            "cost": "8",
             "rarity": "Uncommon",
             "effect": [
                 "Once during each of your turns, whenever 1 of your non-Lesson cards is discarded from play, you get 1 more Action this turn."
@@ -74,10 +73,10 @@
             "lesson": [
                 "Care of Magical Creatures"
             ],
-            "cost": 3,
+            "cost": "3",
             "rarity": "Common",
-            "dmgEachTurn": 1,
-            "health": 1,
+            "dmgEachTurn": "1",
+            "health": "1",
             "effect": [
                 "When you play this card, discard a card from your hand, then draw 2 cards."
             ]
@@ -96,10 +95,10 @@
             "lesson": [
                 "Care of Magical Creatures"
             ],
-            "cost": 3,
+            "cost": "3",
             "rarity": "Common",
-            "dmgEachTurn": 1,
-            "health": 1,
+            "dmgEachTurn": "1",
+            "health": "1",
             "effect": [
                 "When this card is discarded from play, draw a card."
             ]
@@ -115,7 +114,7 @@
             "lesson": [
                 "Transfiguration"
             ],
-            "cost": 1,
+            "cost": "1",
             "rarity": "Common",
             "effect": [
                 "When you play this card, draw a card, then discard a card from your hand.\n\nIf this card is discarded from play, put it into your hand"
@@ -132,7 +131,7 @@
             "lesson": [
                 "Potions"
             ],
-            "cost": 4,
+            "cost": "4",
             "rarity": "Common",
             "effect": [
                 "Do 2 damage to yourself. Do 5 damage to an opponent."
@@ -152,7 +151,7 @@
             "lesson": [
                 "Potions"
             ],
-            "cost": 6,
+            "cost": "6",
             "rarity": "Common",
             "effect": [
                 "To play this card, return 1 of your P Lessons from play to your hand. Shuffle up to 9 non-Healing cards from your discard pile into your deck."
@@ -169,7 +168,7 @@
             "lesson": [
                 "Quidditch"
             ],
-            "cost": 6,
+            "cost": "6",
             "rarity": "Common",
             "effect": [
                 "Do 5 damage to an opponent. If there is a Match in play, the first card that requires Power that opponent plays on their next turn needs 3 more Power to play."
@@ -186,11 +185,12 @@
             "lesson": [
                 "Charms"
             ],
-            "cost": 4,
+            "cost": "4",
             "rarity": "Common",
             "effect": [
                 "Do 4 damage to an opponent. If you have drawn at least 3 cards this turn, instead do 7 damage to an opponent."
             ]
         }
-    ]
+    ],
+    "releaseDate": "06-2025"
 }
