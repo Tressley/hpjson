@@ -18,7 +18,7 @@
             "subTypes": [
                 "Dark"
             ],
-            "flavorText": "'A crater in the middle of the street, so deep it had cracked the sewer below. Bodies everywhere. Muggles screaming.' — Cornelius Fudge",
+            "flavorText": "'A crater in the middle of the street, so deep it had cracked the sewer below. Bodies everywhere. Muggles screaming.' ï¿½ Cornelius Fudge",
             "effect": [
                 "Do 12 damage to an opponent."
             ]
@@ -39,7 +39,7 @@
                 "Dark",
                 "Unique"
             ],
-            "flavorText": "'The fortress is set on a tiny island, way out to sea, but they don’t need walls and water to keep the prisoners in ...' — Professor Remus Lupin",
+            "flavorText": "'The fortress is set on a tiny island, way out to sea, but they donï¿½t need walls and water to keep the prisoners in ...' ï¿½ Professor Remus Lupin",
             "note": "When you play this card, discard any other Location from play (yours or your opponent's).",
             "effect": [
                 "When you play this card, choose a non-Lesson card type. Cards of the chosen type need 1 more Action to play."
@@ -102,7 +102,7 @@
             ],
             "flavorText": "'That's Dad's boss,' Ron breathed. 'The Minister of Magic!'",
             "effect": [
-                "Before each of your turns, you get 1 more Action for every Action each opponent used beyond their second on their last turn. You can’t gain Actions from cards other than this card."
+                "Before each of your turns, you get 1 more Action for every Action each opponent used beyond their second on their last turn. You canï¿½t gain Actions from cards other than this card."
             ]
         },
         {
@@ -124,7 +124,7 @@
             "dmgEachTurn": 1,
             "health": 3,
             "effect": [
-                "When you play this card, you may discard 1 of your Lessons from play to choose an opponent’s Character in play (other than their starting Character) and put it on top of its owner’s deck. During that opponent’s next turn, they can't use Actions to play Characters."
+                "When you play this card, you may discard 1 of your Lessons from play to choose an opponentï¿½s Character in play (other than their starting Character) and put it on top of its ownerï¿½s deck. During that opponentï¿½s next turn, they can't use Actions to play Characters."
             ]
         },
         {
@@ -182,7 +182,7 @@
                 "Unique",
                 "Gryffindor"
             ],
-            "flavorText": "'We’ve got two unbeatable Beaters.’ — Oliver Wood",
+            "flavorText": "'Weï¿½ve got two unbeatable Beaters.ï¿½ ï¿½ Oliver Wood",
             "effect": [
                 "Before each of your turns, if you have a Quidditch Item in play, do 2 damage to an opponent."
             ]
@@ -201,7 +201,7 @@
                 "Wizard",
                 "Gryffindor"
             ],
-            "flavorText": "'How extraordinarily like your father you are, Potter ... The resemblance between you is uncanny.' — Professor Severus Snape",
+            "flavorText": "'How extraordinarily like your father you are, Potter ... The resemblance between you is uncanny.' ï¿½ Professor Severus Snape",
             "effect": [
                 "Once per game, you may search your deck. You may take an Event from your deck, reveal it, and put it into your hand. Then shuffle your deck. Until the end of your turn, Events do not require Power that matches their Lesson type to play."
             ]
@@ -243,7 +243,7 @@
         {
             "number": "13",
             "name": "Nightly Practices",
-            "artist": "Sara Ortega Ramírez",
+            "artist": "Sara Ortega Ramï¿½rez",
             "type": [
                 "Event"
             ],
@@ -288,7 +288,7 @@
                 "Wizard",
                 "Unique"
             ],
-            "flavorText": "'Yer in my firs’ ever lesson! Right after lunch! Bin up since five gettin’ everythin’ ready.' — Professor Rubeus Hagrid",
+            "flavorText": "'Yer in my firsï¿½ ever lesson! Right after lunch! Bin up since five gettinï¿½ everythinï¿½ ready.' ï¿½ Professor Rubeus Hagrid",
             "provides": [
                 {
                     "lesson": "Care of Magical Creatures",
@@ -312,7 +312,7 @@
                 "Witch",
                 "Unique"
             ],
-            "flavorText": "'I have been crystal gazing … and to my astonishment, I saw myself abandoning my solitary luncheon and coming to join you. Who am I to refuse the promptings of fate?' — Professor Sybill Trelawney",
+            "flavorText": "'I have been crystal gazing ï¿½ and to my astonishment, I saw myself abandoning my solitary luncheon and coming to join you. Who am I to refuse the promptings of fate?' ï¿½ Professor Sybill Trelawney",
             "effect": [
                 "Before each of your turns, you may look at the top 2 cards of your deck and put them on the top and/or bottom of your deck in any order."
             ]
@@ -349,7 +349,7 @@
                 "Unique",
                 "Gryffindor"
             ],
-            "flavorText": "'Come follow me, dear friends, and we shall find our goal, or else shall perish bravely in the charge!' — Sir Cadogan",
+            "flavorText": "'Come follow me, dear friends, and we shall find our goal, or else shall perish bravely in the charge!' ï¿½ Sir Cadogan",
             "effect": [
                 "Once during each of your turns, when you play a card with an even printed Power cost, you may draw a card, and then you may put a Lesson from your hand into play."
             ]
@@ -366,7 +366,7 @@
                 "Unique",
                 "Wizard"
             ],
-            "flavorText": "'. . . He was clever enough to escape from Azkaban, and that’s supposed to be impossible.' — Arthur Weasley",
+            "flavorText": "'. . . He was clever enough to escape from Azkaban, and thatï¿½s supposed to be impossible.' ï¿½ Arthur Weasley",
             "effect": [
                 "For every 3 different card types in your discard pile, your opponents' cards require 1 more Power to play."
             ]
@@ -463,7 +463,7 @@
             "subTypes": [
                 "Dark"
             ],
-            "flavorText": "'Never been a breakout from Azkaban before, ’as there, Ern?' — Stan Shunpike",
+            "flavorText": "'Never been a breakout from Azkaban before, ï¿½as there, Ern?' ï¿½ Stan Shunpike",
             "effect": [
                 "To play this card, discard 1 of your Potions Lessons from play. Put up to 3 non-Healing Characters from your discard pile into your hand."
             ]
@@ -483,7 +483,7 @@
             "subTypes": [
                 "Boggart"
             ],
-            "flavorText": "'It’s a shapeshifter. It can take the shape of whatever it thinks will frighten us most.' — Hermione Granger",
+            "flavorText": "'Itï¿½s a shapeshifter. It can take the shape of whatever it thinks will frighten us most.' ï¿½ Hermione Granger",
             "dmgEachTurn": -1,
             "health": 1,
             "effect": [
@@ -502,7 +502,7 @@
             "lesson": [
                 "Potions"
             ],
-            "flavorText": "'May I?' said Professor McGonagall, but she didn’t wait for an answer before pulling the Firebolt out of their hands.'",
+            "flavorText": "'May I?' said Professor McGonagall, but she didnï¿½t wait for an answer before pulling the Firebolt out of their hands.'",
             "effect": [
                 "Look at an opponent's hand. You may choose a non-Lesson card from it. Discard each of their cards in play and in their hand with the same name as the chosen card."
             ]
@@ -554,7 +554,7 @@
             "subTypes": [
                 "Unique"
             ],
-            "flavorText": "'I don’t think Egypt agreed with him.' — Ron Weasley",
+            "flavorText": "'I donï¿½t think Egypt agreed with him.' ï¿½ Ron Weasley",
             "effect": [
                 "Whenever an opponent uses a third Action in a turn, do 5 damage to them."
             ]
@@ -657,7 +657,7 @@
             "subTypes": [
                 "Unique"
             ],
-            "flavorText": "'Righ’ then, Harry,' said Hagrid. 'I reckon he might’ let yeh ride him!'",
+            "flavorText": "'Righï¿½ then, Harry,' said Hagrid. 'I reckon he mightï¿½ let yeh ride him!'",
             "effect": [
                 "At the end of each of your turns, if at least 1 of your Creatures did damage this turn, draw 2 cards. When any of your Creatures are discarded from play, discard this card from play."
             ]
@@ -674,7 +674,7 @@
             "lesson": [
                 "Quidditch"
             ],
-            "flavorText": "Harry was still numb with cold, still wetter than he’d ever been in his life, but he could see.",
+            "flavorText": "Harry was still numb with cold, still wetter than heï¿½d ever been in his life, but he could see.",
             "effect": [
                 "Choose an opponent. During their next turn, prevent the first 3 damage done to you. Before your next turn, draw a card for each damage prevented in this way."
             ]
@@ -710,7 +710,7 @@
             "lesson": [
                 "Transfiguration"
             ],
-            "flavorText": "'Anyway, we know it by heart,' said George. 'We bequeath it to you. We don’t really need it anymore.'",
+            "flavorText": "'Anyway, we know it by heart,' said George. 'We bequeath it to you. We donï¿½t really need it anymore.'",
             "effect": [
                 "Search your deck. You may take an Item or Spell from your deck, reveal it, and put it into your hand. Then shuffle your deck. You may use an Action to repeat this Spell."
             ]
@@ -924,7 +924,7 @@
             "lesson": [
                 "Quidditch"
             ],
-            "flavorText": "Harry knew better than to think the match would be canceled; Quidditch matches weren’t called off for trifles like thunderstorms.",
+            "flavorText": "Harry knew better than to think the match would be canceled; Quidditch matches werenï¿½t called off for trifles like thunderstorms.",
             "effect": [
                 "to win: Use Actions to play Creatures 3 times.",
                 "prize: The winner chooses up to 2 Lessons in their discard pile and puts them into play."
@@ -993,7 +993,7 @@
             "lesson": [
                 "Quidditch"
             ],
-            "flavorText": "... by the time they hit the ground again, Wood didn’t have a single criticism to make, which, as George Weasley pointed out, was a first.",
+            "flavorText": "... by the time they hit the ground again, Wood didnï¿½t have a single criticism to make, which, as George Weasley pointed out, was a first.",
             "effect": [
                 "Count the number of Beaters, Chasers, Keepers, and Seekers you have in play. Do that much damage to an opponent."
             ]
@@ -1010,7 +1010,7 @@
             "lesson": [
                 "Care of Magical Creatures"
             ],
-            "flavorText": "'Tha’s it,' said Hagrid. 'Tha’s it, Harry ... now, bow ...'",
+            "flavorText": "'Thaï¿½s it,' said Hagrid. 'Thaï¿½s it, Harry ... now, bow ...'",
             "effect": [
                 "The next Creature you play this turn requires 3 less Power to play. ( You still need at least 1 Power that matches.)"
             ]
@@ -1081,7 +1081,7 @@
             "subTypes": [
                 "Candy"
             ],
-            "flavorText": "'So we’ve finally got a Defense Against the Dark Arts teacher who knows his remedies?' — Madam Pomfrey",
+            "flavorText": "'So weï¿½ve finally got a Defense Against the Dark Arts teacher who knows his remedies?' ï¿½ Madam Pomfrey",
             "effect": [
                 "Put 1 of your Characters discarded during an opponent's last turn from your discard pile into your hand. Then draw a card."
             ]
@@ -1098,7 +1098,7 @@
             "lesson": [
                 "Potions"
             ],
-            "flavorText": "Slowly, she reached down for a bag at her feet, turned it upside down, and tipped a dozen bits of splintered wood and twig onto the bed, the only remains of Harry’s faithful, finally beaten broomstick.",
+            "flavorText": "Slowly, she reached down for a bag at her feet, turned it upside down, and tipped a dozen bits of splintered wood and twig onto the bed, the only remains of Harryï¿½s faithful, finally beaten broomstick.",
             "effect": [
                 "Do 4 damage to an opponent. During their next turn, their non-Lesson cards do not provide Power."
             ]
@@ -1139,7 +1139,7 @@
         {
             "number": "61",
             "name": "Flibbertigibbet",
-            "artist": "Katerina Cupová",
+            "artist": "Katerina Cupovï¿½",
             "type": [
                 "Spell"
             ],
@@ -1186,9 +1186,9 @@
             "lesson": [
                 "Quidditch"
             ],
-            "flavorText": "'Gryffindor in possession, no, Slytherin in possession — no! — Gryffindor back in possession …' — Lee Jordan, commentator",
+            "flavorText": "'Gryffindor in possession, no, Slytherin in possession ï¿½ no! ï¿½ Gryffindor back in possession ï¿½' ï¿½ Lee Jordan, commentator",
             "effect": [
-                "Do 4 damage to an opponent. Then, if that opponent has any Lessons in play, they choose 1 of them and put it on top of its owner’s deck."
+                "Do 4 damage to an opponent. Then, if that opponent has any Lessons in play, they choose 1 of them and put it on top of its ownerï¿½s deck."
             ]
         },
         {
@@ -1213,7 +1213,7 @@
         {
             "number": "65",
             "name": "Hooch Watches Practice",
-            "artist": "Amélie S. Lebel",
+            "artist": "Amï¿½lie S. Lebel",
             "type": [
                 "Event"
             ],
@@ -1227,7 +1227,7 @@
             ],
             "flavorText": "Undaunted, the Gryffindor team was training harder than ever under the eye of Madam Hooch.",
             "effect": [
-                "When a Match is discarded from play, you may return it to play under its owner’s control. If you do, discard this card."
+                "When a Match is discarded from play, you may return it to play under its ownerï¿½s control. If you do, discard this card."
             ]
         },
         {
@@ -1265,7 +1265,7 @@
                 "Divination",
                 "Unique"
             ],
-            "flavorText": "'One hopes, however, that one might have mistaken the Signs. ... The Inner Eye can be a burden, you know.'  — Professor Sybill Trelawney",
+            "flavorText": "'One hopes, however, that one might have mistaken the Signs. ... The Inner Eye can be a burden, you know.'  ï¿½ Professor Sybill Trelawney",
             "effect": [
                 "Before each of your turns, your opponent may reveal a Lesson from their hand. If they do not, you may put a Lesson from your hand into play."
             ]
@@ -1282,7 +1282,7 @@
             "lesson": [
                 "Transfiguration"
             ],
-            "flavorText": "'I bet you’re not dangerous at all, are you?' he said to the hippogriff. 'Are you, you great ugly brute?'",
+            "flavorText": "'I bet youï¿½re not dangerous at all, are you?' he said to the hippogriff. 'Are you, you great ugly brute?'",
             "effect": [
                 "Play this card only if you have a Creature in play. Choose an opponent's Character in play ( other than their starting Character) and discard it."
             ]
@@ -1333,7 +1333,7 @@
                 "Charms"
             ],
             "effect": [
-                "Choose 2, then shuffle this card into your deck: Do 1 damage to an opponent. Look at an opponent’s hand. Draw a card."
+                "Choose 2, then shuffle this card into your deck: Do 1 damage to an opponent. Look at an opponentï¿½s hand. Draw a card."
             ]
         },
         {
@@ -1348,7 +1348,7 @@
             "lesson": [
                 "Potions"
             ],
-            "flavorText": "But it wasn’t Professor Lupin who looked up at him from the teacher’s desk; it was Snape.",
+            "flavorText": "But it wasnï¿½t Professor Lupin who looked up at him from the teacherï¿½s desk; it was Snape.",
             "effect": [
                 "Do 5 damage to an opponent or to a Creature of your choice. Your opponent may prevent this damage by revealing a Creature from their hand."
             ]
@@ -1483,7 +1483,7 @@
             "subTypes": [
                 "Spider"
             ],
-            "flavorText": "'C’mon … gotta get yeh outta here … c’mon now … in the box …' — Rubeus Hagrid",
+            "flavorText": "'Cï¿½mon ï¿½ gotta get yeh outta here ï¿½ cï¿½mon now ï¿½ in the box ï¿½' ï¿½ Rubeus Hagrid",
             "dmgEachTurn": 1,
             "health": 2,
             "effect": [
@@ -1556,7 +1556,7 @@
             "lesson": [
                 "Quidditch"
             ],
-            "flavorText": "'We’re not playing Slytherin!' he told them, looking very angry. 'Flint’s just been to see me. We’re playing Hufflepuff instead.’'",
+            "flavorText": "'Weï¿½re not playing Slytherin!' he told them, looking very angry. 'Flintï¿½s just been to see me. Weï¿½re playing Hufflepuff instead.ï¿½'",
             "effect": [
                 "Discard a Match in play, then you may put a non-Healing Match from your discard pile into play. If you do, do 3 damage to an opponent."
             ]
@@ -1596,7 +1596,7 @@
             "subTypes": [
                 "Book"
             ],
-            "flavorText": "'Oh, how silly we’ve all been! We should have stroked them! Why didn’t we guess!' — Draco Malfoy",
+            "flavorText": "'Oh, how silly weï¿½ve all been! We should have stroked them! Why didnï¿½t we guess!' ï¿½ Draco Malfoy",
             "dmgEachTurn": 1,
             "health": 1,
             "provides": [
@@ -1608,7 +1608,7 @@
         },
         {
             "number": "86",
-            "name": "Trelawny Reading",
+            "name": "Trelawney's Reading",
             "artist": "Viria13",
             "type": [
                 "Spell"
@@ -1657,7 +1657,7 @@
             "lesson": [
                 "Charms"
             ],
-            "flavorText": "'Cool, sir!' — Dean Thomas",
+            "flavorText": "'Cool, sir!' ï¿½ Dean Thomas",
             "effect": [
                 "Do 3 damage to an opponent. You may discard 1 of your Items in play. If you do, do damage to that opponent equal to the Item's printed Power cost."
             ]
@@ -1697,7 +1697,7 @@
             "subTypes": [
                 "Healing"
             ],
-            "flavorText": "'I am able to curl up in my office, a harmless wolf, and wait for the moon to wane again.'  — Professor Remus Lupin",
+            "flavorText": "'I am able to curl up in my office, a harmless wolf, and wait for the moon to wane again.'  ï¿½ Professor Remus Lupin",
             "effect": [
                 "To play this card, return 1 of your Potions Lessons from play to your hand. Shuffle up to 8 non-Healing cards from your discard pile into your deck."
             ]

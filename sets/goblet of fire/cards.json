@@ -19,7 +19,7 @@
             ],
             "cost": 12,
             "rarity": "Rare",
-            "flavorText": "‘... winged horses, all palominos, and each the size of an elephant.’",
+            "flavorText": "ï¿½... winged horses, all palominos, and each the size of an elephant.ï¿½",
             "dmgEachTurn": 10,
             "health": 7,
             "effect": [
@@ -39,7 +39,7 @@
                 "Unique"
             ],
             "rarity": "Rare",
-            "flavorText": "‘“He was an Auror — one of the best ... a Dark wizard catcher. Half the cells in Azkaban are full because of him.”’ — Charlie Weasley",
+            "flavorText": "ï¿½ï¿½He was an Auror ï¿½ one of the best ... a Dark wizard catcher. Half the cells in Azkaban are full because of him.ï¿½ï¿½ ï¿½ Charlie Weasley",
             "effect": [
                 "Before each of your turns, you may take 4 damage. If you do, you may play a Spell with printed Power cost of 4 or less without using any Actions. That card requires 3 less Power to play. (You still need at least 1 Power that matches.)"
             ]
@@ -56,7 +56,7 @@
                 "Wizard"
             ],
             "rarity": "Rare",
-            "flavorText": "‘Bill’s clothes would not have looked out of place at a rock concert, except Harry recognized his boots to be made, not of leather, but of dragon hide.’",
+            "flavorText": "ï¿½Billï¿½s clothes would not have looked out of place at a rock concert, except Harry recognized his boots to be made, not of leather, but of dragon hide.ï¿½",
             "effect": [
                 "Once per game, you may search your deck for a card and put it into your hand. Then shuffle your deck."
             ]
@@ -95,7 +95,7 @@
             ],
             "cost": 9,
             "rarity": "Rare",
-            "flavorText": "\"CONSTANT VIGILANCE\" — Alastor Moody",
+            "flavorText": "\"CONSTANT VIGILANCE\" ï¿½ Alastor Moody",
             "effect": [
                 "Once per turn, when you take damage, you may put 1 of the discarded cards from your discard pile into your hand?"
             ]
@@ -148,7 +148,7 @@
                 "Unique"
             ],
             "rarity": "Rare",
-            "flavorText": "‘There was also a girl who looked no older than eight, whose clouds of silvery hair made Harry feel sure that she was Fleur Delacour’s sister.’",
+            "flavorText": "ï¿½There was also a girl who looked no older than eight, whose clouds of silvery hair made Harry feel sure that she was Fleur Delacourï¿½s sister.ï¿½",
             "effect": [
                 "Once per turn, you may use an Action to discard a Spell card from your hand. If you do, draw 3 cards."
             ]
@@ -193,7 +193,7 @@
                 "Unique"
             ],
             "rarity": "Rare",
-            "flavorText": "‘“Elf enslavement goes back centuries. I can’t believe no one’s done anything about it before now.”’ — Hermione Granger",
+            "flavorText": "ï¿½ï¿½Elf enslavement goes back centuries. I canï¿½t believe no oneï¿½s done anything about it before now.ï¿½ï¿½ ï¿½ Hermione Granger",
             "effect": [
                 "If Hermione, S.P.E.W. Founder is your starting Character, before drawing your starting hand, you may search your deck for a non-Wizard or Witch Character card and put it into play."
             ]
@@ -214,7 +214,7 @@
                 "Unique"
             ],
             "rarity": "Rare",
-            "flavorText": "‘... he was tall and thin like Dumbledore, but his white hair was short, and his goatee (finishing in a small curl) did not entirely hide his weak chin.’",
+            "flavorText": "ï¿½... he was tall and thin like Dumbledore, but his white hair was short, and his goatee (finishing in a small curl) did not entirely hide his weak chin.ï¿½",
             "effect": [
                 "The first time you take damage each turn, you take 3 less damage."
             ]
@@ -236,7 +236,7 @@
             ],
             "cost": 6,
             "rarity": "Rare",
-            "flavorText": "‘“Total control,” said Moody quietly as the spider balled itself up and began to roll over and over.’",
+            "flavorText": "ï¿½ï¿½Total control,ï¿½ said Moody quietly as the spider balled itself up and began to roll over and over.ï¿½",
             "effect": [
                 "When you play this card, choose an opponent's Character in play (except their starter Character) and take control of it while this card is in play."
             ]
@@ -277,7 +277,7 @@
             ],
             "cost": 8,
             "rarity": "Rare",
-            "flavorText": "‘The electric fire shot across the room as the boarded-up fireplace burst outward ...’",
+            "flavorText": "ï¿½The electric fire shot across the room as the boarded-up fireplace burst outward ...ï¿½",
             "effect": [
                 "Return all Items, Events, and Locations from play to their owner's hands"
             ]
@@ -302,7 +302,7 @@
         {
             "Legality": "legal",
             "number": "16",
-            "name": "Madame Olympe Maxine",
+            "name": "Madame Olympe Maxime",
             "artist": "Paolo Maria Breda",
             "type": [
                 "Character"
@@ -354,7 +354,7 @@
         {
             "Legality": "legal",
             "number": "19",
-            "name": "Perfumed Fire",
+            "name": "Perfurmed Fire",
             "artist": "Vladislav Pantic",
             "type": [
                 "Spell"
@@ -367,7 +367,7 @@
             ],
             "cost": 9,
             "rarity": "Rare",
-            "flavorText": "‘He sat up straight; he had been almost dozing off, lost in the heat and his thoughts.’",
+            "flavorText": "ï¿½He sat up straight; he had been almost dozing off, lost in the heat and his thoughts.ï¿½",
             "effect": [
                 "Each player chooses 3 of their non-Healing cards in play and puts them on top of their owner's deck in any order. (If they have less than 3 cards in play, they put all of them on the top of their deck.)"
             ]
@@ -386,7 +386,7 @@
                 "Unique"
             ],
             "rarity": "Rare",
-            "flavorText": "‘“I notice you have dribbled food all the way down the front of your robes again, disgusting boy —”’ — Professor Igor Karkaroff",
+            "flavorText": "ï¿½ï¿½I notice you have dribbled food all the way down the front of your robes again, disgusting boy ï¿½ï¿½ï¿½ ï¿½ Professor Igor Karkaroff",
             "effect": [
                 "Whenever your opponent plays a Creature, you may do 1 damage to it."
             ]
@@ -404,7 +404,7 @@
                 "Unique"
             ],
             "rarity": "Rare",
-            "flavorText": "‘Attractive blonde Rita Skeeter, forty-three, whose savage quill has punctured many inflated reputations —’ — Rita Skeeter",
+            "flavorText": "ï¿½Attractive blonde Rita Skeeter, forty-three, whose savage quill has punctured many inflated reputations ï¿½ï¿½ ï¿½ Rita Skeeter",
             "effect": [
                 "Once per turn, you may use an Action to count the number of your other Unique cards in play. Do that much damage to an opponent."
             ]
@@ -484,7 +484,7 @@
                 "Unique"
             ],
             "rarity": "Rare",
-            "flavorText": "‘“I’ve left young Weatherby in charge ... Very enthusiastic ... a little \toverenthusiastic, if truth be told ...”’ — Bartemius Crouch, Sr.",
+            "flavorText": "ï¿½ï¿½Iï¿½ve left young Weatherby in charge ... Very enthusiastic ... a little \toverenthusiastic, if truth be told ...ï¿½ï¿½ ï¿½ Bartemius Crouch, Sr.",
             "effect": [
                 "Once during each of your turns, you may play a card beginning with the same letter as a card an opponent played last turn without using any Actions."
             ]
@@ -605,7 +605,7 @@
             ],
             "cost": 4,
             "rarity": "Common",
-            "flavorText": "‘... Snape had turned his back on them to write up the ingredients of today’s potion on the blackboard ...’",
+            "flavorText": "ï¿½... Snape had turned his back on them to write up the ingredients of todayï¿½s potion on the blackboard ...ï¿½",
             "effect": [
                 "Search your deck. You may take up to 3 different Ingredient cards, reveal them, put them in your hand, and then shuffle your deck."
             ]
@@ -627,7 +627,7 @@
             ],
             "cost": 9,
             "rarity": "Uncommon",
-            "flavorText": "‘Ten feet long, it looked more like a giant scorpion than anything.’",
+            "flavorText": "ï¿½Ten feet long, it looked more like a giant scorpion than anything.ï¿½",
             "dmgEachTurn": 8,
             "health": 3,
             "effect": [
@@ -650,7 +650,7 @@
             ],
             "cost": 1,
             "rarity": "Uncommon",
-            "flavorText": "‘““Hang on, I’ll get my Firebolt.”’ — Harry Potter",
+            "flavorText": "ï¿½ï¿½ï¿½Hang on, Iï¿½ll get my Firebolt.ï¿½ï¿½ ï¿½ Harry Potter",
             "effect": [
                 "Whenever you win a Match by completing it's \"To Win,\" you get 1 more Action this turn."
             ]
@@ -689,7 +689,7 @@
             ],
             "cost": 4,
             "rarity": "Uncommon",
-            "flavorText": "‘“Eclectic, you say? With a plug?”’ — Arthur Weasley",
+            "flavorText": "ï¿½ï¿½Eclectic, you say? With a plug?ï¿½ï¿½ ï¿½ Arthur Weasley",
             "effect": [
                 "Any player may use an Action to discard an Adventure in play."
             ],
@@ -708,7 +708,7 @@
             ],
             "cost": 7,
             "rarity": "Rare",
-            "flavorText": "‘“Yeah, I’m staying just the one year ... and then back to my quiet retirement.”’ — Professor Alastor Moody",
+            "flavorText": "ï¿½ï¿½Yeah, Iï¿½m staying just the one year ... and then back to my quiet retirement.ï¿½ï¿½ ï¿½ Professor Alastor Moody",
             "effect": [
                 "To play this card, discard 1 of your [P] Lessons from play. Search your deck for a Wizard or Witch card and put it into play."
             ]
@@ -764,7 +764,7 @@
             ],
             "cost": 8,
             "rarity": "Uncommon",
-            "flavorText": "‘... they had fun selecting the most lurid socks they could find ...’",
+            "flavorText": "ï¿½... they had fun selecting the most lurid socks they could find ...ï¿½",
             "effect": [
                 "Whenever a card does damage, it does 2 less damage."
             ],
@@ -783,7 +783,7 @@
                 "Healing"
             ],
             "rarity": "Uncommon",
-            "flavorText": "‘Instantly, about six house-elves came trotting up behind him, bearing a large silver tray laden with a teapot ...’",
+            "flavorText": "ï¿½Instantly, about six house-elves came trotting up behind him, bearing a large silver tray laden with a teapot ...ï¿½",
             "effect": [
                 "At the end of each of your turns, you may put up to 2 non-Healing cards from your discard pile on the bottom of your deck."
             ]
@@ -804,7 +804,7 @@
             ],
             "cost": 5,
             "rarity": "Uncommon",
-            "flavorText": "‘“I vant to know vot there is between you and Hermy-own-ninny.”’ — Viktor Krum",
+            "flavorText": "ï¿½ï¿½I vant to know vot there is between you and Hermy-own-ninny.ï¿½ï¿½ ï¿½ Viktor Krum",
             "effect": [
                 "When you play this card or any player plays a Character, you may choose an opponent. They discard a card from their hand."
             ]
@@ -825,7 +825,7 @@
             ],
             "cost": 8,
             "rarity": "Uncommon",
-            "flavorText": "‘Mr. Crouch’s eyes were bulging. He stood staring at the tree, muttering soundlessly at it.’",
+            "flavorText": "ï¿½Mr. Crouchï¿½s eyes were bulging. He stood staring at the tree, muttering soundlessly at it.ï¿½",
             "effect": [
                 "Choose an opponent. They reveal their hand and discard 2 non-Lesson cards from their hand, then take damage equal to the discarded cards' combined printed Power cost."
             ]
@@ -918,7 +918,7 @@
             ],
             "cost": 5,
             "rarity": "Uncommon",
-            "flavorText": "‘Harry lay flat on his back, breathing hard as though he had been running.’",
+            "flavorText": "ï¿½Harry lay flat on his back, breathing hard as though he had been running.ï¿½",
             "effect": [
                 "Search your deck. You may choose up to 2 cards from your deck and discard them. Then shuffle your deck."
             ]
@@ -950,7 +950,7 @@
                 "Adventure"
             ],
             "rarity": "Uncommon",
-            "flavorText": "‘He seemed so determined that nobody should hear what he was saying ...’",
+            "flavorText": "ï¿½He seemed so determined that nobody should hear what he was saying ...ï¿½",
             "effect": [
                 "Your opponent can't play Events.",
                 "to solve: Your opponent chooses 4 Event cards in their hand and discards them.",
@@ -1007,7 +1007,7 @@
                 "Adventure"
             ],
             "rarity": "Uncommon",
-            "flavorText": "‘“Mr. Crouch!” said Percy breathlessly, sunk into a kind of half-bow that made him look like a hunchback.’",
+            "flavorText": "ï¿½ï¿½Mr. Crouch!ï¿½ said Percy breathlessly, sunk into a kind of half-bow that made him look like a hunchback.ï¿½",
             "effect": [
                 "Your opponent cannot play cards with greater printed Power cost than the number of Lessons they have in play.",
                 "to solve: Your opponent discards their hand.",
@@ -1071,7 +1071,7 @@
                 "Adventure"
             ],
             "rarity": "Uncommon",
-            "flavorText": "‘“Do you see? It’s never been this clear, never since —”’ — Professor Igor Karkaroff",
+            "flavorText": "ï¿½ï¿½Do you see? Itï¿½s never been this clear, never since ï¿½ï¿½ï¿½ ï¿½ Professor Igor Karkaroff",
             "effect": [
                 "Cards cannot be played from or leave your opponent's discard pile.",
                 "to solve: Your opponent skips a total of 5 Actions.",
@@ -1096,7 +1096,7 @@
             ],
             "cost": 5,
             "rarity": "Rare",
-            "flavorText": "‘Once a fine-looking manor ... the Riddle House was now damp, derelict, and unoccupied. ’",
+            "flavorText": "ï¿½Once a fine-looking manor ... the Riddle House was now damp, derelict, and unoccupied. ï¿½",
             "effect": [
                 "Players cannot search their decks."
             ],
@@ -1118,7 +1118,7 @@
             ],
             "cost": 5,
             "rarity": "Uncommon",
-            "flavorText": "‘Ron mouthed soundlessly like a goldfish out of water ...’",
+            "flavorText": "ï¿½Ron mouthed soundlessly like a goldfish out of water ...ï¿½",
             "effect": [
                 "When you play this card or an opponent draws 1 or more cards during their turn other than during their draw step, you may draw a card."
             ]
@@ -1156,7 +1156,7 @@
             ],
             "cost": 3,
             "rarity": "Uncommon",
-            "flavorText": "‘“The Daily Prophet, however, has unearthed worrying facts about Harry Potter ...”’ — Rita Skeeter",
+            "flavorText": "ï¿½ï¿½The Daily Prophet, however, has unearthed worrying facts about Harry Potter ...ï¿½ï¿½ ï¿½ Rita Skeeter",
             "effect": [
                 "Look at an opponent's hand. Discard all Unique cards from it."
             ]
@@ -1178,7 +1178,7 @@
             ],
             "cost": 5,
             "rarity": "Uncommon",
-            "flavorText": "‘The old scar ... was burning beneath his fingers as though someone had just pressed a white-hot wire to his skin.’",
+            "flavorText": "ï¿½The old scar ... was burning beneath his fingers as though someone had just pressed a white-hot wire to his skin.ï¿½",
             "effect": [
                 "Whenever 1 or more cards leave an opponent's discard pile, do 5 damage to that opponent."
             ]
@@ -1196,7 +1196,7 @@
             ],
             "cost": 6,
             "rarity": "Uncommon",
-            "flavorText": "‘“Why don’t you come up to my office? Come on ... we can have a cup of tea ...”’ — Professor Alastor Moody",
+            "flavorText": "ï¿½ï¿½Why donï¿½t you come up to my office? Come on ... we can have a cup of tea ...ï¿½ï¿½ ï¿½ Professor Alastor Moody",
             "effect": [
                 "Look at the top 6 cards of your deck. You may choose a card from among them and shuffle the rest back into your deck. Play that card without using any Actions."
             ]
@@ -1269,7 +1269,7 @@
             ],
             "cost": 5,
             "rarity": "Uncommon",
-            "flavorText": "‘“Well, you can enchant a building so it’s impossible to plot on a map, can’t you?”’ — Hermione Granger",
+            "flavorText": "ï¿½ï¿½Well, you can enchant a building so itï¿½s impossible to plot on a map, canï¿½t you?ï¿½ï¿½ ï¿½ Hermione Granger",
             "effect": [
                 "To play this card, discard 1 of your [P] Lessons from play. Locations cannot leave play. Players cannot play Location cards."
             ]
@@ -1325,7 +1325,7 @@
             ],
             "cost": 6,
             "rarity": "Uncommon",
-            "flavorText": "‘Wormtail screamed, screamed as though every nerve in his body were on fire ...’",
+            "flavorText": "ï¿½Wormtail screamed, screamed as though every nerve in his body were on fire ...ï¿½",
             "effect": [
                 "Do 8 damage to yourself. Do 10 damage to an opponent."
             ]
@@ -1343,7 +1343,7 @@
             ],
             "cost": 5,
             "rarity": "Common",
-            "flavorText": "‘“It is also my painful duty to inform you that the Inter-House Quidditch Cup will not take place this year.”’ — Albus Dumbledore",
+            "flavorText": "ï¿½ï¿½It is also my painful duty to inform you that the Inter-House Quidditch Cup will not take place this year.ï¿½ï¿½ ï¿½ Albus Dumbledore",
             "effect": [
                 "Do 5 damage to an opponent. Your opponents' progress toward winning a Match cannot change until the beginning of your next turn."
             ]
@@ -1363,7 +1363,7 @@
             ],
             "cost": 7,
             "rarity": "Common",
-            "flavorText": "‘“Made one hell of a noise and fired rubbish everywhere ...”’ — Amos Diggory",
+            "flavorText": "ï¿½ï¿½Made one hell of a noise and fired rubbish everywhere ...ï¿½ï¿½ ï¿½ Amos Diggory",
             "dmgEachTurn": 3,
             "health": 3,
             "effect": [
@@ -1407,7 +1407,7 @@
             ],
             "cost": 3,
             "rarity": "Common",
-            "flavorText": "‘They looked like deformed, shell-less lobsters, horribly pale and slimy-looking, with legs sticking out in very odd places and no visible heads.’",
+            "flavorText": "ï¿½They looked like deformed, shell-less lobsters, horribly pale and slimy-looking, with legs sticking out in very odd places and no visible heads.ï¿½",
             "dmgEachTurn": 2,
             "health": 2,
             "effect": [
@@ -1417,7 +1417,7 @@
         {
             "Legality": "legal",
             "number": "71",
-            "name": "Bubotubers",
+            "name": "Bubotuber",
             "artist": "maryquize",
             "type": [
                 "Creature"
@@ -1431,7 +1431,7 @@
             ],
             "cost": 4,
             "rarity": "Common",
-            "flavorText": "‘“They need squeezing. You will collect the pus —”’ — Professor Pomona Sprout",
+            "flavorText": "ï¿½ï¿½They need squeezing. You will collect the pus ï¿½ï¿½ï¿½ ï¿½ Professor Pomona Sprout",
             "dmgEachTurn": 1,
             "health": 2,
             "effect": [
@@ -1480,7 +1480,7 @@
             ],
             "cost": 3,
             "rarity": "Common",
-            "flavorText": "‘Just then, Neville caused a slight diversion by turning into a large canary.’",
+            "flavorText": "ï¿½Just then, Neville caused a slight diversion by turning into a large canary.ï¿½",
             "effect": [
                 "Choose an opponent. On their next turn, their first card they play requires 1 more Power to play. Then draw a card."
             ]
@@ -1521,7 +1521,7 @@
             ],
             "cost": 6,
             "rarity": "Common",
-            "flavorText": "‘Moody jerked his wand, and the spider rose onto two of its hind legs and went into what was unmistakably a tap dance’",
+            "flavorText": "ï¿½Moody jerked his wand, and the spider rose onto two of its hind legs and went into what was unmistakably a tap danceï¿½",
             "dmgEachTurn": 4,
             "health": 4,
             "effect": [
@@ -1541,7 +1541,7 @@
             ],
             "cost": 4,
             "rarity": "Common",
-            "flavorText": "‘“I told you! I told you not to annoy Rita Skeeter!”’ — Ron Weasley",
+            "flavorText": "ï¿½ï¿½I told you! I told you not to annoy Rita Skeeter!ï¿½ï¿½ ï¿½ Ron Weasley",
             "effect": [
                 "Name a non-Lesson card. For every card of that name an opponent has in their discard pile, they take 2 damage."
             ]
@@ -1581,7 +1581,7 @@
             ],
             "cost": 2,
             "rarity": "Uncommon",
-            "flavorText": "‘“Don’t worry, you’ll have your Quidditch field back to normal once the task is over!”’ — Ludo Bagman",
+            "flavorText": "ï¿½ï¿½Donï¿½t worry, youï¿½ll have your Quidditch field back to normal once the task is over!ï¿½ï¿½ ï¿½ Ludo Bagman",
             "effect": [
                 "Whenever a player uses an Action to play a Lesson, they may discard a card from their hand. If they do, they draw a card."
             ],
@@ -1600,7 +1600,7 @@
             ],
             "cost": 7,
             "rarity": "Common",
-            "flavorText": "‘Bill’s table caught Charlie’s with a huge bang and knocked one of its legs off.’",
+            "flavorText": "ï¿½Billï¿½s table caught Charlieï¿½s with a huge bang and knocked one of its legs off.ï¿½",
             "effect": [
                 "Do 5 damage to an opponent. If you have at least 3 Items in play, instead do 9 damage to them."
             ]
@@ -1618,7 +1618,7 @@
             ],
             "cost": 9,
             "rarity": "Common",
-            "flavorText": "‘“The postman noticed,” he said with gritted teeth. “Very interested to know where this letter came from, he was.”’",
+            "flavorText": "ï¿½ï¿½The postman noticed,ï¿½ he said with gritted teeth. ï¿½Very interested to know where this letter came from, he was.ï¿½ï¿½",
             "effect": [
                 "Do 3 damage to an opponent or to a Creature of your choice. Do 3 damage to an opponent or to a Creature of your choice. Then draw 2 card."
             ]
@@ -1636,7 +1636,7 @@
             ],
             "cost": 4,
             "rarity": "Common",
-            "flavorText": "‘“Aaaaah, when two Neptunes appear in the sky, it is a sure sign that a midget in glasses is being born ...”’ — Ron Weasley",
+            "flavorText": "ï¿½ï¿½Aaaaah, when two Neptunes appear in the sky, it is a sure sign that a midget in glasses is being born ...ï¿½ï¿½ ï¿½ Ron Weasley",
             "effect": [
                 "Do 1 damage to yourself. Choose an opponent. They choose 1 of their cards in play and discard it."
             ]
@@ -1644,7 +1644,7 @@
         {
             "Legality": "legal",
             "number": "82",
-            "name": "Fire Crabs",
+            "name": "Fire Crab",
             "artist": "maryquize",
             "type": [
                 "Creature"
@@ -1666,7 +1666,7 @@
         {
             "Legality": "legal",
             "number": "83",
-            "name": "Fizzing Whisbees",
+            "name": "Fizzing Whizbees",
             "artist": "XxMortanixX",
             "type": [
                 "Spell"
@@ -1726,7 +1726,7 @@
             ],
             "cost": 2,
             "rarity": "Common",
-            "flavorText": "‘“My aunt found him smuggling doughnuts into his room yesterday.”’ — Harry Potter",
+            "flavorText": "ï¿½ï¿½My aunt found him smuggling doughnuts into his room yesterday.ï¿½ï¿½ ï¿½ Harry Potter",
             "effect": [
                 "Your opponents cannot play Candy cards."
             ]
@@ -1767,7 +1767,7 @@
             ],
             "cost": 1,
             "rarity": "Common",
-            "flavorText": "‘... a wizarding game rather like marbles ...’",
+            "flavorText": "ï¿½... a wizarding game rather like marbles ...ï¿½",
             "effect": [
                 "to win: Before your turn, have at least 6 different card types in play.",
                 "prize: Choose an opponent's card in play and return it to its owner's hand. Then do 3 damage to that opponent."
@@ -1788,7 +1788,7 @@
             ],
             "cost": 2,
             "rarity": "Common",
-            "flavorText": "‘Amos Diggory’s head was sitting in the middle of the flames like a large, bearded egg.’",
+            "flavorText": "ï¿½Amos Diggoryï¿½s head was sitting in the middle of the flames like a large, bearded egg.ï¿½",
             "effect": [
                 "Choose an opponent's Advanced Lesson in play and discard it."
             ]
@@ -1806,7 +1806,7 @@
             ],
             "cost": 1,
             "rarity": "Common",
-            "flavorText": "‘“You miss him!” Hermione said impatiently. “And I know he misses you —”’",
+            "flavorText": "ï¿½ï¿½You miss him!ï¿½ Hermione said impatiently. ï¿½And I know he misses you ï¿½ï¿½ï¿½",
             "effect": [
                 "Choose an opponent's Adventure in play. You get the reward."
             ]
@@ -1831,7 +1831,7 @@
         {
             "Legality": "legal",
             "number": "91",
-            "name": "Impedimenta!",
+            "name": "Impedimenta",
             "artist": "Miuzza",
             "type": [
                 "Spell"
@@ -1841,7 +1841,7 @@
             ],
             "cost": 7,
             "rarity": "Common",
-            "flavorText": "‘“Should slow down anything that’s trying to attack you ...”’ — Hermione Granger",
+            "flavorText": "ï¿½ï¿½Should slow down anything thatï¿½s trying to attack you ...ï¿½ï¿½ ï¿½ Hermione Granger",
             "effect": [
                 "Choose an opponent. During their next turn, they get 1 fewer Action and they can't draw cards except during their draw step."
             ]
@@ -1894,7 +1894,7 @@
             ],
             "cost": 5,
             "rarity": "Common",
-            "flavorText": "‘“I can make good use of this ... this might be exactly what I’ve been looking for ...”’ — Professor Alastor Moody",
+            "flavorText": "ï¿½ï¿½I can make good use of this ... this might be exactly what Iï¿½ve been looking for ...ï¿½ï¿½ ï¿½ Professor Alastor Moody",
             "effect": [
                 "Choose an Item or Event in play and discard it."
             ]
@@ -1946,7 +1946,7 @@
             ],
             "cost": 3,
             "rarity": "Common",
-            "flavorText": "‘“I want to be on the spot. Your last letter ... well, let’s just say things are getting fishier.”’ — Sirius Black",
+            "flavorText": "ï¿½ï¿½I want to be on the spot. Your last letter ... well, letï¿½s just say things are getting fishier.ï¿½ï¿½ ï¿½ Sirius Black",
             "effect": [
                 "Put a non-Healing Character card from your discard pile into your hand."
             ]
@@ -1970,7 +1970,7 @@
         {
             "Legality": "legal",
             "number": "99",
-            "name": "Report of Cauldron Thickness",
+            "name": "Report on Cauldron Thickness",
             "artist": "IrenHorrors",
             "type": [
                 "Spell"
@@ -1980,7 +1980,7 @@
             ],
             "cost": 4,
             "rarity": "Common",
-            "flavorText": "‘He wasn’t looking forward to being lectured on cauldron bottoms all through dinner.’",
+            "flavorText": "ï¿½He wasnï¿½t looking forward to being lectured on cauldron bottoms all through dinner.ï¿½",
             "effect": [
                 "Do 4 damage to an opponent. During that opponent's next turn, they may not use Actions to play Item cards."
             ]
@@ -2055,7 +2055,7 @@
             ],
             "cost": 10,
             "rarity": "Common",
-            "flavorText": "‘Harry’s heart gave a horrible jolt. Moody could see through Invisibility Cloaks ...’",
+            "flavorText": "ï¿½Harryï¿½s heart gave a horrible jolt. Moody could see through Invisibility Cloaks ...ï¿½",
             "effect": [
                 "Choose an opponent's card in play and return it to its owner's hand. That opponent reveals their hand. Choose up to 2 cards in their hand and discard them."
             ]
@@ -2098,7 +2098,7 @@
             ],
             "cost": 6,
             "rarity": "Common",
-            "flavorText": "‘“... something in the water grabbed me and pushed me back in the boat!”’ — Dennis Creevey",
+            "flavorText": "ï¿½ï¿½... something in the water grabbed me and pushed me back in the boat!ï¿½ï¿½ ï¿½ Dennis Creevey",
             "dmgEachTurn": 2,
             "health": 3,
             "effect": [
@@ -2184,7 +2184,7 @@
             ],
             "cost": 4,
             "rarity": "Common",
-            "flavorText": "‘It began to squirm, chuckling, and suddenly turned into a large green door handle.’",
+            "flavorText": "ï¿½It began to squirm, chuckling, and suddenly turned into a large green door handle.ï¿½",
             "effect": [
                 "Choose up to 5 non-Healing cards in your discard pile and shuffle them into your deck. If you have a [C] Lesson in play, draw 2 cards."
             ]
@@ -2205,7 +2205,7 @@
             ],
             "cost": 3,
             "rarity": "Common",
-            "flavorText": "‘“It was four feet long before his parents would let me shrink it!”’ — Arthur Weasley",
+            "flavorText": "ï¿½ï¿½It was four feet long before his parents would let me shrink it!ï¿½ï¿½ ï¿½ Arthur Weasley",
             "effect": [
                 "Until your next turn, opponents cannot use Actions to play Adventures. Draw a card."
             ]
@@ -2226,7 +2226,7 @@
             ],
             "cost": 2,
             "rarity": "Common",
-            "flavorText": "‘Standing at the sink, filling the kettle, he looked up at the Riddle House and saw lights glimmering in its upper windows.’",
+            "flavorText": "ï¿½Standing at the sink, filling the kettle, he looked up at the Riddle House and saw lights glimmering in its upper windows.ï¿½",
             "effect": [
                 "Do 4 damage to yourself. Choose an opponent's card in play and return it to their hand."
             ]
@@ -2247,7 +2247,7 @@
             ],
             "cost": 1,
             "rarity": "Uncommon",
-            "flavorText": "‘Hedwig had not approved of these flashy intruders ...’",
+            "flavorText": "ï¿½Hedwig had not approved of these flashy intruders ...ï¿½",
             "health": 1,
             "effect": [
                 "Before each of your turns, choose a Lesson type. This card provides 1 Power of that type until the end of your turn."
@@ -2266,7 +2266,7 @@
             ],
             "cost": 6,
             "rarity": "Uncommon",
-            "flavorText": "‘Full of fresh determination, he urged his broom through the turbulent air ...’",
+            "flavorText": "ï¿½Full of fresh determination, he urged his broom through the turbulent air ...ï¿½",
             "effect": [
                 "Do 4 damage to an opponent. If you have a [T] Lesson in play, choose a card type. That opponent chooses a card of that type they control and discards it."
             ]
@@ -2356,7 +2356,7 @@
         {
             "Legality": "legal",
             "number": "119",
-            "name": "Divinatino, Third Year",
+            "name": "Divination, Third Year",
             "artist": "EliRove",
             "type": [
                 "Lesson"
