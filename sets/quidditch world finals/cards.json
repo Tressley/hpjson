@@ -1,7 +1,25 @@
 {
     "setName": "Quidditch World Finals",
-    "totalCards": "11",
+    "totalCards": "14",
     "cards": [
+            {
+            "Legality": "legal",
+            "number": "4",
+            "name": "Death Eater",
+            "artist": "Paolo Maria Breda",
+            "type": [
+                "Character"
+            ],
+            "subTypes": [
+                "Wizard/Witch",
+                "Dark",
+                "Death Eater"
+            ],
+            "rarity": "Rare",
+            "effect": [
+                "Once per turn, you may use an Action to count the number of Death Eaters you have in play. Do that much damage to an opponent."
+            ]
+        },
         {
             "Legality": "legal",
             "number": "15",
@@ -18,6 +36,44 @@
             "effect": [
                 "Chose one:\n- Discard all Items from play\n- Discard all Characters from play\n- Discard all Events from play\n- Discard all Creatures from play\nYou may use an Action to repeat this effect."
             ]
+        },
+                {
+            "Legality": "legal",
+            "number": "16",
+            "name": "The Dark Mark",
+            "artist": "Paolo Maria Breda",
+            "type": [
+                "Item"
+            ],
+            "subTypes": [
+                "Dark"
+            ],
+            "lesson": [
+                "Potions"
+            ],
+            "cost": "5",
+            "rarity": "Rare",
+            "effect": [
+                "Once during each of your turns, you may do 3 damage to yourself. If you do, search your deck. You may take a Dark card from your deck, reveal it, and put it into your hand. Then shuffle your deck."
+            ]
+        },
+        {
+            "Legality": "legal",
+            "number": "27",
+            "name": "Campfire Stories",
+            "artist": "HogwartsHorror",
+            "type": [
+                "Event"
+            ],
+            "subTypes": [
+                "Unique"
+            ],
+            "lesson": [
+                "Charms"
+            ],
+            "cost": "8",
+            "rarity": "Uncommon",
+            "effect": "To play this card, you may discard any number of cards from your hand. This cards needs 1 less Power to play for each card discarded this way.\n\nBefore each of your turns, choose 1 based on the number of cards in your hand:\n-Less than 5 cards - draw a card.\n-At least 5 cards - do 3 damage to an opponent.\n-At least 8 cards - do 5 damage to an opponent."
         },
         {
             "Legality": "legal",
