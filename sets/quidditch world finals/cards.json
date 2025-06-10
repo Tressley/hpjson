@@ -39,9 +39,9 @@
         },
                 {
             "Legality": "legal",
-            "number": "35",
-            "name": "Merchandise Cart",
-            "artist": "Nimphradora",
+            "number": "16",
+            "name": "The Dark Mark",
+            "artist": "Paolo Maria Breda",
             "type": [
                 "Item"
             ],
@@ -74,7 +74,7 @@
             "cost": "8",
             "rarity": "Uncommon",
             "effect": "To play this card, you may discard any number of cards from your hand. This cards needs 1 less Power to play for each card discarded this way.\n\nBefore each of your turns, choose 1 based on the number of cards in your hand:\n-Less than 5 cards - draw a card.\n-At least 5 cards - do 3 damage to an opponent.\n-At least 8 cards - do 5 damage to an opponent."
-        }
+        },
         {
             "Legality": "legal",
             "number": "28",
