@@ -38,7 +38,7 @@ def clean_adventure_cards(cards):
                 ]
                 # If it cleaned the card, this will print out which card was cleaned and then add 1 to the changes_made to keep track
                 if len(new_effect) != len(card["effect"]):
-                    print(f"Cleaning Adventure card: {card["name"]}")
+                    print(f"Cleaning Adventure card: {card['name']}")
                     card["effect"] = new_effect
                     changes_made +=1
     print(f"Cleaned {changes_made} Adventure cards") # Prints out how many adventure cards were cleaned
@@ -144,13 +144,13 @@ for card in all_cards: # Checks every card in all cards
     card_key = get_card_key(card) # Creates a special key for each card
 
     if card_key not in existing_keys: # If the special key is not in the existing keys of the main cards.json cards run this
-        print(f"Found new card: {card["name"]} (from {card["setName"]})")
+        print(f"Found new card: {card['name']} (from {card['setName']})")
         new_cards.append(card) # Add new card to new cards array
         existing_dict[card_key] = card
     else:
         existing_card = existing_dict[card_key]
         if card != existing_card:
-            print(f"Updated card: {card["name"]} (from {card["setName"]})")
+            print(f"Updated card: {card['name']} (from {card['setName']})")
             updated_cards.append(card)
             existing_dict[card_key] = card
 
@@ -171,9 +171,11 @@ with open("cards.js", 'w', encoding='utf-8') as f: # Open the main cards.js file
 
 # -------------------------------- Confirmation -------------------------------- #
 
-
-print(f"✅ Added {len(new_cards)} new cards.") # Prints how many new cards were added
-
-print(f"✅ Updated {len(updated_cards)} existing cards.") # Prints how many new cards were added
+try: # some OS don't like the ✅
+    print(f"✅ Added {len(new_cards)} new cards.") # Prints how many new cards were added
+    print(f"✅ Updated {len(updated_cards)} existing cards.") # Prints how many new cards were added
+except Exception:
+    print(f"Added {len(new_cards)} new cards.")  # Prints how many new cards were added
+    print(f"Updated {len(updated_cards)} existing cards.")  # Prints how many new cards were added
 
 print("Export complete, cards.js and cards.json") # Print out a line to notify of script completion
