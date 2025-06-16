@@ -532,14 +532,6 @@
     {
         "date": "2020-07-31",
         "source": "Revival",
-        "ruling": "Armando only triggers once each turn, and only at the end of your turn, regardless of how many House cards you play.",
-        "cards": [
-            "Armando Dippet"
-        ]
-    },
-    {
-        "date": "2020-07-31",
-        "source": "Revival",
         "ruling": "No card in the discard pile may leave the discard pile, be played from the discard pile, or be chosen as a target by another card. Cards like Reparo, Remembrall, and Healing cards would not be able to be played/activated since you cannot complete everything on the card.",
         "cards": [
             "Chamber of Secrets"
@@ -748,7 +740,8 @@
         "source": "Revival",
         "ruling": "There are 5 Lesson types: Care of Magical Creatures, Charms, Potions, Quidditch, and Transfiguration.",
         "cards": [
-            "Tom Marvolo Riddle"
+            "Tom Marvolo Riddle",
+            "Lantern Lit Trail"
         ]
     },
     {
@@ -819,7 +812,14 @@
         "date": "2020-07-31",
         "source": "Revival",
         "ruling": "To play a card as if it were in your hand, you must have the requisite Lesson Power, number of Lessons in play, and available Actions to use to play the card",
-        "cards": []
+        "cards": [
+            "Break with a Banshee",
+            "Gadding with Ghouls",
+            "Holidays with Hags",
+            "Magical Me",
+            "Voyages with Vampires",
+            "Model Broomstick"
+        ]
     },
     {
         "date": "2020-07-31",
@@ -1415,7 +1415,8 @@
         "ruling": "Using an Action to repeat this effect is part of the Spell. When you are done repeating this effect, you then put the Spell card into your discard pile. You cannot use this Spell’s effect later unless you play it again.",
         "cards": [
             "Inheriting the Map",
-            "Broaden Your Minds"
+            "Broaden Your Minds",
+            "Rain of Bludgers"
         ]
     },
     {
@@ -2143,6 +2144,152 @@
         "ruling": "Lessons, Characters and Adventures do not have a Lesson type. If one of those is discarded, Bewitched Ceiling does not provide power.",
         "cards": [
             "Bewitched Ceiling"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "Myrtle’s entire effect is the Once per game effect. If you use Good Night’s Sleep on Myrtle and choose the same card, there is a second instance of 8 damage on the chosen card.",
+        "cards": [
+            "Moaning Myrtle"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "Death Eater is both a Wizard and a Witch.",
+        "cards": [
+            "Death Eater"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "The two abilities of drawing a card and putting a Lesson into play are separate abilities. You can do both, just one, or neither. However, you must resolve the abilities in the order written on the card.",
+        "cards": [
+            "Lynch, Irish Seeker"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "The card your opponent plays that loses its effect and is discarded does not enter play. It goes directly to their discard pile.",
+        "cards": [
+            "Winky"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "You must have a card in your hand to discard to play Billywig. To play a card, you must be able to do everything on the card.",
+        "cards": [
+            "Billywig"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "If you do not discard an opponent’s Item from play, there is no opponent that has been chosen, and thus you will not do 2 damage to that opponent.",
+        "cards": [
+            "Bundimun"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "A Lesson is a Lesson type if it provides Power. If a Lesson does not provide Power, it has no Lesson type.",
+        "cards": [
+            "Lantern Lit Trail"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "If you have 0 cards in your hand, this card will do 0 damage.",
+        "cards": [
+            "Wizard Robes"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "When choosing to divide damage, first choose which Creatures and how much damage you want to put on each Creature, then damage is put on all Creatures at the same time.",
+        "cards": [
+            "Aurors Arrives",
+            "Veela Fireballs"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "The Item this card makes you discard cannot be the Item you played to trigger this effect.",
+        "cards": [
+            "Tents Ablaze"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "If your opponent uses a card like Winky to discard the Item you would play with Broomstick Servicing Kit and the Item was a Broom, you do not get an additional Action because the Broom was not played.",
+        "cards": [
+            "Broomstick Servicing Kit"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "If a player wants to look at the top card of their deck, they must tell their opponent. This is considered performing a game action and should be announced in the same way that playing a card or activating a card ability would be announced.",
+        "cards": [
+            "Quidditch Stadium"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "You cannot play any card that Wins you a Match without completing the “To Win” clause as you cannot complete everything on the card (Catch the Snitch, Swallowed Snitch, No Hands).",
+        "cards": [
+            "World Cup Match"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "If Chamber of Secrets is in play, Hanging Shamrocks will not return to your hand. It goes to the discard pile, and then Chamber of Secrets stops it from leaving your discard pile.",
+        "cards": [
+            "Hanging Shamrocks"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "You still need Power that Matches and the correct amount of Power to play the card.",
+        "cards": [
+            "Model Broomstick",
+            "Box of Portkeys"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "See \"Activated Effects\" in the rules.",
+        "cards": [
+            "Muggle Artifacts"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "You may play an Item card even if you don't have the correct Lesson type in play.",
+        "cards": [
+            "Touring the Tents"
+        ]
+    },
+    {
+        "date": "2025-06-16",
+        "source": "Revival",
+        "ruling": "See \"Copying\" in the rules.",
+        "cards": [
+            "Trick Wand"
         ]
     }
 ]

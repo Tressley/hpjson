@@ -12564,13 +12564,7 @@
         "releaseDate": "07-2020",
         "imgSrc": "ArmandoDippet.png",
         "horizontal": true,
-        "rulings": [
-            {
-                "date": "2020-07-31",
-                "source": "Revival",
-                "ruling": "Armando only triggers once each turn, and only at the end of your turn, regardless of how many House cards you play."
-            }
-        ]
+        "rulings": []
     },
     {
         "number": "4",
@@ -12985,6 +12979,11 @@
                 "date": "2020-07-31",
                 "source": "Revival",
                 "ruling": "If Myrtle leaves play before the chosen card is discarded, no damage will be dealt when the card leaves play. "
+            },
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "Myrtle\u2019s entire effect is the Once per game effect. If you use Good Night\u2019s Sleep on Myrtle and choose the same card, there is a second instance of 8 damage on the chosen card."
             }
         ]
     },
@@ -13368,6 +13367,11 @@
                 "date": "2020-07-31",
                 "source": "Revival",
                 "ruling": "If a card would increase the cost of a card beyond 2, you may still choose the card, as Lockhart\u2019s Books look at the printed Power cost of the chosen card, not altered cost. "
+            },
+            {
+                "date": "2020-07-31",
+                "source": "Revival",
+                "ruling": "To play a card as if it were in your hand, you must have the requisite Lesson Power, number of Lessons in play, and available Actions to use to play the card"
             }
         ]
     },
@@ -13566,6 +13570,11 @@
                 "date": "2020-07-31",
                 "source": "Revival",
                 "ruling": "If a card would increase the cost of a card beyond 2, you may still choose the card, as Lockhart\u2019s Books look at the printed Power cost of the chosen card, not altered cost. "
+            },
+            {
+                "date": "2020-07-31",
+                "source": "Revival",
+                "ruling": "To play a card as if it were in your hand, you must have the requisite Lesson Power, number of Lessons in play, and available Actions to use to play the card"
             }
         ]
     },
@@ -13651,6 +13660,11 @@
                 "date": "2020-07-31",
                 "source": "Revival",
                 "ruling": "If a card would increase the cost of a card beyond 2, you may still choose the card, as Lockhart\u2019s Books look at the printed Power cost of the chosen card, not altered cost. "
+            },
+            {
+                "date": "2020-07-31",
+                "source": "Revival",
+                "ruling": "To play a card as if it were in your hand, you must have the requisite Lesson Power, number of Lessons in play, and available Actions to use to play the card"
             }
         ]
     },
@@ -13760,6 +13774,11 @@
                 "date": "2020-07-31",
                 "source": "Revival",
                 "ruling": "If a card would increase the cost of a card beyond 2, you may still choose the card, as Lockhart\u2019s Books look at the printed Power cost of the chosen card, not altered cost. "
+            },
+            {
+                "date": "2020-07-31",
+                "source": "Revival",
+                "ruling": "To play a card as if it were in your hand, you must have the requisite Lesson Power, number of Lessons in play, and available Actions to use to play the card"
             }
         ]
     },
@@ -13967,6 +13986,11 @@
                 "date": "2020-07-31",
                 "source": "Revival",
                 "ruling": "If a card would increase the cost of a card beyond 2, you may still choose the card, as Lockhart\u2019s Books look at the printed Power cost of the chosen card, not altered cost. "
+            },
+            {
+                "date": "2020-07-31",
+                "source": "Revival",
+                "ruling": "To play a card as if it were in your hand, you must have the requisite Lesson Power, number of Lessons in play, and available Actions to use to play the card"
             }
         ]
     },
@@ -23174,7 +23198,13 @@
         "releaseDate": "06-2025",
         "imgSrc": "RainofBludgers.png",
         "horizontal": false,
-        "rulings": []
+        "rulings": [
+            {
+                "date": "2022-11-03",
+                "source": "Revival",
+                "ruling": "Using an Action to repeat this effect is part of the Spell. When you are done repeating this effect, you then put the Spell card into your discard pile. You cannot use this Spell\u2019s effect later unless you play it again."
+            }
+        ]
     },
     {
         "Legality": "legal",
@@ -23199,6 +23229,10 @@
         "type": [
             "Item"
         ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "2",
         "rarity": "Uncommon",
         "effect": [
             "Before each of your turns, draw 2 cards, then discard 2 cards from your hand."
@@ -23223,7 +23257,7 @@
         "cost": "8",
         "rarity": "Uncommon",
         "effect": [
-            "Once during each of your turns, whenever 1 of your non-Lesson cards is discarded from play, you get 1 more Action this turn."
+            "Once during each of your turns, whenever another 1 of your non-Lesson cards is discarded from play, you get 1 more Action this turn."
         ],
         "setName": "Quidditch World Finals",
         "releaseDate": "06-2025",
@@ -23235,7 +23269,7 @@
         "Legality": "legal",
         "number": "48",
         "name": "Billywig",
-        "artist": "Unknown",
+        "artist": "maryquize",
         "type": [
             "Creature"
         ],
@@ -23256,7 +23290,13 @@
         "releaseDate": "06-2025",
         "imgSrc": "Billywig.png",
         "horizontal": true,
-        "rulings": []
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "You must have a card in your hand to discard to play Billywig. To play a card, you must be able to do everything on the card."
+            }
+        ]
     },
     {
         "Legality": "legal",
@@ -23277,7 +23317,7 @@
         "dmgEachTurn": "1",
         "health": "1",
         "effect": [
-            "When this card is discarded from play, draw a card."
+            "When you play this card, search your deck. You may take a Beater, Chaser, Keeper, or Seeker card, reveal it, and put it into your hand. Then shuffle your deck.\n\nYou may use an Action and discard this card from play to draw 3 cards."
         ],
         "setName": "Quidditch World Finals",
         "releaseDate": "06-2025",
@@ -23298,14 +23338,21 @@
         ],
         "cost": "1",
         "rarity": "Common",
+        "flavorText": "\u2018They had walked into a patch of tents that were all covered with a thick growth of shamrocks...'",
         "effect": [
-            "When you play this card, draw a card, then discard a card from your hand.\n\nIf this card is discarded from play, put it into your hand"
+            "When you play this card, draw a card, then discard a card from your hand.\n\nWhen this card is discarded from play, put it into your hand"
         ],
         "setName": "Quidditch World Finals",
         "releaseDate": "06-2025",
         "imgSrc": "HangingShamrocks.png",
         "horizontal": true,
-        "rulings": []
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "If Chamber of Secrets is in play, Hanging Shamrocks will not return to your hand. It goes to the discard pile, and then Chamber of Secrets stops it from leaving your discard pile."
+            }
+        ]
     },
     {
         "Legality": "legal",
@@ -23315,13 +23362,17 @@
         "type": [
             "Spell"
         ],
+        "subTypes": [
+            "Dark"
+        ],
         "lesson": [
             "Potions"
         ],
         "cost": "4",
         "rarity": "Common",
+        "flavorText": "\u201cGranger, they\u2019re after Muggles,\u201d said Malfoy. \u201cD\u2019you want to be showing off your knickers in midair? Because if you do, hang around . . . they\u2019re moving this way, and it would give us all a laugh.\u201d",
         "effect": [
-            "Do 2 damage to yourself. Do 5 damage to an opponent."
+            "Do 2 damage to yourself.\nDo 5 damage to an opponent."
         ],
         "setName": "Quidditch World Finals",
         "releaseDate": "06-2025",
@@ -23333,7 +23384,7 @@
         "Legality": "legal",
         "number": "80",
         "name": "Rennervate",
-        "artist": "Dina M. Nealy",
+        "artist": "Dina M. Nealey",
         "type": [
             "Spell"
         ],
@@ -23345,6 +23396,7 @@
         ],
         "cost": "6",
         "rarity": "Common",
+        "flavorText": "\u2018Winky stirred feebly. Her great brown eyes opened and she\nblinked several times in a bemused sort of way.'",
         "effect": [
             "To play this card, return 1 of your P Lessons from play to your hand. Shuffle up to 9 non-Healing cards from your discard pile into your deck."
         ],
@@ -23362,11 +23414,15 @@
         "type": [
             "Spell"
         ],
+        "subTypes": [
+            "Unique"
+        ],
         "lesson": [
             "Quidditch"
         ],
         "cost": "6",
         "rarity": "Common",
+        "flavorText": "\u2018Harry spun a small dial on the side of his Omnioculars and slowed the players down enough to read the word \u201cFirebolt\u201d on each of their brooms and see their names, embroidered in silver, upon their backs.'",
         "effect": [
             "Do 5 damage to an opponent. If there is a Match in play, the first card that requires Power that opponent plays on their next turn needs 3 more Power to play."
         ],
@@ -23389,6 +23445,7 @@
         ],
         "cost": "4",
         "rarity": "Common",
+        "flavorText": "\u2018\u201cMaster \u2014 master wants me to save him a seat, Harry Potter.\nHe is very busy.\" -Winky'",
         "effect": [
             "Do 4 damage to an opponent. If you have drawn at least 3 cards this turn, instead do 7 damage to an opponent."
         ],
@@ -23407,11 +23464,12 @@
             "Character"
         ],
         "subTypes": [
-            "Wizard/Witch",
             "Dark",
-            "Death Eater"
+            "Death Eater",
+            "Wizard/Witch"
         ],
         "rarity": "Rare",
+        "flavorText": "\u2018\u201cIt\u2019s what You-Know-Who\u2019s supporters called themselves,\u201d said Bill.'",
         "effect": [
             "Once per turn, you may use an Action to count the number of Death Eaters you have in play. Do that much damage to an opponent."
         ],
@@ -23419,7 +23477,13 @@
         "releaseDate": "06-2025",
         "imgSrc": "DeathEater.png",
         "horizontal": true,
-        "rulings": []
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "Death Eater is both a Wizard and a Witch."
+            }
+        ]
     },
     {
         "Legality": "legal",
@@ -23437,7 +23501,9 @@
         ],
         "cost": "8",
         "rarity": "Uncommon",
-        "effect": "To play this card, you may discard any number of cards from your hand. This cards needs 1 less Power to play for each card discarded this way.\n\nBefore each of your turns, choose 1 based on the number of cards in your hand:\n-Less than 5 cards - draw a card.\n-At least 5 cards - do 3 damage to an opponent.\n-At least 8 cards - do 5 damage to an opponent.",
+        "effect": [
+            "To play this card, you may discard any number of cards from your hand. This card needs 1 less Power to play for each card discarded this way.\n\nBefore each of your turns, choose 1 based on the number of cards in your hand:\nLess than 5 cards - Draw a card.\nAt least 5 cards - Do 3 damage to an opponent.\nAt least 8 cards - Do 5 damage to an opponent."
+        ],
         "setName": "Quidditch World Finals",
         "releaseDate": "06-2025",
         "imgSrc": "CampfireStories.png",
@@ -23468,5 +23534,1932 @@
         "imgSrc": "TheDarkMark.png",
         "horizontal": true,
         "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "1",
+        "name": "Barty Crouch",
+        "artist": "Brenna-Ivy Art",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Wizard",
+            "Ministry",
+            "Unique "
+        ],
+        "rarity": "Rare",
+        "flavorText": "Barty Crouch was a stiff, upright, elderly man, dressed in an ipeccably crisp suit and tie.'",
+        "effect": [
+            "Before each oppponent's turns, they may discard 1 of their Lessons from play. If they do not, your cards in play cannot be chosen until the end of the turn."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "BartyCrouch.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "2",
+        "name": "Bulgaria Scores",
+        "artist": "Unknown",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "12",
+        "rarity": "Rare",
+        "flavorText": "\u2018...and score Bulgaria\u2019s first goal...'",
+        "effect": [
+            "Do 14 damage to an opponent.\nWhen you build your deck, you can only put 1 Bulgaria Scores in it."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "BulgariaScores.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "3",
+        "name": "Connolly and Quigley, Irish Beaters",
+        "artist": "Ming Sukiyaki",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Wizard",
+            "Beater",
+            "Ireland",
+            "Unique "
+        ],
+        "rarity": "Rare",
+        "flavorText": "\u2018The Irish Beater Quigley swung heavily at a passing Bludger.'",
+        "effect": [
+            "Once per turn, when you play a [Q] Spell with printed Power cost 8 or more, you may discard a [Q] card from your hand. If you do, choose an opponent's non-Lesson card in play and discard it."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "ConnollyandQuigleyIrishBeaters.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "5",
+        "name": "Fleeing the Grounds",
+        "artist": "Nasak Chancharoen",
+        "type": [
+            "Adventure"
+        ],
+        "rarity": "Rare",
+        "effect": [
+            "Before each of your turns, your opponent chooses 1 of their non-Lesson cards in play and puts it on the bottom of their deck."
+        ],
+        "toSolve": "Your opponent puts 3 cards from their hand on the bottom of their deck or they take 7 damage.",
+        "reward": "Your opponent may choose 1 of your cards in play and return it to its owner's hand.",
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "FleeingtheGrounds.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "6",
+        "name": "Ginny, Youngest Weasley",
+        "artist": "Pika-la-Cynique",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Witch",
+            "Gryffindor",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "flavorText": "\u2018The other, who was small and red-haired, was Ron\u2019s younger sister.'",
+        "effect": [
+            "The first time each turn 1 of your cards is discarded from play, you may draw 2 cards."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "GinnyYoungestWeasley.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "7",
+        "name": "Green Comet Leprechauns",
+        "artist": "maryquize",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Leprechaun"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "11",
+        "rarity": "Rare",
+        "flavorText": "\u2018The great shamrock dissolved, the leprechauns drifted down onto the field on the opposite side from the veela...'",
+        "dmgEachTurn": "6",
+        "health": "6",
+        "effect": [
+            "To play this card, discard 1 of your F Lessons from play. When you play this card, you get 2 more Actions this turn. You may only play 1 Green Comet Leprechauns per turn."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "GreenCometLeprechauns.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "8",
+        "name": "Krum, Bulgarian Seeker",
+        "artist": "Ari",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Wizard",
+            "Bulgaria",
+            "Seeker",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "flavorText": "\u2018Viktor Krum was thin, dark, and sallow-skinned, with a large curved nose and thick black eyebrows. He looked like an over-grown bird of prey. It was hard to believe he was only eighteen.'",
+        "effect": [
+            "Once per turn, whenever you discard 1 of your cards from play, your cards need 2 less Power to play until the end of the turn. (You still need at least 1 Power that matches.)"
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "KrumBulgarianSeeker.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "9",
+        "name": "Krum's Firebolt",
+        "artist": "Anne Borges",
+        "type": [
+            "Item"
+        ],
+        "subTypes": [
+            "Broom",
+            "Unique"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "7",
+        "rarity": "Rare",
+        "effect": [
+            "Once per turn, whenever you use an Action to play a Q card with printed Power cost of 8 or more, you get 1 more Action that turn."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "KrumsFirebolt.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "10",
+        "name": "Lantern Lit Trail",
+        "artist": "Pikabyunn",
+        "type": [
+            "Location"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "4",
+        "rarity": "Rare",
+        "flavorText": "\u2018And then a deep, booming gong sounded somewhere beyond the woods, and at once, green and red lanterns blazed into life in the trees, lighting a path to the field.'",
+        "effect": [
+            "Before each player's turn, they count the number of Lesson types they have in play. They draw that many cards."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "LanternLitTrail.png",
+        "horizontal": true,
+        "rulings": [
+            {
+                "date": "2020-07-31",
+                "source": "Revival",
+                "ruling": "There are 5 Lesson types: Care of Magical Creatures, Charms, Potions, Quidditch, and Transfiguration."
+            },
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "A Lesson is a Lesson type if it provides Power. If a Lesson does not provide Power, it has no Lesson type."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "11",
+        "name": "Ludo Bagman",
+        "artist": "Nat",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Ministry",
+            "Wizard",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "flavorText": "\u2018He had the look of a powerfully built man gone slightly to seed; the robes were stretched tightly across a large belly he surely had not had in the days when he had played Quidditch for England.'",
+        "effect": [
+            "Before each of your turns, if an opponent drew more than 1 card during their last turn, you may draw 3 cards."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "LudoBagman.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "12",
+        "name": "Lynch, Irish Seeker",
+        "artist": "GeoCaecias",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "effect": [
+            "At the end of each of your turns, if you played a [Q] Spell that turn, you may draw a card, and then you may put 1 [Q] Lesson from your hand into play."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "LynchIrishSeeker.png",
+        "horizontal": true,
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "The two abilities of drawing a card and putting a Lesson into play are separate abilities. You can do both, just one, or neither. However, you must resolve the abilities in the order written on the card."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "13",
+        "name": "Melee of the Mascots",
+        "artist": "Marine Lannoy",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "8",
+        "rarity": "Rare",
+        "flavorText": "\u2018Ministry wizards were flooding onto the field to separate the veela and the leprechauns, but with little success'",
+        "effect": [
+            "Whenever 1 of your Creatures is discarded from play, that Creature does damage to an opponent equal to its damage per turn."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "MeleeoftheMascots.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "14",
+        "name": "Omnioculars",
+        "artist": "oixxo",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "4",
+        "rarity": "Rare",
+        "effect": [
+            "The first time each turn an opponent would gain any Actions, instead you draw a card."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Omnioculars.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "17",
+        "name": "Touring the Tents",
+        "artist": "Nasak Chancharoen",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "4",
+        "rarity": "Rare",
+        "effect": [
+            "Before each of your turns, you may put an Item card from your hand with printed Power cost less than or equal to your Power into play."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "TouringtheTents.png",
+        "horizontal": true,
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "You may play an Item card even if you don't have the correct Lesson type in play."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "18",
+        "name": "Winky",
+        "artist": "Brenna-Ivy Art",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "House-elf",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "flavorText": "\u2018The creature, whose legs were so short they stuck out in front of it on the chair, was wearing a tea towel draped like a toga, and it had its face hidden in its hands.'",
+        "effect": [
+            "Once per game, when an opponent would play a card, you may discard 3 cards from your hand. If you do, instead that card loses all abilites and is discarded."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Winky.png",
+        "horizontal": true,
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "The card your opponent plays that loses its effect and is discarded does not enter play. It goes directly to their discard pile."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "19",
+        "name": "Winky's Thievery",
+        "artist": "VanishingShmink",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "6",
+        "rarity": "Rare",
+        "flavorText": "\u2018I is not doing magic with it, sir!\u201d squealed Winky, tears streaming down the sides of her squashed and bulbous nose.'",
+        "effect": [
+            "To play this card, discard 1 of your P Lessons from play. Take control of an opponents card in play (except their starting Character) until the beginning of your next turn."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "WinkysThievery.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "20",
+        "name": "Winners' Celebration",
+        "artist": "Vladislav Pantic",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "7",
+        "rarity": "Rare",
+        "flavorText": "\u2018Raucous singing was borne toward them on the night air as they retraced their steps along the lantern-lit path, and leprechauns kept shooting over their heads, cackling and waving their lanterns.'",
+        "effect": [
+            "The first time an opponent draws 1 or more cards each turn, except during their draw step, they take that much damage."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "WinnersCelebration.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "21",
+        "name": "World Cup Match",
+        "artist": "Roro Videla",
+        "type": [
+            "Match"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "1",
+        "rarity": "Rare",
+        "effect": [
+            "This Match can only be won by its \"To Win\" clause.",
+            "to win: Do 17 damage to opponents.",
+            "prize: The winner gets 1 more Action on each of their turns for the rest of the game (including the turn this Match is won)."
+        ],
+        "toWin": "Do 17 damage to opponents.",
+        "prize": "The winner gets 1 more Action on each of their turns for the rest of the game (including the turn this Match is won).",
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "WorldCupMatch.png",
+        "horizontal": true,
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "You cannot play any card that Wins you a Match without completing the \u201cTo Win\u201d clause as you cannot complete everything on the card (Catch the Snitch, Swallowed Snitch, No Hands)."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "22",
+        "name": "Zograf, Bulgarian Keeper",
+        "artist": "Jenny Dolfen",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Wizard",
+            "Keeper",
+            "Bulgaria",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "flavorText": "\u2018As Mullet shot toward the goal posts yet again, clutching the Quaffle tightly under her arm, the Bulgarian Keeper, Zograf, flew out to meet her.'",
+        "effect": [
+            "Once per game, when an opponent's card does damage to you, you may prevent that damage."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "ZografBulgarianKeeper.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "23",
+        "name": "Aurors Arrive",
+        "artist": "UpTheHill",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "6",
+        "rarity": "Uncommon",
+        "effect": [
+            "To play this card, discard 1 of your P Lessons from play.\nDo 4 damage divided as you choose among any number of players and/or Creatures."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "AurorsArrive.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "24",
+        "name": "Bagman's Deception",
+        "artist": "KAmmons",
+        "type": [
+            "Adventure"
+        ],
+        "rarity": "Uncommon",
+        "flavorText": "\u2018For Fred and George had just scrambled over the backs of their seats and were standing in front of Luda Bagman with broad grins on their faces, their hands outstretched.'",
+        "effect": [
+            "Your opponent cannot make progress toward a Match or win a Match."
+        ],
+        "toSolve": "Your opponent skips a total of 4 Actions.",
+        "reward": "You take 4 damage.",
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "BagmansDeception.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "25",
+        "name": "Broomstick Servicing Kit",
+        "artist": "oixxo",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "5",
+        "rarity": "Uncommon",
+        "effect": [
+            "During your turn, you may discard this card from play. If you do, play a Q Item from your discard pile as if it were in your hand. If that Item was a Broom, you get 1 more Action this turn."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "BroomstickServicingKit.png",
+        "horizontal": true,
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "If your opponent uses a card like Winky to discard the Item you would play with Broomstick Servicing Kit and the Item was a Broom, you do not get an additional Action because the Broom was not played."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "26",
+        "name": "Bundimun",
+        "artist": "maryquize",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Bundimun"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "6",
+        "rarity": "Uncommon",
+        "dmgEachTurn": "2",
+        "health": "2",
+        "effect": [
+            "To play this card, discard 1 of your F Lessons from play. \nWhen you play this card, you may choose an opponent's Item in play and discard it. Then do 2 damage to that opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Bundimun.png",
+        "horizontal": true,
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "If you do not discard an opponent\u2019s Item from play, there is no opponent that has been chosen, and thus you will not do 2 damage to that opponent."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "28",
+        "name": "Dreams of Flying",
+        "artist": "Rhys",
+        "type": [
+            "Adventure"
+        ],
+        "rarity": "Uncommon",
+        "effect": [
+            "At the end of each of your turns, search your deck. You may take a [Q] Lesson from your deck and put it into play. Then shuffle your deck."
+        ],
+        "toSolve": "Your opponent discard 5 of their cards from their hand and/or in play.",
+        "reward": "You take 2 damage and your opponent may draw 2 cards.",
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "DreamsofFlying.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "29",
+        "name": "Erumpent",
+        "artist": "maryquize",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Erumpent"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "8",
+        "rarity": "Uncommon",
+        "dmgEachTurn": "4",
+        "health": "2",
+        "effect": [
+            "Once during each of your turns, when this card does damage to an opponent, you may discard another 1 of your Creatures from play. If you do, this card does 4 damage to that opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Erumpent.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "30",
+        "name": "Inside the Tent",
+        "artist": "Murph3",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "8",
+        "rarity": "Uncommon",
+        "effect": [
+            "Choose one. If you have at least 5 Items in play, instead you may choose both.\n-Draw 3 cards. Then each opponent draws 3 cards.\n-You gain 2 more Actions this turn.\n\nYou may only play one Inside the Tent per turn."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "InsidetheTent.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "31",
+        "name": "Krum Catches the Snitch",
+        "artist": "Nasak Chancharoen",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "4",
+        "rarity": "Uncommon",
+        "flavorText": "\u2018\u201cKRUM GETS THE SNITCH \u2014 BUT IRELAND WINS \u2014 good lord, I don\u2019t think any of us were expecting that!'",
+        "effect": [
+            "When you play this card, choose a card type. Whenever an opponent uses an Action to play a card of the chosen type, you may draw a card."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "KrumCatchestheSnitch.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "32",
+        "name": "Leprechaun",
+        "artist": "charco",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Leprechaun"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "4",
+        "rarity": "Uncommon",
+        "flavorText": "\u2018Squinting up at the shamrock, Harry realized that it was actually comprised of thousands of tiny little bearded men with red vests, each carrying a minute lamp of gold or green.'",
+        "dmgEachTurn": "2",
+        "health": "1",
+        "effect": [
+            "When this card does damage to an opponent, you may discard it from play. If you do, you get 1 more Action this turn."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Leprechaun.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "34",
+        "name": "Meeting Diggory",
+        "artist": "HogwartsHorror",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "5",
+        "rarity": "Uncommon",
+        "flavorText": "\u2018Mr. Weasley was shaking hands with a ruddy-faced wizard with a scrubby brown beard, who was holding a moldy-looking old boot in his other hand.'",
+        "effect": [
+            "Do 2 damage to an opponent. You may also choose a Creature in play and do 2 damage to it. Then draw 2 cards."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "MeetingDiggory.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "36",
+        "name": "Muggle Marionettes",
+        "artist": "eihposnostam",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Dark",
+            "Unique"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "4",
+        "rarity": "Uncommon",
+        "flavorText": "\u2018High above them, floating along in midair, four struggling figures were being contorted into grotesque shapes.'",
+        "effect": [
+            "When you play this card, do 2 damage to yourself. Then choose a Character an opponent controls. \n\nBefore that opponent's turn, they may take 4 damage. If they do not, that Character loses all abilities until the end of that turn."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "MuggleMarionettes.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "37",
+        "name": "Porskoff Ploy",
+        "artist": "zarin-a",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "12",
+        "rarity": "Uncommon",
+        "flavorText": "\u2018Troy made as though to dart upward with the Quaffle, drawing away the Bulgarian Chaser Ivanova and dropping the Quaffle to Moran.'",
+        "effect": [
+            "Count the number of Q Spells in your discard pile with printed Power cost 8 or more. Do that much damage to your opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "PorskoffPloy.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "38",
+        "name": "Portkey",
+        "artist": "Nasak Chancharoen",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "8",
+        "rarity": "Uncommon",
+        "effect": [
+            "Choose an Event or Location in play and discard it. Search your deck or discard pile. You may take a non-Healing Event or Location with printed Power cost less than or equal to your Power and put it into play. Then shuffle your deck."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Portkey.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "39",
+        "name": "Quick Camp Kit",
+        "artist": "oixxo",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "5",
+        "rarity": "Uncommon",
+        "effect": [
+            "Before each of your turns, you may draw a card for each other Item you have in play."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "QuickCampKit.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "40",
+        "name": "Quidditch Stadium",
+        "artist": "Pottermore",
+        "type": [
+            "Location"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "5",
+        "rarity": "Uncommon",
+        "flavorText": "\u2018A hundred thousand witches and wizards were taking their places in the seats, which rose in levels around the long oval field.'",
+        "effect": [
+            "Players may look at the top card of their deck anytime.\n\nPlayers may play Q cards from the top of their deck as if they were in their hand."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "QuidditchStadium.png",
+        "horizontal": true,
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "If a player wants to look at the top card of their deck, they must tell their opponent. This is considered performing a game action and should be announced in the same way that playing a card or activating a card ability would be announced."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "41",
+        "name": "Swelling Slug",
+        "artist": "maryquize",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Snail"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "5",
+        "rarity": "Uncommon",
+        "dmgEachTurn": "*",
+        "health": "2",
+        "effect": [
+            "Whenever you draw 1 or more cards, except during your draw step, put a counter on this card. This card's damage per turn is equal to the number of counters on it."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "SwellingSlug.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "42",
+        "name": "Tents Ablaze",
+        "artist": "cobaltplasma",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Dark",
+            "Unique"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "5",
+        "rarity": "Uncommon",
+        "flavorText": "\u2018Once or twice Harry saw one of the marchers blast a tent out of his way with his wand. Several caught fire. The screaming grew louder.'",
+        "effect": [
+            "To play this card, discard 1 of your P Lessons from play. Whenever an opponent uses an Action to play an Item, if they have any other Items in play, they choose 1 of them and discard it."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "TentsAblaze.png",
+        "horizontal": true,
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "The Item this card makes you discard cannot be the Item you played to trigger this effect."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "43",
+        "name": "Tough Beaters",
+        "artist": "Alivewhenever",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "10",
+        "rarity": "Uncommon",
+        "effect": [
+            "Choose 1. If you have at least 2 [Q] cards in play, instead choose up to 2:\n- Choose an opponent. During their next turn, prevent the next 6 damage done to you.\n- Do 4 damage to an opponent. Draw 4 cards.\n- Choose a card type. Each opponent chooses 1 of their cards of that type in play and discards it."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "ToughBeaters.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "44",
+        "name": "Wide Awake with Worry",
+        "artist": "MioneBookworm",
+        "type": [
+            "Spell"
+        ],
+        "subTypes": [
+            "Dark"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "5",
+        "rarity": "Uncommon",
+        "effect": [
+            "Do 4 damage to an opponent.\n\nAt the end of each of your turns, if this card is in your discard pile and you took damage that turn, you may put this card into your hand. You may only return 1 Wide Awake With Worry from your discard pile to your hand this way each turn."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "WideAwakewithWorry.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "45",
+        "name": "Wronski Feint",
+        "artist": "karn_leopold",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "4",
+        "rarity": "Uncommon",
+        "flavorText": "\u2018He saw Krum\u2019s face contorted with concentration as he pulled out of the dive just in time, while Lynch was flattened, and he understood \u2014 Krum hadn\u2019t seen the Snitch at all, he was just making Lynch copy him.'",
+        "effect": [
+            "Do 4 damage to an opponent. You get 1 more Action this turn. You can only play 1 Wronski Feint each turn."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "WronskiFeint.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "46",
+        "name": "Alluring Dance",
+        "artist": "gerre",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "flavorText": "\u2018The veela had started to dance, and Harry\u2019s mind had gone com-\npletely and blissfully blank.'",
+        "effect": [
+            "Choose a Character in play. It looses all abilities until the begining of your next turn.\nThen count the number of Creatures in play. Do that much damage to each opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "AlluringDance.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "47",
+        "name": "Bagman's Gamble",
+        "artist": "brainchilds",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "9",
+        "rarity": "Common",
+        "effect": [
+            "Draw 2 cards, then reveal your hand. Count the number of Lesson cards in your hand. Do twice that much damage to each opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "BagmansGamble.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "49",
+        "name": "Biting Gnome",
+        "artist": "maryquize",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Gnome"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "4",
+        "rarity": "Common",
+        "dmgEachTurn": "1",
+        "health": "1",
+        "effect": [
+            "Whenever you discard a card from your hand or a card you control from play, this card does 1 damage to an opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "BitingGnome.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "50",
+        "name": "Blackboard Advertisements",
+        "artist": "Sammy DiSalvo",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "7",
+        "rarity": "Common",
+        "flavorText": "\u2018Gold writing kept dashing across it as though an invisible giant\u2019s hand were scrawling upon the blackboard and then wiping it off again.'",
+        "effect": [
+            "Once per turn, you may use an Action to count the number of Items you have in play. Do that much damage to an opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "BlackboardAdvertisements.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "51",
+        "name": "Bludger to the Face",
+        "artist": "Cebutoons",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "4",
+        "rarity": "Common",
+        "effect": [
+            "Do 5 damage to an opponent. They may prevent this damage by discarding 2 cards from their hand."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "BludgertotheFace.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "52",
+        "name": "Borrowed Tent",
+        "artist": "oixxo",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "4",
+        "rarity": "Common",
+        "effect": [
+            "When you play this card, your cards need 1 less Power to play until the end of this turn.\n\nYou may use an Action and discard this card from play. If you do, search your deck. You may take an Item card from your deck, reveal it, and put it into your hand. Then shuffle your deck."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "BorrowedTent.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "53",
+        "name": "Box of Portkeys",
+        "artist": "Pottermore",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "7",
+        "rarity": "Common",
+        "flavorText": "\u2018Who threw it into a large box of used Portkeys beside him; Harry could see an old newspaper, an empty drinks can, and a punctured football.'",
+        "effect": [
+            "Play a non-Healing Item from your discard pile as if it were in your hand without using any Actions."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "BoxofPortkeys.png",
+        "horizontal": false,
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "You still need Power that Matches and the correct amount of Power to play the card."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "54",
+        "name": "Bulgarian Fans",
+        "artist": "Unknown",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "6",
+        "rarity": "Common",
+        "effect": [
+            "At the end of each of your turns, each opponent that has 3 or more Creatures in play chooses 1 of them and discards it."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "BulgarianFans.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "55",
+        "name": "Cannon Pride",
+        "artist": "Unknown",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "effect": [
+            "Choose 1 based on the number of cards you drew this turn:\nat least 2 - do 3 damage to an opponent\nat least 4 - do 6 damge to an opponent\nat least 6 - do 9 damage to an opponent"
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "CannonPride.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "56",
+        "name": "Child's Broom",
+        "artist": "Unknown",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "1",
+        "rarity": "Common",
+        "effect": [
+            "(Childs Broom isn't really a Broom.)"
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "ChildsBroom.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "57",
+        "name": "Death Eater Mask",
+        "artist": "Ian Baretto",
+        "type": [
+            "Item"
+        ],
+        "subTypes": [
+            "Dark"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "3",
+        "rarity": "Common",
+        "effect": [
+            "When you play this card, do 2 damage to yourself.\nIf you would discard 1 of your Characters from play due to an opponent's card, discard this card instead."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "DeathEaterMask.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "58",
+        "name": "Deletrius",
+        "artist": "aleksandvagne",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "4",
+        "rarity": "Common",
+        "flavorText": "\u2018\u201cDeletrius!\u201d Mr. Diggory shouted, and the smoky skull vanished in a wisp of smoke.'",
+        "effect": [
+            "Choose 1 of your non-Healing cards in play and an opponent's card in play. Return them both to their owner's hand."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Deletrius.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "59",
+        "name": "Deliberate Collision!",
+        "artist": "KendallHaleArt",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "flavorText": "\u201cFoul!\u201d echoed Ludo Bagman\u2019s magically magnified voice. \u201cDimitrov skins Moran \u2014 deliberately flying to collide there \u2014 and it\u2019s got to be another penalty \u2014 yes, there\u2019s the whistle!\u201d",
+        "effect": [
+            "Do 4 damage to an opponent. If you did damage to an opponent this turn, instead do 6 damage to an opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "DeliberateCollision.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "60",
+        "name": "Delight of the Death Eaters",
+        "artist": "Vinicius Carvalho",
+        "type": [
+            "Spell"
+        ],
+        "subTypes": [
+            "Dark"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "flavorText": "\u2018More wizards were joining the marching group, laughing and pointing up at the floating bodies.'",
+        "effect": [
+            "Do 2 damage to yourself.\nChoose an opponent's Character, Item, or Event in play and discard it."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "DelightoftheDeathEaters.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "61",
+        "name": "Distracted Referee",
+        "artist": "Alera",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "6",
+        "rarity": "Common",
+        "flavorText": "\u2018Hassan Mostafa had landed right in front of the dancing veela, and was acting very oddly indeed.'",
+        "effect": [
+            "Do 4 damage to an opponent, then choose a non-Lesson card type. Until the beginning of your next turn, opponents cannot play cards of the chosen type."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "DistractedReferee.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "62",
+        "name": "Diversion!",
+        "artist": "ReNa-spirtwalker",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "6",
+        "rarity": "Common",
+        "effect": [
+            "Do 5 damage to an opponent. Then they choose a card in their hand and put it on top of their deck."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Diversion.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "63",
+        "name": "Final Score",
+        "artist": "Sammy DiSalvo",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "9",
+        "rarity": "Common",
+        "flavorText": "\u2018The scoreboard was flashing BULGARIA: 160, IRELAND: 170 across the crowd, who didn\u2019t seem to have realized what had happened.'",
+        "effect": [
+            "Do 8 damage to an opponent. If you win a Match this way, that opponent discards 3 cards from their hand."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "FinalScore.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "64",
+        "name": "Finals Program",
+        "artist": "Liam Cleal",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "2",
+        "rarity": "Common",
+        "effect": [
+            "When you play this card, search your deck. You may take a Beater, Chaser, Keeper, or Seeker card, reveal it, and put it into your hand. Then shuffle your deck.\n\nYou may use an Action and discard this card from play to draw 3 cards."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "FinalsProgram.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "66",
+        "name": "Firewhisky",
+        "artist": "TheCrookedSeptum",
+        "type": [
+            "Item"
+        ],
+        "subTypes": [
+            "Healing"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "effect": [
+            "You may use an Action to discard 1 of your [P] Lessons from play or your hand. If you do, choose 1: \n- This card Provides: [P][P][P] until the end of the turn\n- Put up to 4 non-Healing cards from your discard pile on the bottom of your deck in any order\n- Do 4 damage to an opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Firewhisky.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "67",
+        "name": "Flying Carpet Embargo",
+        "artist": "twibbley",
+        "type": [
+            "Adventure"
+        ],
+        "rarity": "Common",
+        "flavorText": "\u201cAli Bashir\u2019s on the warpath. He wants a word with you about your embargo on flying carpets.\u201d - Mr. Crouch",
+        "effect": [
+            "Your opponent's Items and Events need 2 more Power to play."
+        ],
+        "toSolve": "Your opponent discards 8 of their cards from their hand and/or in play.",
+        "reward": "Your opponent may put up to 2 Lessons cards from their discard pile into play.",
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "FlyingCarpetEmbargo.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "68",
+        "name": "Flying with the Cannons",
+        "artist": "Sammy DiSalvo",
+        "type": [
+            "Item"
+        ],
+        "subTypes": [
+            "Book"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "2",
+        "rarity": "Common",
+        "effect": [
+            "Whenever you play 1 or more Lessons, put a counter on this card. Then if there are 3 or more counters on this card, discard this card from play. If you do, search your deck. Take up to 2 [Q] Lessons from your deck and put them into play. Then shuffle your deck."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "FlyingwiththeCannons.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "69",
+        "name": "Fwooper",
+        "artist": "maryquize",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Fwooper"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "dmgEachTurn": "2",
+        "health": "1",
+        "effect": [
+            "When this card is discard from play, you may put a non-Healing Creature card in your discard pile with printed Power cost of 4 or less into play."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Fwooper.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "70",
+        "name": "Gifts of Gold",
+        "artist": "vertry",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "4",
+        "rarity": "Common",
+        "flavorText": "\u2018\u201cExcellent!\u201d yelled Ron as the shamrock soared over them, and heavy gold coins rained from it, bouncing off their heads and seats.'",
+        "effect": [
+            "Each opponent draws 4 cards. Then you draw 4 cards."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "GiftsofGold.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "72",
+        "name": "Interrogation",
+        "artist": "Olivia Pelaez",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "3",
+        "rarity": "Common",
+        "effect": [
+            "To play this card, discard 1 of your P Lessons from play. Name a non-Lesson card and choose an opponent. They reveal their hand and discard all cards that share a name with the chosen card."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Interrogation.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "73",
+        "name": "Ireland Scores!",
+        "artist": "dreaminpng",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "8",
+        "rarity": "Common",
+        "flavorText": "\u201cTROY SCORES!\u201d roared Bagman, and the stadium shuddered with a roar of applause and cheers. \u201cTen zero to Ireland!\u201d",
+        "effect": [
+            "Do 6 damage to an opponent. Then, if they have any non-Lesson cards in play, they choose 1 of them and discard it."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "IrelandScores.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "75",
+        "name": "Mascot Introductions",
+        "artist": "Nasak Chancharoen",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "flavorText": "\u2018\u201cAnd now, without further ado, allow me to introduce . . . the Bulgarian National Team Mascots!\u201d - Ludo Bagman'",
+        "effect": [
+            "To play this card, discard 1 of your Creature cards from play. Search your deck. You may put up to 2 non-Advanced Lesson cards from your deck into play. Then shuffle your deck."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "MascotIntroductions.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "76",
+        "name": "Model Broomstick",
+        "artist": "Nikita Bychkov",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "effect": [
+            "When this card is discarded from play, you may play an Item with printed Power cost of 5 or more from your hand without using any Actions."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "ModelBroomstick.png",
+        "horizontal": true,
+        "rulings": [
+            {
+                "date": "2020-07-31",
+                "source": "Revival",
+                "ruling": "To play a card as if it were in your hand, you must have the requisite Lesson Power, number of Lessons in play, and available Actions to use to play the card"
+            },
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "You still need Power that Matches and the correct amount of Power to play the card."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "77",
+        "name": "Morsmordre",
+        "artist": "otis4rt",
+        "type": [
+            "Spell"
+        ],
+        "subTypes": [
+            "Dark"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "7",
+        "rarity": "Common",
+        "flavorText": "\u2018And something vast, green, and glittering erupted from the patch of darkness Harry\u2019s eyes had been struggling to penetrate; it flew up over the treetops and into the sky.'",
+        "effect": [
+            "Do 5 damage to an opponent. If you did damage to yourself this turn, instead do 8 damage to an opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Morsmordre.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "78",
+        "name": "Muggle Artifact",
+        "artist": "lackadaisycal-art",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "4",
+        "rarity": "Common",
+        "effect": [
+            "Whenever you activate the effect of 1 of your Items in play, do 2 damage to an opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "MuggleArtifact.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "79",
+        "name": "Prior Incantato",
+        "artist": "daekazu",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "6",
+        "rarity": "Common",
+        "flavorText": "\u201cWell, we\u2019ll soon see,\u201d growled Mr. Diggory, looking unimpressed. \u201cThere\u2019s a simple way of discovering the last spell a wand performed, elf, did you know that?\u201d",
+        "effect": [
+            "Reveal the top 5 cards of your deck. Put any number of Lessons revealed this way into play and the rest on the bottom of your deck in any order. Then draw 2 cards."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "PriorIncantato.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "81",
+        "name": "Sharp Eyed Seeker",
+        "artist": "zarin-a",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "8",
+        "rarity": "Common",
+        "effect": [
+            "Choose 1. If you have at least 2 [Q] cards in play, instead choose up to 2:\n- Draw 5 cards.\n- Put up to 3 Q Lesson cards from your hand into play.\n- Do damage to each opponent equal to half the number of Q Lessons you have in play."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "SharpEyedSeeker.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "82",
+        "name": "Silhouettes in the Smoke",
+        "artist": "Latet",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Dark"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "effect": [
+            "Whenever you take damage during your turn, do 2 damage to an opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "SilhouettesintheSmoke.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "84",
+        "name": "Synchronized Chasers",
+        "artist": "Gylana",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "effect": [
+            "Choose 1. If you have at least 1 [Q] card in play, instead choose up to 2:\n- Do 4 damage to an opponent.\n- Choose an opponent. They choose a non-Lesson card they control and discard it.\n- Until the end of your turn, your [Q] cards need 2 less power to play."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "SynchronizedChasers.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "85",
+        "name": "Trick Wand",
+        "artist": "Lola Robyne",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "8",
+        "rarity": "Common",
+        "effect": [
+            "When you play this card, choose a non-Unique Item or Creature in play. This card becomes a copy of the chosen card."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "TrickWand.png",
+        "horizontal": true,
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "See \"Copying\" in the rules."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "86",
+        "name": "Veela",
+        "artist": "TheCrookedSeptum",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Veela"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "3",
+        "rarity": "Common",
+        "flavorText": "\u2018Veela were women . . . the most beautiful women Harry had ever seen . . . except that they weren\u2019t \u2014 they couldn\u2019t be \u2014 human.'",
+        "dmgEachTurn": "1",
+        "health": "1",
+        "effect": [
+            "If an opponent has at least 1 Character in play other than their starting Character, Veela does 2 more damage to them."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "Veela.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "87",
+        "name": "Veela Fireballs",
+        "artist": "aleksandvagne",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "6",
+        "rarity": "Common",
+        "flavorText": "\u2018One of the veela had thrown a handful of fire and set his broom tail alight.'",
+        "effect": [
+            "Do 3 damage divided as you choose among any number of players and/or Creatures. Then draw a card."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "VeelaFireballs.png",
+        "horizontal": false,
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "When choosing to divide damage, first choose which Creatures and how much damage you want to put on each Creature, then damage is put on all Creatures at the same time."
+            }
+        ]
+    },
+    {
+        "Legality": "legal",
+        "number": "88",
+        "name": "Weasley Ghoul",
+        "artist": "maryquize",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Ghoul"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "6",
+        "rarity": "Common",
+        "flavorText": "\u2018The rain sounded even louder at the top of the house, accompanied by loud whistlings and moans from the wind, not to mention sporadic howls from the ghoul who lived in the attic.'",
+        "dmgEachTurn": "4",
+        "health": "3",
+        "effect": [
+            "When you play this card, discard 1 of your Creatures from play."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "WeasleyGhoul.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "number": "90",
+        "name": "Wizard Robes",
+        "artist": "Sarcone",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "7",
+        "rarity": "Common",
+        "effect": [
+            "Once per turn, you may use an Action to count the number of cards in your hand. Do half that much damage (rounded up) to an opponent."
+        ],
+        "setName": "Quidditch World Finals",
+        "releaseDate": "06-2025",
+        "imgSrc": "WizardRobes.png",
+        "horizontal": true,
+        "rulings": [
+            {
+                "date": "2025-06-16",
+                "source": "Revival",
+                "ruling": "If you have 0 cards in your hand, this card will do 0 damage."
+            }
+        ]
     }
 ]
