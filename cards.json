@@ -23208,21 +23208,6 @@
     },
     {
         "Legality": "legal",
-        "number": "28",
-        "name": "Dreams Of Flying",
-        "artist": "Rhys",
-        "type": [
-            "Adventure"
-        ],
-        "rarity": "Uncommon",
-        "setName": "Quidditch World Finals",
-        "releaseDate": "06-2025",
-        "imgSrc": "DreamsOfFlying.png",
-        "horizontal": true,
-        "rulings": []
-    },
-    {
-        "Legality": "legal",
         "number": "33",
         "name": "Leprechaun Gold",
         "artist": "Marton Szoke-Kiss",
