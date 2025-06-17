@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import string
 
 # -------------------------------- Helper Functions -------------------------------- #
 
@@ -8,13 +9,22 @@ import re
 def get_card_key(card):
     return (card["number"], card["name"], card["setName"])
 
+# Capitalizes each word for use in imgSrc generation
+def smart_title(name):
+    def cap(word):
+        return '-'.join(part[0].upper() + part[1:] if part else '' for part in word.split('-')) # Capitalize each word, including both parts of a hyphenated word. Takes into account words like McGonnagal
+
+    tokens = re.findall(r"\b[\w'-]+\b", name) # Split the name into words, including apostrophes
+    return ' '.join(cap(token) for token in tokens) # Runs the interior cap function
+
 # Adds imgSrc to each card
 def generate_img_src(card):
 
     name = str(card.get("name", "")) # Just ensures the name is a string
     number = str(card.get("number", "")) # Just ensures the number is a string
 
-    cleaned_name = re.sub(r'[^a-zA-Z0-9]', '', name) # Removes everything that isn't a letter or number, including spaces and punctuation
+    title_case = smart_title(name) # Capitalize each word before combining E.g. "of, on, and, the, in , etc."
+    cleaned_name = re.sub(r'[^a-zA-Z0-9]', '', title_case) # Removes everything that isn't a letter or number, including spaces and punctuation
     match = re.match(r".*([a-zA-Z])$", number)
     version_suffix = ""
 
@@ -42,6 +52,31 @@ def clean_adventure_cards(cards):
                     card["effect"] = new_effect
                     changes_made +=1
     print(f"Cleaned {changes_made} Adventure cards") # Prints out how many adventure cards were cleaned
+
+# Normalizes the release date to work better for sorting
+def normalize_release_date(date):
+    match = re.match(r"^(\d{1,2})-(\d{4})", date)
+    if match:
+        month = int(match.group(1)) #This just converts it to a integer in case any months are  accidentally formatted without a 0 (E.g. "7" or "3") then the :02d will correct in the return line
+        year = match.group(2) # This sets year to the year
+
+    return f"{year}-{month:02d}" # Ensures that the year is first and any months 1-9 have a 0 before (E.g. "09" or "04")
+
+# Defines how the cards should be sorted
+def sort_key(card):
+    release_date = normalize_release_date(card.get("releaseDate", "")) # Uses the release date to ensure best sorting
+    set_name = card.get("setName", "") # Finds the setName of the card
+    number = card.get("number", "") # Finds the corresponding card number
+
+    match = re.match(r"(\d+)([a-zA-Z]?)", number) # Separates numbers from letters
+    if match: 
+        num_part = int(match.group(1)) # Sets num_part to the card number
+        letter_part = match.group(2).lower() # Sets letter_part to the letterof the card number (E.g. "1a" is "a")
+    else:
+        num_part = float('inf') # Sets num_part to the card number
+        letter_part = '' # Sets letter_part to nothing
+
+    return(release_date, set_name, num_part, letter_part) # Returns the key for sorting
 
 # -------------------------------- Setting Paths -------------------------------- #
 
@@ -155,7 +190,7 @@ for card in all_cards: # Checks every card in all cards
             existing_dict[card_key] = card
 
 
-existing_cards = list(existing_dict.values())
+existing_cards = sorted(existing_dict.values(), key=sort_key) # Sorts cards using the sort_key function
         
 
 # -------------------------------- Saving new JSON and JS files -------------------------------- #
