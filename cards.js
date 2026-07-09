@@ -455,15 +455,16 @@ export const cards = [
     ],
     "flavorText": "'I'm the sixth in our family to go to Hogwarts. You could say I've got a lot to live up to.' - Ron Weasley",
     "rarity": "Holo Portrait Premium",
+    "Legality": "banned as starter",
     "artist": "D. Alexander Gregory",
     "effect": [
       "Whenever you play a Character card, you use up 1 Action to play it instead of 2."
     ],
     "setName": "Base",
     "releaseDate": "08-2001",
-    "rulings": [],
     "imgSrc": "RonWeasley.png",
-    "horizontal": true
+    "horizontal": true,
+    "rulings": []
   },
   {
     "number": "18",
