@@ -1,7 +1,7 @@
 {
     "setName": "Quidditch Cup",
     "releaseDate": "11-2001",
-    "totalCards": "76",
+    "totalCards": "80",
     "cards": [
         {
             "Legality": "legal",
@@ -112,21 +112,21 @@
             "type": [
                 "Adventure"
             ],
-            "rarity": "Rare",
-            "flavorText": "Harry was so close to the mirror now that his nose was nearly touching that of his reflection. 'Mum?' he whispered. 'Dad?''",
+            "rarity": "Foil Premium",
+            "flavorText": "'Harry was so close to the mirror now that his nose was nearly touching that of his reflection. 'Mum?' he whispered. 'Dad?''",
             "effect": [
-                "During your opponent's turns, prevent all Spells damage done to you by Spell cards.",
+                "During your opponent's turns, prevent all damage done to you by Spell cards.",
                 "to solve: Your opponent chooses 5 Spell cards in his or her hand and discards them.",
-                "reward: Your opponent gets 1 more Action (the turn this adventure is solved)."
+                "reward: Your opponent gets 1 more Action (the turn this Adventure is solved)."
             ],
             "toSolve": "Your opponent chooses 5 Spell cards in his or her hand and discards them.",
-            "reward": "Your opponent gets 1 more Action (the turn this adventure is solved)."
+            "reward": "Your opponent gets 1 more Action (the turn this Adventure is solved)."
         },
         {
             "Legality": "legal",
             "draftValue": 2,
             "number": "7",
-            "name": "Golden Cauldron",
+            "name": "Gold Cauldron",
             "artist": "Bob Petillo",
             "type": [
                 "Item"
@@ -140,7 +140,7 @@
             "cost": "9",
             "rarity": "Rare",
             "effect": [
-                "To play this card, return 2 of your [P] Lessons from play to your hand."
+                "To play this card, return 2 of your Potions Lessons from play to your hand."
             ],
             "provides": [
                 {
@@ -783,12 +783,13 @@
                 "Adventure"
             ],
             "rarity": "Uncommon",
-            "flavorText": "It took perhaps thirty seconds for Snape to realise that he was on fire.'",
+            "flavorText": "'It took perhaps thirty seconds for Snape to realise that he was on fire.'",
             "effect": [
-                "to solve: Your opponent can't play Creature cards.  To solve: Your opponent chooses 4 Creature cards in his or her hand and discard them.",
+                "Your opponent can't play Creature cards.",
+                "to solve: Your opponent chooses 4 Creature cards in his or her hand and discard them.",
                 "reward: Your opponent may draw a card"
             ],
-            "toSolve": "Your opponent can't play Creature cards.  To solve: Your opponent chooses 4 Creature cards in his or her hand and discard them.",
+            "toSolve": "Your opponent chooses 4 Creature cards in his or her hand and discard them.",
             "reward": "Your opponent may draw a card"
         },
         {
@@ -931,10 +932,11 @@
             "rarity": "Uncommon",
             "flavorText": "Harry was faster than Higgs - he could see the little round ball, wings fluttering, darting up ahead..'",
             "effect": [
-                "to solve: Your opponent discards the card he or she draws at the start of each of his or her turns.  To solve: Your opponent discards his or her hand.",
+                "Your opponent discards the card he or she draws at the start of each of his or her turns.",
+                "to solve: Your opponent discards his or her hand.",
                 "reward: You discard your hand."
             ],
-            "toSolve": "Your opponent discards the card he or she draws at the start of each of his or her turns.  To solve: Your opponent discards his or her hand.",
+            "toSolve": "Your opponent discards his or her hand.",
             "reward": "You discard your hand."
         },
         {
@@ -1494,23 +1496,94 @@
             ]
         },
         {
-            "Legality": "legal",
-            "draftValue": "L",
-            "number": "79",
-            "name": "Quidditch",
-            "artist": "Shanth Enjeti, Melissa Ferreira",
+            "number": "76",
+            "name": "Care of Magical Creatures",
             "type": [
                 "Lesson"
             ],
-            "rarity": "Common",
-            "effect": [],
+            "provides": [
+                {
+                    "lesson": "Care of Magical Creatures",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "77",
+            "name": "Charms",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "78",
+            "name": "Potions",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "79",
+            "name": "Quidditch",
+            "type": [
+                "Lesson"
+            ],
             "provides": [
                 {
                     "lesson": "Quidditch",
                     "amount": 1
                 }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "80",
+            "name": "Transfiguration",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Transfiguration",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
             ]
         }
-    ],
-    "releaseDate": "11-2001"
+    ]
 }

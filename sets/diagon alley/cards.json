@@ -1,7 +1,7 @@
 {
     "setName": "Diagon Alley",
     "releaseDate": "03-2002",
-    "totalCards": "75",
+    "totalCards": "80",
     "cards": [
         {
             "Legality": "legal",
@@ -543,7 +543,7 @@
             "Legality": "legal",
             "draftValue": 4.5,
             "number": "27",
-            "name": "The Leakey Cauldron",
+            "name": "The Leaky Cauldron",
             "artist": "Tim Hildebrandt",
             "type": [
                 "Location"
@@ -555,10 +555,11 @@
                 "Potions"
             ],
             "cost": "2",
-            "rarity": "Rare",
-            "flavorText": "This is it,' said Hagrid, coming to a halt, 'the Leaky Cauldron. It's a famous place.'",
+            "rarity": "Foil Premium",
+            "flavorText": "'This is it,' said Hagrid, coming to a halt, 'the Leaky Cauldron. It's a famous place.'",
+            "note": "When you play this card, discard any other Location from play (yours or your opponent's).",
             "effect": [
-                "When you play this card, discard any other Location from play (yours or your opponent's). Whenever either player plays a Character card, he or she uses up 1 Action to play it instead of 2."
+                "Whenever either player plays a Character card, he or she uses up 1 Action to play it instead of 2."
             ]
         },
         {
@@ -1542,7 +1543,96 @@
                     "amount": 1
                 }
             ]
+        },
+        {
+            "number": "76",
+            "name": "Care of Magical Creatures",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Care of Magical Creatures",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "77",
+            "name": "Charms",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "78",
+            "name": "Potions",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "79",
+            "name": "Quidditch",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Quidditch",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "80",
+            "name": "Transfiguration",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Transfiguration",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
         }
-    ],
-    "releaseDate": "03-2002"
+    ]
 }

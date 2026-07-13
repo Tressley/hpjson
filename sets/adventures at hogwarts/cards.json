@@ -1,7 +1,7 @@
 {
     "setName": "Adventures at Hogwarts",
     "releaseDate": "06-2002",
-    "totalCards": "75",
+    "totalCards": "80",
     "cards": [
         {
             "Legality": "legal",
@@ -44,7 +44,7 @@
             "Legality": "legal",
             "draftValue": 4,
             "number": "3",
-            "name": "Crabbe & Goyle",
+            "name": "Crabbe and Goyle",
             "artist": "Kim Graham",
             "type": [
                 "Character"
@@ -54,8 +54,8 @@
                 "Slytherin",
                 "Unique"
             ],
-            "rarity": "Rare",
-            "flavorText": "Both of them were thickest and looked extremely mean.'",
+            "rarity": "Holo Portrait Premium",
+            "flavorText": "'Both of them were thickest and looked extremely mean.'",
             "effect": [
                 "You may use an Action and discard 2 cards from your hand to do 3 damage to your opponent."
             ]
@@ -1167,7 +1167,7 @@
             "Legality": "legal",
             "draftValue": 3.5,
             "number": "59",
-            "name": "Every-Flavor Beans",
+            "name": "Every-Flavour Beans",
             "artist": "Cindy Salans Rosenheim",
             "type": [
                 "Spell"
@@ -1180,7 +1180,7 @@
             ],
             "cost": "1",
             "rarity": "Common",
-            "flavorText": "When they say every flavour, they mean every flavour - ...' - Ron Weasley",
+            "flavorText": "'When they say every flavour, they mean every flavour - ...'  - Ron Weasley",
             "effect": [
                 "Reveal the top 2 cards of your deck. Put into play any Lesson cards you revealed. Put into your discard pile any non-Lesson cards you revealed. Then draw a card."
             ]
@@ -1287,7 +1287,7 @@
             "Legality": "legal",
             "draftValue": 1.5,
             "number": "65",
-            "name": "Manegrow Potion",
+            "name": "Manegro Potion",
             "artist": "Kevin Dobler",
             "type": [
                 "Spell"
@@ -1298,7 +1298,7 @@
             "cost": "6",
             "rarity": "Common",
             "effect": [
-                "Count the number of P Lessons you have in play. Do that much damage to your opponent. Then choose 1 of your P Lessons in play and discard it."
+                "Count the number of Potions Lessons you have in play. Do that much damage to your opponent. Then choose 1 of your Potions Lessons in play and discard it."
             ]
         },
         {
@@ -1500,7 +1500,96 @@
             "effect": [
                 "During your opponent's next turn, he or she gets 1 fewer Action. (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)"
             ]
+        },
+        {
+            "number": "76",
+            "name": "Care of Magical Creatures",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Care of Magical Creatures",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "77",
+            "name": "Charms",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "78",
+            "name": "Potions",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "79",
+            "name": "Quidditch",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Quidditch",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "80",
+            "name": "Transfiguration",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Transfiguration",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
         }
-    ],
-    "releaseDate": "06-2002"
+    ]
 }

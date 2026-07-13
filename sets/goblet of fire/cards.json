@@ -376,7 +376,7 @@
             "Legality": "legal",
             "draftValue": 3,
             "number": "19",
-            "name": "Perfumed Fire",
+            "name": "Perfurmed Fire",
             "artist": "Vladislav Pantic",
             "type": [
                 "Spell"
@@ -389,7 +389,7 @@
             ],
             "cost": "9",
             "rarity": "Rare",
-            "flavorText": "‘He sat up straight; he had been almost dozing off, lost in the heat and his thoughts.’",
+            "flavorText": "'He sat up straight; he had been almost dozing off, lost in the heat and his thoughts.'",
             "effect": [
                 "Each player chooses 3 of their non-Healing cards in play and puts them on top of their owner's deck in any order. (If they have less than 3 cards in play, they put all of them on the top of their deck.)"
             ]
@@ -753,7 +753,7 @@
             "Legality": "legal",
             "draftValue": 4,
             "number": "37",
-            "name": "Fertilizer from Norway",
+            "name": "Fertiliser from Norway",
             "artist": "Unknown",
             "type": [
                 "Item"
@@ -1182,7 +1182,7 @@
         {
             "Legality": "legal",
             "draftValue": 2,
-            "number": "56",
+            "number": "57",
             "name": "Skeeter's Scoop",
             "artist": "TeenyTinaTena",
             "type": [
@@ -2070,7 +2070,7 @@
             "Legality": "legal",
             "draftValue": 3,
             "number": "99",
-            "name": "Report of Cauldron Thickness",
+            "name": "Report on Cauldron Thickness",
             "artist": "IrenHorrors",
             "type": [
                 "Spell"
@@ -2080,7 +2080,7 @@
             ],
             "cost": "4",
             "rarity": "Common",
-            "flavorText": "‘He wasn’t looking forward to being lectured on cauldron bottoms all through dinner.’",
+            "flavorText": "'He wasn't looking forward to being lectured on cauldron bottoms all through dinner.'",
             "effect": [
                 "Do 4 damage to an opponent. During that opponent's next turn, they may not use Actions to play Item cards."
             ]
@@ -2476,7 +2476,7 @@
             "Legality": "legal",
             "draftValue": "L",
             "number": "119",
-            "name": "Divinatino, Third Year",
+            "name": "Divination, Third Year",
             "artist": "EliRove",
             "type": [
                 "Lesson"
@@ -2506,6 +2506,5 @@
                 "Before your turn, discard this card from play. If you do, you may search your deck for a [F] or [Q] Lesson and put it into play. Then shuffle your deck."
             ]
         }
-    ],
-    "releaseDate": "07-2024"
+    ]
 }

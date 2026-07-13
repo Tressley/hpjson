@@ -566,8 +566,11 @@
             "rarity": "Uncommon",
             "effect": [
                 "When you play this card, discard any Match in play (nobody gets the prize). Your opponent can't use Actions to play Matches.",
-                "Your opponent skips a total of 4 Actions. Reward: Your opponent may discard a Match in play. They may put a Match from their discard pile into play."
-            ]
+                "to solve: Your opponent skips a total of 4 Actions.",
+                "reward: Your opponent may discard a Match in play. They may put a Match from their discard pile into play."
+            ],
+            "toSolve": "Your opponent skips a total of 4 Actions.",
+            "reward": "Your opponent may discard a Match in play. They may put a Match from their discard pile into play."
         },
         {
             "Legality": "legal",
@@ -1455,7 +1458,7 @@
             "Legality": "legal",
             "draftValue": 1.5,
             "number": "71",
-            "name": "Lumos",
+            "name": "Lumos!",
             "artist": "Paolo Maria Breda",
             "type": [
                 "Spell"
@@ -1466,14 +1469,14 @@
             "cost": "2",
             "rarity": "Common",
             "effect": [
-                "Choose two, then shuffle this card into your deck: Do 1 damage to an opponent. Look at an opponent's hand. Draw a card."
+                "Choose 2, then shuffle this card into your deck: Do 1 damage to an opponent. Look at an opponent's hand. Draw a card."
             ]
         },
         {
             "Legality": "legal",
             "draftValue": 2.5,
             "number": "72",
-            "name": "Malicious Subsitute",
+            "name": "Malicious Substitute",
             "artist": "Vladislav Pantic",
             "type": [
                 "Spell"
@@ -1483,7 +1486,7 @@
             ],
             "cost": "4",
             "rarity": "Common",
-            "flavorText": "‘But it wasn’t Professor Lupin who looked up at him from the teacher’s desk; it was Snape.’",
+            "flavorText": "'But it wasn't Professor Lupin who looked up at him from the teacher's desk; it was Snape.'",
             "effect": [
                 "Do 5 damage to an opponent or to a Creature of your choice. Your opponent may prevent this damage by revealing a Creature from their hand."
             ]
@@ -1872,6 +1875,5 @@
                 "To play this card, return 1 of your [P] Lessons from play to your hand. Shuffle up to 8 non-Healing cards from your discard pile into your deck."
             ]
         }
-    ],
-    "releaseDate": "11-2021"
+    ]
 }

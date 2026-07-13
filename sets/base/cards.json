@@ -351,6 +351,7 @@
             ],
             "flavorText": "'I'm the sixth in our family to go to Hogwarts. You could say I've got a lot to live up to.' - Ron Weasley",
             "rarity": "Holo Portrait Premium",
+            "Legality": "banned as starter",
             "artist": "D. Alexander Gregory",
             "effect": [
                 "Whenever you play a Character card, you use up 1 Action to play it instead of 2."
@@ -2055,9 +2056,6 @@
         {
             "number": "113",
             "name": "Care of Magical Creatures",
-            "lesson": [
-                "Care of Magical Creatures"
-            ],
             "type": [
                 "Lesson"
             ],
@@ -2076,9 +2074,6 @@
         {
             "number": "114",
             "name": "Charms",
-            "lesson": [
-                "Charms"
-            ],
             "type": [
                 "Lesson"
             ],
@@ -2097,9 +2092,6 @@
         {
             "number": "115",
             "name": "Potions",
-            "lesson": [
-                "Potions"
-            ],
             "type": [
                 "Lesson"
             ],
@@ -2118,9 +2110,6 @@
         {
             "number": "116",
             "name": "Transfiguration",
-            "lesson": [
-                "Transfiguration"
-            ],
             "type": [
                 "Lesson"
             ],

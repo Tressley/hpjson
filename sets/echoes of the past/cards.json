@@ -1746,7 +1746,7 @@
         {
             "Legality": "legal",
             "draftValue": 1.5,
-            "number": "84",
+            "number": "85",
             "name": "Wizard's Desk",
             "artist": "Lyaina",
             "type": [
@@ -1846,6 +1846,5 @@
                 "Before your turn, discard this card from play. If you do, you may search your deck for a [P] or [Q] Lesson and put it into play. Then shuffle your deck."
             ]
         }
-    ],
-    "releaseDate": "06-2023"
+    ]
 }

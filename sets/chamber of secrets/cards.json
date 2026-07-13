@@ -1,7 +1,7 @@
 {
     "setName": "Chamber of Secrets",
     "releaseDate": "10-2002",
-    "totalCards": "135",
+    "totalCards": "140",
     "cards": [
         {
             "Legality": "legal",
@@ -2716,7 +2716,96 @@
             "effect": [
                 "Put a non-Healing Quidditch card from your discard pile into your hand."
             ]
+        },
+        {
+            "number": "136",
+            "name": "Care of Magical Creatures",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Care of Magical Creatures",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "137",
+            "name": "Charms",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Charms",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "138",
+            "name": "Potions",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Potions",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "139",
+            "name": "Quidditch",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Quidditch",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
+        },
+        {
+            "number": "140",
+            "name": "Transfiguration",
+            "type": [
+                "Lesson"
+            ],
+            "provides": [
+                {
+                    "lesson": "Transfiguration",
+                    "amount": 1
+                }
+            ],
+            "rarity": "Lesson",
+            "artist": [
+                "Shanth Enjeti",
+                "Melissa Ferreira"
+            ]
         }
-    ],
-    "releaseDate": "10-2002"
+    ]
 }

@@ -455,15 +455,16 @@
         ],
         "flavorText": "'I'm the sixth in our family to go to Hogwarts. You could say I've got a lot to live up to.' - Ron Weasley",
         "rarity": "Holo Portrait Premium",
+        "Legality": "banned as starter",
         "artist": "D. Alexander Gregory",
         "effect": [
             "Whenever you play a Character card, you use up 1 Action to play it instead of 2."
         ],
         "setName": "Base",
         "releaseDate": "08-2001",
-        "rulings": [],
         "imgSrc": "RonWeasley.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "18",
@@ -2661,9 +2662,6 @@
     {
         "number": "113",
         "name": "Care of Magical Creatures",
-        "lesson": [
-            "Care of Magical Creatures"
-        ],
         "type": [
             "Lesson"
         ],
@@ -2687,9 +2685,6 @@
     {
         "number": "114",
         "name": "Charms",
-        "lesson": [
-            "Charms"
-        ],
         "type": [
             "Lesson"
         ],
@@ -2706,16 +2701,13 @@
         ],
         "setName": "Base",
         "releaseDate": "08-2001",
-        "rulings": [],
         "imgSrc": "Charms.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "115",
         "name": "Potions",
-        "lesson": [
-            "Potions"
-        ],
         "type": [
             "Lesson"
         ],
@@ -2732,16 +2724,13 @@
         ],
         "setName": "Base",
         "releaseDate": "08-2001",
-        "rulings": [],
         "imgSrc": "Potions.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "116",
         "name": "Transfiguration",
-        "lesson": [
-            "Transfiguration"
-        ],
         "type": [
             "Lesson"
         ],
@@ -2758,9 +2747,9 @@
         ],
         "setName": "Base",
         "releaseDate": "08-2001",
-        "rulings": [],
         "imgSrc": "Transfiguration.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "Legality": "legal",
@@ -2900,14 +2889,16 @@
         ]
     },
     {
+        "Legality": "legal",
+        "draftValue": 3,
         "number": "6",
-        "name": "Gaze Into the Mirror",
+        "name": "Gaze into the Mirror",
+        "artist": "Jim Nelson",
         "type": [
             "Adventure"
         ],
-        "flavorText": "'Harry was so close to the mirror now that his nose was nearly touching that of his reflection. 'Mum?' he whispered. 'Dad?''",
         "rarity": "Foil Premium",
-        "artist": "Jim Nelson",
+        "flavorText": "'Harry was so close to the mirror now that his nose was nearly touching that of his reflection. 'Mum?' he whispered. 'Dad?''",
         "effect": [
             "During your opponent's turns, prevent all damage done to you by Spell cards."
         ],
@@ -2921,61 +2912,9 @@
     },
     {
         "Legality": "legal",
-        "draftValue": 3,
-        "number": "6",
-        "name": "Gaze into the Mirror",
-        "artist": "Jim Nelson",
-        "type": [
-            "Adventure"
-        ],
-        "rarity": "Rare",
-        "flavorText": "Harry was so close to the mirror now that his nose was nearly touching that of his reflection. 'Mum?' he whispered. 'Dad?''",
-        "effect": [
-            "During your opponent's turns, prevent all Spells damage done to you by Spell cards."
-        ],
-        "toSolve": "Your opponent chooses 5 Spell cards in his or her hand and discards them.",
-        "reward": "Your opponent gets 1 more Action (the turn this adventure is solved).",
-        "setName": "Quidditch Cup",
-        "releaseDate": "11-2001",
-        "imgSrc": "GazeIntoTheMirror.png",
-        "horizontal": true,
-        "rulings": []
-    },
-    {
-        "number": "7",
-        "name": "Gold Cauldron",
-        "lesson": [
-            "Potions"
-        ],
-        "cost": "9",
-        "type": [
-            "Item"
-        ],
-        "subTypes": [
-            "Cauldron"
-        ],
-        "provides": [
-            {
-                "lesson": "Potions",
-                "amount": "5"
-            }
-        ],
-        "rarity": "Foil Premium",
-        "artist": "Bob Petillo",
-        "effect": [
-            "To play this card, return 2 of your Potions Lessons from play to your hand."
-        ],
-        "setName": "Quidditch Cup",
-        "releaseDate": "11-2001",
-        "rulings": [],
-        "imgSrc": "GoldCauldron.png",
-        "horizontal": true
-    },
-    {
-        "Legality": "legal",
         "draftValue": 2,
         "number": "7",
-        "name": "Golden Cauldron",
+        "name": "Gold Cauldron",
         "artist": "Bob Petillo",
         "type": [
             "Item"
@@ -2989,7 +2928,7 @@
         "cost": "9",
         "rarity": "Rare",
         "effect": [
-            "To play this card, return 2 of your [P] Lessons from play to your hand."
+            "To play this card, return 2 of your Potions Lessons from play to your hand."
         ],
         "provides": [
             {
@@ -2999,7 +2938,7 @@
         ],
         "setName": "Quidditch Cup",
         "releaseDate": "11-2001",
-        "imgSrc": "GoldenCauldron.png",
+        "imgSrc": "GoldCauldron.png",
         "horizontal": true,
         "rulings": []
     },
@@ -3825,9 +3764,11 @@
             "Adventure"
         ],
         "rarity": "Uncommon",
-        "flavorText": "It took perhaps thirty seconds for Snape to realise that he was on fire.'",
-        "effect": [],
-        "toSolve": "Your opponent can't play Creature cards.  To solve: Your opponent chooses 4 Creature cards in his or her hand and discard them.",
+        "flavorText": "'It took perhaps thirty seconds for Snape to realise that he was on fire.'",
+        "effect": [
+            "Your opponent can't play Creature cards."
+        ],
+        "toSolve": "Your opponent chooses 4 Creature cards in his or her hand and discard them.",
         "reward": "Your opponent may draw a card",
         "setName": "Quidditch Cup",
         "releaseDate": "11-2001",
@@ -4022,8 +3963,10 @@
         ],
         "rarity": "Uncommon",
         "flavorText": "Harry was faster than Higgs - he could see the little round ball, wings fluttering, darting up ahead..'",
-        "effect": [],
-        "toSolve": "Your opponent discards the card he or she draws at the start of each of his or her turns.  To solve: Your opponent discards his or her hand.",
+        "effect": [
+            "Your opponent discards the card he or she draws at the start of each of his or her turns."
+        ],
+        "toSolve": "Your opponent discards his or her hand.",
         "reward": "You discard your hand.",
         "setName": "Quidditch Cup",
         "releaseDate": "11-2001",
@@ -4749,16 +4692,13 @@
     {
         "number": "76",
         "name": "Care of Magical Creatures",
-        "lesson": [
-            "Care of Magical Creatures"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Care of Magical Creatures",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -4775,16 +4715,13 @@
     {
         "number": "77",
         "name": "Charms",
-        "lesson": [
-            "Charms"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Charms",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -4794,23 +4731,20 @@
         ],
         "setName": "Quidditch Cup",
         "releaseDate": "11-2001",
-        "rulings": [],
         "imgSrc": "Charms.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "78",
         "name": "Potions",
-        "lesson": [
-            "Potions"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Potions",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -4820,26 +4754,26 @@
         ],
         "setName": "Quidditch Cup",
         "releaseDate": "11-2001",
-        "rulings": [],
         "imgSrc": "Potions.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
-        "Legality": "legal",
-        "draftValue": "L",
         "number": "79",
         "name": "Quidditch",
-        "artist": "Shanth Enjeti, Melissa Ferreira",
         "type": [
             "Lesson"
         ],
-        "rarity": "Common",
-        "effect": [],
         "provides": [
             {
                 "lesson": "Quidditch",
                 "amount": 1
             }
+        ],
+        "rarity": "Lesson",
+        "artist": [
+            "Shanth Enjeti",
+            "Melissa Ferreira"
         ],
         "setName": "Quidditch Cup",
         "releaseDate": "11-2001",
@@ -4850,16 +4784,13 @@
     {
         "number": "80",
         "name": "Transfiguration",
-        "lesson": [
-            "Transfiguration"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Transfiguration",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -4869,9 +4800,9 @@
         ],
         "setName": "Quidditch Cup",
         "releaseDate": "11-2001",
-        "rulings": [],
         "imgSrc": "Transfiguration.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "Legality": "legal",
@@ -5566,22 +5497,24 @@
         "rulings": []
     },
     {
+        "Legality": "legal",
+        "draftValue": 4.5,
         "number": "27",
         "name": "The Leaky Cauldron",
-        "lesson": [
-            "Potions"
-        ],
-        "cost": "2",
+        "artist": "Tim Hildebrandt",
         "type": [
             "Location"
         ],
         "subTypes": [
             "Unique"
         ],
-        "note": "When you play this card, discard any other Location from play (yours or your opponent's).",
-        "flavorText": "'This is it,' said Hagrid, coming to a halt, 'the Leaky Cauldron. It's a famous place.'",
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "2",
         "rarity": "Foil Premium",
-        "artist": "Tim Hildebrandt",
+        "flavorText": "'This is it,' said Hagrid, coming to a halt, 'the Leaky Cauldron. It's a famous place.'",
+        "note": "When you play this card, discard any other Location from play (yours or your opponent's).",
         "effect": [
             "Whenever either player plays a Character card, he or she uses up 1 Action to play it instead of 2."
         ],
@@ -5596,33 +5529,6 @@
                 "ruling": "You cannot pair this with Sorting Hat since Hat\u2019s 2 Action requirement is to search your deck, not play the Character."
             }
         ]
-    },
-    {
-        "Legality": "legal",
-        "draftValue": 4.5,
-        "number": "27",
-        "name": "The Leakey Cauldron",
-        "artist": "Tim Hildebrandt",
-        "type": [
-            "Location"
-        ],
-        "subTypes": [
-            "Unique"
-        ],
-        "lesson": [
-            "Potions"
-        ],
-        "cost": "2",
-        "rarity": "Rare",
-        "flavorText": "This is it,' said Hagrid, coming to a halt, 'the Leaky Cauldron. It's a famous place.'",
-        "effect": [
-            "When you play this card, discard any other Location from play (yours or your opponent's). Whenever either player plays a Character card, he or she uses up 1 Action to play it instead of 2."
-        ],
-        "setName": "Diagon Alley",
-        "releaseDate": "03-2002",
-        "imgSrc": "TheLeakeyCauldron.png",
-        "horizontal": true,
-        "rulings": []
     },
     {
         "Legality": "legal",
@@ -6882,16 +6788,13 @@
     {
         "number": "76",
         "name": "Care of Magical Creatures",
-        "lesson": [
-            "Care of Magical Creatures"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Care of Magical Creatures",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -6908,16 +6811,13 @@
     {
         "number": "77",
         "name": "Charms",
-        "lesson": [
-            "Charms"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Charms",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -6927,23 +6827,20 @@
         ],
         "setName": "Diagon Alley",
         "releaseDate": "03-2002",
-        "rulings": [],
         "imgSrc": "Charms.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "78",
         "name": "Potions",
-        "lesson": [
-            "Potions"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Potions",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -6953,23 +6850,20 @@
         ],
         "setName": "Diagon Alley",
         "releaseDate": "03-2002",
-        "rulings": [],
         "imgSrc": "Potions.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "79",
         "name": "Quidditch",
-        "lesson": [
-            "Quidditch"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Quidditch",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -6979,23 +6873,20 @@
         ],
         "setName": "Diagon Alley",
         "releaseDate": "03-2002",
-        "rulings": [],
         "imgSrc": "Quidditch.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "80",
         "name": "Transfiguration",
-        "lesson": [
-            "Transfiguration"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Transfiguration",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -7005,9 +6896,9 @@
         ],
         "setName": "Diagon Alley",
         "releaseDate": "03-2002",
-        "rulings": [],
         "imgSrc": "Transfiguration.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "Legality": "legal",
@@ -7063,8 +6954,11 @@
         "rulings": []
     },
     {
+        "Legality": "legal",
+        "draftValue": 4,
         "number": "3",
         "name": "Crabbe and Goyle",
+        "artist": "Kim Graham",
         "type": [
             "Character"
         ],
@@ -7073,40 +6967,14 @@
             "Slytherin",
             "Unique"
         ],
-        "flavorText": "'Both of them were thickest and looked extremely mean.'",
         "rarity": "Holo Portrait Premium",
-        "artist": "Kim Graham",
+        "flavorText": "'Both of them were thickest and looked extremely mean.'",
         "effect": [
             "You may use an Action and discard 2 cards from your hand to do 3 damage to your opponent."
         ],
         "setName": "Adventures at Hogwarts",
         "releaseDate": "06-2002",
         "imgSrc": "CrabbeAndGoyle.png",
-        "horizontal": true,
-        "rulings": []
-    },
-    {
-        "Legality": "legal",
-        "draftValue": 4,
-        "number": "3",
-        "name": "Crabbe & Goyle",
-        "artist": "Kim Graham",
-        "type": [
-            "Character"
-        ],
-        "subTypes": [
-            "Wizard",
-            "Slytherin",
-            "Unique"
-        ],
-        "rarity": "Rare",
-        "flavorText": "Both of them were thickest and looked extremely mean.'",
-        "effect": [
-            "You may use an Action and discard 2 cards from your hand to do 3 damage to your opponent."
-        ],
-        "setName": "Adventures at Hogwarts",
-        "releaseDate": "06-2002",
-        "imgSrc": "CrabbeGoyle.png",
         "horizontal": true,
         "rulings": []
     },
@@ -8571,35 +8439,10 @@
         "rulings": []
     },
     {
-        "number": "59",
-        "name": "Every-Flavour Beans",
-        "lesson": [
-            "Transfiguration"
-        ],
-        "cost": "1",
-        "type": [
-            "Spell"
-        ],
-        "subTypes": [
-            "Candy"
-        ],
-        "flavorText": "'When they say every flavour, they mean every flavour - ...'  - Ron Weasley",
-        "rarity": "Common",
-        "artist": "Cindy Salans Rosenheim",
-        "effect": [
-            "Reveal the top 2 card of your deck. Put into play any Lesson cards you revealed. Put into your discard pile any non-Lesson cards you revealed. Then draw a card."
-        ],
-        "setName": "Adventures at Hogwarts",
-        "releaseDate": "06-2002",
-        "rulings": [],
-        "imgSrc": "EveryFlavourBeans.png",
-        "horizontal": false
-    },
-    {
         "Legality": "legal",
         "draftValue": 3.5,
         "number": "59",
-        "name": "Every-Flavor Beans",
+        "name": "Every-Flavour Beans",
         "artist": "Cindy Salans Rosenheim",
         "type": [
             "Spell"
@@ -8612,13 +8455,13 @@
         ],
         "cost": "1",
         "rarity": "Common",
-        "flavorText": "When they say every flavour, they mean every flavour - ...' - Ron Weasley",
+        "flavorText": "'When they say every flavour, they mean every flavour - ...'  - Ron Weasley",
         "effect": [
             "Reveal the top 2 cards of your deck. Put into play any Lesson cards you revealed. Put into your discard pile any non-Lesson cards you revealed. Then draw a card."
         ],
         "setName": "Adventures at Hogwarts",
         "releaseDate": "06-2002",
-        "imgSrc": "EveryFlavorBeans.png",
+        "imgSrc": "EveryFlavourBeans.png",
         "horizontal": false,
         "rulings": []
     },
@@ -8752,46 +8595,25 @@
         "rulings": []
     },
     {
+        "Legality": "legal",
+        "draftValue": 1.5,
         "number": "65",
         "name": "Manegro Potion",
+        "artist": "Kevin Dobler",
+        "type": [
+            "Spell"
+        ],
         "lesson": [
             "Potions"
         ],
         "cost": "6",
-        "type": [
-            "Spell"
-        ],
         "rarity": "Common",
-        "artist": "Kevin Dobler",
         "effect": [
             "Count the number of Potions Lessons you have in play. Do that much damage to your opponent. Then choose 1 of your Potions Lessons in play and discard it."
         ],
         "setName": "Adventures at Hogwarts",
         "releaseDate": "06-2002",
-        "rulings": [],
         "imgSrc": "ManegroPotion.png",
-        "horizontal": false
-    },
-    {
-        "Legality": "legal",
-        "draftValue": 1.5,
-        "number": "65",
-        "name": "Manegrow Potion",
-        "artist": "Kevin Dobler",
-        "type": [
-            "Spell"
-        ],
-        "lesson": [
-            "Potions"
-        ],
-        "cost": "6",
-        "rarity": "Common",
-        "effect": [
-            "Count the number of P Lessons you have in play. Do that much damage to your opponent. Then choose 1 of your P Lessons in play and discard it."
-        ],
-        "setName": "Adventures at Hogwarts",
-        "releaseDate": "06-2002",
-        "imgSrc": "ManegrowPotion.png",
         "horizontal": false,
         "rulings": []
     },
@@ -9054,16 +8876,13 @@
     {
         "number": "76",
         "name": "Care of Magical Creatures",
-        "lesson": [
-            "Care of Magical Creatures"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Care of Magical Creatures",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -9080,16 +8899,13 @@
     {
         "number": "77",
         "name": "Charms",
-        "lesson": [
-            "Charms"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Charms",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -9099,23 +8915,20 @@
         ],
         "setName": "Adventures at Hogwarts",
         "releaseDate": "06-2002",
-        "rulings": [],
         "imgSrc": "Charms.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "78",
         "name": "Potions",
-        "lesson": [
-            "Potions"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Potions",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -9125,23 +8938,20 @@
         ],
         "setName": "Adventures at Hogwarts",
         "releaseDate": "06-2002",
-        "rulings": [],
         "imgSrc": "Potions.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "79",
         "name": "Quidditch",
-        "lesson": [
-            "Quidditch"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Quidditch",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -9151,23 +8961,20 @@
         ],
         "setName": "Adventures at Hogwarts",
         "releaseDate": "06-2002",
-        "rulings": [],
         "imgSrc": "Quidditch.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "80",
         "name": "Transfiguration",
-        "lesson": [
-            "Transfiguration"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Transfiguration",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -9177,9 +8984,9 @@
         ],
         "setName": "Adventures at Hogwarts",
         "releaseDate": "06-2002",
-        "rulings": [],
         "imgSrc": "Transfiguration.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "Legality": "legal",
@@ -12607,16 +12414,13 @@
     {
         "number": "136",
         "name": "Care of Magical Creatures",
-        "lesson": [
-            "Care of Magical Creatures"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Care of Magical Creatures",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -12633,16 +12437,13 @@
     {
         "number": "137",
         "name": "Charms",
-        "lesson": [
-            "Charms"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Charms",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -12652,23 +12453,20 @@
         ],
         "setName": "Chamber of Secrets",
         "releaseDate": "10-2002",
-        "rulings": [],
         "imgSrc": "Charms.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "138",
         "name": "Potions",
-        "lesson": [
-            "Potions"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Potions",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -12678,23 +12476,20 @@
         ],
         "setName": "Chamber of Secrets",
         "releaseDate": "10-2002",
-        "rulings": [],
         "imgSrc": "Potions.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "139",
         "name": "Quidditch",
-        "lesson": [
-            "Quidditch"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Quidditch",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -12704,23 +12499,20 @@
         ],
         "setName": "Chamber of Secrets",
         "releaseDate": "10-2002",
-        "rulings": [],
         "imgSrc": "Quidditch.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "number": "140",
         "name": "Transfiguration",
-        "lesson": [
-            "Transfiguration"
-        ],
         "type": [
             "Lesson"
         ],
         "provides": [
             {
                 "lesson": "Transfiguration",
-                "amount": "1"
+                "amount": 1
             }
         ],
         "rarity": "Lesson",
@@ -12730,9 +12522,9 @@
         ],
         "setName": "Chamber of Secrets",
         "releaseDate": "10-2002",
-        "rulings": [],
         "imgSrc": "Transfiguration.png",
-        "horizontal": true
+        "horizontal": true,
+        "rulings": []
     },
     {
         "Legality": "legal",
@@ -15962,9 +15754,10 @@
         ],
         "rarity": "Uncommon",
         "effect": [
-            "When you play this card, discard any Match in play (nobody gets the prize). Your opponent can't use Actions to play Matches.",
-            "Your opponent skips a total of 4 Actions. Reward: Your opponent may discard a Match in play. They may put a Match from their discard pile into play."
+            "When you play this card, discard any Match in play (nobody gets the prize). Your opponent can't use Actions to play Matches."
         ],
+        "toSolve": "Your opponent skips a total of 4 Actions.",
+        "reward": "Your opponent may discard a Match in play. They may put a Match from their discard pile into play.",
         "setName": "Prisoner of Azkaban",
         "releaseDate": "11-2021",
         "imgSrc": "DementorsOnThePitch.png",
@@ -17203,19 +16996,21 @@
         ]
     },
     {
+        "Legality": "legal",
+        "draftValue": 1.5,
         "number": "71",
         "name": "Lumos!",
         "artist": "Paolo Maria Breda",
         "type": [
             "Spell"
         ],
-        "rarity": "Common",
-        "cost": 2,
         "lesson": [
             "Charms"
         ],
+        "cost": "2",
+        "rarity": "Common",
         "effect": [
-            "Choose 2, then shuffle this card into your deck: Do 1 damage to an opponent. Look at an opponent\ufffds hand. Draw a card."
+            "Choose 2, then shuffle this card into your deck: Do 1 damage to an opponent. Look at an opponent's hand. Draw a card."
         ],
         "setName": "Prisoner of Azkaban",
         "releaseDate": "11-2021",
@@ -17236,54 +17031,9 @@
     },
     {
         "Legality": "legal",
-        "draftValue": 1.5,
-        "number": "71",
-        "name": "Lumos",
-        "artist": "Paolo Maria Breda",
-        "type": [
-            "Spell"
-        ],
-        "lesson": [
-            "Charms"
-        ],
-        "cost": "2",
-        "rarity": "Common",
-        "effect": [
-            "Choose two, then shuffle this card into your deck: Do 1 damage to an opponent. Look at an opponent's hand. Draw a card."
-        ],
-        "setName": "Prisoner of Azkaban",
-        "releaseDate": "11-2021",
-        "imgSrc": "Lumos.png",
-        "horizontal": false,
-        "rulings": []
-    },
-    {
-        "number": "72",
-        "name": "Malicious Substitute",
-        "artist": "",
-        "type": [
-            "Spell"
-        ],
-        "rarity": "Common",
-        "cost": 4,
-        "lesson": [
-            "Potions"
-        ],
-        "flavorText": "But it wasn\ufffdt Professor Lupin who looked up at him from the teacher\ufffds desk; it was Snape.",
-        "effect": [
-            "Do 5 damage to an opponent or to a Creature of your choice. Your opponent may prevent this damage by revealing a Creature from their hand."
-        ],
-        "setName": "Prisoner of Azkaban",
-        "releaseDate": "11-2021",
-        "imgSrc": "MaliciousSubstitute.png",
-        "horizontal": false,
-        "rulings": []
-    },
-    {
-        "Legality": "legal",
         "draftValue": 2.5,
         "number": "72",
-        "name": "Malicious Subsitute",
+        "name": "Malicious Substitute",
         "artist": "Vladislav Pantic",
         "type": [
             "Spell"
@@ -17293,13 +17043,13 @@
         ],
         "cost": "4",
         "rarity": "Common",
-        "flavorText": "\u2018But it wasn\u2019t Professor Lupin who looked up at him from the teacher\u2019s desk; it was Snape.\u2019",
+        "flavorText": "'But it wasn't Professor Lupin who looked up at him from the teacher's desk; it was Snape.'",
         "effect": [
             "Do 5 damage to an opponent or to a Creature of your choice. Your opponent may prevent this damage by revealing a Creature from their hand."
         ],
         "setName": "Prisoner of Azkaban",
         "releaseDate": "11-2021",
-        "imgSrc": "MaliciousSubsitute.png",
+        "imgSrc": "MaliciousSubstitute.png",
         "horizontal": false,
         "rulings": []
     },
@@ -20756,7 +20506,7 @@
     {
         "Legality": "legal",
         "draftValue": 1.5,
-        "number": "84",
+        "number": "85",
         "name": "Wizard's Desk",
         "artist": "Lyaina",
         "type": [
@@ -22058,6 +21808,7 @@
     },
     {
         "Legality": "legal",
+        "draftValue": 3,
         "number": "19",
         "name": "Perfurmed Fire",
         "artist": "Vladislav Pantic",
@@ -22070,42 +21821,15 @@
         "lesson": [
             "Charms"
         ],
-        "cost": 9,
+        "cost": "9",
         "rarity": "Rare",
-        "flavorText": "\ufffdHe sat up straight; he had been almost dozing off, lost in the heat and his thoughts.\ufffd",
+        "flavorText": "'He sat up straight; he had been almost dozing off, lost in the heat and his thoughts.'",
         "effect": [
             "Each player chooses 3 of their non-Healing cards in play and puts them on top of their owner's deck in any order. (If they have less than 3 cards in play, they put all of them on the top of their deck.)"
         ],
         "setName": "Goblet of Fire",
         "releaseDate": "07-2024",
         "imgSrc": "PerfurmedFire.png",
-        "horizontal": false,
-        "rulings": []
-    },
-    {
-        "Legality": "legal",
-        "draftValue": 3,
-        "number": "19",
-        "name": "Perfumed Fire",
-        "artist": "Vladislav Pantic",
-        "type": [
-            "Spell"
-        ],
-        "subTypes": [
-            "Divination"
-        ],
-        "lesson": [
-            "Charms"
-        ],
-        "cost": "9",
-        "rarity": "Rare",
-        "flavorText": "\u2018He sat up straight; he had been almost dozing off, lost in the heat and his thoughts.\u2019",
-        "effect": [
-            "Each player chooses 3 of their non-Healing cards in play and puts them on top of their owner's deck in any order. (If they have less than 3 cards in play, they put all of them on the top of their deck.)"
-        ],
-        "setName": "Goblet of Fire",
-        "releaseDate": "07-2024",
-        "imgSrc": "PerfumedFire.png",
         "horizontal": false,
         "rulings": []
     },
@@ -22551,31 +22275,9 @@
     },
     {
         "Legality": "legal",
-        "number": "37",
-        "name": "Fertiliser from Norway",
-        "artist": "Unknown",
-        "type": [
-            "Item"
-        ],
-        "lesson": [
-            "Care of Magical Creatures"
-        ],
-        "cost": 5,
-        "rarity": "Uncommon",
-        "effect": [
-            "Your [F] Lessons provide [F][F] instead of [F]. At the end of each of your turns, if you played another non-Lesson card, discard this card or 1 of your [F] Lessons from play."
-        ],
-        "setName": "Goblet of Fire",
-        "releaseDate": "07-2024",
-        "imgSrc": "FertiliserFromNorway.png",
-        "horizontal": true,
-        "rulings": []
-    },
-    {
-        "Legality": "legal",
         "draftValue": 4,
         "number": "37",
-        "name": "Fertilizer from Norway",
+        "name": "Fertiliser from Norway",
         "artist": "Unknown",
         "type": [
             "Item"
@@ -22590,7 +22292,7 @@
         ],
         "setName": "Goblet of Fire",
         "releaseDate": "07-2024",
-        "imgSrc": "FertilizerFromNorway.png",
+        "imgSrc": "FertiliserFromNorway.png",
         "horizontal": true,
         "rulings": []
     },
@@ -23098,7 +22800,7 @@
     {
         "Legality": "legal",
         "draftValue": 2,
-        "number": "56",
+        "number": "57",
         "name": "Skeeter's Scoop",
         "artist": "TeenyTinaTena",
         "type": [
@@ -24194,6 +23896,7 @@
     },
     {
         "Legality": "legal",
+        "draftValue": 3,
         "number": "99",
         "name": "Report on Cauldron Thickness",
         "artist": "IrenHorrors",
@@ -24203,39 +23906,15 @@
         "lesson": [
             "Potions"
         ],
-        "cost": 4,
+        "cost": "4",
         "rarity": "Common",
-        "flavorText": "\ufffdHe wasn\ufffdt looking forward to being lectured on cauldron bottoms all through dinner.\ufffd",
+        "flavorText": "'He wasn't looking forward to being lectured on cauldron bottoms all through dinner.'",
         "effect": [
             "Do 4 damage to an opponent. During that opponent's next turn, they may not use Actions to play Item cards."
         ],
         "setName": "Goblet of Fire",
         "releaseDate": "07-2024",
         "imgSrc": "ReportOnCauldronThickness.png",
-        "horizontal": false,
-        "rulings": []
-    },
-    {
-        "Legality": "legal",
-        "draftValue": 3,
-        "number": "99",
-        "name": "Report of Cauldron Thickness",
-        "artist": "IrenHorrors",
-        "type": [
-            "Spell"
-        ],
-        "lesson": [
-            "Potions"
-        ],
-        "cost": "4",
-        "rarity": "Common",
-        "flavorText": "\u2018He wasn\u2019t looking forward to being lectured on cauldron bottoms all through dinner.\u2019",
-        "effect": [
-            "Do 4 damage to an opponent. During that opponent's next turn, they may not use Actions to play Item cards."
-        ],
-        "setName": "Goblet of Fire",
-        "releaseDate": "07-2024",
-        "imgSrc": "ReportOfCauldronThickness.png",
         "horizontal": false,
         "rulings": []
     },
@@ -24723,6 +24402,7 @@
     },
     {
         "Legality": "legal",
+        "draftValue": "L",
         "number": "119",
         "name": "Divination, Third Year",
         "artist": "EliRove",
@@ -24739,28 +24419,6 @@
         "setName": "Goblet of Fire",
         "releaseDate": "07-2024",
         "imgSrc": "DivinationThirdYear.png",
-        "horizontal": true,
-        "rulings": []
-    },
-    {
-        "Legality": "legal",
-        "draftValue": "L",
-        "number": "119",
-        "name": "Divinatino, Third Year",
-        "artist": "EliRove",
-        "type": [
-            "Lesson"
-        ],
-        "subTypes": [
-            "Advanced"
-        ],
-        "rarity": "Common",
-        "effect": [
-            "Before your turn, discard this card from play. If you do, you may search your deck for a [C] or [P] Lesson and put it into play. Then shuffle your deck."
-        ],
-        "setName": "Goblet of Fire",
-        "releaseDate": "07-2024",
-        "imgSrc": "DivinatinoThirdYear.png",
         "horizontal": true,
         "rulings": []
     },

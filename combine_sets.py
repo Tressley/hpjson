@@ -171,9 +171,11 @@ if os.path.exists("cards.json"):
         print(f"Failed to read existing cards.json: {e}") # Print error if completely unable to read/load
 
 
+card_keys = {get_card_key(card) for card in all_cards}
 existing_dict = {get_card_key(card): card for card in existing_cards}
 new_cards = [] # Creates an empty array to append new cards that aren't already in the main cards.json
 updated_cards = []
+removed_cards = []
 
 for card in all_cards: # Checks every card in all cards
     card_key = get_card_key(card) # Creates a special key for each card
@@ -189,6 +191,12 @@ for card in all_cards: # Checks every card in all cards
             updated_cards.append(card)
             existing_dict[card_key] = card
 
+for card_key in list(existing_dict.keys()):
+    if card_key not in card_keys:
+        card = existing_dict[card_key]
+        print(f"Removing card: {card['name']} (from {card['setName']})")
+        removed_cards.append(card)
+        del existing_dict[card_key]
 
 existing_cards = sorted(existing_dict.values(), key=sort_key) # Sorts cards using the sort_key function
         
@@ -208,9 +216,11 @@ with open("cards.js", 'w', encoding='utf-8') as f: # Open the main cards.js file
 
 try: # some OS don't like the ✅
     print(f"✅ Added {len(new_cards)} new cards.") # Prints how many new cards were added
-    print(f"✅ Updated {len(updated_cards)} existing cards.") # Prints how many new cards were added
+    print(f"✅ Updated {len(updated_cards)} existing cards.") # Prints how many cards were updated
+    print(f"✅ Removed {len(removed_cards)} cards.") # Prints how many cards were removed
 except Exception:
     print(f"Added {len(new_cards)} new cards.")  # Prints how many new cards were added
-    print(f"Updated {len(updated_cards)} existing cards.")  # Prints how many new cards were added
+    print(f"Updated {len(updated_cards)} existing cards.")  # Prints how many cards were updated
+    print(f"Removed {len(removed_cards)} cards.")  # Prints how many cards were removed
 
 print("Export complete, cards.js and cards.json") # Print out a line to notify of script completion
