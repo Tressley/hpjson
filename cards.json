@@ -27663,5 +27663,1818 @@
         "imgSrc": "UnconsciousTroll.png",
         "horizontal": true,
         "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "1",
+        "name": "Cedric, Hogwarts Champion",
+        "artist": "Paolo Maria Breda",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Wizard",
+            "Hufflepuff",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "effect": [
+            "Once per turn, you may discard 2 cards from your hand. If you do, search your deck for a card with printed Power cost equal to one of the discarded cards, reveal it, and put it into your hand. Then shuffle your deck."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "CedricHogwartsChampion.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "2",
+        "name": "Charlie Weasley",
+        "artist": "Marta",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Wizard",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "effect": [
+            "When you play this card, if you have 8 or more Lessons in play, you get an extra Action this turn. If you have 8 or more Lessons in play, you may ignore additional costs on cards you play."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "CharlieWeasley.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 4,
+        "number": "3",
+        "name": "Cruciatus Curse",
+        "artist": "Natello",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Dark",
+            "Unique"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "8",
+        "rarity": "Rare",
+        "flavorText": " ",
+        "effect": [
+            "Look at an opponent's hand. Choose a card in their hand and put it under this card. Before each of your turns, do damage to that opponent equal to that card's printed Power cost. "
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "CruciatusCurse.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "4",
+        "name": "Facing the Dragon",
+        "artist": "ReallyCorking",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "7",
+        "rarity": "Rare",
+        "effect": [
+            "Choose 1, then each opponent may discard 1 of their Lessons from play. If they do, they choose 1: Search your deck for a Creature card and put it into play, then shuffle your deck. Do 6 damage to a player. Draw 3 cards."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "FacingTheDragon.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "5",
+        "name": "Fleur, Beauxbatons Champion",
+        "artist": "Paolo Maria Breda",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Witch",
+            "Beauxbatons",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "effect": [
+            "Once during each of your turns, when you use an Action to play a card that shares a keyword (except Unique) with another card you played that turn, you get 1 more Action that turn."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "FleurBeauxbatonsChampion.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "6",
+        "name": "Garrick Ollivander",
+        "artist": "Natello",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Wizard",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "effect": [
+            "This card provides 1 Power for each card you control with a card under it. You may use an Action to put a card from your hand under a card you control face down."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "GarrickOllivander.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "7",
+        "name": "Harry, Fourth Champion",
+        "artist": "Michael Rosario",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Wizard",
+            "Gryffindor",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "effect": [
+            "At the end of each of your turns, if you activated a card ability that turn, you may draw cards equal to that card's printed Power cost, then put that many cards from your hand on the bottom of your deck in any order."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "HarryFourthChampion.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "8",
+        "name": "Hermione, Yule Debutante",
+        "artist": "Michael Rosario",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Witch",
+            "Gryffindor",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "effect": [
+            "Once per turn, whenever a Lesson card is put into your discard pile from your deck, you may put that Lesson card into play."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "HermioneYuleDebutante.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "9",
+        "name": "Hogwarts Library",
+        "artist": "AncientKing",
+        "type": [
+            "Location"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "5",
+        "rarity": "Rare",
+        "effect": [
+            "Once during each player's turn, whenever they use an Action to play a Book, they may reveal the top card of their deck. They may play that card without using any Actions. If they don't, they put it on the bottom of their deck."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "HogwartsLibrary.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "10",
+        "name": "Merchieftainess Murcus",
+        "artist": "Kristina Anishchenko",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Merperson",
+            "Unique"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "7",
+        "rarity": "Rare",
+        "flavorText": " ",
+        "dmgEachTurn": "3",
+        "health": "8",
+        "effect": [
+            "To play this card, return 3 of your Care of Magical Creatures Lessons from play to your hand. Once per turn, when you play a Lesson card, you may count the number of Creatures in play (yours and opponents'). Do that much damage to each opponent."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "MerchieftainessMurcus.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "11",
+        "name": "Navigating the Maze",
+        "artist": "rubenilustrador",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "7",
+        "rarity": "Rare",
+        "effect": [
+            "Choose 1, then each opponent may discard 1 of their Lessons from play. If they do, they choose 1: Search your deck for an Event card and put it into play, then shuffle your deck. Trade a card in your hand with a card in your Sideboard. Draw 3 cards."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "NavigatingTheMaze.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "12",
+        "name": "Ron, Betrayed Friend",
+        "artist": "Gazapo Garabato",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Wizard",
+            "Gryffindor",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "effect": [
+            "If there is an Adventure in play, your opponents play with their hand revealed. You may use an Action to choose an Adventure in play and a card in any player's hand with the same name and discard them."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "RonBetrayedFriend.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 4,
+        "number": "13",
+        "name": "Saving Fleur's Sister",
+        "artist": "roonerspism",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "1",
+        "rarity": "Rare",
+        "flavorText": " ",
+        "effect": [
+            "When you play this card, choose 1 of your other cards in play and give control of it to an opponent while this card is in play."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "SavingFleursSister.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "14",
+        "name": "Searching the Lake",
+        "artist": "Orlaith",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "7",
+        "rarity": "Rare",
+        "effect": [
+            "Choose 1, then each opponent may discard 1 of their Lessons from play. If they do, they choose 1: Choose up to 12 non-Healing cards in your discard pile and shuffle them into your deck. Put up to 2 non-Healing cards from your discard pile into your hand. Draw 3 cards."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "SearchingTheLake.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "15",
+        "name": "The Four Champions",
+        "artist": "Olga Bee",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "7",
+        "rarity": "Rare",
+        "effect": [
+            "Starting with you, you and an opponent take turns choosing an effect that has not been chosen. Draw 3 cards. Choose a card in play and discard it. Count the number of different keywords in play. Do that much damage to a player. Choose a player. They choose and discards 2 cards from their hand."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "TheFourChampions.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "16",
+        "name": "The Hedge Maze",
+        "artist": "Nasak Chancharoen",
+        "type": [
+            "Location",
+            "Creature"
+        ],
+        "subTypes": [
+            "Plant",
+            "Unique"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "4",
+        "rarity": "Rare",
+        "effect": [
+            "Whenever a card is discarded from play, put it under this card. If you do, do 1 damage to that card's controller."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "TheHedgeMaze.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "17",
+        "name": "The Patil Twins",
+        "artist": "Paolo Maria Breda",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Witch",
+            "Gryffindor",
+            "Ravenclaw",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "effect": [
+            "Once per game, you may discard any number of cards from your hand. If you do, search your deck. You may take that many Lesson cards from your deck, reveal them, and put them into your hand. Then shuffle your deck."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "ThePatilTwins.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "18",
+        "name": "Tournament Preparation",
+        "artist": "Lumedin",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "10",
+        "rarity": "Rare",
+        "effect": [
+            "If you have at least 3 different Lesson types in play, do 8 damage to an opponent. If you have at least 4 different Lesson types in play, draw 3 cards. If you have at least 5 different Lesson types in play, choose 2 of an opponnet's cards in play and discard them."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "TournamentPreparation.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "number": "19",
+        "name": "Triwizard Cup",
+        "artist": "Unknown",
+        "type": [
+            "Item"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "4",
+        "rarity": "Rare",
+        "effect": [
+            "Choose 1, then each opponent may discard 1 of their Lessons from play. If they do, they choose 1: Search your deck for an Event card and put it into play, then shuffle your deck. Trade a card in your hand with a card in your Sideboard. Draw 3 cards."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "TriwizardCup.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "20",
+        "name": "Viktor, Durmstrang Champion",
+        "artist": "Daisy Lightwood-Bane",
+        "type": [
+            "Character"
+        ],
+        "subTypes": [
+            "Wizard",
+            "Durmstrang",
+            "Unique"
+        ],
+        "rarity": "Rare",
+        "effect": [
+            "Once per turn, when an opponent discards one or more cards from their hand and/or play, they choose one: You draw a card. They take 2 damage"
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "ViktorDurmstrangChampion.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "21",
+        "name": "Aspiring Champion",
+        "artist": "DollF4ace",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "6",
+        "rarity": "Uncommon",
+        "effect": [
+            "Put any number of Lessons with different names from your discard pile into play."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "AspiringChampion.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "number": "22",
+        "name": "Cedric's Wand",
+        "artist": "pinefreshhh",
+        "type": [
+            "Item"
+        ],
+        "subTypes": [
+            "Wand",
+            "Hufflepuff",
+            "Unique"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "3",
+        "rarity": "Uncommon",
+        "effect": [
+            "Once during each of your turns, when you discard 2 or more cards from your hand, you may put 1 of the discarded cards from your discard pile on the top of your deck."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "CedricsWand.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "23",
+        "name": "Crocodile Skin Handbag",
+        "artist": "Sarcone",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "3",
+        "rarity": "Uncommon",
+        "effect": [
+            "Whenever you discard any of your non-Advanced Lessons from play, you may put them under this card. Before each of your turns, you may put a Lesson under this card into play."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "CrocodileSkinHandbag.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 4,
+        "number": "24",
+        "name": "Dead End",
+        "artist": "cloudrelics",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "4",
+        "rarity": "Uncommon",
+        "flavorText": " ",
+        "effect": [
+            "Whenever an opponent puts a non-Lesson card into play, discard it. If you do, discard this card."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "DeadEnd.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "25",
+        "name": "Dragon Pen",
+        "artist": "Pottermore",
+        "type": [
+            "Location"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "1",
+        "rarity": "Uncommon",
+        "effect": [
+            "Whenever a player draws 1 or more cards during their turn, they may reveal them. If any of them have a printed Power cost of 8 or more, they may put a Lesson card from their hand into play."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "DragonPen.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "26",
+        "name": "Finding Dates",
+        "artist": "Brianfeelfine",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "4",
+        "rarity": "Uncommon",
+        "effect": [
+            "In turn order, each player searches their deck. They may take a Witch or Wizard card and put them into play, then shuffle their deck. Until the beginning of your next turn, your opponents' Characters lose all abilities."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "FindingDates.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "number": "27",
+        "name": "Fleur's Wand",
+        "artist": "LizzyChrome",
+        "type": [
+            "Item"
+        ],
+        "subTypes": [
+            "Wand",
+            "Beauxbatons",
+            "Unique"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "3",
+        "rarity": "Uncommon",
+        "effect": [
+            "Once per turn, you may use an Action to look at the top 6 cards of your deck. You may reveal a card that shares a Keyword (except Unique) with at least 6 of your cards in play and/or your discard pile, and put it into your hand. Put the rest on the bottom of your deck in any order. Then you may play that card without using any Actions."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "FleursWand.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 4,
+        "number": "28",
+        "name": "Golden Mist",
+        "artist": "Pottermore",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "6",
+        "rarity": "Uncommon",
+        "flavorText": " ",
+        "effect": [
+            "Whenever an opponent would draw 1 or more cards, except during their draw step, instead put that many counters on this card and draw that many cards. Then, if this card has 2 or more counters, discard it."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "GoldenMist.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "29",
+        "name": "Harry's Wand",
+        "artist": "wasting_air",
+        "type": [
+            "Item"
+        ],
+        "subTypes": [
+            "Wand",
+            "Gryffindor",
+            "Unique"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "3",
+        "rarity": "Uncommon",
+        "effect": [
+            "Whenever you draw 1 or more cards, except during your draw step, do 1 damage to an opponent. If you have a Harry Potter Character in play, instead do 2 damage to an opponent."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "HarrysWand.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "30",
+        "name": "Hungarian Horntail",
+        "artist": "maryquize",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Dragon"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "8",
+        "rarity": "Rare",
+        "flavorText": " ",
+        "dmgEachTurn": "7",
+        "health": "11",
+        "effect": [
+            "To play this card, return 2 of your F lessons in play to your hand. At the end of each of your turns, do 2 damage to all Creatures and players."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "HungarianHorntail.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "31",
+        "name": "Into the Great Lake",
+        "artist": "Unknown",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "10",
+        "rarity": "Uncommon",
+        "effect": [
+            "Search an opponent's deck. Choose a card in their deck and discard it, then shuffle their deck. Do damage to that opponent equal to the card's printed Power cost."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "IntoTheGreatLake.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "32",
+        "name": "Lake Arena",
+        "artist": "zzoffer",
+        "type": [
+            "Location"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "4",
+        "rarity": "Uncommon",
+        "effect": [
+            "Once per turn, each player may use an Action to discard the top card of each player's deck. Each player who discards a card with the lowest printed Power cost takes damage equal to the highest printed Power cost discarded."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "LakeArena.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "33",
+        "name": "Prefect's Bathroom",
+        "artist": "Alice Leclerc",
+        "type": [
+            "Location"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "3",
+        "rarity": "Uncommon",
+        "effect": [
+            "Players cannot play non-Lesson cards unless they have at least 3 Lessons in play."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "PrefectsBathroom.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 4,
+        "number": "34",
+        "name": "Sphinx's Riddle",
+        "artist": "Nasak Chancharoen",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "4",
+        "rarity": "Uncommon",
+        "flavorText": " ",
+        "effect": [
+            "Before each opponent's turn, they declare a card type, then they reveal the top card of their deck. If it is not the declared card type, they take 3 damage."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "SphinxsRiddle.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "35",
+        "name": "Swedish Short-Snout",
+        "artist": "maryquize",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Dragon"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "9",
+        "rarity": "Uncommon",
+        "flavorText": " ",
+        "dmgEachTurn": "9",
+        "health": "9",
+        "effect": [
+            "To play this card, discard 2 of your Care of Magical Creatures Lessons from play. When this card is discarded from play, do 9 damage to an opponent."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "SwedishShortSnout.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "36",
+        "name": "The Real Hogwarts Champion",
+        "artist": "Loquacious Literature",
+        "type": [
+            "Adventure"
+        ],
+        "rarity": "Uncommon",
+        "effect": [
+            "Play this card only if you have at least 3 Lessons in play. Before each of your opponent's turns, they discard cards from the top of their deck until they discard a Lesson card."
+        ],
+        "toSolve": "Your opponent discards their hand.",
+        "reward": "You discard 1 card from your hand for each Lesson type your opponent has in their discard pile.",
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "TheRealHogwartsChampion.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "37",
+        "name": "Tie for the Cup",
+        "artist": "Sukiitoko",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "6",
+        "rarity": "Uncommon",
+        "effect": [
+            "Each player counts the number of cards in their hand. All players discard their hand, then draw cards up to the highest number."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "TieForTheCup.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 4,
+        "number": "38",
+        "name": "Unexpected Couple",
+        "artist": "Prydester",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "2",
+        "rarity": "Uncommon",
+        "flavorText": " ",
+        "effect": [
+            "Whenever you play 1 or more Lessons, you may have each player draw a card."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "UnexpectedCouple.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "39",
+        "name": "Viktor's Wand",
+        "artist": "Renan Zevola",
+        "type": [
+            "Item"
+        ],
+        "subTypes": [
+            "Wand",
+            "Durmstrang",
+            "Unique"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "3",
+        "rarity": "Uncommon",
+        "effect": [
+            "Whenever a card is discarded from play during your turn, do 1 damage to an opponent."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "ViktorsWand.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 4,
+        "number": "40",
+        "name": "Weighing of the Wands",
+        "artist": "Brigid Fox",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "7",
+        "rarity": "Uncommon",
+        "flavorText": " ",
+        "effect": [
+            "Whenever an opponent plays a Spell, they choose 1 of their Lessons in play and return it to its owner's hand."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "WeighingOfTheWands.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 4,
+        "number": "41",
+        "name": "Yule Ball",
+        "artist": "Nasak Chancharoen",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "2",
+        "rarity": "Uncommon",
+        "flavorText": " ",
+        "effect": [
+            "Each of your Characters provides 1 Power. (This Power does not have a Lesson type.)"
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "YuleBall.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 5,
+        "number": "42",
+        "name": "Yule Ball Garden",
+        "artist": "WormholePaintings",
+        "type": [
+            "Location"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Trasnfiguraiton"
+        ],
+        "cost": "1",
+        "rarity": "Uncommon",
+        "effect": [
+            "Before each player's turn, they may take a non-Advanced Lesson card from their discard pile and put it into their hand."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "YuleBallGarden.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "43",
+        "name": "Accio Firebolt",
+        "artist": "MartinTenbones",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "1",
+        "rarity": "Common",
+        "effect": [
+            "Search your deck for an Item card, reveal it, and put it into your hand. Then shuffle your deck."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "AccioFirebolt.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "44",
+        "name": "Age Line",
+        "artist": "ZeparVI",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "4",
+        "rarity": "Common",
+        "effect": [
+            "Choose an opponent's character in play. Until the beginning of your next turn, that card lose all abilities. Do 4 damage to that opponent."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "AgeLine.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "45",
+        "name": "Ageing Potion",
+        "artist": "Nick Dietzer",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "7",
+        "rarity": "Common",
+        "effect": [
+            "Do 2 damage to an opponent. Shuffle this card into your deck. Whenever you play a Lesson card, you may play this card from your discard pile without using an Action."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "AgeingPotion.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "46",
+        "name": "Bat-Bogey Hex",
+        "artist": "CesareTech",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "4",
+        "rarity": "Common",
+        "effect": [
+            "Do 4 damage to an opponent. If you have a card in play with printed Power cost 8 or more, instead do 7 damage to them."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "BatBogeyHex.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "47",
+        "name": "Bubble-Head Charm",
+        "artist": "divergent-is",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "4",
+        "rarity": "Common",
+        "effect": [
+            "Do 3 damage to an opponent. If you drew at least 3 cards this turn, you may play this card without using any Actions."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "BubbleHeadCharm.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "48",
+        "name": "Champions' Dance",
+        "artist": "Loquacious Literature",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "effect": [
+            "Reveal the top 5 cards of your deck. Starting with you, you and an opponent take turns choosing a card that has not been chosen. Put the cards you chose into your hand and the rest on the bottom of your deck in any order."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "ChampionsDance.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "number": "49",
+        "name": "Chinese Fireball",
+        "artist": "maryquize",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Dragon"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "10",
+        "rarity": "Common",
+        "flavorText": " ",
+        "dmgEachTurn": "9",
+        "health": "7",
+        "effect": [
+            "To play this card, discard 2 of your Care of Magical Creatures Lessons from play. When you play this card, choose an opponent's card in play and discard it."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "ChineseFireball.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "50",
+        "name": "Choose Your Dragon",
+        "artist": "Bryce Brewer",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "2",
+        "rarity": "Common",
+        "effect": [
+            "Discard the top 3 cards of your deck. You may put a card from among them into your hand. If you put a Lesson card into your hand, you get an extra Action this turn."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "ChooseYourDragon.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "51",
+        "name": "Dragon's Fire",
+        "artist": "SzokeKissMarton",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "8",
+        "rarity": "Common",
+        "effect": [
+            "Choose 1 of your Creatures in play. It does damage to an opponent. If it is a Dragon, you may choose 1 of that opponent's cards in play in discard it."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "DragonsFire.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "number": "52",
+        "name": "Exhibition Match",
+        "artist": "Olivia DeBourcier",
+        "type": [
+            "Match"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "1",
+        "rarity": "Common",
+        "flavorText": " ",
+        "effect": [
+            "to win: Play 4 Lessons while this card is in play.",
+            "prize: Do 10 damage to an opponent."
+        ],
+        "toWin": "Play 4 Lessons while this card is in play.",
+        "prize": "Do 10 damage to an opponent.",
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "ExhibitionMatch.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "53",
+        "name": "First Aid Tent",
+        "artist": "Draco-Awesomeness",
+        "type": [
+            "Item"
+        ],
+        "subTypes": [
+            "Healing"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "4",
+        "rarity": "Common",
+        "effect": [
+            "At the end of each of your turns, shuffle non-Healing cards from your discard pile up to the number of Lessons you played that turn into your deck."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "FirstAidTent.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "54",
+        "name": "Gillyweed",
+        "artist": "Amanda Herzman",
+        "type": [
+            "Item"
+        ],
+        "subTypes": [
+            "Plant",
+            "Ingredient"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "3",
+        "rarity": "Common",
+        "effect": [
+            "Whenever you play a Lesson card, you may remove all damage counters from 1 Creature in play."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "Gillyweed.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "55",
+        "name": "Golden Egg",
+        "artist": "Nicholas R Green",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "1",
+        "rarity": "Common",
+        "effect": [
+            "Whenever you play a Lesson card, put a counter on this card. You may use an Action to count the number of counters on this card, then discard it from play. If you do, do damage to an opponent equal to that number."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "GoldenEgg.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "56",
+        "name": "Grindylow Attack",
+        "artist": "Deborah Hilbert",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "8",
+        "rarity": "Common",
+        "effect": [
+            "Search your deck. You may take a Creature card, reveal it, and put it in your hand. Then shuffle your deck. An opponent may choose and discard 2 cards from their hand. If they do not, you may put that Creature into play."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "GrindylowAttack.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "57",
+        "name": "Impressive Flying",
+        "artist": "ReallyCorking",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "6",
+        "rarity": "Common",
+        "effect": [
+            "Do 2 damage to an opponent. The next Q Spell you play this turn needs 3 less Power to play."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "ImpressiveFlying.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "58",
+        "name": "Leave the Others",
+        "artist": "Amr Morsi",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "8",
+        "rarity": "Common",
+        "effect": [
+            "Do 6 damage to an opponent. The first time you take damage on that opponent's next turn, prevent that damage."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "LeaveTheOthers.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "number": "59",
+        "name": "Maze Spider",
+        "artist": "SzokeKissMarton",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Spider"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "flavorText": " ",
+        "dmgEachTurn": "2",
+        "health": "3",
+        "effect": [
+            "When this card is discarded from your deck, you may put it into play. If you do, choose an opponent. They may put a Spell card from their discard pile into their hand."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "MazeSpider.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "60",
+        "name": "Mermaid Painting",
+        "artist": "RidiculumGlacialis",
+        "type": [
+            "Item"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "2",
+        "rarity": "Common",
+        "effect": [
+            "Whenever you play any number of Lesson cards, you may put that many cards from your hand on the bottom of your deck. If you do, draw that many cards."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "MermaidPainting.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "61",
+        "name": "Merperson Guard",
+        "artist": "AkiruSaru95",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Merperson"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "6",
+        "rarity": "Common",
+        "flavorText": " ",
+        "dmgEachTurn": "2",
+        "health": "3",
+        "effect": [
+            "Whenever you play a Lesson card, you may put an opponent's card in play under this card. If you do, for each other card under this card, their owner either puts it into play or discards it."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "MerpersonGuard.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "62",
+        "name": "Merperson Villager",
+        "artist": "maryquize",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Merperson"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "4",
+        "rarity": "Common",
+        "flavorText": " ",
+        "dmgEachTurn": "0",
+        "health": "2",
+        "effect": [
+            "Whenever you play 1 or more Lesson cards, you may do 2 damage to an opponent."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "MerpersonVillager.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "63",
+        "name": "One Champion Down",
+        "artist": "Down-nhu-dles",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "6",
+        "rarity": "Common",
+        "effect": [
+            "Choose an opponent's non-Character card in play and discard it. Your opponent may prevent this by choosing 1 of their Character cards from their hand or in play and discarding it."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "OneChampionDown.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "64",
+        "name": "Outside Assistance",
+        "artist": "Julie Graham",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "3",
+        "rarity": "Common",
+        "effect": [
+            "Look at an opponent's hand. You may choose a card from their hand and discard it. That opponent may take 5 damage. If they do, they look at your hand. They may choose a card from your hand and discard it."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "OutsideAssistance.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 4,
+        "number": "65",
+        "name": "Rekindled Friendship",
+        "artist": "Linndsey",
+        "type": [
+            "Event"
+        ],
+        "subTypes": [
+            "Unique"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "2",
+        "rarity": "Common",
+        "flavorText": " ",
+        "effect": [
+            "Whenever an opponent plays a Lesson card, if they have more Lessons in play than you, you may discard this card from play. If you do, search your deck for up to 3 Lesson cards, reveal them, and put them into your hand. Then shuffle your deck."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "RekindledFriendship.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "66",
+        "name": "Self-Transfiguration",
+        "artist": "Nasak Chancharoen",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Transfiguration"
+        ],
+        "cost": "6",
+        "rarity": "Common",
+        "effect": [
+            "To play this card, discard 1 of your cards with a printed Power cost from play. Search your deck for a card with printed Power cost up to 2 more than the discarded card and put it into play. Then shuffle your deck."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "SelfTransfiguration.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "number": "67",
+        "name": "Sphinx",
+        "artist": "maryquize",
+        "type": [
+            "Creature"
+        ],
+        "subTypes": [
+            "Sphinx"
+        ],
+        "lesson": [
+            "Care of Magical Creatures"
+        ],
+        "cost": "6",
+        "rarity": "Common",
+        "flavorText": " ",
+        "dmgEachTurn": "2",
+        "health": "7",
+        "effect": [
+            "Once during each opponent's turn, whenever they play a card with a printed Power cost, you may discard a card with greater printed Power cost from your hand. If you do, do 5 damage to that opponent."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "Sphinx.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "68",
+        "name": "Stupefy a Dragon",
+        "artist": "Marta",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Charms"
+        ],
+        "cost": "1",
+        "rarity": "Common",
+        "effect": [
+            "Choose a Creature in play and do 2 damage to it. If the chosen Creature is a Dragon, instead do 9 damage to it."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "StupefyADragon.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "69",
+        "name": "Under Moody's Control",
+        "artist": "generousa_carescura",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Potions"
+        ],
+        "cost": "5",
+        "rarity": "Common",
+        "effect": [
+            "Do 7 damage to an opponent. Then that opponent may discard 2 of their Lessons from play and/or their hand. If they do, you take 7 damage."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "UnderMoodysControl.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "Legality": "legal",
+        "draftValue": 3,
+        "number": "70",
+        "name": "What You'll Sorely Miss",
+        "artist": "Clud Moon",
+        "type": [
+            "Spell"
+        ],
+        "lesson": [
+            "Quidditch"
+        ],
+        "cost": "10",
+        "rarity": "Common",
+        "effect": [
+            "Choose an opponent. They discard 1 of their cards in play with the highest printed Power cost. Then they take damage equal to that card's printed Power cost."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "WhatYoullSorelyMiss.png",
+        "horizontal": false,
+        "rulings": []
+    },
+    {
+        "number": "71",
+        "name": "Care of Magical Creatures, Fourth Year",
+        "artist": "raitala",
+        "type": [
+            "Lesson"
+        ],
+        "subTypes": [
+            "Advanced"
+        ],
+        "rarity": "Common",
+        "effect": [
+            "This card only provides Power for Care of Magical Creaturs cards. You may use an Action to discard this card from play. If you do, put a Creature card from your discard pile into your hand."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "CareOfMagicalCreaturesFourthYear.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "72",
+        "name": "Charms, Fourth Year",
+        "artist": "BlueFoxStudio",
+        "type": [
+            "Lesson"
+        ],
+        "subTypes": [
+            "Advanced"
+        ],
+        "rarity": "Common",
+        "effect": [
+            "This card only provides Power for Charms cards. You may use an Action to discard this card from play. If you do, choose an opponent's Adventure in play and return it to their hand."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "CharmsFourthYear.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "73",
+        "name": "Flying, Fourth Year",
+        "artist": "Unknown",
+        "type": [
+            "Lesson"
+        ],
+        "subTypes": [
+            "Advanced"
+        ],
+        "rarity": "Common",
+        "effect": [
+            "This card only provides power for Quidditch cards. You may use an Action to discard this card from play. If you do, look at the top two cards of your deck. You may put them on the top or bottom of your deck in any order. Then you may draw a card."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "FlyingFourthYear.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "74",
+        "name": "Potions, Fourth Year",
+        "artist": "BlueFoxStudio",
+        "type": [
+            "Lesson"
+        ],
+        "subTypes": [
+            "Advanced"
+        ],
+        "rarity": "Common",
+        "effect": [
+            "This card only provides Power for Potions cards. You may use an Action to discard this card from play. If you do, do 3 damage to an opponent."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "PotionsFourthYear.png",
+        "horizontal": true,
+        "rulings": []
+    },
+    {
+        "number": "75",
+        "name": "Transfiguration, Fourth Year",
+        "artist": "BlueFoxStudio",
+        "type": [
+            "Lesson"
+        ],
+        "subTypes": [
+            "Advanced"
+        ],
+        "rarity": "Common",
+        "effect": [
+            "This card only provides Power for Transfiguration cards. You may use an Action to discard this card from play. If you do, the next card you play this turn needs 3 less Power to play."
+        ],
+        "setName": "Triwizard Tournament",
+        "releaseDate": "08-2026",
+        "imgSrc": "TransfigurationFourthYear.png",
+        "horizontal": true,
+        "rulings": []
     }
 ]
