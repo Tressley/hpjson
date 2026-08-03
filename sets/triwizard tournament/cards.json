@@ -72,6 +72,9 @@
             "type": [
                 "Spell"
             ],
+            "subTypes": [
+                "Task"
+            ],
             "lesson": [
                 "Quidditch"
             ],
@@ -209,6 +212,9 @@
             "type": [
                 "Spell"
             ],
+            "subTypes": [
+                "Task"
+            ],
             "lesson": [
                 "Transfiguration"
             ],
@@ -267,6 +273,10 @@
             "artist": "Orlaith",
             "type": [
                 "Spell"
+            ],
+            "subTypes": [
+                "Task",
+                "Healing"
             ],
             "lesson": [
                 "Potions"
@@ -993,6 +1003,9 @@
             "artist": "SzokeKissMarton",
             "type": [
                 "Spell"
+            ],
+            "subTypes": [
+                "Dragon"
             ],
             "lesson": [
                 "Care of Magical Creatures"
