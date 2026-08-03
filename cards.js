@@ -27748,6 +27748,9 @@ export const cards = [
     "type": [
       "Spell"
     ],
+    "subTypes": [
+      "Task"
+    ],
     "lesson": [
       "Quidditch"
     ],
@@ -27920,6 +27923,9 @@ export const cards = [
     "type": [
       "Spell"
     ],
+    "subTypes": [
+      "Task"
+    ],
     "lesson": [
       "Transfiguration"
     ],
@@ -27993,6 +27999,10 @@ export const cards = [
     "artist": "Orlaith",
     "type": [
       "Spell"
+    ],
+    "subTypes": [
+      "Task",
+      "Healing"
     ],
     "lesson": [
       "Potions"
@@ -28904,6 +28914,9 @@ export const cards = [
     "artist": "SzokeKissMarton",
     "type": [
       "Spell"
+    ],
+    "subTypes": [
+      "Dragon"
     ],
     "lesson": [
       "Care of Magical Creatures"
